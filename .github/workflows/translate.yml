@@ -1,0 +1,76 @@
+name: Auto Translate Blog Posts
+
+on:
+  push:
+    paths:
+      - 'src/content/blog/zh/**/*.md'
+    branches:
+      - main
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep 'src/content/blog/zh/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
+      - name: Setup Node.js
+        if: steps.changed-files.outputs.files != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Translate and commit
+        if: steps.changed-files.outputs.files != ''
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          for file in ${{ steps.changed-files.outputs.files }}; do
+            echo "Processing: $file"
+            
+            # Extract filename
+            filename=$(basename "$file")
+            
+            # Read Chinese content
+            content=$(cat "$file")
+            
+            # Call Gemini API for translation
+            response=$(curl -s -X POST \
+              "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${GEMINI_API_KEY}" \
+              -H 'Content-Type: application/json' \
+              -d "{
+                \"contents\": [{
+                  \"parts\": [{
+                    \"text\": \"你是一个资深电子元器件专家，请将以下中文专业内容翻译为英文，保留所有元器件型号和技术规格（如 SOT-23, 10uF, 50V），确保英文语气专业。请直接输出翻译结果，不要添加任何解释。\n\n${content}\"
+                  }]
+                }]
+              }")
+            
+            # Extract translated text from response
+            translated=$(echo "$response" | jq -r '.candidates[0].content.parts[0].text')
+            
+            # Save to English folder
+            en_file="src/content/blog/en/$filename"
+            echo "$translated" > "$en_file"
+            
+            echo "Translated: $file -> $en_file"
+          done
+
+      - name: Commit translated files
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/content/blog/en/
+          git diff --staged --quiet || git commit -m "🤖 Auto-translate: Chinese to English"
+          git push
