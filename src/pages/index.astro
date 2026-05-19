@@ -1,126 +1,66 @@
 ---
 // src/pages/index.astro
-// 老兵电子中心 - 纯净单页完全体（100% 原生 JS 兼容）
+// 老兵电子中心 - 终极直连版（零脚本、纯布局、全端强行显现）
 ---
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>老兵电子中心 | Veteran Electronics Hub</title>
-  <script>
-    // 极速无缝中英切换
-    function switchLang(lang) {
-      const enElements = document.querySelectorAll('.lang-en');
-      const zhElements = document.querySelectorAll('.lang-zh');
-      const btnZh = document.getElementById('btn-zh');
-      const btnEn = document.getElementById('btn-en');
-
-      if (lang === 'zh') {
-        enElements.forEach(el => { (el).style.display = 'none'; });
-        zhElements.forEach(el => { (el).style.display = 'block'; });
-        if(btnZh) btnZh.className = "text-amber-500 font-bold cursor-pointer";
-        if(btnEn) btnEn.className = "text-zinc-400 hover:text-zinc-100 cursor-pointer";
-        localStorage.setItem('gveh-lang', 'zh');
-      } else {
-        enElements.forEach(el => { (el).style.display = 'block'; });
-        zhElements.forEach(el => { (el).style.display = 'none'; });
-        if(btnZh) btnZh.className = "text-zinc-400 hover:text-zinc-100 cursor-pointer";
-        if(btnEn) btnEn.className = "text-amber-500 font-bold cursor-pointer";
-        localStorage.setItem('gveh-lang', 'en');
-      }
-    }
-
-    // 页面加载完成后立即绑定
-    window.addEventListener('DOMContentLoaded', () => {
-      const savedLang = localStorage.getItem('gveh-lang') || 'zh';
-      switchLang(savedLang);
-      
-      document.getElementById('btn-zh')?.addEventListener('click', () => switchLang('zh'));
-      document.getElementById('btn-en')?.addEventListener('click', () => switchLang('en'));
-      document.getElementById('nav-home')?.addEventListener('click', () => switchLang('zh'));
-    });
-  </script>
 </head>
-<body class="bg-zinc-950 text-zinc-100 font-mono min-h-screen pb-24 md:pb-12">
+<body class="bg-zinc-950 text-zinc-100 font-mono min-h-screen pb-32">
 
   <nav class="border-b border-zinc-800 p-6 max-w-6xl mx-auto flex justify-between items-center">
     <div class="text-xl font-bold tracking-wider text-amber-500">VETERAN.CORE //</div>
-    <div class="space-x-4 text-sm flex items-center">
-      <button id="btn-en" class="text-zinc-400 hover:text-zinc-100 cursor-pointer">English</button>
+    <div class="space-x-6 text-sm flex items-center">
+      <span class="text-amber-500 font-bold">中文版</span>
       <span class="text-zinc-700">|</span>
-      <button id="btn-zh" class="text-amber-500 font-bold cursor-pointer">中文</button>
-      <a href="/bom-hub" class="bg-amber-500 text-zinc-950 px-4 py-1.5 font-bold hover:bg-amber-400 transition ml-2">BOM HUB</a>
+      <a href="/bom-hub" class="bg-amber-500 text-zinc-950 px-4 py-1.5 font-bold hover:bg-amber-400 transition">BOM HUB</a>
     </div>
   </nav>
 
-  <header class="max-w-4xl mx-auto pt-24 pb-16 px-6 text-center"> 
-    <div class="lang-zh">
+  <header class="max-w-4xl mx-auto pt-16 pb-12 px-6 text-center"> 
+    <div>
       <h1 class="text-4xl md:text-5xl font-black mb-6 uppercase tracking-tight leading-none">
         不要只是采购元器件。<br/>
         <span class="text-amber-500">用 22 年硬件行业经验，帮您优化每一颗芯片。</span>
       </h1>
-      <p class="text-zinc-400 text-base max-w-2xl mx-auto">[坐标：深圳] // 为全球工程师提供独立分析、品质标准和战略元器件优化。</p>
-    </div>
-    
-    <div class="lang-en" style="display:none;">
-      <h1 class="text-4xl md:text-5xl font-black mb-6 uppercase tracking-tight leading-none">
-        DON'T JUST BUY COMPONENTS.<br/>
-        <span class="text-amber-500">SOURCE WITH 22 YEARS OF HARDWARE EXPERTISE.</span>
-      </h1>
-      <p class="text-zinc-400 text-base max-w-2xl mx-auto">[SHENZHEN] // Independent analysis, quality benchmarks, and strategic component optimization for global engineers.</p>
+      <p class="text-zinc-400 text-base max-w-2xl mx-auto">[坐标：深圳] // 为全球工程师提供独立 analysis、品质标准和战略元器件优化。</p>
     </div>
   </header>
 
-  <main class="max-w-6xl mx-auto px-6 py-12 grid md:grid-cols-3 gap-6">
+  <main class="max-w-6xl mx-auto px-6 py-8 grid md:grid-cols-3 gap-6">
     <div class="bg-zinc-900 p-8 border border-zinc-800 hover:border-amber-500/50 transition">
       <div class="text-amber-500 text-xs font-bold mb-4">// MODULE_01</div>
-      <div class="lang-zh">
-        <h2 class="text-xl font-bold mb-3 uppercase">国产 vs 全球</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">深度可靠性测试、交叉参考分析，以及国产替代方案与一线品牌的真实对比。</p>
-      </div>
-      <div class="lang-en" style="display:none;">
-        <h2 class="text-xl font-bold mb-3 uppercase">Domestic vs Global</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">In-depth reliability testing, cross-referencing, and real-world comparisons of Chinese alternatives vs. tier-1 brands.</p>
-      </div>
+      <h2 class="text-xl font-bold mb-3 uppercase">国产 vs 全球</h2>
+      <p class="text-zinc-400 text-sm leading-relaxed mb-6">深度可靠性测试、交叉参考分析，以及国产替代方案与一线品牌的真实对比。</p>
       <span class="text-amber-500 text-sm font-bold">LOGS -&gt;</span>
     </div>
 
     <div class="bg-zinc-900 p-8 border border-zinc-800 hover:border-amber-500/50 transition">
       <div class="text-amber-500 text-xs font-bold mb-4">// MODULE_02</div>
-      <div class="lang-zh">
-        <h2 class="text-xl font-bold mb-3 uppercase">BOM 优化</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">不降低品质的成本降低策略。生命周期管理和供应链风险缓解指南。</p>
-      </div>
-      <div class="lang-en" style="display:none;">
-        <h2 class="text-xl font-bold mb-3 uppercase">BOM Optimization</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">Cost-reduction strategies without compromising quality. Lifecycle management and supply chain risk mitigation guides.</p>
-      </div>
+      <h2 class="text-xl font-bold mb-3 uppercase">BOM 优化</h2>
+      <p class="text-zinc-400 text-sm leading-relaxed mb-6">不降低品质的成本降低策略。生命周期管理和供应链风险缓解指南。</p>
       <span class="text-amber-500 text-sm font-bold">LOGS -&gt;</span>
     </div>
 
     <div class="bg-zinc-900 p-8 border border-zinc-800 hover:border-amber-500/50 transition">
       <div class="text-amber-500 text-xs font-bold mb-4">// MODULE_03</div>
-      <div class="lang-zh">
-        <h2 class="text-xl font-bold mb-3 uppercase">关于我</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">2004 年扎根深圳，22 年电子元器件采购老兵。您在市场上的透明耳目。</p>
-      </div>
-      <div class="lang-en" style="display:none;">
-        <h2 class="text-xl font-bold mb-3 uppercase">About Me</h2>
-        <p class="text-zinc-400 text-sm leading-relaxed mb-6">Rooted in Shenzhen since 2004. 22-year component sourcing veteran. Your transparent eyes and ears on the ground.</p>
-      </div>
+      <h2 class="text-xl font-bold mb-3 uppercase">关于我</h2>
+      <p class="text-zinc-400 text-sm leading-relaxed mb-6">2004 年扎根深圳，22 年电子元器件采购老兵。您在市场上的透明耳目。</p>
       <span class="text-amber-500 text-sm font-bold">LOGS -&gt;</span>
     </div>
   </main>
 
-  <div class="fixed bottom-0 left-0 right-0 bg-zinc-900/95 backdrop-blur-md border-t border-zinc-800 py-3 px-6 flex justify-around items-center md:hidden z-50">
-    <button id="nav-home" class="flex flex-col items-center space-y-1 text-amber-500 cursor-pointer">
+  <div class="fixed bottom-0 left-0 right-0 bg-zinc-900/95 backdrop-blur-md border-t border-zinc-800 py-4 px-6 flex justify-around items-center z-50">
+    <a href="/" class="flex flex-col items-center space-y-1 text-amber-500 hover:text-amber-400 transition">
       <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
-      <span class="text-[10px] font-bold tracking-wider uppercase">HOME / 主页</span>
-    </button>
+      <span class="text-[11px] font-bold tracking-wider uppercase">HOME / 主页</span>
+    </a>
     
     <a href="/bom-hub" class="flex flex-col items-center space-y-1 text-zinc-400 hover:text-amber-500 transition">
       <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
-      <span class="text-[10px] font-bold tracking-wider uppercase">BOM HUB</span>
+      <span class="text-[11px] font-bold tracking-wider uppercase">BOM HUB</span>
     </a>
   </div>
 
