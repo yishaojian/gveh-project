@@ -48,17 +48,109 @@
     </div>
   </main>
 
-  <div style="position: fixed !important; bottom: 0 !important; left: 0 !important; right: 0 !important; background-color: rgba(24, 24, 27, 0.98) !important; border-top: 1px solid #27272a !important; padding: 12px 0 !important; display: flex !important; justify-content: space-around !important; align-items: center !important; z-index: 999999 !important; height: 65px !important;">
-    <a href="/" style="text-decoration: none !important; display: flex !important; flex-direction: column !important; align-items: center !important; gap: 2px !important; color: #f59e0b !important;">
-      <svg style="width: 24px !important; height: 24px !important;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
-      <span style="font-size: 11px !important; font-weight: bold !important;">HOME / 主页</span>
-    </a>
+  <div class="nav-trigger-zone" style="position: fixed !important; bottom: 0 !important; left: 50% !important; transform: translateX(-50%) !important; padding-bottom: 24px !important; padding-top: 40px !important; z-index: 999999 !important; display: flex !important; justify-content: center !important; align-items: center !important;">
     
-    <a href="/bom-hub" style="text-decoration: none !important; display: flex !important; flex-direction: column !important; align-items: center !important; gap: 2px !important; color: #a1a1aa !important;">
-      <svg style="width: 24px !important; height: 24px !important;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
-      <span style="font-size: 11px !important; font-weight: bold !important;">BOM HUB</span>
-    </a>
-  </div>
+    <div class="hover-nav-bar" style="background-color: rgba(20, 20, 23, 0.4) !important; backdrop-filter: blur(4px) !important; -webkit-backdrop-filter: blur(4px) !important; border: 1px solid rgba(63, 63, 70, 0.2) !important; padding: 6px 16px !important; display: flex !important; justify-content: center !important; align-items: center !important; gap: 32px !important; border-radius: 9999px !important; opacity: 0.3 !important; transform: translateY(15px) !important; transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;">
+      
+      <a href="/" style="text-decoration: none !important; display: flex !important; flex-direction: column !important; align-items: center !important; gap: 2px !important; color: #a1a1aa !important; transition: color 0.2s !important;">
+        <svg style="width: 18px !important; height: 18px !important;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+        </svg>
+        <span style="font-size: 9px !important; font-weight: 700 !important; tracking-wider: 0.05em !important; font-family: monospace !important;">HOME</span>
+      </a>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
-</body>
+  <style is:inline>
+    /* 彻底根除之前的复古字体，锁定现代科技感无衬线字体 */
+    .gveh-nav-container *, .gveh-nav-container a, .gveh-nav-container span {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* 默认状态：半隐藏、半透明、缩回最下面 */
+    .gveh-hover-pill {
+      opacity: 0.1 !important; /* 只有极其淡的影子 */
+      transform: translateY(20px) scale(0.98) !important; /* 缩回并微微缩小 */
+      transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) !important; /* 极其顺滑的呼吸感 */
+      background-color: rgba(20, 20, 23, 0.3) !important;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    /* 💡 [核心修正]：鼠标进入“触发区”，胶囊平滑浮现、变亮、光晕 */
+    .gveh-nav-container:hover .gveh-hover-pill {
+      opacity: 1 !important;
+      transform: translateY(0) scale(1) !important; /* 平滑复位 */
+      background-color: rgba(24, 24, 27, 0.95) !important; /* 加深毛玻璃 */
+      backdrop-filter: blur(16px) !important; /* 超强毛玻璃质感 */
+      -webkit-backdrop-filter: blur(16px) !important;
+      border-color: rgba(63, 63, 70, 0.6) !important;
+      box-shadow: 0 15px 40px -5px rgba(0, 0, 0, 0.6), 0 12px 18px -8px rgba(245, 158, 11, 0.3) !important; /* 金色微光光晕 */
+    }
+
+    /* 漂亮的按钮和文字的基础样式 */
+    .gveh-nav-item {
+      text-decoration: none !important;
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+      gap: 3px !important;
+      color: rgba(161, 161, 170, 0.8) !important; /* 默认暗色 */
+      transition: all 0.3s ease !important;
+    }
+    
+    /* 图标基础样式 (统一大小，不许变形) */
+    .gveh-nav-icon {
+      width: 20px !important;
+      height: 20px !important;
+      stroke-width: 1.5 !important;
+      transition: transform 0.3s ease !important;
+    }
+
+    /* 漂亮的无衬线科技文字 (彻底替换那个难看的复古字) */
+    .gveh-nav-text {
+      font-size: 10px !important;
+      font-weight: 700 !important;
+      letter-spacing: 0.1em !important; /* 增加字间距，更有科技感 */
+      text-transform: uppercase !important; /* 强制大写，像军工铭牌 */
+      font-family: 'Space Mono', 'Inter', monospace !important; /* 强制采用 Space Mono 这种硬核等宽字体 */
+    }
+
+    /* 💡 按钮的悬浮动作：图标和文字变成金色高亮 */
+    .gveh-nav-item:hover {
+      color: #f59e0b !important;
+    }
+    .gveh-nav-item:hover .gveh-nav-icon {
+      transform: scale(1.1) !important; /* 图标微微放大 */
+    }
+    
+    /* 漂亮的 HOME 的金色默认状态 */
+    .gveh-nav-item.active {
+      color: #f59e0b !important;
+    }
+  </style>
+
+  <div class="gveh-nav-container" style="position: fixed !important; bottom: 0 !important; left: 50% !important; transform: translateX(-50%) !important; padding-bottom: 28px !important; padding-top: 50px !important; z-index: 999999 !important; display: flex !important; justify-content: center !important; align-items: center !important; cursor: pointer !important;">
+    
+    <div class="gveh-hover-pill" style="border: 1px solid rgba(63, 63, 70, 0.1) !important; padding: 7px 22px !important; display: flex !important; justify-content: center !important; align-items: center !important; gap: 40px !important; border-radius: 9999px !important;">
+      
+      <a href="/" class="gveh-nav-item active">
+        <svg class="gveh-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+        </svg>
+        <span class="gveh-nav-text">HOME</span>
+      </a>
+      
+      <div style="width: 1px !important; height: 18px !important; background-color: rgba(63, 63, 70, 0.4) !important;"></div>
+
+      <a href="/bom-hub" class="gveh-nav-item">
+        <svg class="gveh-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path>
+        </svg>
+        <span class="gveh-nav-text">BOM HUB</span>
+      </a>
+
+    </div>
+  </div>
+     </body>
 </html>
