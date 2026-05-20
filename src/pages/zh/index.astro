@@ -101,6 +101,28 @@
       }
       .gveh-nav-item:hover { color: #f59e0b !important; }
       .gveh-nav-item.active { color: #f59e0b !important; }
+
+     /* --- 把下面这段代码复制到你 index.astro 底部的 <style> 标签内 --- */
+
+@media (max-width: 768px) {
+  /* 1. 强制缩小 Logo 图片，防止它撑爆屏幕 */
+  img[alt*="PNDS"], 
+  img[src*="logo"] { 
+    max-width: 130px !important; /* 手机上 Logo 宽度限制在 130 像素 */
+    height: auto !important;     /* 高度等比例缩放 */
+    display: block !important;
+    margin: 0 auto 15px auto !important; /* 手机上让 Logo 居中，并和下方的文字留出 15px 的空隙 */
+  }
+
+  /* 2. 修复文字排版，防止右侧文字和 Logo 硬挤在一起 */
+  /* 这里的选择器尝试匹配你的大标题和文本容器 */
+  h1, 
+  .hero-content, 
+  main {
+    text-align: center !important; /* 手机上文字全部居中排版，更美观 */
+    padding-top: 10px !important;
+  }
+}
     </style>
   </head>
   <body>
