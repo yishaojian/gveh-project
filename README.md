@@ -118,8 +118,10 @@ Return a redirect header Response.redirect(..., 303) to return users safely back
 🏁 Phase 1: Code Base Stabilization & Interface Cleanup (Active)
 Purge floating code artifacts from files. Fix mobile header clipping via static resetting CSS. Sync English and Chinese forms and verify end-to-end telemetry on localhost:4321.
 
-📩 Phase 2: Instant Notification Alerting Integration (Upcoming)
+📩📩 Phase 2: Instant Notification Alerting Integration (Upcoming)
 Inject resend or standard nodemailer libraries inside submit-bom.ts to transport uploaded data buffers and user metadata instantly to the admin's personal inbox (e.g. QQ, 163, or Enterprise Email). Keep secret API tokens isolated inside local .env and Vercel configurations.
+
+ Security Mandate: All sensitive credentials (RESEND_API_KEY, ADMIN_EMAIL, SERVER_CHAN_KEY) MUST be read strictly from system environment variables (process.env / import.meta.env). Hard-coding secrets in source code is ABSOLUTELY PROHIBITED.
 
 🤖 Phase 3: AI-Driven SEO Multilingual Blog CMS (Future)
 Utilize the Github Actions workflow (.github/workflows/translate.yml) triggered by markdown additions under src/content/blog/zh/.
