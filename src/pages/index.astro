@@ -26,135 +26,233 @@
         flex-direction: column;
       }
       
-      /* 页眉布局 - 承载左侧Logo和右上角语言切换 */
       .gveh-header { 
-        padding: 30px 5%; 
-        border-bottom: 1px solid rgba(63, 63, 70, 0.3);
+        padding: 25px 5%; 
         display: flex !important;
         justify-content: space-between !important;
-        align-items: center !important;
+        align-items: flex-start !important;
       }
-      .gveh-logo { font-family: 'Space Mono', monospace !important; color: #f59e0b !important; font-weight: 700; letter-spacing: 0.1em; }
-      
-      /* ✨ 右上角常驻语言切换按钮 */
+
+      .gveh-logo-link {
+        text-decoration: none !important;
+        display: block !important;
+        width: 180px !important;
+        position: absolute !important;
+        top: 25px !important;
+        left: 5% !important;
+        z-index: 999 !important;
+      }
+
       .gveh-lang-top-btn {
         text-decoration: none !important;
         font-family: 'Space Mono', monospace !important;
         font-size: 12px !important;
         font-weight: 700 !important;
-        color: #fafafa !important;
-        border: 1px solid rgba(161, 161, 170, 0.4) !important;
-        padding: 6px 14px !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
         border-radius: 4px !important;
-        background: rgba(24, 24, 27, 0.5) !important;
+        background: transparent !important;
         transition: all 0.3s ease !important;
+        position: absolute !important;
+        top: 25px !important;
+        right: 5% !important;
+        z-index: 999 !important;
       }
       .gveh-lang-top-btn:hover {
-        color: #f59e0b !important;
-        border-color: #f59e0b !important;
-        box-shadow: 0 0 10px rgba(245, 158, 11, 0.2) !important;
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
       }
 
-       /* ✨ 新代码：把顶部的 margin 从 100px 放大到 220px，确保绝对不挡字！ */
-      .gveh-hero { max-width: 1200px; margin: 220px auto 60px auto; padding: 0 40px; text-align: center; }
-      .gveh-hero h1 { font-size: 3.5rem; font-weight: 700; line-height: 1.2; margin-bottom: 24px; color: #ffffff; letter-spacing: -0.02em; }
-      .gveh-hero h1 span { color: #f59e0b !important; font-family: 'Space Mono', monospace !important; }
-      .gveh-hero p { font-size: 1.25rem; color: #a1a1aa !important; max-width: 800px; margin: 0 auto; line-height: 1.6; }
+      .gveh-hero { 
+        max-width: 1200px; 
+        margin: 180px auto 60px auto; 
+        padding: 0 40px; 
+        text-align: center; 
+      }
+      .gveh-hero h1 { 
+        font-size: 3.5rem; 
+        font-weight: 700; 
+        line-height: 1.2; 
+        margin-bottom: 24px; 
+        color: #ffffff; 
+        letter-spacing: -0.02em; 
+      }
+      .gveh-hero h1 span { 
+        color: #f39c12 !important; 
+        font-family: 'Space Mono', monospace !important; 
+      }
+      .gveh-hero p { 
+        font-size: 1.25rem; 
+        color: #a1a1aa !important; 
+        max-width: 800px; 
+        margin: 0 auto; 
+        line-height: 1.6; 
+      }
       
-      .gveh-matrix { max-width: 1200px; margin: 40px auto 180px auto; padding: 0 20px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-      .gveh-card { background-color: #141417 !important; border: 1px solid rgba(63, 63, 70, 0.4) !important; padding: 32px; border-radius: 4px; }
-      .gveh-card-tag { font-family: 'Space Mono', monospace !important; color: #f59e0b !important; font-size: 0.75rem; margin-bottom: 16px; }
-      .gveh-card h2 { font-size: 1.5rem; margin: 0 0 16px 0; color: #ffffff; }
-      .gveh-card p { color: #a1a1aa !important; font-size: 0.95rem; line-height: 1.6; margin: 0; }
-
-      @media (max-width: 768px) {
-        .gveh-hero { margin: 60px auto 30px auto; padding: 0 20px; }
-        .gveh-hero h1 { font-size: 2.2rem; }
-        .gveh-matrix { grid-template-columns: 1fr; margin-bottom: 140px; padding: 0 20px; }
+      .gveh-matrix { 
+        max-width: 1200px; 
+        margin: 40px auto 180px auto; 
+        padding: 0 20px; 
+        display: grid; 
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 24px; 
+      }
+      .gveh-card { 
+        background-color: #141417 !important; 
+        border: 1px solid rgba(63, 63, 70, 0.4) !important; 
+        padding: 32px; 
+        border-radius: 4px; 
+      }
+      .gveh-card-tag { 
+        font-family: 'Space Mono', monospace !important; 
+        color: #f39c12 !important; 
+        font-size: 0.75rem; 
+        margin-bottom: 16px; 
+      }
+      .gveh-card h2 { 
+        font-size: 1.5rem; 
+        margin: 0 0 16px 0; 
+        color: #ffffff; 
+      }
+      .gveh-card p { 
+        color: #a1a1aa !important; 
+        font-size: 0.95rem; 
+        line-height: 1.6; 
+        margin: 0; 
       }
 
-      /* ==================== 📡 智能悬浮舱呼吸动效逻辑 ==================== */
       .gveh-nav-container {
-        position: fixed !important; bottom: 0 !important; left: 50% !important; transform: translateX(-50%) !important;
-        padding-bottom: 28px !important; padding-top: 50px !important; z-index: 999999 !important;
-        display: flex !important; justify-content: center !important; align-items: center !important; cursor: pointer !important;
+        position: fixed !important; 
+        bottom: 0 !important; 
+        left: 50% !important; 
+        transform: translateX(-50%) !important;
+        padding-bottom: 28px !important; 
+        padding-top: 50px !important; 
+        z-index: 9999 !important;
+        display: flex !important; 
+        justify-content: center !important; 
+        align-items: center !important; 
+        cursor: pointer !important;
       }
       .gveh-hover-pill {
-        border: 1px solid rgba(63, 63, 70, 0.2) !important; padding: 8px 24px !important;
-        display: flex !important; justify-content: center !important; align-items: center !important; gap: 36px !important; border-radius: 9999px !important;
-        opacity: 0.15 !important; transform: translateY(15px) scale(0.98) !important; /* 默认半隐藏、缩回 */
+        border: 1px solid rgba(63, 63, 70, 0.2) !important; 
+        padding: 8px 24px !important;
+        display: flex !important; 
+        justify-content: center !important; 
+        align-items: center !important; 
+        gap: 36px !important; 
+        border-radius: 9999px !important;
+        opacity: 0.15 !important; 
+        transform: translateY(15px) scale(0.98) !important;
         transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
-        background-color: rgba(20, 20, 23, 0.4) !important; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+        background-color: rgba(20, 20, 23, 0.4) !important; 
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
       }
-      /* 鼠标悬浮瞬间激活浮现 */
       .gveh-nav-container:hover .gveh-hover-pill {
-        opacity: 1 !important; transform: translateY(0) scale(1) !important;
+        opacity: 1 !important; 
+        transform: translateY(0) scale(1) !important;
         background-color: rgba(24, 24, 27, 0.98) !important;
-        backdrop-filter: blur(20px) !important; -webkit-backdrop-filter: blur(20px) !important;
+        backdrop-filter: blur(20px) !important; 
+        -webkit-backdrop-filter: blur(20px) !important;
         border-color: rgba(245, 158, 11, 0.4) !important;
         box-shadow: 0 20px 40px rgba(0,0,0,0.7), 0 0 20px rgba(245,158,11,0.15) !important;
       }
       .gveh-nav-item {
-        text-decoration: none !important; display: flex !important; flex-direction: column !important;
-        align-items: center !important; gap: 3px !important; color: rgba(161, 161, 170, 0.7) !important; transition: all 0.2s ease !important;
+        text-decoration: none !important; 
+        display: flex !important; 
+        flex-direction: column !important;
+        align-items: center !important; 
+        gap: 3px !important; 
+        color: rgba(161, 161, 170, 0.7) !important; 
+        transition: all 0.2s ease !important;
       }
       .gveh-nav-text {
-        font-size: 10px !important; font-weight: 700 !important; letter-spacing: 0.1em !important;
-        text-transform: uppercase !important; font-family: 'Space Mono', monospace !important;
+        font-size: 10px !important; 
+        font-weight: 700 !important; 
+        letter-spacing: 0.1em !important;
+        text-transform: uppercase !important; 
+        font-family: 'Space Mono', monospace !important;
       }
-      .gveh-nav-item:hover { color: #f59e0b !important; }
-      .gveh-nav-item.active { color: #f59e0b !important; }
-      
-       /* --- 把下面这段代码复制到你 index.astro 底部的 <style> 标签内 --- */
+      .gveh-nav-item:hover { 
+        color: #f39c12 !important; 
+      }
+      .gveh-nav-item.active { 
+        color: #f39c12 !important; 
+      }
 
-@media (max-width: 768px) {
-  /* 1. 强制缩小 Logo 图片，防止它撑爆屏幕 */
-  img[alt*="PNDS"], 
-  img[src*="logo"] { 
-    max-width: 130px !important; /* 手机上 Logo 宽度限制在 130 像素 */
-    height: auto !important;     /* 高度等比例缩放 */
-    display: block !important;
-    margin: 0 auto 15px auto !important; /* 手机上让 Logo 居中，并和下方的文字留出 15px 的空隙 */
-  }
-
-  /* 2. 修复文字排版，防止右侧文字和 Logo 硬挤在一起 */
-  /* 这里的选择器尝试匹配你的大标题和文本容器 */
-  h1, 
-  .hero-content, 
-  main {
-    text-align: center !important; /* 手机上文字全部居中排版，更美观 */
-    padding-top: 10px !important;
-  }
-}
+      @media (max-width: 768px) {
+        .gveh-logo-link {
+          width: 130px !important;
+          position: static !important;
+          margin: 0 auto 20px auto !important;
+          display: block !important;
+          top: auto !important;
+          left: auto !important;
+        }
+        .gveh-lang-top-btn {
+          position: static !important;
+          top: auto !important;
+          right: auto !important;
+          margin-bottom: 20px !important;
+        }
+        .gveh-header {
+          flex-direction: column !important;
+          align-items: center !important;
+          padding: 20px 5% !important;
+        }
+        .gveh-hero { 
+          margin: 20px auto 30px auto; 
+          padding: 0 20px; 
+        }
+        .gveh-hero h1 { 
+          font-size: 2rem; 
+        }
+        .gveh-matrix { 
+          grid-template-columns: 1fr; 
+          margin-bottom: 140px; 
+          padding: 0 20px; 
+        }
+        img {
+          max-width: 130px !important;
+          height: auto !important;
+          margin: 0 auto !important;
+          display: block !important;
+        }
+        h1 {
+          text-align: center !important;
+          padding-top: 15px !important;
+        }
+      }
     </style>
   </head>
   <body>
-    <header class="gveh-header" style="padding: 25px 5% !important; border-bottom: 1px solid rgba(63, 63, 70, 0.2) !important; background: transparent !important; display: flex !important; justify-content: flex-end !important; align-items: center !important;">
+    <header class="gveh-header">
+      <a href="/" class="gveh-logo-link">
+        <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important;" />
+      </a>
       <a href="/zh" class="gveh-lang-top-btn">EN / 中文</a>
     </header>
 
-    <a href="/" style="text-decoration: none !important; position: absolute !important; top: 15px !important; left: 4% !important; z-index: 9999 !important; display: block !important; width: 180px !important;">
-      <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important; display: block !important;" />
-    </a>
     <main style="flex: 1;">
       <section class="gveh-hero">
         <h1>Don't Just Buy Components.<br />Source with <span>22 Years</span> of Hardware Expertise.</h1>
-        <p>[Coordinate: Shenzhen] // Providing independent technical analysis, component optimization, and lifecycle risk mitigation for global engineers.</p>
+        <p>[Coordinate: Shenzhen] Providing independent technical analysis, component optimization, and lifecycle risk mitigation for global engineers.</p>
       </section>
 
       <section class="gveh-matrix">
         <div class="gveh-card">
-          <div class="gveh-card-tag">// MODULE_01</div>
+          <div class="gveh-card-tag">DOMESTIC VS GLOBAL</div>
           <h2>Domestic vs Global</h2>
           <p>Deep reliability validation, pin-to-pin cross-reference analysis, and transparent alternative options benchmarking tier-1 manufacturers.</p>
         </div>
         <div class="gveh-card">
-          <div class="gveh-card-tag">// MODULE_02</div>
+          <div class="gveh-card-tag">BOM OPTIMIZATION</div>
           <h2>BOM Optimization</h2>
           <p>Strategic cost reduction without compromising quality. Proactive obsolescence management and resilient supply chain consulting.</p>
         </div>
         <div class="gveh-card">
-          <div class="gveh-card-tag">// MODULE_03</div>
+          <div class="gveh-card-tag">ABOUT ME</div>
           <h2>About Me</h2>
           <p>Rooted in Shenzhen since 2004. 22 years of elite hardware engineering experience acting as your clear, uncompromised eyes on the component market.</p>
         </div>
@@ -163,19 +261,15 @@
 
     <div class="gveh-nav-container">
       <div class="gveh-hover-pill">
-        
         <a href="/" class="gveh-nav-item active">
           <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
           <span class="gveh-nav-text">HOME</span>
         </a>
-        
         <div style="width: 1px !important; height: 16px !important; background-color: rgba(63, 63, 70, 0.5) !important;"></div>
-
         <a href="/bom-hub" class="gveh-nav-item">
           <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
           <span class="gveh-nav-text">BOM HUB</span>
         </a>
-
       </div>
     </div>
 
