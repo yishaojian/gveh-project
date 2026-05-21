@@ -50,6 +50,27 @@ Localization Expectation: Visible text in the Chinese directory must be local-ad
 4.1 Design Philosophy & Clutter Ban
 The Style: Minimalist Hardcore Industrial Wind. Dark Mode Friendly. Dark Amber (#f39c12 / amber palette) accent color themes.
 
+4.0 Layout & Style Foundation (Locked)
+**Layout Structure (Must NOT Change):**
+- Header: Logo (left) + Language Switcher (right)
+- Hero Section: Centered title + description
+- Content Matrix: 3-column card layout (desktop) / 1-column (mobile)
+- Bottom Navigation: Floating HOME/BOM HUB pill (hover-to-show)
+
+**Color Palette (Must NOT Change):**
+- Background: #09090b (Dark Slate)
+- Text: #fafafa (White)
+- Secondary Text: #a1a1aa (Gray)
+- Accent: #f39c12 (Amber)
+- Border: rgba(63, 63, 70, 0.4) (Light Gray)
+
+**Typography (Must NOT Change):**
+- Headings: Inter, 700 weight
+- Accent Text: Space Mono (monospace)
+- Body: Inter, 400 weight
+
+*Note: When adding or removing features, this layout and style foundation must remain unchanged.*
+
 Anti-Clutter Layout Policy: Absolute ban on dynamic floating bottom bars, sticky hover capsules, or arbitrary floating navigational elements (such as .gveh-nav-container, .gveh-hover-pill) unless explicitly ordered. Keep layout structures clean, predictable, and flat.
 
 Component Modality: Modify components in-place. Do not duplicate blocks or append copycat layout variants at the bottom of pages.

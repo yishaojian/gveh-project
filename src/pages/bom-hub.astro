@@ -1,0 +1,403 @@
+---
+// src/pages/bom-hub.astro
+// ==========================================
+// VETERAN.CORE // BOM HUB - Component Kitting Tool
+// ==========================================
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BOM HUB // Component Kitting & Optimization</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+
+    <style is:inline>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #09090b !important;
+        color: #fafafa !important;
+        font-family: 'Inter', sans-serif;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .gveh-header { 
+        padding: 25px 5%; 
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: flex-start !important;
+      }
+
+      .gveh-logo-link {
+        text-decoration: none !important;
+        display: block !important;
+        width: 180px !important;
+        position: absolute !important;
+        top: 25px !important;
+        left: 5% !important;
+        z-index: 999 !important;
+      }
+
+      .gveh-lang-top-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+        position: absolute !important;
+        top: 25px !important;
+        right: 5% !important;
+        z-index: 999 !important;
+      }
+      .gveh-lang-top-btn:hover {
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-hero { 
+        max-width: 800px; 
+        margin: 180px auto 60px auto; 
+        padding: 0 40px; 
+        text-align: center; 
+      }
+      .gveh-hero h1 { 
+        font-size: 3rem; 
+        font-weight: 700; 
+        line-height: 1.2; 
+        margin-bottom: 24px; 
+        color: #ffffff; 
+        letter-spacing: -0.02em; 
+      }
+      .gveh-hero h1 span { 
+        color: #f39c12 !important; 
+        font-family: 'Space Mono', monospace !important; 
+      }
+      .gveh-hero p { 
+        font-size: 1.25rem; 
+        color: #a1a1aa !important; 
+        max-width: 600px; 
+        margin: 0 auto; 
+        line-height: 1.6; 
+      }
+      
+      .gveh-form-container {
+        max-width: 600px;
+        margin: 0 auto 180px auto;
+        padding: 0 20px;
+      }
+
+      .gveh-form {
+        background-color: #141417 !important;
+        border: 1px solid rgba(63, 63, 70, 0.4) !important;
+        padding: 40px;
+        border-radius: 8px;
+      }
+
+      .gveh-form-group {
+        margin-bottom: 24px;
+      }
+
+      .gveh-form-label {
+        display: block !important;
+        font-size: 0.85rem !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        margin-bottom: 8px !important;
+        font-family: 'Space Mono', monospace !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.1em !important;
+      }
+
+      .gveh-form-input {
+        width: 100% !important;
+        padding: 12px 16px !important;
+        background-color: #09090b !important;
+        border: 1px solid rgba(63, 63, 70, 0.4) !important;
+        border-radius: 4px !important;
+        color: #fafafa !important;
+        font-size: 1rem !important;
+        box-sizing: border-box !important;
+        transition: border-color 0.3s ease !important;
+      }
+
+      .gveh-form-input:focus {
+        outline: none !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-form-textarea {
+        width: 100% !important;
+        padding: 12px 16px !important;
+        background-color: #09090b !important;
+        border: 1px solid rgba(63, 63, 70, 0.4) !important;
+        border-radius: 4px !important;
+        color: #fafafa !important;
+        font-size: 1rem !important;
+        font-family: 'Space Mono', monospace !important;
+        min-height: 120px !important;
+        box-sizing: border-box !important;
+        resize: vertical !important;
+        transition: border-color 0.3s ease !important;
+      }
+
+      .gveh-form-textarea:focus {
+        outline: none !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-form-file {
+        width: 100% !important;
+        padding: 12px !important;
+        background-color: #09090b !important;
+        border: 1px dashed rgba(63, 63, 70, 0.4) !important;
+        border-radius: 4px !important;
+        color: #aaa !important;
+        font-size: 0.9rem !important;
+        transition: border-color 0.3s ease !important;
+        cursor: pointer !important;
+      }
+
+      .gveh-form-file:hover {
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-form-file::-webkit-file-upload-button {
+        display: none !important;
+      }
+
+      .gveh-form-button {
+        width: 100% !important;
+        padding: 14px !important;
+        background-color: #f39c12 !important;
+        border: none !important;
+        border-radius: 4px !important;
+        color: #09090b !important;
+        font-size: 1rem !important;
+        font-weight: 700 !important;
+        cursor: pointer !important;
+        transition: background-color 0.3s ease !important;
+        font-family: 'Space Mono', monospace !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.1em !important;
+      }
+
+      .gveh-form-button:hover {
+        background-color: #f59e0b !important;
+      }
+
+      .gveh-form-note {
+        font-size: 0.8rem !important;
+        color: #666 !important;
+        text-align: center !important;
+        margin-top: 16px !important;
+      }
+
+      .gveh-form-success {
+        background-color: rgba(34, 197, 94, 0.1) !important;
+        border: 1px solid rgba(34, 197, 94, 0.3) !important;
+        padding: 16px !important;
+        border-radius: 4px !important;
+        color: #22c55e !important;
+        text-align: center !important;
+        margin-bottom: 24px !important;
+      }
+
+      .gveh-card-tag { 
+        font-family: 'Space Mono', monospace !important; 
+        color: #f39c12 !important; 
+        font-size: 0.75rem; 
+        margin-bottom: 16px; 
+        text-align: center;
+      }
+
+      .gveh-nav-container {
+        position: fixed !important; 
+        bottom: 0 !important; 
+        left: 50% !important; 
+        transform: translateX(-50%) !important;
+        padding-bottom: 28px !important; 
+        padding-top: 50px !important; 
+        z-index: 9999 !important;
+        display: flex !important; 
+        justify-content: center !important; 
+        align-items: center !important; 
+        cursor: pointer !important;
+      }
+      .gveh-hover-pill {
+        border: 1px solid rgba(63, 63, 70, 0.2) !important; 
+        padding: 8px 24px !important;
+        display: flex !important; 
+        justify-content: center !important; 
+        align-items: center !important; 
+        gap: 36px !important; 
+        border-radius: 9999px !important;
+        opacity: 0.15 !important; 
+        transform: translateY(15px) scale(0.98) !important;
+        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+        background-color: rgba(20, 20, 23, 0.4) !important; 
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+      }
+      .gveh-nav-container:hover .gveh-hover-pill {
+        opacity: 1 !important; 
+        transform: translateY(0) scale(1) !important;
+        background-color: rgba(24, 24, 27, 0.98) !important;
+        backdrop-filter: blur(20px) !important; 
+        -webkit-backdrop-filter: blur(20px) !important;
+        border-color: rgba(245, 158, 11, 0.4) !important;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.7), 0 0 20px rgba(245,158,11,0.15) !important;
+      }
+      .gveh-nav-item {
+        text-decoration: none !important; 
+        display: flex !important; 
+        flex-direction: column !important;
+        align-items: center !important; 
+        gap: 3px !important; 
+        color: rgba(161, 161, 170, 0.7) !important; 
+        transition: all 0.2s ease !important;
+      }
+      .gveh-nav-text {
+        font-size: 10px !important; 
+        font-weight: 700 !important; 
+        letter-spacing: 0.1em !important;
+        text-transform: uppercase !important; 
+        font-family: 'Space Mono', monospace !important;
+      }
+      .gveh-nav-item:hover { 
+        color: #f39c12 !important; 
+      }
+      .gveh-nav-item.active { 
+        color: #f39c12 !important; 
+      }
+
+      @media (max-width: 768px) {
+        .gveh-logo-link {
+          width: 130px !important;
+          position: static !important;
+          margin: 0 auto 20px auto !important;
+          display: block !important;
+          top: auto !important;
+          left: auto !important;
+        }
+        .gveh-lang-top-btn {
+          position: static !important;
+          top: auto !important;
+          right: auto !important;
+          margin-bottom: 20px !important;
+        }
+        .gveh-header {
+          flex-direction: column !important;
+          align-items: center !important;
+          padding: 20px 5% !important;
+        }
+        .gveh-hero { 
+          margin: 20px auto 30px auto; 
+          padding: 0 20px; 
+        }
+        .gveh-hero h1 { 
+          font-size: 2rem; 
+        }
+        .gveh-form-container {
+          margin-bottom: 140px;
+        }
+        .gveh-form {
+          padding: 24px;
+        }
+        img {
+          max-width: 130px !important;
+          height: auto !important;
+          margin: 0 auto !important;
+          display: block !important;
+        }
+        h1 {
+          text-align: center !important;
+          padding-top: 15px !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="gveh-header">
+      <a href="/" class="gveh-logo-link">
+        <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important;" />
+      </a>
+      <a href="/zh/bom-hub" class="gveh-lang-top-btn">EN / 中文</a>
+    </header>
+
+    <main style="flex: 1;">
+      <section class="gveh-hero">
+        <h1><span>BOM</span> Component Kitting Hub</h1>
+        <p>Submit your Bill of Materials for professional optimization, cost reduction analysis, and sourcing recommendations.</p>
+      </section>
+
+      <section class="gveh-form-container">
+        <div class="gveh-card-tag">// SUBMIT YOUR BOM</div>
+        
+        <form class="gveh-form" action="/api/submit-bom" method="POST" enctype="multipart/form-data">
+          <div class="gveh-form-group">
+            <label class="gveh-form-label" for="email">Contact Email *</label>
+            <input 
+              class="gveh-form-input" 
+              type="email" 
+              id="email" 
+              name="email" 
+              placeholder="your@email.com"
+              required
+            />
+          </div>
+
+          <div class="gveh-form-group">
+            <label class="gveh-form-label" for="bomText">BOM Content (Optional)</label>
+            <textarea 
+              class="gveh-form-textarea" 
+              id="bomText" 
+              name="bomText" 
+              placeholder="Paste your BOM data here...&#10;&#10;Example:&#10;Part Number, Description, Quantity&#10;STM32F103C8T6, MCU, 100&#10;0805 10k, Resistor, 500"
+            ></textarea>
+          </div>
+
+          <div class="gveh-form-group">
+            <label class="gveh-form-label" for="file">Upload BOM File (Optional)</label>
+            <input 
+              class="gveh-form-file" 
+              type="file" 
+              id="file" 
+              name="file" 
+              accept=".xlsx,.xls,.csv,.pdf"
+            />
+          </div>
+
+          <button class="gveh-form-button" type="submit">Submit BOM</button>
+
+          <p class="gveh-form-note">
+            Accepted formats: .xlsx, .xls, .csv, .pdf | Max size: 4.5MB
+          </p>
+        </form>
+      </section>
+    </main>
+
+    <div class="gveh-nav-container">
+      <div class="gveh-hover-pill">
+        <a href="/" class="gveh-nav-item">
+          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
+          <span class="gveh-nav-text">HOME</span>
+        </a>
+        <div style="width: 1px !important; height: 16px !important; background-color: rgba(63, 63, 70, 0.5) !important;"></div>
+        <a href="/bom-hub" class="gveh-nav-item active">
+          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
+          <span class="gveh-nav-text">BOM HUB</span>
+        </a>
+      </div>
+    </div>
+
+  </body>
+</html>
