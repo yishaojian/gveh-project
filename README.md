@@ -46,6 +46,19 @@ Sync Rule: Any feature block, HTML structure modification, layout update, or CSS
 Localization Expectation: Visible text in the Chinese directory must be local-adapted into professional, idiomatic electronic supply chain terminology.
 (Examples: "Target Price" ➔ "目标价格", "Traceable Components" ➔ "原装正品/可追溯货源")
 
+3.1 AI-Era SEO Strategy (2026+)
+**English Pages: Target Google SGE (Search Generative Experience) & AI Overview**
+- Content must include hard-core data, specific part number comparisons (e.g., "STM32F103C8T6 Genuine vs Refurbished Analysis")
+- Avoid generic marketing fluff (e.g., "We have good quality")
+- Add Schema Markups (structured data) in `<head>` for AI crawlers
+- Goal: Appear as "Recommended Supplier" in Google AI Overview responses
+
+**Chinese Pages: Target Domestic AI Search Engines (Metaso/Kimi/DeepSeek)**
+- Keep content structure clear and knowledge-dense
+- Publish 22 years of Huaqiangbei practical experience openly (AI crawlers can access public pages better than WeChat articles)
+- Include specific part numbers and pain-point solutions
+- Goal: Become trusted source for domestic AI search recommendations
+
 🎨 4. UI, Design Style & Mobile Responsive Overrides
 4.1 Design Philosophy & Clutter Ban
 The Style: Minimalist Hardcore Industrial Wind. Dark Mode Friendly. Dark Amber (#f39c12 / amber palette) accent color themes.
@@ -118,10 +131,16 @@ Return a redirect header Response.redirect(..., 303) to return users safely back
 🏁 Phase 1: Code Base Stabilization & Interface Cleanup (Active)
 Purge floating code artifacts from files. Fix mobile header clipping via static resetting CSS. Sync English and Chinese forms and verify end-to-end telemetry on localhost:4321.
 
-📩📩 Phase 2: Instant Notification Alerting Integration (Upcoming)
+📩📩📩 Phase 2: Instant Notification Alerting Integration (COMPLETED)
 Inject resend or standard nodemailer libraries inside submit-bom.ts to transport uploaded data buffers and user metadata instantly to the admin's personal inbox (e.g. QQ, 163, or Enterprise Email). Keep secret API tokens isolated inside local .env and Vercel configurations.
 
  Security Mandate: All sensitive credentials (RESEND_API_KEY, ADMIN_EMAIL, SERVER_CHAN_KEY) MUST be read strictly from system environment variables (process.env / import.meta.env). Hard-coding secrets in source code is ABSOLUTELY PROHIBITED.
+
+✅ Implementation Status:
+- Email Notification: Resend API integration (free tier: 100 emails/day)
+- WeChat Notification: ServerChan API integration (free tier)
+- Dual-channel alerting: Customer submits BOM → Admin receives email + WeChat push within 5 minutes
+- Security: All credentials stored in .env (never committed to Git)
 
 🤖 Phase 3: AI-Driven SEO Multilingual Blog CMS (Future)
 Utilize the Github Actions workflow (.github/workflows/translate.yml) triggered by markdown additions under src/content/blog/zh/.
@@ -129,3 +148,10 @@ Utilize the Github Actions workflow (.github/workflows/translate.yml) triggered 
 Connect workflow tasks to Google AI Studio calling the Gemini API to automatically translate Chinese markdown technical articles into search-optimized English files saved directly to src/content/blog/en/.
 
 Translation Constraints for Gemini: Retain all component part numbers (e.g., SOT-23, 10uF, 50V), preserve precise datasheets and parameter specs, maintain accurate trade terminology, and render in a professional tone.
+
+ Schema Markup Implementation (AI SEO Critical):
+- Add JSON-LD structured data in `<head>` sections for all blog posts
+- Include: `@type: Article`, `author`, `datePublished`, `articleBody` with part numbers
+- Target Google AI Overview: Appear as "Recommended Supplier" in SGE responses
+- Domestic AI Search: Optimize for Metaso/Kimi/DeepSeek crawlers with clear, knowledge-dense content
+- Avoid content locked behind login walls (AI crawlers prefer public pages like your independent site over WeChat articles)
