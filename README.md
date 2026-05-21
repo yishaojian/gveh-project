@@ -38,15 +38,19 @@ To prevent floating code, loose file creation, and path resolution errors, alway
 │       └── index.astro     # English Homepage (Root Landing Page)
 ├── package.json            # Node dependencies tracking
 └── README.md               # This Document (System Blueprint & AI Guardrails)
-🌐 3. Multi-Language & i18n Synchronization Protocol
+```
+
+---
+
+## 🌐 3. Multi-Language & i18n Synchronization Protocol
 The platform operates a strict dual-language system (English as primary, Chinese as secondary).
 
-Sync Rule: Any feature block, HTML structure modification, layout update, or CSS addition executed on src/pages/index.astro MUST automatically be mirrored on src/pages/zh/index.astro.
+**Sync Rule**: Any feature block, HTML structure modification, layout update, or CSS addition executed on src/pages/index.astro MUST automatically be mirrored on src/pages/zh/index.astro.
 
-Localization Expectation: Visible text in the Chinese directory must be local-adapted into professional, idiomatic electronic supply chain terminology.
+**Localization Expectation**: Visible text in the Chinese directory must be local-adapted into professional, idiomatic electronic supply chain terminology.
 (Examples: "Target Price" ➔ "目标价格", "Traceable Components" ➔ "原装正品/可追溯货源")
 
-3.1 AI-Era SEO Strategy (2026+)
+### 3.1 AI-Era SEO Strategy (2026+)
 **English Pages: Target Google SGE (Search Generative Experience) & AI Overview**
 - Content must include hard-core data, specific part number comparisons (e.g., "STM32F103C8T6 Genuine vs Refurbished Analysis")
 - Avoid generic marketing fluff (e.g., "We have good quality")
@@ -59,11 +63,14 @@ Localization Expectation: Visible text in the Chinese directory must be local-ad
 - Include specific part numbers and pain-point solutions
 - Goal: Become trusted source for domestic AI search recommendations
 
-🎨 4. UI, Design Style & Mobile Responsive Overrides
-4.1 Design Philosophy & Clutter Ban
-The Style: Minimalist Hardcore Industrial Wind. Dark Mode Friendly. Dark Amber (#f39c12 / amber palette) accent color themes.
+---
 
-4.0 Layout & Style Foundation (Locked)
+## 🎨 4. UI, Design Style & Mobile Responsive Overrides
+
+### 4.1 Design Philosophy & Clutter Ban
+**The Style**: Minimalist Hardcore Industrial Wind. Dark Mode Friendly. Dark Amber (#f39c12 / amber palette) accent color themes.
+
+### 4.0 Layout & Style Foundation (Locked)
 **Layout Structure (Must NOT Change):**
 - Header: Logo (left) + Language Switcher (right)
 - Hero Section: Centered title + description
@@ -84,14 +91,14 @@ The Style: Minimalist Hardcore Industrial Wind. Dark Mode Friendly. Dark Amber (
 
 *Note: When adding or removing features, this layout and style foundation must remain unchanged.*
 
-Anti-Clutter Layout Policy: Absolute ban on dynamic floating bottom bars, sticky hover capsules, or arbitrary floating navigational elements (such as .gveh-nav-container, .gveh-hover-pill) unless explicitly ordered. Keep layout structures clean, predictable, and flat.
+**Anti-Clutter Layout Policy**: Absolute ban on dynamic floating bottom bars, sticky hover capsules, or arbitrary floating navigational elements (such as .gveh-nav-container, .gveh-hover-pill) unless explicitly ordered. Keep layout structures clean, predictable, and flat.
 
-Component Modality: Modify components in-place. Do not duplicate blocks or append copycat layout variants at the bottom of pages.
+**Component Modality**: Modify components in-place. Do not duplicate blocks or append copycat layout variants at the bottom of pages.
 
-4.2 Mobile-First Responsive Overrides (Header & Logo Fix)
-The desktop header utilizes absolute/fixed positions that compress text elements on mobile viewports (max-width: 768px). You must force standard block flows and center typography by injecting and maintaining this CSS block within page <style> zones:
+### 4.2 Mobile-First Responsive Overrides (Header & Logo Fix)
+The desktop header utilizes absolute/fixed positions that compress text elements on mobile viewports (max-width: 768px). You must force standard block flows and center typography by injecting and maintaining this CSS block within page `<style>` zones:
 
-CSS
+```css
 @media (max-width: 768px) {
   /* Resets absolute/fixed positioning to avoid stacking flaws */
   .gveh-logo-link, [class*="logo-wrapper"], [class*="logo"] {
@@ -112,46 +119,132 @@ CSS
     padding-top: 15px !important;
   }
 }
-🔄 5. Data Flow & Form Processing (BOM Kitting System)
-5.1 Frontend Form Specifications
-Payload Format: Multi-part data streams (enctype="multipart/form-data").
+```
 
-Submission Routing: Both English and Chinese versions must route via POST /api/submit-bom.
+---
 
-Accepted Formats: .xlsx, .xls, .csv, .pdf. Max size governed by Vercel Function payload limits (4.5MB).
+## 🔄 5. Data Flow & Form Processing (BOM Kitting System)
 
-5.2 Backend Edge Route (src/pages/api/submit-bom.ts)
+### 5.1 Frontend Form Specifications
+**Payload Format**: Multi-part data streams (enctype="multipart/form-data").
+
+**Submission Routing**: Both English and Chinese versions must route via POST /api/submit-bom.
+
+**Accepted Formats**: .xlsx, .xls, .csv, .pdf. Max size governed by Vercel Function payload limits (4.5MB).
+
+### 5.2 Backend Edge Route (src/pages/api/submit-bom.ts)
 Handle streams gracefully using Astro's native request.formData().
 
 Extract data blocks (email, bomText) and parse file streams into Node standard Buffer arrays.
 
 Return a redirect header Response.redirect(..., 303) to return users safely back to the originating context with a ?status=success query flag.
 
-🗺️ 6. Multi-Phase Implementation Roadmap
-🏁 Phase 1: Code Base Stabilization & Interface Cleanup (Active)
+---
+
+## 🗺️ 6. Multi-Phase Implementation Roadmap
+
+### 🏁 Phase 1: Code Base Stabilization & Interface Cleanup (Active)
 Purge floating code artifacts from files. Fix mobile header clipping via static resetting CSS. Sync English and Chinese forms and verify end-to-end telemetry on localhost:4321.
 
-📩📩📩 Phase 2: Instant Notification Alerting Integration (COMPLETED)
+### 📩📩📩 Phase 2: Instant Notification Alerting Integration (COMPLETED)
 Inject resend or standard nodemailer libraries inside submit-bom.ts to transport uploaded data buffers and user metadata instantly to the admin's personal inbox (e.g. QQ, 163, or Enterprise Email). Keep secret API tokens isolated inside local .env and Vercel configurations.
 
- Security Mandate: All sensitive credentials (RESEND_API_KEY, ADMIN_EMAIL, SERVER_CHAN_KEY) MUST be read strictly from system environment variables (process.env / import.meta.env). Hard-coding secrets in source code is ABSOLUTELY PROHIBITED.
+**Security Mandate**: All sensitive credentials (RESEND_API_KEY, ADMIN_EMAIL, SERVER_CHAN_KEY) MUST be read strictly from system environment variables (process.env / import.meta.env). Hard-coding secrets in source code is ABSOLUTELY PROHIBITED.
 
-✅ Implementation Status:
+**✅ Implementation Status:**
 - Email Notification: Resend API integration (free tier: 100 emails/day)
 - WeChat Notification: ServerChan API integration (free tier)
 - Dual-channel alerting: Customer submits BOM → Admin receives email + WeChat push within 5 minutes
 - Security: All credentials stored in .env (never committed to Git)
 
-🤖 Phase 3: AI-Driven SEO Multilingual Blog CMS (Future)
+### 🤖 Phase 3: AI-Driven SEO Multilingual Blog CMS (Future)
 Utilize the Github Actions workflow (.github/workflows/translate.yml) triggered by markdown additions under src/content/blog/zh/.
 
 Connect workflow tasks to Google AI Studio calling the Gemini API to automatically translate Chinese markdown technical articles into search-optimized English files saved directly to src/content/blog/en/.
 
-Translation Constraints for Gemini: Retain all component part numbers (e.g., SOT-23, 10uF, 50V), preserve precise datasheets and parameter specs, maintain accurate trade terminology, and render in a professional tone.
+**Translation Constraints for Gemini**: Retain all component part numbers (e.g., SOT-23, 10uF, 50V), preserve precise datasheets and parameter specs, maintain accurate trade terminology, and render in a professional tone.
 
- Schema Markup Implementation (AI SEO Critical):
+**Schema Markup Implementation (AI SEO Critical)**:
 - Add JSON-LD structured data in `<head>` sections for all blog posts
 - Include: `@type: Article`, `author`, `datePublished`, `articleBody` with part numbers
 - Target Google AI Overview: Appear as "Recommended Supplier" in SGE responses
 - Domestic AI Search: Optimize for Metaso/Kimi/DeepSeek crawlers with clear, knowledge-dense content
 - Avoid content locked behind login walls (AI crawlers prefer public pages like your independent site over WeChat articles)
+
+### 🚪 Phase 4: Registration-Free Inquiry & User Dashboard (Future)
+**Core Logic**: Low friction at start, registration only for transaction completion.
+
+**4.1 Registration-Free Inquiry Experience**
+- BOM submission stage: No account required, just email + file upload (70% less abandonment rate)
+- Quote response: Admin sends quote with Magic Link (one-click login token) to customer email
+- Conversion to registered user: Customer clicks "Accept Quote" → system prompts "Set password for security" (automatic registration)
+
+**4.2 User Dashboard (Protected Area)**
+- My Inquiries: View past BOM submissions and quotes
+- My Orders: Track order status, payment history, shipping info
+- BOM History: Archived BOM files (encrypted, only accessible by admin + customer)
+- Security: All sensitive data stored in encrypted database (never exposed to AI crawlers)
+
+**4.3 Technology Stack**
+- Database: Supabase (PostgreSQL + Auth) or Vercel Postgres (free tier available)
+- Auth: Magic Link + password-based login
+- Storage: Encrypted file storage for BOM attachments
+
+### 🔄 Phase 5: Public Anonymized Case Studies & ERP Integration (Future)
+**Core Strategy**: Build trust with public success stories, automate back-office with ERP.
+
+**5.1 Public Anonymized Case Studies (Trust Building)**
+- **What to publish**: Success stories of BOM optimization (never raw BOMs)
+- **Anonymization Rules**:
+  - Replace customer names: "Customer A" → "Western European Drone Manufacturer"
+  - Remove sensitive data: Pricing, exact quantities, full company info
+  - Highlight value: Cost savings percentage, lead time reduction, quality improvements
+- **Example Case Study Format**:
+  ```
+  Success Story: BOM Optimization for Medical Device Manufacturer
+  -------------------------------------------------------------
+  | Original Part | Issue | Our Solution | Result |
+  |---------------|-------|--------------|--------|
+  | STM32F407VG | EOL, 300% premium | 100% compatible domestic alternate | 45% cost reduction |
+  | Murata GRM188 | Counterfeit risk | PNDS Hub 100% QC | Zero fakes |
+  ```
+- **SEO Benefit**: AI crawlers love these structured, value-rich case studies
+
+**5.2 ERP Integration (Automate Back-Office)**
+- **PI Generation**: Auto-generate Proforma Invoice (PDF) on quote acceptance (electronic contract)
+- **ERP Sync**: Push order data directly to ERP (Odoo, or domestic ERP via API)
+- **Status Tracking**: Auto-update order states: [Quote Sent] → [Payment Received] → [QC In Progress] → [Shipped]
+- **When to use traditional contracts**: Only for large amounts, Net 30/60 terms, or custom requirements
+
+**5.3 Workflow Automation**
+1. Customer accepts quote → auto-generate PI PDF
+2. Payment confirmed → auto-push to ERP
+3. Order shipped → auto-send tracking info to customer
+4. Repeat orders → one-click reorder from dashboard
+
+**5.4 Database & Security Requirements**
+- Separate schemas: Public (case studies) vs Private (customer data)
+- Encryption at rest: All BOM files, order data, payment info encrypted
+- Role-based access: Admin vs Customer vs Read-only
+- Audit logs: Track all data access and modifications
+
+---
+
+## 📋 Quick Reference for AI Assistant
+
+### Current Status
+- ✅ Phase 1: Complete (Layout stabilized)
+- ✅ Phase 2: Complete (Email + WeChat notifications)
+- 🟡 Phase 3: Pending (AI Blog CMS)
+- 🟡 Phase 4: Pending (User Dashboard)
+- 🟡 Phase 5: Pending (Case Studies + ERP)
+
+### When to Stop
+- Do NOT proceed to Phase 3+ without explicit user request
+- Always confirm current business priorities before writing new code
+- Do not skip Phase 2 testing before moving forward
+
+### Reminders
+- Security first: No hard-coded secrets
+- i18n sync: English and Chinese pages must always be identical
+- Layout locked: Never change the foundational design without explicit approval
