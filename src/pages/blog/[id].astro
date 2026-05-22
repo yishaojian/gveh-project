@@ -1,0 +1,417 @@
+---
+// src/pages/blog/[id].astro
+// ==========================================
+// ENGLISH BLOG DETAIL PAGE WITH JSON-LD SEO
+// ==========================================
+
+import { getBlogById } from '../../utils/blog';
+
+export async function getStaticPaths() {
+  // In real implementation, fetch all published blog IDs
+  return [];
+}
+
+const { id } = Astro.params;
+const blog = await getBlogById(id);
+
+if (!blog || blog.status !== 'published') {
+  return Astro.redirect('/');
+}
+
+const title = blog.title_en || blog.title_cn || 'Blog Post';
+const content = blog.content_en || blog.content_cn || '';
+const keywords = blog.keywords || '';
+const publishedDate = new Date(blog.created_at).toISOString();
+const currentUrl = `https://${Astro.request.headers.get('host')}/blog/${id}`;
+
+// Create JSON-LD structured data
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": title,
+  "description": content.substring(0, 200),
+  "keywords": keywords,
+  "author": {
+    "@type": "Person",
+    "name": blog.author_name || "Author"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "VETERAN.CORE",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://veteran.core/logo.png"
+    }
+  },
+  "datePublished": publishedDate,
+  "dateModified": publishedDate,
+  "url": currentUrl,
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": currentUrl
+  },
+  "inLanguage": "en"
+};
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} | VETERAN.CORE</title>
+    <meta name="description" content={content.substring(0, 200)} />
+    <meta name="keywords" content={keywords} />
+    
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+
+    <style is:inline>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #09090b !important;
+        color: #fafafa !important;
+        font-family: 'Inter', sans-serif;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .gveh-header { 
+        padding: 25px 5%; 
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: flex-start !important;
+      }
+
+      .gveh-logo-link {
+        text-decoration: none !important;
+        display: block !important;
+        width: 180px !important;
+        position: absolute !important;
+        top: 25px !important;
+        left: 5% !important;
+        z-index: 999 !important;
+      }
+
+      .gveh-lang-top-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+      }
+      .gveh-lang-top-btn:hover {
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-top-right-container {
+        position: absolute !important;
+        top: 25px !important;
+        right: 5% !important;
+        z-index: 999 !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 12px !important;
+      }
+
+      .gveh-auth-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+        cursor: pointer !important;
+      }
+
+      .gveh-auth-btn:hover {
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-user-info {
+        display: flex !important;
+        align-items: center !important;
+        gap: 10px !important;
+        cursor: pointer !important;
+        padding: 4px 8px !important;
+        border-radius: 8px !important;
+        transition: background-color 0.3s ease !important;
+      }
+
+      .gveh-user-info:hover {
+        background-color: rgba(243, 156, 18, 0.1) !important;
+      }
+
+      .gveh-user-details {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: flex-end !important;
+      }
+
+      .gveh-user-name {
+        font-size: 14px !important;
+        font-weight: 600 !important;
+        color: #fafafa !important;
+      }
+
+      .gveh-user-role {
+        font-size: 11px !important;
+        color: #aaa !important;
+        font-family: 'Space Mono', monospace !important;
+      }
+
+      .gveh-user-avatar {
+        width: 36px !important;
+        height: 36px !important;
+        border-radius: 50% !important;
+        background: linear-gradient(135deg, #f39c12, #e67e22) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-weight: 700 !important;
+        font-size: 16px !important;
+        color: #09090b !important;
+      }
+
+      .gveh-content {
+        flex: 1;
+        padding: 120px 5% 80px;
+        max-width: 900px;
+        margin: 0 auto;
+      }
+
+      .gveh-blog-header {
+        margin-bottom: 48px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 32px;
+      }
+
+      .gveh-back-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        color: #aaa;
+        text-decoration: none;
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+        margin-bottom: 24px;
+        transition: color 0.3s ease;
+      }
+
+      .gveh-back-link:hover {
+        color: #f39c12;
+      }
+
+      .gveh-blog-title {
+        font-size: 42px;
+        font-weight: 700;
+        line-height: 1.2;
+        margin-bottom: 16px;
+        color: #fafafa;
+      }
+
+      .gveh-blog-meta {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+        color: #888;
+        font-size: 14px;
+        font-family: 'Space Mono', monospace;
+      }
+
+      .gveh-blog-content {
+        font-size: 18px;
+        line-height: 1.8;
+        color: #e5e5e5;
+      }
+
+      .gveh-blog-content p {
+        margin-bottom: 24px;
+      }
+
+      .gveh-blog-content h2 {
+        font-size: 28px;
+        margin: 40px 0 16px;
+        color: #fafafa;
+      }
+
+      .gveh-blog-content h3 {
+        font-size: 22px;
+        margin: 32px 0 12px;
+        color: #fafafa;
+      }
+
+      .gveh-blog-content code {
+        background: rgba(243, 156, 18, 0.1);
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-family: 'Space Mono', monospace;
+        font-size: 14px;
+        color: #f39c12;
+      }
+
+      .gveh-blog-content pre {
+        background: #1a1a1e;
+        padding: 24px;
+        border-radius: 8px;
+        overflow-x: auto;
+        margin: 24px 0;
+      }
+
+      .gveh-blog-content pre code {
+        background: none;
+        padding: 0;
+        color: #e5e5e5;
+      }
+
+      .gveh-blog-keywords {
+        margin-top: 48px;
+        padding-top: 32px;
+        border-top: 1px solid #333;
+      }
+
+      .gveh-keywords-label {
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+        color: #888;
+        margin-bottom: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .gveh-keywords-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .gveh-keyword-tag {
+        background: rgba(243, 156, 18, 0.1);
+        color: #f39c12;
+        padding: 6px 12px;
+        border-radius: 4px;
+        font-family: 'Space Mono', monospace;
+        font-size: 12px;
+      }
+
+      @media (max-width: 768px) {
+        .gveh-header {
+          padding: 20px 5%;
+        }
+        
+        .gveh-logo-link {
+          position: static !important;
+          width: 140px !important;
+        }
+        
+        .gveh-top-right-container {
+          position: static !important;
+          margin-left: auto;
+        }
+        
+        .gveh-content {
+          padding: 80px 5% 60px;
+        }
+        
+        .gveh-blog-title {
+          font-size: 32px;
+        }
+        
+        .gveh-blog-content {
+          font-size: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="gveh-header">
+      <a href="/" class="gveh-logo-link">
+        <img src="/veteran-logo.svg" alt="VETERAN.CORE" style="width: 100% !important; height: auto !important;" />
+      </a>
+      <div class="gveh-top-right-container">
+        <a href="/zh/blog/{id}" class="gveh-lang-top-btn">中文 / EN</a>
+        <div id="gveh-auth-container">
+          <a href="/login" class="gveh-auth-btn">LOGIN</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="gveh-content">
+      <div class="gveh-blog-header">
+        <a href="/" class="gveh-back-link">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M19 12H5M12 19l-7-7 7-7"/>
+          </svg>
+          Back to Home
+        </a>
+        <h1 class="gveh-blog-title">{title}</h1>
+        <div class="gveh-blog-meta">
+          <span>By {blog.author_name || 'Author'}</span>
+          <span>•</span>
+          <span>{new Date(blog.created_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        </div>
+      </div>
+
+      <article class="gveh-blog-content">
+        {content.split('\n').map((paragraph, i) => (
+          paragraph.trim() ? <p key={i}>{paragraph}</p> : ''
+        ))}
+      </article>
+
+      {keywords ? (
+        <div class="gveh-blog-keywords">
+          <div class="gveh-keywords-label">Keywords</div>
+          <div class="gveh-keywords-list">
+            {keywords.split(',').map((keyword, i) => (
+              <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
+            ))}
+          </div>
+        </div>
+      ) : ''}
+    </main>
+
+    <script is:inline>
+      function updateAuthStatus() {
+        const authContainer = document.getElementById('gveh-auth-container');
+        const userData = localStorage.getItem('currentUser');
+        
+        if (userData) {
+          try {
+            const user = JSON.parse(userData);
+            const roleText = user.role === 'admin' ? 'Admin' : (user.role === 'sales' ? 'Sales' : 'Customer');
+            const initial = (user.name || 'U').charAt(0).toUpperCase();
+            const dashboardUrl = `/dashboard/${user.role}`;
+            
+            authContainer.innerHTML = `
+              <div class="gveh-user-info" onclick="window.location.href='${dashboardUrl}'">
+                <div class="gveh-user-details">
+                  <div class="gveh-user-name">${user.name || 'User'}</div>
+                  <div class="gveh-user-role">${roleText}</div>
+                </div>
+                <div class="gveh-user-avatar">${initial}</div>
+              </div>
+            `;
+          } catch (e) {
+            console.error('Failed to parse user data', e);
+          }
+        }
+      }
+
+      document.addEventListener('DOMContentLoaded', updateAuthStatus);
+    </script>
+
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </body>
+</html>

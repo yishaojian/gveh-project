@@ -3,6 +3,15 @@
 // ==========================================
 // VETERAN.CORE // DEFAULT ENGLISH HOMEPAGE
 // ==========================================
+
+import { supabase } from '../lib/supabase';
+
+const { data: blogs, error } = await supabase
+  .from('blogs')
+  .select('*')
+  .eq('status', 'published')
+  .order('created_at', { ascending: false })
+  .limit(6);
 ---
 
 <html lang="en">
@@ -54,14 +63,80 @@
         border-radius: 4px !important;
         background: transparent !important;
         transition: all 0.3s ease !important;
-        position: absolute !important;
-        top: 25px !important;
-        right: 5% !important;
-        z-index: 999 !important;
       }
       .gveh-lang-top-btn:hover {
         color: #f39c12 !important;
         border-color: #f39c12 !important;
+      }
+
+      .gveh-top-right-container {
+        position: absolute !important;
+        top: 25px !important;
+        right: 5% !important;
+        z-index: 999 !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 12px !important;
+      }
+
+      .gveh-auth-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+        cursor: pointer !important;
+      }
+
+      .gveh-auth-btn:hover {
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-user-info {
+        display: flex !important;
+        align-items: center !important;
+        gap: 10px !important;
+        cursor: pointer !important;
+        padding: 4px 8px !important;
+        border-radius: 8px !important;
+        transition: background-color 0.3s ease !important;
+      }
+      .gveh-user-info:hover {
+        background-color: rgba(245, 158, 11, 0.1) !important;
+      }
+
+      .gveh-user-avatar {
+        width: 36px !important;
+        height: 36px !important;
+        border-radius: 50% !important;
+        background: linear-gradient(90deg, #f59e0b, #ea580c) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+        color: #000 !important;
+      }
+
+      .gveh-user-details {
+        text-align: right !important;
+      }
+
+      .gveh-user-name {
+        font-weight: 500 !important;
+        color: #fff !important;
+        font-size: 13px !important;
+      }
+
+      .gveh-user-role {
+        font-size: 11px !important;
+        color: #9ca3af !important;
       }
 
       .gveh-hero { 
@@ -92,7 +167,7 @@
       
       .gveh-matrix { 
         max-width: 1200px; 
-        margin: 40px auto 180px auto; 
+        margin: 40px auto 60px auto; 
         padding: 0 20px; 
         display: grid; 
         grid-template-columns: repeat(3, 1fr); 
@@ -102,7 +177,12 @@
         background-color: #141417 !important; 
         border: 1px solid rgba(63, 63, 70, 0.4) !important; 
         padding: 32px; 
-        border-radius: 4px; 
+        border-radius: 4px;
+        transition: all 0.3s ease !important;
+      }
+      .gveh-card:hover {
+        border-color: rgba(245, 158, 11, 0.4) !important;
+        transform: translateY(-4px);
       }
       .gveh-card-tag { 
         font-family: 'Space Mono', monospace !important; 
@@ -120,6 +200,118 @@
         font-size: 0.95rem; 
         line-height: 1.6; 
         margin: 0; 
+      }
+
+      .gveh-blog-section {
+        max-width: 1200px;
+        margin: 60px auto 180px auto;
+        padding: 0 20px;
+      }
+
+      .gveh-section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 32px;
+        padding: 0 20px;
+      }
+
+      .gveh-section-title {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: #fff;
+        margin: 0;
+      }
+
+      .gveh-section-link {
+        font-family: 'Space Mono', monospace !important;
+        font-size: 0.875rem;
+        color: #f39c12 !important;
+        text-decoration: none !important;
+        transition: color 0.3s ease !important;
+      }
+      .gveh-section-link:hover {
+        color: #fbbf24 !important;
+      }
+
+      .gveh-blog-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+      }
+
+      .gveh-blog-card {
+        background-color: #141417 !important;
+        border: 1px solid rgba(63, 63, 70, 0.4) !important;
+        padding: 24px;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      }
+
+      .gveh-blog-card:hover {
+        border-color: rgba(245, 158, 11, 0.4) !important;
+        transform: translateX(4px);
+      }
+
+      .gveh-blog-meta {
+        display: flex;
+        gap: 16px;
+        font-size: 0.75rem;
+        color: #71717a;
+        margin-bottom: 12px;
+      }
+
+      .gveh-blog-category {
+        font-family: 'Space Mono', monospace !important;
+        padding: 2px 8px;
+        background-color: rgba(139, 92, 246, 0.15);
+        border: 1px solid rgba(139, 92, 246, 0.3);
+        border-radius: 4px;
+        font-size: 0.7rem;
+        color: #a78bfa;
+      }
+
+      .gveh-blog-title {
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: #fff;
+        margin: 0 0 12px 0;
+        line-height: 1.4;
+      }
+
+      .gveh-blog-excerpt {
+        font-size: 0.9rem;
+        color: #a1a1aa;
+        line-height: 1.6;
+        margin: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .gveh-blog-keywords {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 16px;
+      }
+
+      .gveh-keyword-tag {
+        padding: 3px 10px;
+        background-color: rgba(245, 158, 11, 0.1);
+        border: 1px solid rgba(245, 158, 11, 0.2);
+        border-radius: 9999px;
+        font-size: 0.65rem;
+        color: #f59e0b;
+        font-family: 'Space Mono', monospace;
+      }
+
+      .gveh-empty-blog {
+        text-align: center;
+        padding: 60px 20px;
+        color: #71717a;
       }
 
       .gveh-nav-container {
@@ -190,11 +382,13 @@
           top: auto !important;
           left: auto !important;
         }
-        .gveh-lang-top-btn {
+        .gveh-top-right-container {
           position: static !important;
           top: auto !important;
           right: auto !important;
           margin-bottom: 20px !important;
+          flex-wrap: wrap !important;
+          justify-content: center !important;
         }
         .gveh-header {
           flex-direction: column !important;
@@ -210,8 +404,14 @@
         }
         .gveh-matrix { 
           grid-template-columns: 1fr; 
-          margin-bottom: 140px; 
+          margin-bottom: 40px; 
           padding: 0 20px; 
+        }
+        .gveh-blog-grid {
+          grid-template-columns: 1fr;
+        }
+        .gveh-blog-section {
+          margin-bottom: 140px;
         }
         img {
           max-width: 130px !important;
@@ -231,7 +431,12 @@
       <a href="/" class="gveh-logo-link">
         <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important;" />
       </a>
-      <a href="/zh" class="gveh-lang-top-btn">EN / 中文</a>
+      <div class="gveh-top-right-container">
+        <a href="/zh" class="gveh-lang-top-btn">EN / 中文</a>
+        <div id="gveh-auth-container">
+          <a href="/login" class="gveh-auth-btn">LOGIN</a>
+        </div>
+      </div>
     </header>
 
     <main style="flex: 1;">
@@ -241,21 +446,61 @@
       </section>
 
       <section class="gveh-matrix">
-        <div class="gveh-card">
+        <a href="/blog/category/domestic_vs_global" class="gveh-card" style="text-decoration: none !important;">
           <div class="gveh-card-tag">DOMESTIC VS GLOBAL</div>
           <h2>Domestic vs Global</h2>
           <p>Deep reliability validation, pin-to-pin cross-reference analysis, and transparent alternative options benchmarking tier-1 manufacturers.</p>
-        </div>
-        <div class="gveh-card">
+        </a>
+        <a href="/blog/category/bom_optimization" class="gveh-card" style="text-decoration: none !important;">
           <div class="gveh-card-tag">BOM OPTIMIZATION</div>
           <h2>BOM Optimization</h2>
           <p>Strategic cost reduction without compromising quality. Proactive obsolescence management and resilient supply chain consulting.</p>
-        </div>
-        <div class="gveh-card">
+        </a>
+        <a href="/blog/category/about_us" class="gveh-card" style="text-decoration: none !important;">
           <div class="gveh-card-tag">ABOUT ME</div>
           <h2>About Me</h2>
           <p>Rooted in Shenzhen since 2004. 22 years of elite hardware engineering experience acting as your clear, uncompromised eyes on the component market.</p>
+        </a>
+      </section>
+
+      <section class="gveh-blog-section">
+        <div class="gveh-section-header">
+          <h2 class="gveh-section-title">Latest Articles</h2>
+          <a href="/blog" class="gveh-section-link">View All →</a>
         </div>
+        
+        {blogs && blogs.length > 0 ? (
+          <div class="gveh-blog-grid">
+            {blogs.map((blog) => (
+              <div 
+                key={blog.id} 
+                class="gveh-blog-card" 
+                onclick="window.location.href='/blog/${blog.id}'"
+              >
+                <div class="gveh-blog-meta">
+                  <span class="gveh-blog-category">
+                    {blog.category === 'domestic_vs_global' ? 'Domestic vs Global' : 
+                     blog.category === 'bom_optimization' ? 'BOM Optimization' : 'About Us'}
+                  </span>
+                  <span>{new Date(blog.created_at).toLocaleDateString('en-US')}</span>
+                </div>
+                <h3 class="gveh-blog-title">{blog.title_en || blog.title_cn}</h3>
+                <p class="gveh-blog-excerpt">{blog.content_en || blog.content_cn}</p>
+                {blog.keywords && (
+                  <div class="gveh-blog-keywords">
+                    {blog.keywords.split(',').slice(0, 3).map((keyword, i) => (
+                      <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
+                    ))}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div class="gveh-empty-blog">
+            <p>No articles yet. Stay tuned.</p>
+          </div>
+        )}
       </section>
     </main>
 
@@ -272,6 +517,42 @@
         </a>
       </div>
     </div>
+
+    <script>
+      function updateAuthStatus() {
+        const authContainer = document.getElementById('gveh-auth-container');
+        const userData = localStorage.getItem('currentUser');
+        
+        if (userData) {
+          try {
+            const user = JSON.parse(userData);
+            const roleText = user.role === 'admin' ? 'Admin' : (user.role === 'sales' ? 'Sales' : 'Customer');
+            const initial = (user.name || 'U').charAt(0).toUpperCase();
+            const dashboardUrl = `/dashboard/${user.role}`;
+            
+            authContainer.innerHTML = `
+              <div class="gveh-user-info" onclick="window.location.href='${dashboardUrl}'">
+                <div class="gveh-user-details">
+                  <div class="gveh-user-name">${user.name || 'User'}</div>
+                  <div class="gveh-user-role">${roleText}</div>
+                </div>
+                <div class="gveh-user-avatar">${initial}</div>
+              </div>
+            `;
+          } catch (e) {
+            console.error('Failed to parse user data', e);
+          }
+        } else {
+          authContainer.innerHTML = `
+            <a href="/login" class="gveh-auth-btn">LOGIN</a>
+          `;
+        }
+      }
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        updateAuthStatus();
+      });
+    </script>
 
   </body>
 </html>

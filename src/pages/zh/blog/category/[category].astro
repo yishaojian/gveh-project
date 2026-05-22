@@ -1,17 +1,57 @@
 ---
-// src/pages/zh/index.astro
+// src/pages/zh/blog/category/[category].astro
 // ==========================================
-// VETERAN.CORE // CHINESE HOMEPAGE
+// CHINESE BLOG CATEGORY PAGE
 // ==========================================
 
-import { supabase } from '../../lib/supabase';
+import { supabase } from '../../../../lib/supabase';
 
-const { data: blogs, error } = await supabase
-  .from('blogs')
-  .select('*')
-  .eq('status', 'published')
-  .order('created_at', { ascending: false })
-  .limit(6);
+export async function getStaticPaths() {
+  return [];
+}
+
+const { category } = Astro.params;
+
+const CATEGORY_INFO = {
+  domestic_vs_global: {
+    name: '国产 VS 全球',
+    nameEn: 'Domestic vs Global',
+    icon: '🌍',
+    description: '国产芯片与进口芯片对比分析'
+  },
+  about_us: {
+    name: '关于我们',
+    nameEn: 'About Us',
+    icon: '🏢',
+    description: '公司介绍与行业感悟'
+  },
+  bom_optimization: {
+    name: 'BOM优化',
+    nameEn: 'BOM Optimization',
+    icon: '🔧',
+    description: 'BOM成本优化与替代方案'
+  }
+};
+
+const categoryInfo = CATEGORY_INFO[category as keyof typeof CATEGORY_INFO] || {
+  name: '未知分类',
+  nameEn: 'Unknown',
+  icon: '📄',
+  description: ''
+};
+
+let blogs = [];
+try {
+  const { data } = await supabase
+    .from('blogs')
+    .select('*')
+    .eq('category', category)
+    .eq('status', 'published')
+    .order('created_at', { ascending: false });
+  blogs = data || [];
+} catch (e) {
+  console.error('Error fetching blogs:', e);
+}
 ---
 
 <html lang="zh-CN">
@@ -19,7 +59,8 @@ const { data: blogs, error } = await supabase
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>VETERAN.CORE // 22 年硬件行家与 BOM 元器件代换优化</title>
+    <title>{categoryInfo.name} | VETERAN.CORE</title>
+    <meta name="description" content={categoryInfo.description} />
     
     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
 
@@ -139,103 +180,37 @@ const { data: blogs, error } = await supabase
         color: #9ca3af !important;
       }
 
-      .gveh-hero { 
-        max-width: 1200px; 
-        margin: 180px auto 60px auto; 
-        padding: 0 40px; 
-        text-align: center; 
-      }
-      .gveh-hero h1 { 
-        font-size: 3.5rem; 
-        font-weight: 700; 
-        line-height: 1.3; 
-        margin-bottom: 24px; 
-        color: #ffffff; 
-      }
-      .gveh-hero h1 span { 
-        color: #f39c12 !important; 
-        font-family: 'Space Mono', monospace !important; 
-      }
-      .gveh-hero p { 
-        font-size: 1.25rem; 
-        color: #a1a1aa !important; 
-        max-width: 800px; 
-        margin: 0 auto; 
-        line-height: 1.6; 
-      }
-      
-      .gveh-matrix { 
-        max-width: 1200px; 
-        margin: 40px auto 60px auto; 
-        padding: 0 20px; 
-        display: grid; 
-        grid-template-columns: repeat(3, 1fr); 
-        gap: 24px; 
-      }
-      .gveh-card { 
-        background-color: #141417 !important; 
-        border: 1px solid rgba(63, 63, 70, 0.4) !important; 
-        padding: 32px; 
-        border-radius: 4px;
-        transition: all 0.3s ease !important;
-      }
-      .gveh-card:hover {
-        border-color: rgba(245, 158, 11, 0.4) !important;
-        transform: translateY(-4px);
-      }
-      .gveh-card-tag { 
-        font-family: 'Space Mono', monospace !important; 
-        color: #f39c12 !important; 
-        font-size: 0.75rem; 
-        margin-bottom: 16px; 
-      }
-      .gveh-card h2 { 
-        font-size: 1.5rem; 
-        margin: 0 0 16px 0; 
-        color: #ffffff; 
-      }
-      .gveh-card p { 
-        color: #a1a1aa !important; 
-        font-size: 0.95rem; 
-        line-height: 1.6; 
-        margin: 0; 
+      .gveh-content {
+        max-width: 900px;
+        margin: 140px auto 140px auto;
+        padding: 0 40px;
       }
 
-      .gveh-blog-section {
-        max-width: 1200px;
-        margin: 60px auto 180px auto;
-        padding: 0 20px;
+      .gveh-category-header {
+        margin-bottom: 40px;
       }
 
-      .gveh-section-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 32px;
-        padding: 0 20px;
+      .gveh-category-icon {
+        font-size: 3rem;
+        margin-bottom: 16px;
       }
 
-      .gveh-section-title {
-        font-size: 1.75rem;
+      .gveh-category-title {
+        font-size: 2.5rem;
         font-weight: 700;
+        margin: 0 0 12px 0;
         color: #fff;
+      }
+
+      .gveh-category-desc {
+        font-size: 1.1rem;
+        color: #a1a1aa;
         margin: 0;
       }
 
-      .gveh-section-link {
-        font-family: 'Space Mono', monospace !important;
-        font-size: 0.875rem;
-        color: #f39c12 !important;
-        text-decoration: none !important;
-        transition: color 0.3s ease !important;
-      }
-      .gveh-section-link:hover {
-        color: #fbbf24 !important;
-      }
-
-      .gveh-blog-grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
+      .gveh-blog-list {
+        display: flex;
+        flex-direction: column;
         gap: 24px;
       }
 
@@ -243,7 +218,7 @@ const { data: blogs, error } = await supabase
         background-color: #141417 !important;
         border: 1px solid rgba(63, 63, 70, 0.4) !important;
         padding: 24px;
-        border-radius: 4px;
+        border-radius: 8px;
         transition: all 0.3s ease;
         cursor: pointer;
       }
@@ -253,64 +228,70 @@ const { data: blogs, error } = await supabase
         transform: translateX(4px);
       }
 
-      .gveh-blog-meta {
-        display: flex;
-        gap: 16px;
-        font-size: 0.75rem;
-        color: #71717a;
-        margin-bottom: 12px;
-      }
-
-      .gveh-blog-category {
-        font-family: 'Space Mono', monospace !important;
-        padding: 2px 8px;
-        background-color: rgba(139, 92, 246, 0.15);
-        border: 1px solid rgba(139, 92, 246, 0.3);
-        border-radius: 4px;
-        font-size: 0.7rem;
-        color: #a78bfa;
-      }
-
       .gveh-blog-title {
-        font-size: 1.125rem;
+        font-size: 1.25rem;
         font-weight: 600;
         color: #fff;
-        margin: 0 0 12px 0;
-        line-height: 1.4;
+        margin: 0 0 8px 0;
       }
 
       .gveh-blog-excerpt {
-        font-size: 0.9rem;
+        font-size: 0.95rem;
         color: #a1a1aa;
         line-height: 1.6;
-        margin: 0;
+        margin: 0 0 12px 0;
         display: -webkit-box;
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
       }
 
+      .gveh-blog-meta {
+        display: flex;
+        gap: 16px;
+        font-size: 0.8rem;
+        color: #71717a;
+      }
+
       .gveh-blog-keywords {
         display: flex;
         flex-wrap: wrap;
-        gap: 6px;
-        margin-top: 16px;
+        gap: 8px;
+        margin-top: 12px;
       }
 
       .gveh-keyword-tag {
-        padding: 3px 10px;
-        background-color: rgba(245, 158, 11, 0.1);
-        border: 1px solid rgba(245, 158, 11, 0.2);
+        padding: 4px 12px;
+        background-color: rgba(139, 92, 246, 0.15);
+        border: 1px solid rgba(139, 92, 246, 0.3);
         border-radius: 9999px;
-        font-size: 0.65rem;
-        color: #f59e0b;
+        font-size: 0.75rem;
+        color: #a78bfa;
         font-family: 'Space Mono', monospace;
       }
 
-      .gveh-empty-blog {
+      .gveh-empty-state {
         text-align: center;
         padding: 60px 20px;
+      }
+
+      .gveh-empty-icon {
+        font-size: 4rem;
+        margin-bottom: 16px;
+        opacity: 0.5;
+      }
+
+      .gveh-empty-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #fff;
+        margin: 0 0 8px 0;
+      }
+
+      .gveh-empty-desc {
+        font-size: 0.95rem;
         color: #71717a;
+        margin: 0;
       }
 
       .gveh-nav-container {
@@ -373,6 +354,13 @@ const { data: blogs, error } = await supabase
       }
 
       @media (max-width: 768px) {
+        .gveh-content {
+          margin: 100px auto 120px auto;
+          padding: 0 20px;
+        }
+        .gveh-category-title {
+          font-size: 1.75rem;
+        }
         .gveh-logo-link {
           width: 130px !important;
           position: static !important;
@@ -394,34 +382,6 @@ const { data: blogs, error } = await supabase
           align-items: center !important;
           padding: 20px 5% !important;
         }
-        .gveh-hero { 
-          margin: 20px auto 30px auto; 
-          padding: 0 20px; 
-        }
-        .gveh-hero h1 { 
-          font-size: 2rem; 
-        }
-        .gveh-matrix { 
-          grid-template-columns: 1fr; 
-          margin-bottom: 40px; 
-          padding: 0 20px; 
-        }
-        .gveh-blog-grid {
-          grid-template-columns: 1fr;
-        }
-        .gveh-blog-section {
-          margin-bottom: 140px;
-        }
-        img {
-          max-width: 130px !important;
-          height: auto !important;
-          margin: 0 auto !important;
-          display: block !important;
-        }
-        h1 {
-          text-align: center !important;
-          padding-top: 15px !important;
-        }
       }
     </style>
   </head>
@@ -431,81 +391,56 @@ const { data: blogs, error } = await supabase
         <img src="/pnds-logo.png" alt="精挑优选每一颗芯片" style="width: 100% !important; height: auto !important;" />
       </a>
       <div class="gveh-top-right-container">
-        <a href="/" class="gveh-lang-top-btn">EN / 中文</a>
+        <a href="/blog/category/{category}" class="gveh-lang-top-btn">EN / 中文</a>
         <div id="gveh-auth-container">
           <a href="/login" class="gveh-auth-btn">登录</a>
         </div>
       </div>
     </header>
 
-    <main style="flex: 1;">
-      <section class="gveh-hero">
-        <h1>不止是采购元器件。<br />凭借 <span>22 年</span> 硬件行业积淀，精挑优选每一颗芯片。</h1>
-        <p>[坐标：深圳] 为全球工程师提供独立技术分析、品质验证与供应链风险缓解。</p>
-      </section>
+    <main class="gveh-content">
+      <div class="gveh-category-header">
+        <div class="gveh-category-icon">{categoryInfo.icon}</div>
+        <h1 class="gveh-category-title">{categoryInfo.name}</h1>
+        <p class="gveh-category-desc">{categoryInfo.description}</p>
+      </div>
 
-      <section class="gveh-matrix">
-        <a href="/zh/blog/category/domestic_vs_global" class="gveh-card" style="text-decoration: none !important;">
-          <div class="gveh-card-tag">国产 vs 全球</div>
-          <h2>国产 vs 全球</h2>
-          <p>深度可靠性测试、交叉参考分析，以及国产替代方案与一线品牌的真实对比。</p>
-        </a>
-        <a href="/zh/blog/category/bom_optimization" class="gveh-card" style="text-decoration: none !important;">
-          <div class="gveh-card-tag">BOM 优化</div>
-          <h2>BOM 优化</h2>
-          <p>不降低品质的成本降低策略。生命周期管理和供应链风险缓解指南。</p>
-        </a>
-        <a href="/zh/blog/category/about_us" class="gveh-card" style="text-decoration: none !important;">
-          <div class="gveh-card-tag">关于我</div>
-          <h2>关于我</h2>
-          <p>2004 年扎根深圳，22 年硬核硬件研发及市场经验，做您在元器件市场清澈透明的耳目。</p>
-        </a>
-      </section>
-
-      <section class="gveh-blog-section">
-        <div class="gveh-section-header">
-          <h2 class="gveh-section-title">最新文章</h2>
-          <a href="/zh/blog" class="gveh-section-link">查看全部 →</a>
-        </div>
-        
-        {blogs && blogs.length > 0 ? (
-          <div class="gveh-blog-grid">
-            {blogs.map((blog) => (
-              <div 
-                key={blog.id} 
-                class="gveh-blog-card" 
-                onclick="window.location.href='/zh/blog/${blog.id}'"
-              >
-                <div class="gveh-blog-meta">
-                  <span class="gveh-blog-category">
-                    {blog.category === 'domestic_vs_global' ? '国产 VS 全球' : 
-                     blog.category === 'bom_optimization' ? 'BOM优化' : '关于我们'}
-                  </span>
-                  <span>{new Date(blog.created_at).toLocaleDateString('zh-CN')}</span>
-                </div>
-                <h3 class="gveh-blog-title">{blog.title_cn || blog.title_en}</h3>
-                <p class="gveh-blog-excerpt">{blog.content_cn || blog.content_en}</p>
-                {blog.keywords && (
-                  <div class="gveh-blog-keywords">
-                    {blog.keywords.split(',').slice(0, 3).map((keyword, i) => (
-                      <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
-                    ))}
-                  </div>
-                )}
+      {blogs.length > 0 ? (
+        <div class="gveh-blog-list">
+          {blogs.map((blog) => (
+            <div 
+              key={blog.id} 
+              class="gveh-blog-card" 
+              onclick="window.location.href='/zh/blog/${blog.id}'"
+            >
+              <h3 class="gveh-blog-title">{blog.title_cn || blog.title_en}</h3>
+              <p class="gveh-blog-excerpt">{blog.content_cn || blog.content_en}</p>
+              <div class="gveh-blog-meta">
+                <span>{new Date(blog.created_at).toLocaleDateString('zh-CN')}</span>
+                {blog.author_name && <span>{blog.author_name}</span>}
               </div>
-            ))}
-          </div>
-        ) : (
-          <div class="gveh-empty-blog">
-            <p>暂无文章，敬请期待...</p>
-          </div>
-        )}
-      </section>
+              {blog.keywords && (
+                <div class="gveh-blog-keywords">
+                  {blog.keywords.split(',').slice(0, 3).map((keyword, i) => (
+                    <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
+                  ))}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="gveh-empty-state">
+          <div class="gveh-empty-icon">📭</div>
+          <h3 class="gveh-empty-title">暂无文章</h3>
+          <p class="gveh-empty-desc">该板块尚未发布任何文章，敬请期待。</p>
+        </div>
+      )}
     </main>
 
     <div class="gveh-nav-container">
       <div class="gveh-hover-pill">
-        <a href="/zh" class="gveh-nav-item active">
+        <a href="/zh" class="gveh-nav-item">
           <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
           <span class="gveh-nav-text">HOME</span>
         </a>
@@ -552,6 +487,5 @@ const { data: blogs, error } = await supabase
         updateAuthStatus();
       });
     </script>
-
   </body>
 </html>

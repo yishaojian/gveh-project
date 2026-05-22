@@ -54,14 +54,80 @@
         border-radius: 4px !important;
         background: transparent !important;
         transition: all 0.3s ease !important;
-        position: absolute !important;
-        top: 25px !important;
-        right: 5% !important;
-        z-index: 999 !important;
       }
       .gveh-lang-top-btn:hover {
         color: #f39c12 !important;
         border-color: #f39c12 !important;
+      }
+
+      .gveh-top-right-container {
+        position: absolute !important;
+        top: 25px !important;
+        right: 5% !important;
+        z-index: 999 !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 12px !important;
+      }
+
+      .gveh-auth-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+        cursor: pointer !important;
+      }
+
+      .gveh-auth-btn:hover {
+        color: #f39c12 !important;
+        border-color: #f39c12 !important;
+      }
+
+      .gveh-user-info {
+        display: flex !important;
+        align-items: center !important;
+        gap: 10px !important;
+        cursor: pointer !important;
+        padding: 4px 8px !important;
+        border-radius: 8px !important;
+        transition: background-color 0.3s ease !important;
+      }
+      .gveh-user-info:hover {
+        background-color: rgba(245, 158, 11, 0.1) !important;
+      }
+
+      .gveh-user-avatar {
+        width: 36px !important;
+        height: 36px !important;
+        border-radius: 50% !important;
+        background: linear-gradient(90deg, #f59e0b, #ea580c) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+        color: #000 !important;
+      }
+
+      .gveh-user-details {
+        text-align: right !important;
+      }
+
+      .gveh-user-name {
+        font-weight: 500 !important;
+        color: #fff !important;
+        font-size: 13px !important;
+      }
+
+      .gveh-user-role {
+        font-size: 11px !important;
+        color: #9ca3af !important;
       }
 
       .gveh-hero { 
@@ -288,11 +354,13 @@
           top: auto !important;
           left: auto !important;
         }
-        .gveh-lang-top-btn {
+        .gveh-top-right-container {
           position: static !important;
           top: auto !important;
           right: auto !important;
           margin-bottom: 20px !important;
+          flex-wrap: wrap !important;
+          justify-content: center !important;
         }
         .gveh-header {
           flex-direction: column !important;
@@ -330,7 +398,12 @@
       <a href="/zh" class="gveh-logo-link">
         <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important;" />
       </a>
-      <a href="/bom-hub" class="gveh-lang-top-btn">EN / 中文</a>
+      <div class="gveh-top-right-container">
+        <a href="/bom-hub" class="gveh-lang-top-btn">EN / 中文</a>
+        <div id="gveh-auth-container">
+          <a href="/login" class="gveh-auth-btn">登录</a>
+        </div>
+      </div>
     </header>
 
     <main style="flex: 1;">
@@ -398,6 +471,42 @@
         </a>
       </div>
     </div>
+
+    <script>
+      function updateAuthStatus() {
+        const authContainer = document.getElementById('gveh-auth-container');
+        const userData = localStorage.getItem('currentUser');
+        
+        if (userData) {
+          try {
+            const user = JSON.parse(userData);
+            const roleText = user.role === 'admin' ? '管理员' : (user.role === 'sales' ? '业务员' : '客户');
+            const initial = (user.name || 'U').charAt(0).toUpperCase();
+            const dashboardUrl = `/dashboard/${user.role}`;
+            
+            authContainer.innerHTML = `
+              <div class="gveh-user-info" onclick="window.location.href='${dashboardUrl}'">
+                <div class="gveh-user-details">
+                  <div class="gveh-user-name">${user.name || '用户'}</div>
+                  <div class="gveh-user-role">${roleText}</div>
+                </div>
+                <div class="gveh-user-avatar">${initial}</div>
+              </div>
+            `;
+          } catch (e) {
+            console.error('Failed to parse user data', e);
+          }
+        } else {
+          authContainer.innerHTML = `
+            <a href="/login" class="gveh-auth-btn">登录</a>
+          `;
+        }
+      }
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        updateAuthStatus();
+      });
+    </script>
 
   </body>
 </html>
