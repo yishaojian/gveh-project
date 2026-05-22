@@ -4,11 +4,8 @@ import vercel from '@astrojs/vercel/serverless';
 
 export default defineConfig({
   integrations: [tailwind()],
-  devToolbar: {
-    enabled: false,
-  },
   output: 'server',
   adapter: vercel({
-    nodeVersion: '20',
-  }),
+    webAnalytics: { enabled: true }
+  })
 });
