@@ -6,9 +6,9 @@ const vcConfigPath = path.join('.vercel', 'output', 'functions', '_render.func',
 try {
   if (fs.existsSync(vcConfigPath)) {
     let config = fs.readFileSync(vcConfigPath, 'utf8');
-    config = config.replace(/"runtime":\s*"nodejs\d+\.x"/g, '"runtime": "nodejs24.x"');
+    config = config.replace(/"runtime":\s*"nodejs\d+\.x"/g, '"runtime": "nodejs20.x"');
     fs.writeFileSync(vcConfigPath, config);
-    console.log('✅ 已强制设置 Vercel 运行时为 nodejs24.x');
+    console.log('✅ 已强制设置 Vercel 运行时为 nodejs20.x');
   } else {
     console.log('⚠️ .vc-config.json 不存在');
   }
