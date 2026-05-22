@@ -6,6 +6,7 @@ export default defineConfig({
   integrations: [tailwind()],
   output: 'server',
   adapter: vercel({
-    webAnalytics: { enabled: true }
+    webAnalytics: { enabled: true },
+    nodeVersion: 20,
   })
 });
