@@ -3,15 +3,7 @@
 // ==========================================
 // VETERAN.CORE // DEFAULT ENGLISH HOMEPAGE
 // ==========================================
-
-import { supabase } from '../lib/supabase';
-
-const { data: blogs, error } = await supabase
-  .from('blogs')
-  .select('*')
-  .eq('status', 'published')
-  .order('created_at', { ascending: false })
-  .limit(6);
+// client:load - 确保只在客户端执行数据库查询
 ---
 
 <html lang="en">
@@ -314,6 +306,12 @@ const { data: blogs, error } = await supabase
         color: #71717a;
       }
 
+      .gveh-loading {
+        text-align: center;
+        padding: 40px 20px;
+        color: #71717a;
+      }
+
       .gveh-nav-container {
         position: fixed !important; 
         bottom: 0 !important; 
@@ -469,38 +467,9 @@ const { data: blogs, error } = await supabase
           <a href="/blog" class="gveh-section-link">View All →</a>
         </div>
         
-        {blogs && blogs.length > 0 ? (
-          <div class="gveh-blog-grid">
-            {blogs.map((blog) => (
-              <div 
-                key={blog.id} 
-                class="gveh-blog-card" 
-                onclick="window.location.href='/blog/${blog.id}'"
-              >
-                <div class="gveh-blog-meta">
-                  <span class="gveh-blog-category">
-                    {blog.category === 'domestic_vs_global' ? 'Domestic vs Global' : 
-                     blog.category === 'bom_optimization' ? 'BOM Optimization' : 'About Us'}
-                  </span>
-                  <span>{new Date(blog.created_at).toLocaleDateString('en-US')}</span>
-                </div>
-                <h3 class="gveh-blog-title">{blog.title_en || blog.title_cn}</h3>
-                <p class="gveh-blog-excerpt">{blog.content_en || blog.content_cn}</p>
-                {blog.keywords && (
-                  <div class="gveh-blog-keywords">
-                    {blog.keywords.split(',').slice(0, 3).map((keyword, i) => (
-                      <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
-        ) : (
-          <div class="gveh-empty-blog">
-            <p>No articles yet. Stay tuned.</p>
-          </div>
-        )}
+        <div id="blogContainer">
+          <div class="gveh-loading">Loading articles...</div>
+        </div>
       </section>
     </main>
 
@@ -519,6 +488,47 @@ const { data: blogs, error } = await supabase
     </div>
 
     <script>
+      // 客户端加载博客数据，避免静态构建时出错
+      async function loadBlogs() {
+        const container = document.getElementById('blogContainer');
+        
+        try {
+          const response = await fetch('/api/blog/list?limit=6');
+          const result = await response.json();
+          const blogs = result.data || [];
+          
+          if (blogs.length > 0) {
+            let html = '<div class="gveh-blog-grid">';
+            blogs.forEach(blog => {
+              const categoryName = blog.category === 'domestic_vs_global' ? 'Domestic vs Global' : 
+                                  blog.category === 'bom_optimization' ? 'BOM Optimization' : 'About Us';
+              const keywordsHtml = blog.keywords ? blog.keywords.split(',').slice(0, 3).map((keyword, i) => 
+                `<span key="${i}" class="gveh-keyword-tag">${keyword.trim()}</span>`
+              ).join('') : '';
+              
+              html += `
+                <div class="gveh-blog-card" onclick="window.location.href='/blog/${blog.id}'">
+                  <div class="gveh-blog-meta">
+                    <span class="gveh-blog-category">${categoryName}</span>
+                    <span>${new Date(blog.created_at).toLocaleDateString('en-US')}</span>
+                  </div>
+                  <h3 class="gveh-blog-title">${blog.title_en || blog.title_cn}</h3>
+                  <p class="gveh-blog-excerpt">${blog.content_en || blog.content_cn}</p>
+                  ${keywordsHtml ? `<div class="gveh-blog-keywords">${keywordsHtml}</div>` : ''}
+                </div>
+              `;
+            });
+            html += '</div>';
+            container.innerHTML = html;
+          } else {
+            container.innerHTML = '<div class="gveh-empty-blog"><p>No articles yet. Stay tuned.</p></div>';
+          }
+        } catch (error) {
+          console.error('Failed to load blogs:', error);
+          container.innerHTML = '<div class="gveh-empty-blog"><p>Unable to load articles at this time.</p></div>';
+        }
+      }
+
       function updateAuthStatus() {
         const authContainer = document.getElementById('gveh-auth-container');
         const userData = localStorage.getItem('currentUser');
@@ -551,6 +561,7 @@ const { data: blogs, error } = await supabase
       
       document.addEventListener('DOMContentLoaded', function() {
         updateAuthStatus();
+        loadBlogs();
       });
     </script>
 
