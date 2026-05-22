@@ -1,13 +1,5 @@
 {
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "framework": "astro",
-  "functions": {
-    "**/*.ts": {
-      "runtime": "nodejs20.x"
-    },
-    "**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "framework": "astro"
 }
