@@ -1,0 +1,208 @@
+---
+// src/pages/pn/[partNumber].astro
+// PNDS 型号 SEO 页 — 复用 gveh-project 原版深色科技风
+import fs from 'node:fs';
+import path from 'node:path';
+
+export const prerender = true;
+
+export function getStaticPaths() {
+  const parts = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
+  );
+  return parts.map((p) => ({
+    // 型号含 / 时用 ~ 替代（Astro 路径段不能含 /），页面内还原
+    params: { partNumber: p.pn.replace(/\//g, '~') },
+    props: { part: p },
+  }));
+}
+
+const { part } = Astro.props;
+const raw = Astro.params.partNumber || '';
+const partNumber = decodeURIComponent(raw).replace(/~/g, '/');
+
+const pageTitle = part
+  ? `${partNumber} — ${part.brand || 'Electronic Component'} | PNDS Panda Hardware`
+  : 'Part Not Found | PNDS';
+
+const pageDesc = part
+  ? (part.description || `${partNumber} electronic component sourcing, cross-reference and lifecycle support from PNDS.`)
+  : 'Part not found.';
+
+const jsonLd = part
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: partNumber,
+      description: pageDesc,
+      brand: part.brand ? { '@type': 'Brand', name: part.brand } : undefined,
+      category: part.category || undefined,
+      additionalProperty: [
+        part.pkg ? { '@type': 'PropertyValue', name: 'Package', value: part.pkg } : undefined,
+        part.lifecycle ? { '@type': 'PropertyValue', name: 'Lifecycle', value: part.lifecycle } : undefined,
+      ].filter(Boolean),
+      offers: { '@type': 'Offer', availability: 'https://schema.org/InStock' },
+    }
+  : undefined;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDesc} />
+    <link rel="canonical" href={`https://www.pnds.com.cn/pn/${raw}`} />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <style is:inline>
+      body {
+        margin: 0; padding: 0;
+        background-color: #09090b !important;
+        color: #fafafa !important;
+        font-family: 'Inter', sans-serif;
+        min-height: 100vh;
+        display: flex; flex-direction: column;
+      }
+      .gveh-header {
+        padding: 25px 5%;
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: flex-start !important;
+      }
+      .gveh-logo-link {
+        text-decoration: none !important;
+        display: block !important;
+        width: 180px !important;
+      }
+      .gveh-logo-link img { width: 100% !important; height: auto !important; }
+      .gveh-top-right-container { display: flex !important; align-items: center !important; gap: 16px !important; }
+      .gveh-lang-top-btn, .gveh-auth-btn {
+        text-decoration: none !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important; font-weight: 700 !important;
+        color: #aaa !important;
+        border: 1px solid #333 !important;
+        padding: 6px 12px !important;
+        border-radius: 4px !important;
+        background: transparent !important;
+        transition: all 0.3s ease !important;
+      }
+      .gveh-lang-top-btn:hover, .gveh-auth-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
+      .pn-wrap { flex: 1; max-width: 900px; margin: 0 auto; padding: 30px 5% 80px; width: 100%; box-sizing: border-box; }
+      .pn-breadcrumb {
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important; color: #71717a !important;
+        margin-bottom: 28px !important;
+      }
+      .pn-breadcrumb a { color: #a78bfa !important; text-decoration: none !important; }
+      .pn-breadcrumb a:hover { color: #f39c12 !important; }
+      .pn-title {
+        font-family: 'Space Mono', monospace !important;
+        font-size: clamp(28px, 4.5vw, 44px) !important;
+        font-weight: 700 !important;
+        margin: 0 0 20px 0 !important;
+        color: #fafafa !important;
+        word-break: break-all !important;
+      }
+      .pn-badges { display: flex !important; flex-wrap: wrap !important; gap: 10px !important; margin-bottom: 32px !important; }
+      .pn-badge {
+        font-family: 'Space Mono', monospace !important;
+        font-size: 12px !important; font-weight: 700 !important;
+        padding: 6px 14px !important; border-radius: 999px !important;
+        border: 1px solid #333 !important; color: #a1a1aa !important;
+      }
+      .pn-badge.brand { color: #fbbf24 !important; border-color: rgba(251,191,36,0.4) !important; }
+      .pn-card {
+        border: 1px solid #27272a !important;
+        border-radius: 12px !important;
+        padding: 28px !important;
+        background: #141417 !important;
+        margin-bottom: 24px !important;
+      }
+      .pn-card h2 {
+        font-family: 'Space Mono', monospace !important;
+        font-size: 14px !important; letter-spacing: 1px !important;
+        text-transform: uppercase !important;
+        color: #71717a !important; margin: 0 0 14px 0 !important;
+      }
+      .pn-desc { font-size: 17px !important; line-height: 1.9 !important; color: #d4d4d8 !important; margin: 0 !important; }
+      .pn-field { display: flex !important; justify-content: space-between !important; padding: 10px 0 !important; border-bottom: 1px solid #1f1f23 !important; font-size: 15px !important; }
+      .pn-field:last-child { border-bottom: none !important; }
+      .pn-field .k { color: #71717a !important; }
+      .pn-field .v { color: #fafafa !important; font-family: 'Space Mono', monospace !important; font-size: 14px !important; }
+      .pn-cta {
+        display: inline-block !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 13px !important; font-weight: 700 !important;
+        color: #09090b !important; background: #f39c12 !important;
+        padding: 14px 32px !important; border-radius: 6px !important;
+        text-decoration: none !important; transition: all 0.3s ease !important;
+      }
+      .pn-cta:hover { background: #fbbf24 !important; }
+      .pn-back { margin-top: 28px !important; }
+      .pn-back a {
+        font-family: 'Space Mono', monospace !important; font-size: 12px !important;
+        color: #71717a !important; text-decoration: none !important;
+      }
+      .pn-back a:hover { color: #f39c12 !important; }
+      .gveh-footer {
+        padding: 30px 5% !important;
+        border-top: 1px solid #1f1f23 !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 11px !important; color: #52525b !important;
+        text-align: center !important;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="gveh-header">
+      <a href="/" class="gveh-logo-link">
+        <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" />
+      </a>
+      <div class="gveh-top-right-container">
+        <a href="/zh" class="gveh-lang-top-btn">EN / 中文</a>
+        <a href="/login" class="gveh-auth-btn">LOGIN</a>
+      </div>
+    </header>
+
+    <main class="pn-wrap">
+      {part ? (
+        <>
+          <nav class="pn-breadcrumb">
+            <a href="/">Home</a> / Part / <strong>{partNumber}</strong>
+          </nav>
+          <h1 class="pn-title">{partNumber}</h1>
+          <div class="pn-badges">
+            {part.brand && <span class="pn-badge brand">{part.brand}</span>}
+            {part.category && <span class="pn-badge">{part.category}</span>}
+            {part.pkg && <span class="pn-badge">{part.pkg}</span>}
+          </div>
+          <div class="pn-card">
+            <h2>Description</h2>
+            <p class="pn-desc">
+              {part.description || `${partNumber} — sourcing, cross-reference and lifecycle support from PNDS.`}
+            </p>
+          </div>
+          <div class="pn-card">
+            <h2>Specifications</h2>
+            <div class="pn-field"><span class="k">Part Number</span><span class="v">{partNumber}</span></div>
+            {part.brand && <div class="pn-field"><span class="k">Manufacturer</span><span class="v">{part.brand}</span></div>}
+            {part.category && <div class="pn-field"><span class="k">Category</span><span class="v">{part.category}</span></div>}
+            {part.pkg && <div class="pn-field"><span class="k">Package</span><span class="v">{part.pkg}</span></div>}
+            {part.lifecycle && <div class="pn-field"><span class="k">Lifecycle</span><span class="v">{part.lifecycle}</span></div>}
+          </div>
+          <a class="pn-cta" href="/bom-hub">Request a Quote →</a>
+          <div class="pn-back"><a href="/">← Back to Home</a></div>
+        </>
+      ) : (
+        <h1 class="pn-title">Part Not Found</h1>
+      )}
+    </main>
+
+    <footer class="gveh-footer">
+      © 2026 PNDS — Panda Native Delicate Supply · Shenzhen
+    </footer>
+  </body>
+</html>

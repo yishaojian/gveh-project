@@ -1,0 +1,802 @@
+[
+ {
+  "pn": "OPA2197IDR",
+  "brand": "Texas Instruments",
+  "category": "Amplifier",
+  "description": "精密放大器 Dual 36-V precision rail-to-rail input A A 595-OPA2197ID",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 27V Unidirect",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8C-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  1.5K",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "1.5SMC200A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 200V Unidirect",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC400A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  1.5S",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "12CTQ045STRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 12 Amp 45 Volt Common Cathode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "16CTQ080PBF",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "16CTQ080PBF",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "16RIA80",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 800 Volt 16 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1734260-2",
+  "brand": "TE Connectivity",
+  "category": "集管和线壳",
+  "description": "集管和线壳 2 POS HDR VT SMT 1.25mm",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "1BUGJS",
+  "brand": "",
+  "category": "IC",
+  "description": "1BUGJS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1EDN7511B",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 LOW SIDE DRIVERS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1EDN7550B",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 LOW SIDE DRIVERS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4004-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 Vr/400V Io/1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4006-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 Vr/800V Io/1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148W-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 75V, 300mA Small Signal Fast Switching Diode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148W-HE3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 Small Signal Fast Switching Diode",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "1N4148WS-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 100 Volt 350mA",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "1N4148WS-HE3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 100 Volt 350mA 4ns",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "1N5062TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 800 Volt 50 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5399-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 1000 Volt",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5711",
+  "brand": "Microchip Technology",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 70V 33MA Small-Signal Schottky THT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5822",
+  "brand": "Microchip Technology",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V 3A Small-Signal Schottky THT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N6484-E3/96",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1000 Volt",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS355TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 SWITCH 90V 100MA",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "1SS355VMFHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 90V Vrm 0.1A IO SOD-323FL; UMD2",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS356TW11",
+  "brand": "ROHM Semiconductor",
+  "category": "PIN 二极管",
+  "description": "PIN 二极管 SW 35V 100MA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "1SS356VMTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 RECT 35V  .1A    SM  BAND SWIT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS380VMFHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 80V Vrm 0.1A IO SOD-323FL; UMD2",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS400CMT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 High Speed Switching Diode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS400SMT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 Diode Switching 90V 0.1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD623ARZ",
+  "brand": "Analog Devices",
+  "category": "Amplifier",
+  "description": "仪表放大器 SOIC SINGLE SUPPLY RAIL-RAIL L/C IN AMP",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OCP0S3128Q-A0",
+  "brand": "Kingston",
+  "category": "固态硬盘 - SSD",
+  "description": "固态硬盘 - SSD 2.5\" 128GB SATA3 SSD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC512-E/SM",
+  "brand": "Microchip Technology",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 64kx8 - 2.5V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D105X9016A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 1uF 16volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D105X9025A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 1uF 25volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D105X9035A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 1uF 35volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D105X9035B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 1uF 35volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9010A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 10volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9016A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 16volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9016B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 16volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9016C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 16volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9035C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 35volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D106X9035D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 35volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X0010B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 293D107X0010B2Te3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X9010D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 10volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X9016D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 16volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X9020D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 20volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D107X96R3C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 6.3volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D156X9025B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 293D156X9025B2Te3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D157X96R3C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 150uF 6.3volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D224X9035A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 0.22uF 35volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D225X9016A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 2.2uF 16volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D225X9025B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 2.2uF 25volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D225X9035B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 2.2uF 35volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9010A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 10volt 10% A Case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9010B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 10volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9016B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 16volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9016D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 16volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9020C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 20volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9025C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 25volt 10% C Case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X9025D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 25volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X96R3A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 6.3volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D226X96R3B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 6.3volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D227X0004B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 293D 220m uF 0.2 4V 3528-21 , 7\" reel",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D227X96R3C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 220uF 6.3volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D227X96R3D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 220uF 6.3volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D334X9035A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 0.33uF 35volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D335X9035B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 3.3uF 35volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X9016C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 16volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X9020C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 20volt 10% C Case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X9025D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 25volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X9025E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 25volts 10% E case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D336X96R3A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 6.3volt 10% A Case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D474X9035A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 0.47uF 35volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D475X9016B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 4.7uF 16volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D475X9025B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 4.7uF 25volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D476X9010B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 10volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D476X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D476X9016C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 16volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D476X9020D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 20volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D476X9035E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 293D476X9035E2Te3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D477X9010E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 470uF 10volts 10% E case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D477X96R3D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 470uF 6.3volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D685X9025B2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 6.8uF 25volts 10% B case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "293D686X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 68uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "298D476X0004M2T",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 4volts 20% M case MAP",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2N7002K-T1-GE3",
+  "brand": "Vishay",
+  "category": "MOSFET",
+  "description": "MOSFET 60V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1036KT146Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1036KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1037AKT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1576AT106Q",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1576AT106S",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1576U3HZGT106Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) -50V; -150mA Gen Pur. Amplifier",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1576U3HZGT106R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) GP Transistor -50V; -150mA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1576U3T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V -0.15A 0.2W SOT-323; SC-70; UMT",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1577T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1774TLQ",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1774TLR",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ }
+]
