@@ -798,5 +798,805 @@
   "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-416",
   "pkg": "SOT-416",
   "lifecycle": ""
+ },
+ {
+  "pn": "2SA1834TLR",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 20V 10A",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SA2029T2LQ",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA2029T2LR",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR PNP GEN. PURPOSE HFE RANK 'R'",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA2030T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 12V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA2071T100Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR 60V3A PNP CPT3;HI VLT DISCHRG",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SA2094TLQ",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANS GP BJT PNP 60V 2A 3PIN",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2SAR293P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -1A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR502UBTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Digital Transtr Driver",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR512P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -2A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR512RTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V -2A Driver Transistor",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR513PFRAT100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP SOT-89 -1A 180 to 450hFE -50V",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR513RTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) I2C BUS 1Kbit EEPROM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR523EBTL",
+  "brand": "ROHM",
+  "category": "Transistor",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP, SOT-416FL, -50V -100mA, General Purpose Amplification Transistor",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR523UBTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) GP Amplification Trans",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR533P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V Vceo -3A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR543RTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Linear Constant Current VCM Driver",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR552P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -3A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR554P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V Vceo -2A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SAR573D3FRATL",
+  "brand": "ROHM",
+  "category": "Transistor",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP, TO-252 (DPAK), -50V -3A, Power Transistor",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB1188T100Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 2A SO-89",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SB1188T100R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 2A SO-89",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SB1197KT146Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.8A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB1197KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.8A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB1198KT146Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 80V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB1198KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 80V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB1708TL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 30V 3A",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2SB1731TL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 30V 1.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC2411KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC2412KT146Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC2412KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3838KT146P",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SC3906KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 120V 50MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3906KT146S",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 120V 50MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4081T106Q",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4081T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4081U3HZGT106Q",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A 0.2W SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4081U3HZGT106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A 0.2W SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4082T106P",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 20V 50MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4083T106N",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4083T106P",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2SC4097T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.5A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4098T106P",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN RF AMP",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SC4617TLR",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5658T2LQ",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5658T2LR",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5662T2LP",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2SC5663T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 12V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5824T100Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 60V 3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5824T100R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "2SC5824T100R",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5876U3T106Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Medium power transistor (60V, 0.5A)",
+  "pkg": "",
+  "lifecycle": "New Product"
+ },
+ {
+  "pn": "2SC5876U3T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) SOT-323 BIPOLAR BJT NPN",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5917TLR",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) HIGH VOLT 1A",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2SCR293P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V Vceo 1A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR502UBTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Digital Transtr Driver",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR512P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V Vceo 2A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR513P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V Vceo 1A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR513RTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Trans GP BJT NPN 50V 1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR523EBTL",
+  "brand": "ROHM",
+  "category": "Transistor",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN, SOT-416FL, 50V 100mA, General Purpose Amplification Transistor",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR523UBTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Trans NPN GP 50V 0.1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR533P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V Vceo 3A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR543RTL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Isolated AC/DC Converter",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SCR554P5T100",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 80V Vceo 1.5A Ic MPT3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1383KT146B",
+  "brand": "ROHM Semiconductor",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN 32V 0.3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1484KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1664T100Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 1A",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SD1766T100R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 2A",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SD1781KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.8A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1782KT146R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 80V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1898T100R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 80V 1A",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SD1949T106Q",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1949T106R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2114KT146V",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 20V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2142KT146",
+  "brand": "ROHM Semiconductor",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 DARL NPN 30V .3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2226KT146V",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2226KT146W",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2537T100V",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 25V 1.2A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2673TL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V 3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2701TL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 12V 2A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2703TL",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) 30V 1A NPN LOW",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2704KT146",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR BIPOLAR NPN; 30Vebo; 0.3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD2707T2LV",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK2731T146",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 30V 200MA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "2SK3019TL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "2SK3019TL",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK3065T100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "2SK3065T100",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK3541T2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "2SK3541T2L",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2STF1360",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "2STF1360",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2STF2360",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "2STF2360",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2STR1215",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Lo Vltg FAST SWITCH Hi GAIN PNP",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "2STR2160",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "2STR2160",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX828EUK",
+  "brand": "onsemi",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Switched Cap Voltage",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LMV321IDBVR",
+  "brand": "Texas Instruments",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low V R/R A 595-LMV3 21IDBVT A 595-LMV32 A 595-LMV321IDBVT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "40L15CTPBF",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "40L15CTPBF",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM385M3X-1.2",
+  "brand": "Texas Instruments",
+  "category": "Diode",
+  "description": "参考电压 1.235-V, 0C to 70C,  micropower voltage reference diode 3-SOT-23 0 to 70",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5034800640",
+  "brand": "Molex",
+  "category": "FFC & FPC连接器",
+  "description": "FFC & FPC连接器 .5MM PTCH FPC R/A SM DUAL CONTACT 6CIR",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "505075XZD325",
+  "brand": "",
+  "category": "IC",
+  "description": "505075XZD325",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D106X0025C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 25volts 20% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D106X9016A2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 16volts 10% A case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D106X9025C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 25volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D106X9035D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10uF 35volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D107X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
  }
 ]
