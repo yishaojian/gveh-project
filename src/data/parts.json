@@ -1598,5 +1598,805 @@
   "description": "钽质电容器-固体SMD 100uF 10volts 10% C case Molded",
   "pkg": "",
   "lifecycle": ""
+ },
+ {
+  "pn": "593D107X9010D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 10volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D107X9016E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 16volts 10% E case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D107X9020E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 20volts 10% E case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D156X9035D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 15uF 35volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D157X96R3D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 593D157X96R3D2Te3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D226X9025D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 25volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D227X9010E2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 220uF 10volts 10% E case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D336X9025D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 33uF 25volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D476X9010C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 10volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D476X9016C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 16volts 10% C case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D476X9016D2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 16volts 10% D case Molded",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "593D476X96R3C2TE3",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 476uF 6.3volts 10%",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "594D476X9016B2T",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 594D476X9016B2T",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM36T1G",
+  "brand": "onsemi",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 LOW NOISE AMPLIFIER",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "6N139",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "6N139",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM15T1G",
+  "brand": "onsemi",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 ZEN SOT23 TVS ARRAY 15V",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC4053M/TR",
+  "brand": "HGSEMI",
+  "category": "IC",
+  "description": "74HC4053M/TR",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "82CNQ030APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 80 Amp 30 Volt Common Cathode",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "A5973D",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Up to 2 A step down 4V to 36V 250 kHz",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ACS102-6T1-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACS108-6SA",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "ACS108-6SN-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACST1635-8FP",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 OverVltg protected AC switch 1500 Vrms",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACST210-8BTR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Triac Crowbar 10mA Switch 2A 800V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACST310-8BTR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Overvoltage protected AC switch",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACST410-8BTR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Overvoltage Triac Low <10mA 1500 rms",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP562BRQZ",
+  "brand": "Analog Devices",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Dual High Speed PECL Comparator",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "ADF5356BCPZ",
+  "brand": "Analog Devices",
+  "category": "时钟合成器/抖动清除器",
+  "description": "时钟合成器/抖动清除器 13.6GHz PLLVCO(upgrade of ADF5355)",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "ADM7151ARDZ-04-R7",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 800mA ULN 1.5to5.1Vo Adj LDO",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "ADP7156ARDZ-3.3-R7",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3/5Vin 1.2A Ultra Low Noise LDO, Fixed",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "AGQ200A4H",
+  "brand": "Panasonic Industry",
+  "category": "低信号继电器 - PCB",
+  "description": "低信号继电器 - PCB 1A 4.5VDC DPDT NON-LATCHING SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AO3401A",
+  "brand": "AOS",
+  "category": "IC",
+  "description": "AO3401A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ARS34Y4H",
+  "brand": "Panasonic Industry",
+  "category": "高频/射频继电器",
+  "description": "高频/射频继电器 RS series relay",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATMEGA328P-AU",
+  "brand": "Microchip Technology",
+  "category": "8位微控制器 -MCU",
+  "description": "8位微控制器 -MCU 32KB In-system Flash 20MHz 1.8V-5.5V",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "AVS10CB",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Auto Voltage Switch",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ23C6V8-V-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管  AZ23",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "B-STLINK-ISOL",
+  "brand": "STMicroelectronics",
+  "category": "电源管理IC开发工具",
+  "description": "电源管理IC开发工具 Isolation and voltage adapter board for STLINK-V3SET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B340A-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 40 Volt",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B360A-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60 Volt 3.0 Amp 50 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA00BC0WFP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 REG PNP 1A",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA00DD0WHFP-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 VOLT VAR OUTPUT 1.5V-16V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA06CC0WFP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 REG 1A 6V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA08CC0WFP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 REG 1A 8V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA08FP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 REGULATOR 8V 1A",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA10339F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 QUAD COMPARATOR",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA10339FV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 QUAD OP-AMP",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA10358F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 OPAMP DUAL 32V",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BA10358FV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 OPAMP DUAL 32V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA10393F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 DUAL COMPARATOR",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BA25BC0FP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC LDO 2.5V 1A",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA3121F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "音频放大器",
+  "description": "音频放大器 AUDIO ISOLATION AMP",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA3472F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 1-7V 2 CHANNELS 150nA 3.5mA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BA3474RFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "高速运算放大器",
+  "description": "高速运算放大器 Ind 4Ch 3-36V Ground Sense",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BA4560F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 OP-AMP GENERIC 4560 DUAL 8 PIN",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA4580RF-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 2-16V 2 CHANNELS 100nA 6mA",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA4580RFVM-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 2-16V 2 CHANNELS 100nA 6mA",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA50BC0T",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC LDO 1A 5V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA50DD0WHFP-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5 5V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA6285FS-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 REVRS MOTOR DRIVER 16PIN",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA6406F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 WAVE FAN MOTOR DRVR 2PHASE 8PIN",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BA6417F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 REVERSE MOTOR DRIVER 8PIN",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA6664FM-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 SPINDLE MOTOR DRVR 1 PHASE 30PIN",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA6845FS-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 FDD STEPPING MOTOR DRIVER",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BA7623F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "视频 IC",
+  "description": "视频 IC DRIVER 75 ohm OHM",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BA8391G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Grd Sense Cmprtr 2-36V 7mV Max",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BAL-NRF01D3",
+  "brand": "STMicroelectronics",
+  "category": "信号调节",
+  "description": "信号调节 50ohm balun Trans 2G45 ISM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BALF-NRF01D3",
+  "brand": "STMicroelectronics",
+  "category": "信号调节",
+  "description": "信号调节 50 ohms nominal input / conjugate match balun to nRF51822-QFAAG0,\\rnRF51822-QF",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BALF-NRF01E3",
+  "brand": "STMicroelectronics",
+  "category": "信号调节",
+  "description": "信号调节 50ohms nominal input / conjugate match balun to nRF51x22-QFAA, nRF51x22-QFAC,",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BALF-NRG-02D3",
+  "brand": "STMicroelectronics",
+  "category": "信号调节",
+  "description": "信号调节 50ohms / conjugate match balun to BlueNRG transceiver, with integrated harmoni",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BALF-SPI2-01D3",
+  "brand": "STMicroelectronics",
+  "category": "信号调节",
+  "description": "信号调节 50 ohms nominal input / conjugate match balun to S2-LP,868 - 930 MHz with inte",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAQ334-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 60 Volt 200mA 2.0 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BARNNERJS",
+  "brand": "",
+  "category": "IC",
+  "description": "BARNNERJS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS16HMFHT116",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "小信号开关二极管 100V Vrm; 500mA Ifm Swtch Diode SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS16HMT116",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 Switching Diode 100V, 215mA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BAS21HMFHT116",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 250VVrm 200V Vr 0.2A Io 0.1mA",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BAS385-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30 Volt 200mA 300mA IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS40-04-HE3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40 Volt 200mA Common Anode AUTO",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BAS40-04HMFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS40-05HMFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS40-06HMFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS40HMFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS70-04-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 70 Volt 200mA Series",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAS70-04-G3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 70 Volt 200mA Common Anode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT20JFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECTIFIER",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT30KFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 schottky diode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT41KFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 schottky diode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT46W-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100Volt 150mA 750mA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT46ZFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 schottky diode",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54CFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 300mA 40V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54CHMT116",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode in SOT-23 Package",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54FILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 300mA 30 Volt",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54HMT116",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode in SOT-23 Package",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54JFILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 300mA 40 Volt",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAV21W-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 250V 625mA 1A IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAV70HMT116",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Cathode Common Switching Diode",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BAV99HMT116",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Series Connection, Switching Diode",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BAW56HMT116",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Anode Common Switching Diode",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BC847BHZGT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN SOT-23 0.1A 200 to 450hFE 45V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BC857BHZGT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP SOT-23 -0.1A 210 to 480hFE -45V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BC858BHZGT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) SOT-23 BIPOLAR BJT PNP",
+  "pkg": "SOT-23",
+  "lifecycle": ""
  }
 ]
