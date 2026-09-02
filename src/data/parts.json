@@ -2398,5 +2398,805 @@
   "description": "双极晶体管 - 双极结型晶体管(BJT) SOT-23 BIPOLAR BJT PNP",
   "pkg": "SOT-23",
   "lifecycle": ""
+ },
+ {
+  "pn": "BCP53-16",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Medium Power",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BCX19T116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 45V 500MA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD00C0AWFP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REG 5PIN 3V-15V 1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD00GA3WEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REG 0.8V-7V 0.3A 8PIN",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD00IC0WEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差电压控制器",
+  "description": "低压差电压控制器 LDO Reg Pos Variable Vltg 1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD00KA5WFP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 VARIABLE 1.0V-3.3V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD135",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Audio Amplifier",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD138",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Audio Amplfier",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD139",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Audio Amplifier",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD139-10",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Silicon Trnsistr",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD139-16",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Silicon Trnsistr",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD140",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Audio Amplfier",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD140-16",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Silicon Trnsistr",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD1754HFN-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC 4 LEDs 2.7-5.5V 32mA Max Curr",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BD18340FV-ME2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "LED照明驱动器IC Cntrlr Auto LED Lmps 4.5-19V; SSOP-B16",
+  "pkg": "SOP-B16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD2204GUL-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 POWER SWITCH/DRIVER IC",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD2242G-GTR",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD2248G-GTR",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD237",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN General Purpose",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD239C",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Pwr Transistors",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD33FA1FP3-ZTL",
+  "brand": "ROHM",
+  "category": "Regulator",
+  "description": "低压差稳压器 1A 25-6 LDO 100mA Industrial SOT89-3K",
+  "pkg": "SOT89-3K",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD33GA5WEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 500mA Fixed Output LDO Regulator",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD33IA5MEFJ-ME2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC Pwr Linear Reg Single Output LDO",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BD33IA5WEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差电压控制器",
+  "description": "低压差电压控制器 LDO Reg Pos 3.3V 0.5A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD33KA5FP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD3539NUX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) Zener Diode, 100mW, 2 Pin.",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD3540NUV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Micro step 36V SteppingMotorDrivers",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BD3572YHFP-MTR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 4.5-36V HRP5 12A LDO Regulator",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BD4269EFJ-CE2",
+  "brand": "ROHM",
+  "category": "Regulator",
+  "description": "低压差稳压器 5.5-45V HTSOP-J8 16A LDO Regulator",
+  "pkg": "SOP-J8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD433M5FP-CE2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "BD433M5FP-CE2",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD437",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Medium Power",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD450M2FP3-CE2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200mA 3.3V or 5.0V out LDO Reg",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD45272G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 RESET DETEC VOLT 2.7V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BD4741G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 RESET DETEC VOLT 4.1V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD4827G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 2.7V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD4843G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 4.3V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD4851G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 5.1V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD4853G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 5.3V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD4860FVE-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 2.5V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD48E29G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD48E43G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD4934G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 3.4V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BD49K23G-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 Volt Sup Det 2.3-6V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD49L25G-TL",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "监控电路 Volt Det CMOS 2.5V SSOP3",
+  "pkg": "SOP3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD50FA1FP3-ZTL",
+  "brand": "ROHM",
+  "category": "Regulator",
+  "description": "低压差稳压器 30V 0.1A LDO Regultr 5V Output SOT89-3K",
+  "pkg": "SOT89-3K",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD50GA3WEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差电压控制器",
+  "description": "低压差电压控制器 LDO Reg Pos 5.0V 0.3A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD5232G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 3.2V",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BD5243G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 4.3V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD5246G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS DETEC VOLT 4.6V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD6071HFN-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC WHITE 3.1-5.5V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6211F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 H-BRIDGE 7V max 1 Chan 1.0A 1.0ohm",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD62220AEFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 36V 2ch H-bridge DC Brush Motor Drvr",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6230F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 H-BRIDGE 35V max 1 Chan 0.5A 1.5ohm",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6231F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 H-BRIDGE 36V max 1 Chan 1.0A 1.5ohm",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD62321HFP-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 IC H-BRIDGE DRIVER",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6232FP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 H-BRIDGE 36V max 1 Chan 2.0A 1.0ohm",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6290EFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 STEP MOTOR DRIVER 19-28V 0.8A",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BD6326NUX-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 3 Phase Full-Wave Fan Mtr Drv w/PWM",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BD63281EFV-E2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "BD63281EFV-E2",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD63282EFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 PMIC Motor Driver Brushless DC (BLDC), Pre-Driver - Half Bridge (3), Logic Interface -40C - 100C Surface Mount",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6380EFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 STEP MOTOR DRIVER 2.5-5.5V 0.8A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6381EFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 STEP MOTOR DRIVER 2.5-5.5V 1.2A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD67173NUX-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 3 Phase Full-Wave Fan Mtr Drv w/PWM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD678",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 DARLINGTON TRAN",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD679",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 DARLINGTON TRAN",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD679A",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN General Purpose",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD680",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 DARLINGTON TRAN",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD681",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD6962FVM-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DC Brushless Fan Motor Dvrs",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD70522GUL-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Low Iq Buck Convrtr Nano Energy - 180nA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD733L5FP-CE2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Ultra Low Quiescent Current LDO Reg",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD750L2FP-CE2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC Pwr Linear Reg Single Output LDO",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD750L5FP-CE2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Ultra Low Quiescent Current LDO Reg",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD7679G-GTR",
+  "brand": "ROHM Semiconductor",
+  "category": "开关控制器",
+  "description": "开关控制器  PWM Control Type DC/DC Converter IC for AC/DC Driver",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD82024FVJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD82032FVJ-GE2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD82042FVJ-GE2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Power Switch/Driver, Input:Output=1:01, High Side N-Channel, 2A,2.7V - 5.5V",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD8205EFV-ME2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "马达/运动/点火控制器和驱动器 5ch Drvr for Car AV 6V; HTSSOP-B24",
+  "pkg": "SOP-B24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD82065FVJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 High Side Switch",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD82065FVJ-LBE2",
+  "brand": "ROHM Semiconductor",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 White LED Driver for large LCD panel",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD8303MUV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2.7-14V INPUT DC/DC CONVERTER",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD8312HFN-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 High Efficiency 3.5-14V 1.0A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD8379EFV-ME2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "LED照明驱动器IC 12ch LED Drvr IC 3-5.5V; HTSSOP-B20",
+  "pkg": "SOP-B20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD8664GW-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "电池管理",
+  "description": "电池管理 WL-CSP EEPROM",
+  "pkg": "CSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD87A34FVM-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 DETECTOR 3.4V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD8963EFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 LONOISE HI EFF SWTCH REG MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD90541MUV-CE2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Sync Step-Dwn Cnvrtr 2.6-5.5V; 0.3-2.4MHz",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9703FP-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 8-35V 300kHz 1.5A 1Ch Stp-Dwn w/MOSFET",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BD9778F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 FLEXIBLE STEP-DOWN SWITCHING REGULATOR",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BD9870FPS-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 900 kHz SINGLE CHAN STEP DOWN SWITCHING",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9A300MUV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 IC Pwr Swtch Reg Integrated FET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9A600MUV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2.7V-5.5V 6A MOSFET Sngl Sync Buck Conv",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9C401EFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4.5V to 18V Input, 4.0A Integrated MOSFET 1ch Synchronous Buck DC/DC Converter",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9D321EFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 IC Pwr Swtch Reg Integrated FET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9E301EFJ-LBE2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 7-36Vin,2.5A MOSFET DC/DC Converter",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9E302EFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 7-28V 3A Int MOSFET Buck DC/DC Conv IC",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9E303EFJ-LBE2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 DC/DC Converter 7V to 36V input",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9G101G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 SD Switching Reg",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD9G341AEFJ-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1ch Buck Converter Integrated FET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BDJ0600AHFV-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板上安装温度传感器",
+  "description": "板上安装温度传感器 Thermostat output Temp Sensors IC",
+  "pkg": "",
+  "lifecycle": "Not Recommended for New Designs"
  }
 ]
