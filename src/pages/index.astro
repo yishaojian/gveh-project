@@ -4,6 +4,19 @@
 // VETERAN.CORE // DEFAULT ENGLISH HOMEPAGE
 // ==========================================
 // client:load - 确保只在客户端执行数据库查询
+import fs from 'node:fs';
+import path from 'node:path';
+
+// 热门型号（构建时读 parts.json，渐进式随批次增长）
+let featuredParts = [];
+try {
+  const parts = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
+  );
+  featuredParts = parts.slice(0, 6);
+} catch (e) {
+  featuredParts = [];
+}
 ---
 
 <html lang="en">
@@ -198,6 +211,48 @@
         max-width: 1200px;
         margin: 60px auto 180px auto;
         padding: 0 20px;
+      }
+
+      /* 热门型号区块 */
+      .gveh-parts-section {
+        max-width: 1200px;
+        margin: 0 auto 60px auto;
+        padding: 0 20px;
+      }
+      .gveh-parts-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 16px;
+        padding: 0 20px;
+      }
+      .gveh-part-card {
+        display: block;
+        border: 1px solid #27272a !important;
+        border-radius: 10px;
+        padding: 18px;
+        background: #141417 !important;
+        transition: all 0.3s ease !important;
+      }
+      .gveh-part-card:hover {
+        border-color: #f39c12 !important;
+        box-shadow: 0 0 0 1px rgba(243, 156, 18, 0.3);
+      }
+      .gveh-part-pn {
+        font-family: 'Space Mono', monospace !important;
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: #fafafa !important;
+        word-break: break-all;
+        margin-bottom: 8px;
+      }
+      .gveh-part-brand {
+        font-size: 0.75rem;
+        color: #fbbf24 !important;
+        margin-bottom: 4px;
+      }
+      .gveh-part-cat {
+        font-size: 0.7rem;
+        color: #71717a !important;
       }
 
       .gveh-section-header {
@@ -469,6 +524,25 @@
         
         <div id="blogContainer">
           <div class="gveh-loading">Loading articles...</div>
+        </div>
+      </section>
+
+      <!-- 热门型号区块（SEO 入口：链接到 /pn/ 型号页） -->
+      <section class="gveh-parts-section">
+        <div class="gveh-section-header">
+          <h2 class="gveh-section-title">Featured Parts</h2>
+          <a href={`/pn/${featuredParts.length ? featuredParts[0].pn.replace(/\//g, '~') : 'OPA2197IDR'}`} class="gveh-section-link">Browse Part Pages →</a>
+        </div>
+        <div class="gveh-parts-grid">
+          {featuredParts.length ? featuredParts.map((p) => (
+            <a href={`/pn/${p.pn.replace(/\//g, '~')}`} class="gveh-part-card" style="text-decoration: none !important;">
+              <div class="gveh-part-pn">{p.pn}</div>
+              <div class="gveh-part-brand">{p.brand || 'Electronic Component'}</div>
+              <div class="gveh-part-cat">{p.category || ''}</div>
+            </a>
+          )) : (
+            <div class="gveh-loading">Parts catalog loading...</div>
+          )}
         </div>
       </section>
     </main>
