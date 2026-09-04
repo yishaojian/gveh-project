@@ -3998,5 +3998,805 @@
   "description": "双向可控硅 40 Amp 600 Volt",
   "pkg": "TO-3P-3",
   "lifecycle": ""
+ },
+ {
+  "pn": "BTB41-800BRG",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 40 Amp 800 Volt",
+  "pkg": "TO-3P-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BTS50055-1TMC",
+  "brand": "Infineon Technologies",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SMART HI SIDE HI CURRENT PWR SWITCH",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BTW67-1000",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 50A STANDARD SCR",
+  "pkg": "RD91",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BTW69-1200RG",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 50 Amp 1200 Volt",
+  "pkg": "TO-3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BTW69-800RG",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 50 Amp 800 Volt",
+  "pkg": "TO-3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU00UV9G-GTR",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "BU00UV9G-GTR",
+  "pkg": "SMT6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU12TD2WNVX-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REGULATOR POS 1.2V 0.2A 4PIN",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU18SA4WGWL-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC Pwr Linear Reg Single Output LDO",
+  "pkg": "UFBGA-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU18TD2WNVX-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REGULATOR POS 1.8V 0.2A 4PIN",
+  "pkg": "DFN-4-EP(1x1)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU18TD3WG-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1CH 200MA CMOS LDO REG 1.8V",
+  "pkg": "SSOP-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU2506FV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "数模转换器- DAC",
+  "description": "数模转换器- DAC 10 BIT D/A CNVTR 20-Pin",
+  "pkg": "SSOP-B20-4.4mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU25TA2WNVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 High-Speed Load CMOS 2.5V Out 200mA",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU25TD3WG-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Standard CMOS LDO Vreg; 2.5V",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU28TA2WNVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 High-Speed Load CMOS 2.8V Out 200mA",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU28TD2WNVX-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REGULATOR POS 2.8V 0.2A TR",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU30TA2WNVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 High-Speed Load CMOS 3.0V Out 200mA",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU30TD3WG-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Standard CMOS LDO Vreg; 3.0V",
+  "pkg": "SSOP-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU33TA2WNVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 High-Speed Load CMOS 3.3V Out 200mA",
+  "pkg": "SSON-4-EP(1.2x1.6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU33TD2WNVX-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LDO REGULATOR POS 3.3V 0.2A TR",
+  "pkg": "DFN-4-EP(1x1)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU33TD3WG-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Standard CMOS LDO Vreg; 3.3V",
+  "pkg": "SSOP-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU33UA3WNVX-TL",
+  "brand": "ROHM Semiconductor",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 IC Pwr Linear Reg Single Output LDO",
+  "pkg": "DFN-4-EP(1x1)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU33UV7NUX-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Std 1ch Boost Sync VSON010X3020 w/FET",
+  "pkg": "VSON-10-EP(2x3)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4052BCF-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "多路复用开关 IC",
+  "description": "多路复用开关 IC DUAL 4 CH ANALOG MULTIPLEXER",
+  "pkg": "SOP-16",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BU4053BCF-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "多路复用开关 IC",
+  "description": "多路复用开关 IC TRIPLE 2 CH ANALOG MULTIPLEXER",
+  "pkg": "SOP-16",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BU4229G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS LOW VOLT DETEC",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU4231G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS LOW VOLT DETEC",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4328G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 CMOS LOW VOLT DETEC",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4822G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 IC CMOS VOLT DETECT",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4828F-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 IC CMOS VOLT DETECT",
+  "pkg": "SOP-4-1.3mm",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "BU4928G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "监控电路",
+  "description": "监控电路 Low Volt CMOS Detector; 2.8V",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU4S11G2-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "逻辑门",
+  "description": "逻辑门 IC NAND SGL 2INPUT",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4S66G2-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC SINGLE ANALOG SWITCH",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU4S81G2-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "逻辑门",
+  "description": "逻辑门 IC SNGLE 2INPUT AND SMP5",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BU508AW",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Hi Vltg NPN Pwr transistor",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU52012NVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 Hall Effect Sensor 0.5mA Unipolar 1.8V",
+  "pkg": "SSON-4-EP(1.2x1.6)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU52021HFV-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 ULTRA SMALL DETECT SENSOR; 2.4-3.6V",
+  "pkg": "HVSOF-5",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU52025G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 2.4-3.6V; +/-3.7mT Bipolar Detection",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU52040HFV-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 DETECTION LATCH SENS BIPOLAR 1.65-3.3V",
+  "pkg": "HVSOF-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU52056NVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 Omnipolar Detection Hall IC",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU52061NVX-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "板机接口霍耳效应/磁性传感器",
+  "description": "板机接口霍耳效应/磁性传感器 Omnipolar Detection Hall IC",
+  "pkg": "UDFN-4-EP",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BU7233F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Input Full Swing, Low Power Open-Drain Comparator",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU7251G-TR",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 1.8-5.5V 1 CHAN 0.015mV 0.001nA",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU7262F-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low Voltage 1.8-5.5V 10mA; 1.1 slew rate",
+  "pkg": "SOP-8-4.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU90LV047A-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "LVDS 接口集成电路",
+  "description": "LVDS 接口集成电路 LVDS INTERFACE LSI",
+  "pkg": "SSOP-16-4.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU90LV048-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "LVDS 接口集成电路",
+  "description": "LVDS 接口集成电路 LVDS TRANSCEIVER T/R",
+  "pkg": "SSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU97501KV-E2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "LCD 驱动器 3wire+KEYOUT 2.7-6V VQFP64 Line/Frame",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU97520AKV-ME2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "LCD 驱动器 3wire+KEYOUT 2.7-6V VQFP80 Line/Frame",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU97931FV-E2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "LCD 驱动器 3wire 1.8-3.6V SSOP-B40 Line/Frame",
+  "pkg": "SOP-B40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU9833GUL-WE2",
+  "brand": "ROHM Semiconductor",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 I2C BUS(2-Wre) 2K VCSP50L1 电可擦除可编程只读存储器",
+  "pkg": "CSP50L1",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUF420AW",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN High Volt Power",
+  "pkg": "TO-247S-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUF802IRGTR",
+  "brand": "Texas Instruments",
+  "category": "高速运算放大器",
+  "description": "高速运算放大器 Wide-bandwidth 2.3- nV/vHz high-input i",
+  "pkg": "VQFN-16(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUL216",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Hi-Volt Fast Sw",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUL38D",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Hi-Volt Fast Sw",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUV48A",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN High Volt Power",
+  "pkg": "TO-247AC-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BUX87",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN High Volt Power",
+  "pkg": "SOT-32-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BY228GP-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.5 Amp 1500 Volt",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BY228TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 3.0 Amp 1500 Volt 50 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BY448TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 1500 Volt 30 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG10G-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 400 Volt",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG10M-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 1000 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG10Y-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 1600 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG20G-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 400 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG20J-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 600 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG21M-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5 Amp 1000 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG22B-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 100 Volt",
+  "pkg": "SMA (DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG22D-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 200 Volt 14",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG23M-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  BYG2",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYG23T-M3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1A 1300V High Volt Ultrafast",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYM10-100-E3/96",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 100 Volt 1.0 Amp Glass Passivated",
+  "pkg": "DO-213AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYM10-1000-E3/96",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1000 Volt 1.0 Amp Glass Passivated",
+  "pkg": "DO-213AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYM10-400-E3/96",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 400 Volt 1.0 Amp Glass Passivated",
+  "pkg": "DO-213AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYQ28E-200-E3/45",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 10 Amp 200 Volt",
+  "pkg": "TO-220AB-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYS10-45-E3/TR",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.5 Amp 45 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYT78-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 3.0 Amp 1000 Volt 100 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYV26C-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1 Amp 600 Volt 30 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYV26E-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1000 Volt 30 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYV26EGP-E3/73",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1000 Volt 1.0A 75ns Glass Passivated",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYV27-100-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 100 Volt 50 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYV28-600-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 3.5 Amp 600 Volt 90 Amp IFSM",
+  "pkg": "SOD-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZD27C3V6P-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3.6 Volt 0.8 Watt 5%",
+  "pkg": "DO-219AB(SMF)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT03C160-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 160 Volt 600W 6%",
+  "pkg": "SOD-57",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT52B5V1-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.1 Volt 0.5W 2%",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT52C12",
+  "brand": "Diotec Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener, SOD-123F,  12V, 0.5W, 5%",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT52C12Q-7-F",
+  "brand": "Diodes Incorporated",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode SOD123 T&R 3K",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT52C15",
+  "brand": "Taiwan Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 15 Volt 410mW 5%",
+  "pkg": "SOD-123",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "BZT52C3V6-V-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管  BZT5",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZT52C3V6-V-GS18",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管  BZT5",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZT52C51-V-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管  BZT5",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZT55C3V9-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3.9 Volt 0.5W 5%",
+  "pkg": "SOD-80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZW04-28B-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 28V Bidirect",
+  "pkg": "DO-41(DO-204AL)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZW50-33",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 5000W 33V Unidirect",
+  "pkg": "Ammo Pack",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZX384C33-V-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管  BZX3",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZX384C5V1-HE3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.1 Volt 0.2W 5%",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX55C11-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 11 Volt 0.5W 5%",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX55C3V3-TAP",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3.3 Volt 0.5W 5%",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX55C5V1-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.1 Volt 0.5W 5%",
+  "pkg": "DO-35(DO-204AH)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C10VLFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 9.4-10.6V 250mW SOT-23 5mA",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C10VLT116",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "BZX84C11VLFHT116",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 10.4-11.6V 250mW SOT-23 5mA",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C11VLT116",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
  }
 ]
