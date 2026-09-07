@@ -1,0 +1,49 @@
+---
+// PNDS 404 引导页 — 型号未收录/页面不存在时给客户可用出口
+// 深色科技风（与全站一致）：搜索 + 联系 + 返回首页
+const style = `
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #09090b !important; color: #fafafa !important; font-family: 'Inter', sans-serif; }
+  .nf-wrap { min-height: 70vh; display: flex; align-items: center; justify-content: center; padding: 60px 20px; text-align: center; }
+  .nf-card { max-width: 560px; width: 100%; }
+  .nf-badge { font-family: 'Space Mono', monospace; font-size: 12px; letter-spacing: 3px; color: #f39c12; border: 1px solid rgba(243,156,18,.4); display: inline-block; padding: 4px 14px; border-radius: 999px; margin-bottom: 26px; }
+  .nf-title { font-size: 28px; font-weight: 700; color: #fafafa; margin-bottom: 12px; line-height: 1.35; }
+  .nf-desc { color: #a1a1aa; font-size: 15px; line-height: 1.8; margin-bottom: 26px; }
+  .nf-search { display: flex; gap: 8px; margin-bottom: 26px; }
+  .nf-input { flex: 1; padding: 12px 16px; border-radius: 8px; border: 1px solid #27272a; background: #18181b; color: #e4e4e7; font-size: 14px; outline: none; font-family: 'Space Mono', monospace; }
+  .nf-btn { padding: 12px 22px; border-radius: 8px; border: none; cursor: pointer; background: #f39c12; color: #09090b; font-weight: 700; font-size: 14px; }
+  .nf-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .nf-link { padding: 10px 20px; border-radius: 8px; text-decoration: none; border: 1px solid #3f3f46; color: #d4d4d8; font-size: 14px; }
+  .nf-link-solid { background: #1c1917; border-color: #78350f; color: #fbbf24; }
+`;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 — Page Not Found | PNDS</title>
+    <style is:inline>{style}</style>
+  </head>
+  <body>
+    <div class="nf-wrap">
+      <div class="nf-card">
+        <div class="nf-badge">404 · NOT FOUND</div>
+        <h1 class="nf-title">This part page is still being indexed</h1>
+        <p class="nf-desc">
+          Our component database grows every day. The part you are looking for may have just
+          been added or the part number differs. Search below, or contact our engineers for
+          specification, stock and pricing.
+        </p>
+        <form action="/search" method="get" class="nf-search">
+          <input name="q" placeholder="Enter full part number, e.g. OPA2197IDR" class="nf-input" />
+          <button type="submit" class="nf-btn">Search</button>
+        </form>
+        <div class="nf-links">
+          <a href="/" class="nf-link">← Back to Home</a>
+          <a href="/bom-hub" class="nf-link nf-link-solid">BOM Inquiry</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
