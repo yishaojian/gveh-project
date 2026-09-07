@@ -9,6 +9,7 @@ import path from 'node:path';
 
 // 热门型号（构建时读 parts.json，渐进式随批次增长）
 let featuredParts = [];
+let partsMeta = { count: 0, total: 0, updatedAt: '' };
 try {
   const parts = JSON.parse(
     fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
@@ -16,6 +17,13 @@ try {
   featuredParts = parts.slice(0, 6);
 } catch (e) {
   featuredParts = [];
+}
+try {
+  partsMeta = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/parts-meta.json'), 'utf8')
+  );
+} catch (e) {
+  partsMeta = { count: featuredParts.length, total: 0, updatedAt: '' };
 }
 ---
 
@@ -226,6 +234,21 @@ try {
         grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
         gap: 16px;
         padding: 0 20px;
+      }
+      .gveh-db-status {
+        margin: 0 20px 20px 20px;
+        padding: 10px 16px;
+        border: 1px solid #1f2937 !important;
+        border-left: 3px solid #34d399 !important;
+        border-radius: 6px;
+        background: rgba(6, 78, 59, 0.12) !important;
+        font-family: 'Space Mono', monospace !important;
+        font-size: 0.72rem;
+        color: #6ee7b7 !important;
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        align-items: center;
       }
       .gveh-part-card {
         display: block;
@@ -534,6 +557,12 @@ try {
         <div class="gveh-section-header">
           <h2 class="gveh-section-title">Featured Parts</h2>
           <a href={`/pn/${featuredParts.length ? featuredParts[0].pn.replace(/\//g, '~') : 'OPA2197IDR'}`} class="gveh-section-link">Browse Part Pages →</a>
+        </div>
+        <div class="gveh-db-status">
+          <svg style="width:12px;height:12px;vertical-align:-1px;margin-right:6px;" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M5 12l5 5 9-10" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>PART DATABASE: {partsMeta.count.toLocaleString()} / {partsMeta.total.toLocaleString()} indexed</span>
+          <span style="opacity:0.6;">·</span>
+          <span>updated daily · last sync {partsMeta.updatedAt} UTC</span>
         </div>
         <div class="gveh-parts-grid">
           {featuredParts.length ? featuredParts.map((p) => (
