@@ -3,7 +3,27 @@
 // ==========================================
 // VETERAN.CORE // CHINESE HOMEPAGE
 // ==========================================
-// client:load - 确保只在客户端执行数据库查询
+// 型号数据（构建时读 parts.json，渐进式随批次增长）
+import fs from 'node:fs';
+import path from 'node:path';
+
+let featuredParts = [];
+let partsMeta = { count: 0, total: 0, updatedAt: '' };
+try {
+  const parts = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
+  );
+  featuredParts = parts.slice(0, 6);
+} catch (e) {
+  featuredParts = [];
+}
+try {
+  partsMeta = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/parts-meta.json'), 'utf8')
+  );
+} catch (e) {
+  partsMeta = { count: featuredParts.length, total: 0, updatedAt: '' };
+}
 ---
 
 <html lang="zh-CN">
@@ -422,6 +442,15 @@
           padding-top: 15px !important;
         }
       }
+      /* 热门型号区块样式（与英文首页一致） */
+      .gveh-parts-section { max-width: 1200px; margin: 0 auto 60px auto; padding: 0 20px; }
+      .gveh-parts-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; padding: 0 20px; }
+      .gveh-part-card { display: block; border: 1px solid #27272a !important; border-radius: 10px; padding: 18px; background: #141417 !important; transition: all 0.3s ease !important; }
+      .gveh-part-card:hover { border-color: #f39c12 !important; box-shadow: 0 0 0 1px rgba(243, 156, 18, 0.3); }
+      .gveh-part-pn { font-family: 'Space Mono', monospace !important; font-size: 0.85rem; font-weight: 700; color: #fafafa !important; word-break: break-all; margin-bottom: 8px; }
+      .gveh-part-brand { font-size: 0.75rem; color: #fbbf24 !important; margin-bottom: 4px; }
+      .gveh-part-cat { font-size: 0.72rem; color: #71717a; }
+      .gveh-db-status { margin: 0 20px 20px 20px; padding: 10px 16px; border: 1px solid #1f2937 !important; border-left: 3px solid #34d399 !important; border-radius: 6px; background: rgba(6, 78, 59, 0.12) !important; font-family: 'Space Mono', monospace !important; font-size: 0.72rem; color: #6ee7b7 !important; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
     </style>
   </head>
   <body>
@@ -465,10 +494,34 @@
         <div class="gveh-section-header">
           <h2 class="gveh-section-title">最新文章</h2>
           <a href="/zh/blog" class="gveh-section-link">查看全部 →</a>
-        </div>
-        
+        </div>        
         <div id="blogContainer">
           <div class="gveh-loading">加载文章中...</div>
+        </div>
+      </section>
+
+      <!-- 热门型号区块（型号页 SEO 入口，每日随批次更新） -->
+      <section class="gveh-parts-section">
+        <div class="gveh-section-header">
+          <h2 class="gveh-section-title">热门型号推荐</h2>
+          <a href={`/pn/${featuredParts.length ? featuredParts[0].pn.replace(/\//g, '~') : 'OPA2197IDR'}`} class="gveh-section-link">浏览型号 →</a>
+        </div>
+        <div class="gveh-db-status" style="margin-bottom:20px;">
+          <svg style="width:12px;height:12px;vertical-align:-1px;margin-right:6px;" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M5 12l5 5 9-10" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>型号数据库：已收录 {partsMeta.count.toLocaleString()} / {partsMeta.total.toLocaleString()} 个型号</span>
+          <span style="opacity:0.6;">·</span>
+          <span>每日自动更新 · 最近同步 {partsMeta.updatedAt} UTC</span>
+        </div>
+        <div class="gveh-parts-grid">
+          {featuredParts.length ? featuredParts.map((p) => (
+            <a href={`/pn/${p.pn.replace(/\//g, '~')}`} class="gveh-part-card" style="text-decoration: none !important;">
+              <div class="gveh-part-pn">{p.pn}</div>
+              <div class="gveh-part-brand">{p.brand || '电子元器件'}</div>
+              <div class="gveh-part-cat">{p.category || ''}</div>
+            </a>
+          )) : (
+            <div class="gveh-loading">型号数据加载中...</div>
+          )}
         </div>
       </section>
     </main>
