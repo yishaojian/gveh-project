@@ -6398,5 +6398,805 @@
   "description": "厚膜电阻器 - SMD 1/10 Watt 2.2Kohms 5%",
   "pkg": "0402",
   "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K21FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.21Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K40FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.4Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K49FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.49Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K70FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.7Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K74FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.74Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022K87FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.87Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022M00FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2Mohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022M20FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.2Mohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022R00FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2ohms 1% 200ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022R20FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.2ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04022R20JNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 2.2ohms 5%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402300KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 300Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402300RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 300ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402301KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 301Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402301RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 301ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402309KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 309Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040230K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/16 Watt 30Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040230K1FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 30.1Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040230K9FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 30.9Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040230R0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 30ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402316KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 316Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402324KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 324Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402324RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 324ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040232K4FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 32.4Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402330RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 330ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402332KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 332Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402332RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 332ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040233K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 33Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040233K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 33.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040233R0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 33ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040233R0JNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 33ohms 5%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040233R2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 33.2ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040234K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 34Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040234K8FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 34.8Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040234R8FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 34.8ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402357RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 357ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040235K7FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 35.7Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040235R7FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 35.7ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402365KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 365Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040236K5FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 36.5Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402374KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 374Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040237K4FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 37.4Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040238K3FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 38.3Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402392RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 392ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040239K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 39Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040239K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 39.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040239R0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 39ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040239R2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 39.2ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K01FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.01Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K16FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.16Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K24FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.24Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K30FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.3Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K32FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.32Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K74FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.74Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K90FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.9Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023K92FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.92Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023M30FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.3Mohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04023R32FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 3.32ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402402KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 402Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402402RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 402ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040240K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 40.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040240R2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 40.2ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402412KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 412Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040241K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 41.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402432KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 432Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040243K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 43.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040244K2FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 44.2Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402453RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 453ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040245R3FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 45.3ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402470KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 470Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402470RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 470ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402475KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 475Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402475RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 475ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040247K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 47Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040247K5FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 47.5Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040247R0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 47ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040247R0JNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 47ohms 5%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040247R5FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 47.5ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402487KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 487Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040248K7FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 48.7Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402499KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 499Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402499RFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 499ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040249K9FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 49.9Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040249R9FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 49.9ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K02FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.02Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K12FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.12Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K32FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.32Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K53FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.53Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K70FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.7Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K70JNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.7Kohms 5%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K75FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.75Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K87FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.87Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024K99FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.99Kohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024M70FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.7Mohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024R70FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.7ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024R70FNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.7ohms 1%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW04024R99FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 4.99ohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0402510KFKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 510Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040251K0FKED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 51Kohms 1% 100ppm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW040251K0JNED",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10 Watt 51Kohms 5%",
+  "pkg": "0402",
+  "lifecycle": ""
  }
 ]
