@@ -9598,5 +9598,805 @@
   "description": "厚膜电阻器 - SMD 1/8 Watt 60.4Kohms1% 1%",
   "pkg": "0603",
   "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060362K0FKEA",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 62Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603634RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 634ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060364K9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 64.9Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060366R5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 66.5ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603680RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 680ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603680RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 680ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603681KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 681Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060368K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 68Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060368K1FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 68.1Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060368R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 68ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060368R1FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 68.1ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06036K04FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 6.04Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06036K20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 6.2Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06036K65FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 6.65Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06036K80FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 6.8Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06036R80FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 6.8ohms 1% 100ppm",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060371K5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 71.5Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603732KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 732Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060373K2FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 73.2Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603750RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 750ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060375K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 75Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060375R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 75ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060376K8FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 76.8Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06037K50FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 7.5Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06037K68FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 7.68Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603820RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 820ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603825RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 825ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060382K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 82Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060382K5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 82.5Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060382R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 82ohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060384K5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 84.5Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060388K7FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 88.7Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06038K06FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 8.06Kohms1% 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06038K20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 8.2Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06038K25FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 8.25Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06038K45FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 8.45Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060391K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 91Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060393K1FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 93.1Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0603976KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 976Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW060397K6FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 97.6Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06039K09FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 9.09Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06039K31FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 9.31Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW06039K53FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/8 Watt 9.53Kohms 1%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08050000Z0EA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W ZEROohm Jumper",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805100KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 100Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805100RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 100ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805105RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 105ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 10Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510K0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 10Kohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510M0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 10Mohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 10ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510R0FKEC",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD D12/CRCW0805 100 10R 1% ET6 e3",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080510R0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 10ohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805120RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 120ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805121KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 121Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805121RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 121ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080514K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 14Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080514K7FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 14.7Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080514R7FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 14.7ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805150KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 150Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805150RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 150ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080515K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 15Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080515K0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 15Kohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080515R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 15ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080516K5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 16.5Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805182RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 182ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080518K2FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 18.2Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1Kohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K10FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.1Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.2Kohms 1%",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K20JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.2Kohms 5%",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K37FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.37Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K50FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.5Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051K82FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1.82Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051M00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1Mohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051M00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1Mohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08051R00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 1ohms 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805200KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 200Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805200RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 200ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805205RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 205ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080520K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 20Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805220KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 220Kohms 1%",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805221RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 221ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080522K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 22Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080522K1FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 22.1Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080522K6FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 22.6Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080522R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 22ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805240RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 240ohms 1%",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080524K9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 24.9Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080524R9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 24.9ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805261RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 261ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080526K7FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 26.7Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW0805270RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 270ohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW080527K4FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 27.4Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08052K00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 2Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08052K00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 2Kohms 5% 200ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08052K20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 2.2Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08052K21FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 2.21Kohms 1% 100ppm",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW08052M00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4W 2Mohms 5%",
+  "pkg": "0805",
+  "lifecycle": ""
  }
 ]
