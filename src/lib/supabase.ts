@@ -1,11 +1,17 @@
 // src/lib/supabase.ts
 import { createClient } from '@supabase/supabase-js';
+import WebSocket from 'ws';
 import type { Database } from '../database.types';
 
 const supabaseUrl = import.meta.env.SUPABASE_URL || '';
 const supabaseKey = import.meta.env.SUPABASE_ANON_KEY || '';
 
-export const supabase = createClient<Database>(supabaseUrl, supabaseKey);
+// Node 20 运行时没有原生 WebSocket：supabase-js 构造时会初始化 RealtimeClient，
+// 拿不到 WebSocket 会直接抛错 -> 整个 API 路由 500（BOM 表单曾因此完全不可用）。
+// 显式注入 ws 作为 transport 解决。
+export const supabase = createClient<Database>(supabaseUrl, supabaseKey, {
+  realtime: { transport: WebSocket as unknown as never },
+});
 
 // Helper functions for common operations
 export async function getCurrentUser() {
