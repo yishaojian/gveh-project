@@ -389,18 +389,49 @@ export const POST: APIRoute = async ({ request }) => {
       autoPublished = await autoPublishBOMOptimization(bomText);
     }
 
+    // Step 6: 企业微信群通知（走上海询价中转 -> 与 pinball/osmile/partstock/sas-ic 同一个公司群）
+    let wecomOk = false;
+    try {
+      const notifyLines = [
+        '【PNDS BOM 询价】',
+        `客户邮箱: ${email}`,
+        `分配销售: ${assignedSales.name} (${assignedSales.email})`,
+      ];
+      if (bomText && bomText.trim()) notifyLines.push('BOM 内容:', bomText.trim().slice(0, 600));
+      if (payload.file) notifyLines.push(`附件: ${payload.file.name}`);
+      notifyLines.push(`时间: ${new Date(payload.timestamp).toLocaleString('zh-CN')}`);
+
+      const notifyBody = new URLSearchParams({
+        contact: email,
+        company: '',
+        part: '',
+        quantity: '',
+        message: notifyLines.join('\n'),
+        source: 'pnds',
+      });
+      const wecomResp = await fetch('https://sas-ic.com/api/inquiry', {
+        method: 'POST',
+        body: notifyBody,
+      });
+      wecomOk = wecomResp.ok;
+      console.log('[WeCom] 群通知状态:', wecomResp.status);
+    } catch (wecomError) {
+      console.error('[WeCom] 群通知失败:', wecomError);
+    }
+
     console.log('[BOM Submit] ==========================================');
     console.log('[BOM Submit] Final Status:');
     console.log('[BOM Submit]   Email sent:', emailSent);
     console.log('[BOM Submit]   WeChat sent:', wechatSent);
+    console.log('[BOM Submit]   WeCom group sent:', wecomOk);
     console.log('[BOM Submit]   DB saved:', dbSaved);
     console.log('[BOM Submit]   Auto published:', autoPublished);
     console.log('[BOM Submit]   File URL:', fileUrl || 'N/A');
 
-    // Step 6: 重定向回原页面
+    // Step 7: 重定向回原页面
     const redirectUrl = request.headers.get('referer') || '/bom-hub';
     const separator = redirectUrl.includes('?') ? '&' : '?';
-    const status = emailSent || wechatSent ? 'success' : 'partial';
+    const status = emailSent || wechatSent || wecomOk ? 'success' : 'partial';
     
     return new Response(null, {
       status: 303,
