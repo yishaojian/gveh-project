@@ -8,7 +8,9 @@ import { getAllPosts, getCategories, CATEGORY_META } from '../../../utils/blog';
 export const prerender = true;
 
 export async function getStaticPaths() {
-  const categories = await getCategories('en');
+  // 预定义分类（首页卡片会直接链接）+ 已有文章的分类，取并集，避免空分类页 404
+  const fromPosts = await getCategories('en');
+  const categories = Array.from(new Set([...Object.keys(CATEGORY_META), ...fromPosts]));
   return categories.map((c) => ({ params: { category: c } }));
 }
 

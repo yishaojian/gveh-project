@@ -28,7 +28,11 @@ const prev = idx > 0 ? allPosts[idx - 1] : null;
 const next = idx < allPosts.length - 1 ? allPosts[idx + 1] : null;
 
 const canonical = `https://www.pnds.com.cn/zh/blog/${post.slug}`;
-const enUrl = `https://www.pnds.com.cn/blog/${post.slug}`;
+// 只有存在对应语言的文章时才互相链接；否则语言切换指向英文博客索引（避免 404）
+const otherPost = await getPostBySlug(post.slug, 'en');
+const enUrl = otherPost
+  ? `https://www.pnds.com.cn/blog/${post.slug}`
+  : 'https://www.pnds.com.cn/blog';
 const publishedDate = post.date.toISOString();
 
 const jsonLd = {
@@ -59,7 +63,8 @@ const jsonLd = {
     <meta name="description" content={post.description} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="zh-CN" href={canonical} />
-    <link rel="alternate" hreflang="en" href={enUrl} />
+    {otherPost && <link rel="alternate" hreflang="en" href={enUrl} />}
+    <link rel="alternate" hreflang="x-default" href={otherPost ? enUrl : canonical} />
 
     <meta property="og:type" content="article" />
     <meta property="og:title" content={post.title} />
@@ -154,7 +159,7 @@ const jsonLd = {
         <img src="/pnds-logo.png" alt="PNDS 胖达硬件严选" style="width: 100% !important; height: auto !important;" />
       </a>
       <div class="gveh-top-right-container">
-        <a href={`/blog/${post.slug}`} class="gveh-lang-top-btn">中文 / EN</a>
+        <a href={otherPost ? `/blog/${post.slug}` : '/blog'} class="gveh-lang-top-btn" title={otherPost ? 'Read this article in English' : 'English blog'}>中文 / EN</a>
         <div id="gveh-auth-container">
           <a href="/login" class="gveh-auth-btn">登录</a>
         </div>
