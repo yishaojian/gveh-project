@@ -6,6 +6,7 @@
 // 型号数据（构建时读 parts.json，渐进式随批次增长）
 import fs from 'node:fs';
 import path from 'node:path';
+import { getAllPosts, categoryName } from '../../utils/blog';
 
 let featuredParts = [];
 let partsMeta = { count: 0, total: 0, updatedAt: '' };
@@ -24,6 +25,9 @@ try {
 } catch (e) {
   partsMeta = { count: featuredParts.length, total: 0, updatedAt: '' };
 }
+
+// 最新中文文章（服务端渲染，避免客户端占位“加载文章中...”）
+const latestPosts = (await getAllPosts('zh')).slice(0, 3);
 ---
 
 <html lang="zh-CN">
@@ -492,9 +496,27 @@ try {
           <h2 class="gveh-section-title">最新文章</h2>
           <a href="/zh/blog" class="gveh-section-link">查看全部 →</a>
         </div>        
-        <div id="blogContainer">
-          <div class="gveh-loading">加载文章中...</div>
-        </div>
+        {latestPosts.length > 0 ? (
+          <div class="gveh-blog-grid">
+            {latestPosts.map((p) => (
+              <a href={`/zh/blog/${p.slug}`} class="gveh-blog-card" style="text-decoration: none !important;">
+                <div class="gveh-blog-meta">
+                  <span class="gveh-blog-category">{categoryName(p.category, 'zh')}</span>
+                  <span>{p.date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+                </div>
+                <h3 class="gveh-blog-title">{p.title}</h3>
+                <p class="gveh-blog-excerpt">{p.description}</p>
+                {p.keywords.length > 0 && (
+                  <div class="gveh-blog-keywords">
+                    {p.keywords.slice(0, 3).map((k) => <span class="gveh-keyword-tag">{k}</span>)}
+                  </div>
+                )}
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="gveh-empty-blog"><p>暂无文章，敬请期待。</p></div>
+        )}
       </section>
 
       <!-- 热门型号区块（型号页 SEO 入口，每日随批次更新） -->
