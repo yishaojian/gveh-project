@@ -77,16 +77,13 @@ const jsonLd = {
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={post.title} />
     <meta name="twitter:description" content={post.description} />
-
-    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
-
-    <style is:inline>
+<style is:inline>
       body {
         margin: 0;
         padding: 0;
         background-color: #09090b !important;
         color: #fafafa !important;
-        font-family: 'Inter', sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, 'Helvetica Neue', Arial, sans-serif;
         min-height: 100vh;
         display: flex;
         flex-direction: column;
@@ -94,26 +91,26 @@ const jsonLd = {
       .gveh-header { padding: 25px 5%; display: flex !important; justify-content: space-between !important; align-items: flex-start !important; }
       .gveh-logo-link { text-decoration: none !important; display: block !important; width: 180px !important; position: absolute !important; top: 25px !important; left: 5% !important; z-index: 999 !important; }
       .gveh-lang-top-btn {
-        text-decoration: none !important; font-family: 'Space Mono', monospace !important; font-size: 12px !important;
+        text-decoration: none !important; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace !important; font-size: 12px !important;
         font-weight: 700 !important; color: #aaa !important; border: 1px solid #333 !important; padding: 6px 12px !important;
         border-radius: 4px !important; background: transparent !important; transition: all 0.3s ease !important;
       }
       .gveh-lang-top-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
       .gveh-top-right-container { position: absolute !important; top: 25px !important; right: 5% !important; z-index: 999 !important; display: flex !important; align-items: center !important; gap: 12px !important; }
       .gveh-auth-btn {
-        text-decoration: none !important; font-family: 'Space Mono', monospace !important; font-size: 12px !important; font-weight: 700 !important;
+        text-decoration: none !important; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace !important; font-size: 12px !important; font-weight: 700 !important;
         color: #aaa !important; border: 1px solid #333 !important; padding: 6px 12px !important; border-radius: 4px !important;
         background: transparent !important; transition: all 0.3s ease !important; cursor: pointer !important;
       }
       .gveh-auth-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
 
       .gveh-content { flex: 1; max-width: 780px; margin: 120px auto 80px auto; padding: 0 40px; width: 100%; box-sizing: border-box; }
-      .gveh-back-link { display: inline-flex; align-items: center; gap: 8px; color: #aaa; text-decoration: none; font-family: 'Space Mono', monospace; font-size: 12px; margin-bottom: 24px; transition: color 0.3s ease; }
+      .gveh-back-link { display: inline-flex; align-items: center; gap: 8px; color: #aaa; text-decoration: none; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; margin-bottom: 24px; transition: color 0.3s ease; }
       .gveh-back-link:hover { color: #f39c12; }
 
       .gveh-blog-header { margin-bottom: 40px; border-bottom: 1px solid #333; padding-bottom: 28px; }
       .gveh-blog-title { font-size: 2.3rem; font-weight: 700; line-height: 1.25; margin: 0 0 16px 0; color: #fafafa; }
-      .gveh-blog-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; color: #888; font-size: 13px; font-family: 'Space Mono', monospace; }
+      .gveh-blog-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; color: #888; font-size: 13px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
       .gveh-blog-category { padding: 2px 8px; background-color: rgba(139, 92, 246, 0.15); border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 4px; color: #a78bfa; }
 
       .gveh-blog-content { font-size: 17px; line-height: 1.85; color: #e5e5e5; }
@@ -126,19 +123,19 @@ const jsonLd = {
       .gveh-blog-content li { margin-bottom: 8px; }
       .gveh-blog-content a { color: #f39c12; }
       .gveh-blog-content strong { color: #fafafa; }
-      .gveh-blog-content code { background: rgba(243, 156, 18, 0.1); padding: 2px 6px; border-radius: 4px; font-family: 'Space Mono', monospace; font-size: 14px; color: #f39c12; }
+      .gveh-blog-content code { background: rgba(243, 156, 18, 0.1); padding: 2px 6px; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; color: #f39c12; }
       .gveh-blog-content pre { background: #1a1a1e; padding: 20px; border-radius: 8px; overflow-x: auto; margin: 24px 0; }
       .gveh-blog-content pre code { background: none; padding: 0; color: #e5e5e5; }
 
       .gveh-keywords { margin-top: 40px; padding-top: 28px; border-top: 1px solid #333; }
-      .gveh-keywords-label { font-family: 'Space Mono', monospace; font-size: 12px; color: #888; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; }
+      .gveh-keywords-label { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; color: #888; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; }
       .gveh-keywords-list { display: flex; flex-wrap: wrap; gap: 8px; }
-      .gveh-keyword-tag { background: rgba(243, 156, 18, 0.1); color: #f39c12; padding: 5px 12px; border-radius: 4px; font-family: 'Space Mono', monospace; font-size: 12px; }
+      .gveh-keyword-tag { background: rgba(243, 156, 18, 0.1); color: #f39c12; padding: 5px 12px; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; }
 
       .gveh-post-nav { margin-top: 48px; padding-top: 28px; border-top: 1px solid #333; display: flex; justify-content: space-between; gap: 20px; }
       .gveh-post-nav-link { flex: 1; text-decoration: none; color: #a1a1aa; border: 1px solid #27272a; padding: 16px; border-radius: 8px; transition: all 0.3s ease; }
       .gveh-post-nav-link:hover { border-color: rgba(245, 158, 11, 0.4); color: #fafafa; }
-      .gveh-post-nav-label { font-family: 'Space Mono', monospace; font-size: 11px; color: #71717a; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+      .gveh-post-nav-label { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11px; color: #71717a; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
       .gveh-post-nav-title { font-size: 14px; line-height: 1.4; }
       .gveh-post-nav-link.next { text-align: right; }
 
@@ -222,7 +219,7 @@ const jsonLd = {
             const user = JSON.parse(userData);
             const roleText = user.role === 'admin' ? '管理员' : (user.role === 'sales' ? '业务员' : '客户');
             const initial = (user.name || '用').charAt(0).toUpperCase();
-            authContainer.innerHTML = '<a href="/dashboard/' + user.role + '" style="text-decoration:none;font-family:\'Space Mono\',monospace;font-size:12px;font-weight:700;color:#f39c12;">' + initial + ' · ' + roleText + '</a>';
+            authContainer.innerHTML = '<a href="/dashboard/' + user.role + '" style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;font-weight:700;color:#f39c12;">' + initial + ' · ' + roleText + '</a>';
           } catch (e) { console.error('Failed to parse user data', e); }
         }
       }
