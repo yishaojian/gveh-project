@@ -11198,5 +11198,805 @@
   "description": "厚膜电阻器 - SMD 1/4watt 1.0Kohms 1%",
   "pkg": "1206",
   "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061K00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061K20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.2Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061K30FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.3Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061K50FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.5Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061K80JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.8Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061M00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.0Mohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061M00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1Mohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R00FNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1ohm 1% 200ppm",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.2ohms 1% 100ppm",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R50FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.5ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12061R50FNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 1.5ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206200RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 200ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206200RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 200ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120620K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 20Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206220KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 220Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206220RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 220ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206220RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 220ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120622K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 22Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120622K0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 22Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120622R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 22ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120622R0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 22ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206232KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 232Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206249KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 249Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206270RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 270ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120627K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 27Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120627R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 27ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K00FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.0Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K00JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K10FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.1Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K15FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.15Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K20JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.2Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K21FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.21Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K49FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.49Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K70FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.7Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062K74FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.74Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062R20FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.2ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062R40FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.4ohms 1% 100ppm",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12062R49FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 2.49ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206300KJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 300Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206300RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 300ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120630K1FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 30.1Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120630K9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 30.9Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120630R0FKEAHP",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1.5W 30ohms 1% High Power AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206316KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 316Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120632K4FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 32.4Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206332KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 332Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206332RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 332ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120633K2FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 33.2Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120633R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 33ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120637R4FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 37.4ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120639K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 39Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120639R0FKEAHP",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1.5W 39ohms 1% High Power AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063K16FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.16Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063K30FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.3Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063K32FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.32Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063K40FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.4Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063K60FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.6Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12063R30FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 3.3ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206402KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 402Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120644R2FKEAHP",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1.5W 44.2Ohms 1% 100ppm Hi Power",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206470RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 470ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206470RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 470ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120647K0JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 47Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120647R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 47ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206499KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 499Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206499RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 499ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120649K9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 49.9Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120649R9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 49.9ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K02FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.02Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K30FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.3Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K70FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.7Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K70FKEAHP",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1.5W 4.7Kohms 1% High Power AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K70JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.7Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K75FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.75Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064K99FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.99Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064M70FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.7Mohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064M99FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.99Mohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064R70FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.7ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064R70JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.7ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12064R99FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 4.99ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206511RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 511ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12065K90FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 5.9Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12065R10FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 5.1ohms 1% 100ppm",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12065R62FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 5.62ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120660R4FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 60.4ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206620RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 620ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206680RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 680ohms 1% Non Standard",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12066K80FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 6.8Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12066K81FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 6.81Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206750KFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 750Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120675R0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 75ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120680K6FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 80.6Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206820RFKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 820ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW1206820RJNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 820ohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120682K0FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 82Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120682K5FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 82.5Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12068K06FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 8.06Kohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW120690R9FKEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 90.9ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
  }
 ]
