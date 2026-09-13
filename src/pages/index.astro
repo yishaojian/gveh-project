@@ -6,6 +6,7 @@
 // client:load - 确保只在客户端执行数据库查询
 import fs from 'node:fs';
 import path from 'node:path';
+import { getAllPosts, categoryName } from '../utils/blog';
 
 // 热门型号（构建时读 parts.json，渐进式随批次增长）
 let featuredParts = [];
@@ -25,6 +26,9 @@ try {
 } catch (e) {
   partsMeta = { count: featuredParts.length, total: 0, updatedAt: '' };
 }
+
+// 最新博客（构建期从 Markdown 内容集合取最新 3 篇，替代原先的 /api/blog/list）
+const latestPosts = (await getAllPosts('en')).slice(0, 3);
 ---
 
 <html lang="en">
@@ -547,9 +551,27 @@ try {
           <a href="/blog" class="gveh-section-link">View All →</a>
         </div>
         
-        <div id="blogContainer">
-          <div class="gveh-loading">Loading articles...</div>
-        </div>
+        {latestPosts.length > 0 ? (
+          <div class="gveh-blog-grid">
+            {latestPosts.map((p) => (
+              <a href={`/blog/${p.slug}`} class="gveh-blog-card" style="text-decoration: none !important;">
+                <div class="gveh-blog-meta">
+                  <span class="gveh-blog-category">{categoryName(p.category, 'en')}</span>
+                  <span>{p.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+                </div>
+                <h3 class="gveh-blog-title">{p.title}</h3>
+                <p class="gveh-blog-excerpt">{p.description}</p>
+                {p.keywords.length > 0 && (
+                  <div class="gveh-blog-keywords">
+                    {p.keywords.slice(0, 3).map((k) => <span class="gveh-keyword-tag">{k}</span>)}
+                  </div>
+                )}
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="gveh-empty-blog"><p>No articles yet. Stay tuned.</p></div>
+        )}
       </section>
 
       <!-- 热门型号区块（SEO 入口：链接到 /pn/ 型号页） -->
@@ -593,47 +615,6 @@ try {
     </div>
 
     <script>
-      // 客户端加载博客数据，避免静态构建时出错
-      async function loadBlogs() {
-        const container = document.getElementById('blogContainer');
-        
-        try {
-          const response = await fetch('/api/blog/list?limit=6');
-          const result = await response.json();
-          const blogs = result.data || [];
-          
-          if (blogs.length > 0) {
-            let html = '<div class="gveh-blog-grid">';
-            blogs.forEach(blog => {
-              const categoryName = blog.category === 'domestic_vs_global' ? 'Domestic vs Global' : 
-                                  blog.category === 'bom_optimization' ? 'BOM Optimization' : 'About Us';
-              const keywordsHtml = blog.keywords ? blog.keywords.split(',').slice(0, 3).map((keyword, i) => 
-                `<span key="${i}" class="gveh-keyword-tag">${keyword.trim()}</span>`
-              ).join('') : '';
-              
-              html += `
-                <div class="gveh-blog-card" onclick="window.location.href='/blog/${blog.id}'">
-                  <div class="gveh-blog-meta">
-                    <span class="gveh-blog-category">${categoryName}</span>
-                    <span>${new Date(blog.created_at).toLocaleDateString('en-US')}</span>
-                  </div>
-                  <h3 class="gveh-blog-title">${blog.title_en || blog.title_cn}</h3>
-                  <p class="gveh-blog-excerpt">${blog.content_en || blog.content_cn}</p>
-                  ${keywordsHtml ? `<div class="gveh-blog-keywords">${keywordsHtml}</div>` : ''}
-                </div>
-              `;
-            });
-            html += '</div>';
-            container.innerHTML = html;
-          } else {
-            container.innerHTML = '<div class="gveh-empty-blog"><p>No articles yet. Stay tuned.</p></div>';
-          }
-        } catch (error) {
-          console.error('Failed to load blogs:', error);
-          container.innerHTML = '<div class="gveh-empty-blog"><p>Unable to load articles at this time.</p></div>';
-        }
-      }
-
       function updateAuthStatus() {
         const authContainer = document.getElementById('gveh-auth-container');
         const userData = localStorage.getItem('currentUser');
@@ -666,7 +647,6 @@ try {
       
       document.addEventListener('DOMContentLoaded', function() {
         updateAuthStatus();
-        loadBlogs();
       });
     </script>
 

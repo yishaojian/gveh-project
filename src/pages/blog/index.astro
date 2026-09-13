@@ -1,23 +1,15 @@
 ---
-// src/pages/blog/category/[category].astro
+// src/pages/blog/index.astro
 // ==========================================
-// ENGLISH BLOG CATEGORY PAGE（Markdown 内容集合，构建期静态化）
+// ENGLISH BLOG INDEX（Markdown 内容集合，构建期静态化）
 // ==========================================
-import { getAllPosts, getCategories, CATEGORY_META } from '../../../utils/blog';
+import { getAllPosts, categoryName } from '../../utils/blog';
 
 export const prerender = true;
 
-export async function getStaticPaths() {
-  const categories = await getCategories('en');
-  return categories.map((c) => ({ params: { category: c } }));
-}
-
-const { category } = Astro.params;
-const posts = (await getAllPosts('en')).filter((p) => p.category === category);
-const meta = CATEGORY_META[category ?? ''];
-
-const title = meta ? meta.en : (category ?? 'Category');
-const description = meta ? meta.zh : '';
+const posts = await getAllPosts('en');
+const title = 'Blog';
+const description = 'Independent technical analysis, component optimization, and supply chain notes for global engineers.';
 ---
 
 <html lang="en">
@@ -26,10 +18,10 @@ const description = meta ? meta.zh : '';
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title} | PNDS</title>
-    <meta name="description" content={`${title} — technical analysis and notes from PNDS.`} />
-    <link rel="canonical" href={`https://www.pnds.com.cn/blog/category/${category}`} />
-    <link rel="alternate" hreflang="en" href={`https://www.pnds.com.cn/blog/category/${category}`} />
-    <link rel="alternate" hreflang="zh-CN" href={`https://www.pnds.com.cn/zh/blog/category/${category}`} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href="https://www.pnds.com.cn/blog" />
+    <link rel="alternate" hreflang="en" href="https://www.pnds.com.cn/blog" />
+    <link rel="alternate" hreflang="zh-CN" href="https://www.pnds.com.cn/zh/blog" />
 
     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
 
@@ -61,8 +53,8 @@ const description = meta ? meta.zh : '';
       .gveh-auth-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
 
       .gveh-content { flex: 1; max-width: 900px; margin: 140px auto 180px auto; padding: 0 40px; width: 100%; box-sizing: border-box; }
-      .gveh-page-title { font-size: 2.2rem; font-weight: 700; color: #fff; margin: 0 0 8px 0; }
-      .gveh-page-desc { color: #a1a1aa; font-size: 1rem; margin: 0 0 40px 0; }
+      .gveh-page-title { font-size: 2.5rem; font-weight: 700; color: #fff; margin: 0 0 12px 0; }
+      .gveh-page-desc { color: #a1a1aa; font-size: 1.05rem; margin: 0 0 40px 0; }
 
       .gveh-blog-list { display: flex; flex-direction: column; gap: 24px; }
       .gveh-blog-card {
@@ -72,7 +64,7 @@ const description = meta ? meta.zh : '';
       .gveh-blog-card:hover { border-color: rgba(245, 158, 11, 0.4) !important; transform: translateX(4px); }
       .gveh-blog-meta { display: flex; gap: 16px; align-items: center; font-size: 0.78rem; color: #71717a; margin-bottom: 12px; font-family: 'Space Mono', monospace; }
       .gveh-blog-category { padding: 2px 8px; background-color: rgba(139, 92, 246, 0.15); border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 4px; color: #a78bfa; }
-      .gveh-blog-title { font-size: 1.25rem; font-weight: 600; color: #fff; margin: 0 0 10px 0; line-height: 1.4; }
+      .gveh-blog-title { font-size: 1.3rem; font-weight: 600; color: #fff; margin: 0 0 10px 0; line-height: 1.4; }
       .gveh-blog-excerpt { font-size: 0.95rem; color: #a1a1aa; line-height: 1.6; margin: 0; }
 
       .gveh-empty-state { text-align: center; padding: 80px 20px; }
@@ -85,7 +77,7 @@ const description = meta ? meta.zh : '';
         .gveh-top-right-container { position: static !important; top: auto !important; right: auto !important; margin-bottom: 20px !important; flex-wrap: wrap !important; justify-content: center !important; }
         .gveh-header { flex-direction: column !important; align-items: center !important; padding: 20px 5% !important; }
         .gveh-content { margin: 60px auto 140px auto; padding: 0 20px; }
-        .gveh-page-title { font-size: 1.8rem; }
+        .gveh-page-title { font-size: 1.9rem; }
       }
     </style>
   </head>
@@ -95,7 +87,7 @@ const description = meta ? meta.zh : '';
         <img src="/pnds-logo.png" alt="PNDS Panda Hardware Expertise" style="width: 100% !important; height: auto !important;" />
       </a>
       <div class="gveh-top-right-container">
-        <a href={`/zh/blog/category/${category}`} class="gveh-lang-top-btn">EN / 中文</a>
+        <a href="/zh/blog" class="gveh-lang-top-btn">EN / 中文</a>
         <div id="gveh-auth-container">
           <a href="/login" class="gveh-auth-btn">LOGIN</a>
         </div>
@@ -103,7 +95,7 @@ const description = meta ? meta.zh : '';
     </header>
 
     <main class="gveh-content">
-      <h1 class="gveh-page-title">{meta ? meta.icon + ' ' + title : title}</h1>
+      <h1 class="gveh-page-title">Blog</h1>
       <p class="gveh-page-desc">{description}</p>
 
       {posts.length > 0 ? (
@@ -111,7 +103,7 @@ const description = meta ? meta.zh : '';
           {posts.map((p) => (
             <a href={`/blog/${p.slug}`} class="gveh-blog-card">
               <div class="gveh-blog-meta">
-                <span class="gveh-blog-category">{title}</span>
+                <span class="gveh-blog-category">{categoryName(p.category, 'en')}</span>
                 <span>{p.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
               </div>
               <h2 class="gveh-blog-title">{p.title}</h2>
@@ -123,7 +115,7 @@ const description = meta ? meta.zh : '';
         <div class="gveh-empty-state">
           <div class="gveh-empty-icon">📭</div>
           <h3 class="gveh-empty-title">No Articles Yet</h3>
-          <p class="gveh-empty-desc">No articles have been published in this category yet.</p>
+          <p class="gveh-empty-desc">No articles have been published yet. Stay tuned.</p>
         </div>
       )}
     </main>

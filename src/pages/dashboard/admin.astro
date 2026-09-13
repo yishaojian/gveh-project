@@ -165,15 +165,6 @@ title: "管理员后台 - PNDS BOM Hub"
           <span>账号审批</span>
           <span id="pendingBadge" class="badge badge-warning" style="margin-left: auto;">2</span>
         </button>
-        <button id="nav-blog-review" class="w-full px-4 py-3 default-nav hover-bg-gray-700 rounded-lg font-medium flex items-center space-x-3 transition-colors cursor-pointer">
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
-          <span>内容审核</span>
-          <span id="blogPendingBadge" class="badge badge-warning" style="margin-left: auto;">0</span>
-        </button>
-        <button id="nav-create-post" class="w-full px-4 py-3 default-nav hover-bg-gray-700 rounded-lg font-medium flex items-center space-x-3 transition-colors cursor-pointer" style="background: linear-gradient(90deg, #f59e0b, #ea580c); color: #fff;">
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/></svg>
-          <span>亲自发布文章</span>
-        </button>
         <button id="nav-orders" class="w-full px-4 py-3 default-nav hover-bg-gray-700 rounded-lg font-medium flex items-center space-x-3 transition-colors cursor-pointer">
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/></svg>
           <span>订单管理</span>
@@ -372,33 +363,6 @@ title: "管理员后台 - PNDS BOM Hub"
         </div>
       </div>
 
-      <div id="section-blog-review" class="hidden">
-        <div class="flex items-center justify-between mb-8">
-          <div>
-            <h2 class="text-2xl font-bold text-white">内容审核</h2>
-            <p class="text-gray-400 mt-1">审核用户提交的博客文章</p>
-          </div>
-        </div>
-
-        <div class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden">
-          <div class="overflow-x-auto">
-            <table class="w-full">
-              <thead class="bg-gray-700/50">
-                <tr>
-                  <th class="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">标题</th>
-                  <th class="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">作者</th>
-                  <th class="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">关键词</th>
-                  <th class="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">提交时间</th>
-                  <th class="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">操作</th>
-                </tr>
-              </thead>
-              <tbody class="divide-y divide-gray-700" id="blogReviewTable">
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-
       <div id="section-settings" class="hidden">
         <div class="mb-8">
           <h2 class="text-2xl font-bold text-white">系统设置</h2>
@@ -531,16 +495,6 @@ title: "管理员后台 - PNDS BOM Hub"
       </div>
     </div>
 
-    <div id="blogDetailModal" class="modal-overlay">
-      <div class="modal-content" style="max-width: 800px;">
-        <div class="modal-header">
-          <h3 class="modal-title">博客详情</h3>
-          <button id="closeBlogDetailModalBtn" class="close-btn">&times;</button>
-        </div>
-        <div id="blogDetailContent"></div>
-      </div>
-    </div>
-
     <script>
       let salesTeam = [
         { id: 'sales-001', name: '张伟', email: 'zhangwei@pnds.com', phone: '13800138001', wechat: 'zhangwei_cn', region: 'CN', performance_total: 1560000, status: 'active' },
@@ -563,8 +517,6 @@ title: "管理员后台 - PNDS BOM Hub"
         { id: 'bom-007', customer_email: 'electronics@bosch.de', assigned_sales_id: 'sales-002', region: 'EU', quote_amount: 315000, status: 'ordered', created_at: new Date(Date.now() - 28800000) },
         { id: 'bom-008', customer_email: 'hardware@intel.com', assigned_sales_id: 'sales-003', region: 'US', quote_amount: 750000, status: 'completed', created_at: new Date(Date.now() - 43200000) }
       ];
-
-      let pendingBlogs = [];
 
       const statusLabels = { pending: '待报价', quoted: '已报价', ordered: '已下单', completed: '已完成', cancelled: '已取消' };
       const statusColors = { pending: 'badge-warning', quoted: 'badge-info', ordered: 'badge-purple', completed: 'badge-success', cancelled: 'badge-danger' };
@@ -629,141 +581,6 @@ title: "管理员后台 - PNDS BOM Hub"
           const sales = salesTeam.find(function(s) { return s.id === order.assigned_sales_id; });
           tbody.innerHTML += '<tr class="hover-tr"><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300 font-mono">' + order.id + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">' + order.customer_email + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">' + (sales ? sales.name : '未分配') + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="badge badge-info">' + (regionLabels[order.region] || order.region) + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">¥' + (order.quote_amount ? order.quote_amount.toLocaleString() : '-') + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="badge ' + statusColors[order.status] + '">' + statusLabels[order.status] + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-400">' + new Date(order.created_at).toLocaleString('zh-CN') + '</span></td><td class="px-6 py-4 whitespace-nowrap"><div class="flex gap-2"><button class="btn btn-secondary btn-sm" data-action="view-order-detail" data-id="' + order.id + '">详情</button><button class="btn btn-primary btn-sm" data-action="view-order-quote" data-id="' + order.id + '">报价</button></div></td></tr>';
         });
-      }
-
-      async function loadPendingBlogs() {
-        try {
-          const response = await fetch('/api/blog/pending');
-          const data = await response.json();
-          pendingBlogs = data.blogs || [];
-          document.getElementById('blogPendingBadge').textContent = pendingBlogs.length;
-        } catch (error) {
-          console.error('加载待审核博客失败:', error);
-          pendingBlogs = [];
-        }
-      }
-
-      function renderBlogReviewTable() {
-        const tbody = document.getElementById('blogReviewTable');
-        if (pendingBlogs.length === 0) {
-          tbody.innerHTML = '<tr><td colspan="5" class="px-6 py-12 text-center text-gray-400">暂无待审核的博客</td></tr>';
-          return;
-        }
-        tbody.innerHTML = '';
-        pendingBlogs.forEach(function(blog) {
-          const title = blog.title_cn || blog.title_en || '无标题';
-          const keywords = blog.keywords || '无关键词';
-          const authorName = blog.author_name || '未知作者';
-          tbody.innerHTML += '<tr class="hover-tr"><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">' + title + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">' + authorName + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-300">' + keywords + '</span></td><td class="px-6 py-4 whitespace-nowrap"><span class="text-sm text-gray-400">' + new Date(blog.created_at).toLocaleString('zh-CN') + '</span></td><td class="px-6 py-4 whitespace-nowrap"><div class="flex gap-2"><button class="btn btn-secondary btn-sm" data-action="view-blog-detail" data-id="' + blog.id + '">查看</button><button class="btn btn-success btn-sm" data-action="approve-blog" data-id="' + blog.id + '">通过</button><button class="btn btn-danger btn-sm" data-action="reject-blog" data-id="' + blog.id + '">拒绝</button></div></td></tr>';
-        });
-      }
-
-      async function approveBlog(blogId) {
-        try {
-          const response = await fetch('/api/blog/review', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ blog_id: blogId, action: 'approve' })
-          });
-          if (response.ok) {
-            await loadPendingBlogs();
-            renderBlogReviewTable();
-          } else {
-            alert('审核失败');
-          }
-        } catch (error) {
-          console.error('审核博客失败:', error);
-          alert('审核失败');
-        }
-      }
-
-      async function rejectBlog(blogId) {
-        try {
-          const response = await fetch('/api/blog/review', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ blog_id: blogId, action: 'reject' })
-          });
-          if (response.ok) {
-            await loadPendingBlogs();
-            renderBlogReviewTable();
-          } else {
-            alert('拒绝失败');
-          }
-        } catch (error) {
-          console.error('拒绝博客失败:', error);
-          alert('拒绝失败');
-        }
-      }
-
-      function openBlogDetail(blog) {
-        const content = `
-          <div class="space-y-6">
-            <div class="flex items-center gap-2 mb-4">
-              <span class="badge badge-warning">待审核</span>
-              <span class="text-xs text-gray-400">AI 自动翻译完成</span>
-            </div>
-            
-            <div class="border-b border-gray-700 pb-4">
-              <h4 class="text-sm font-medium text-gray-400 mb-3 flex items-center gap-2">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/></svg>
-                中英双语对照稿
-              </h4>
-            </div>
-
-            <div class="grid grid-cols-2 gap-6">
-              <div class="bg-gray-800/50 rounded-lg p-4 border border-gray-700">
-                <div class="flex items-center gap-2 mb-2">
-                  <span class="text-xs bg-red-500/20 text-red-400 px-2 py-1 rounded">中文</span>
-                  <span class="text-xs text-gray-500">CN</span>
-                </div>
-                <h4 class="text-lg font-semibold text-white mb-2">${blog.title_cn || '无标题'}</h4>
-                <div class="text-sm text-gray-300 whitespace-pre-wrap max-h-96 overflow-y-auto leading-relaxed">${blog.content_cn || '无内容'}</div>
-              </div>
-
-              <div class="bg-gray-800/50 rounded-lg p-4 border border-gray-700">
-                <div class="flex items-center gap-2 mb-2">
-                  <span class="text-xs bg-blue-500/20 text-blue-400 px-2 py-1 rounded">English</span>
-                  <span class="text-xs text-gray-500">EN</span>
-                </div>
-                <h4 class="text-lg font-semibold text-white mb-2">${blog.title_en || 'No Title'}</h4>
-                <div class="text-sm text-gray-300 whitespace-pre-wrap max-h-96 overflow-y-auto leading-relaxed">${blog.content_en || 'No Content'}</div>
-              </div>
-            </div>
-
-            <div class="bg-gradient-to-r from-purple-900/20 to-purple-700/20 rounded-lg p-4 border border-purple-500/30">
-              <h4 class="text-sm font-medium text-purple-400 mb-3 flex items-center gap-2">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/></svg>
-                SEO 关键词（AI自动生成）
-              </h4>
-              <div class="flex flex-wrap gap-2">
-                ${(blog.keywords || '').split(',').map(function(k) { return '<span class="px-3 py-1 bg-purple-500/20 text-purple-300 text-xs rounded-full">' + k.trim() + '</span>'; }).join('')}
-              </div>
-            </div>
-
-            <div class="flex items-center justify-between text-sm text-gray-400 pt-4 border-t border-gray-700">
-              <span>提交时间: ${new Date(blog.created_at).toLocaleString('zh-CN')}</span>
-              <span>作者: ${blog.author_name || '未知'}</span>
-            </div>
-
-            <div class="flex gap-3 pt-4">
-              <button class="btn btn-success flex-1 flex items-center justify-center gap-2" onclick="approveBlog('${blog.id}'); closeBlogDetailModal();">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-                审核通过（一键上线）
-              </button>
-              <button class="btn btn-danger flex-1 flex items-center justify-center gap-2" onclick="rejectBlog('${blog.id}'); closeBlogDetailModal();">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
-                拒绝
-              </button>
-            </div>
-          </div>
-        `;
-        document.getElementById('blogDetailContent').innerHTML = content;
-        document.getElementById('blogDetailModal').classList.add('active');
-      }
-
-      function closeBlogDetailModal() {
-        document.getElementById('blogDetailModal').classList.remove('active');
       }
 
       function openAddSalesModal() {
@@ -988,8 +805,6 @@ title: "管理员后台 - PNDS BOM Hub"
         document.getElementById('nav-dashboard').addEventListener('click', function() { showSection('dashboard'); });
         document.getElementById('nav-sales').addEventListener('click', function() { showSection('sales'); });
         document.getElementById('nav-approval').addEventListener('click', function() { showSection('approval'); });
-        document.getElementById('nav-blog-review').addEventListener('click', function() { showSection('blog-review'); renderBlogReviewTable(); });
-        document.getElementById('nav-create-post').addEventListener('click', function() { window.location.href = '/dashboard/create-post'; });
         document.getElementById('nav-orders').addEventListener('click', function() { showSection('orders'); });
         document.getElementById('nav-settings').addEventListener('click', function() { showSection('settings'); });
         
@@ -1040,24 +855,11 @@ title: "管理员后台 - PNDS BOM Hub"
         });
 
         document.getElementById('closeOrderDetailModalBtn').addEventListener('click', closeOrderDetailModal);
-        document.getElementById('closeBlogDetailModalBtn').addEventListener('click', closeBlogDetailModal);
-
-        document.getElementById('blogReviewTable').addEventListener('click', function(e) {
-          const btn = e.target.closest('button');
-          if (!btn) return;
-          const action = btn.getAttribute('data-action');
-          const id = btn.getAttribute('data-id');
-          const blog = pendingBlogs.find(function(b) { return b.id === id; });
-          if (action === 'view-blog-detail' && blog) openBlogDetail(blog);
-          else if (action === 'approve-blog') approveBlog(id);
-          else if (action === 'reject-blog') rejectBlog(id);
-        });
 
         renderDashboard();
         renderSalesTable();
         renderApprovalTable();
         renderOrdersTable();
-        loadPendingBlogs();
         updateTime();
         setInterval(updateTime, 1000);
       });
