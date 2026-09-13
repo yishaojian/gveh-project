@@ -1,7 +1,9 @@
 // src/pages/sitemap.xml.ts — PNDS 型号页 sitemap（渐进式，与 parts.json 同步）
 // 静态预渲染：构建时执行生成纯静态 sitemap.xml
+// 同时收录博客索引页与所有非 draft 文章（英文站 /blog 与中文站 /zh/blog 分别列）。
 import fs from 'node:fs';
 import path from 'node:path';
+import { getAllPosts } from '../utils/blog';
 
 export const prerender = true;
 
@@ -25,7 +27,18 @@ export async function GET() {
     priority: '0.7',
   }));
 
-  const urls = [...staticUrls, ...partUrls];
+  // 博客：索引页 + 所有非 draft 文章
+  const posts = await getAllPosts();
+  const blogUrls = [
+    { loc: '/blog', priority: '0.8' },
+    { loc: '/zh/blog', priority: '0.8' },
+    ...posts.map((p) => ({
+      loc: `${p.lang === 'zh' ? '/zh/blog' : '/blog'}/${p.slug}`,
+      priority: '0.7',
+    })),
+  ];
+
+  const urls = [...staticUrls, ...partUrls, ...blogUrls];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

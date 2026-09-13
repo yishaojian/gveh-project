@@ -541,46 +541,6 @@ try {
     </div>
 
     <script>
-      async function loadBlogs() {
-        const container = document.getElementById('blogContainer');
-        
-        try {
-          const response = await fetch('/api/blog/list?limit=6');
-          const result = await response.json();
-          const blogs = result.data || [];
-          
-          if (blogs.length > 0) {
-            let html = '<div class="gveh-blog-grid">';
-            blogs.forEach(blog => {
-              const categoryName = blog.category === 'domestic_vs_global' ? '国产 VS 全球' : 
-                                  blog.category === 'bom_optimization' ? 'BOM优化' : '关于我们';
-              const keywordsHtml = blog.keywords ? blog.keywords.split(',').slice(0, 3).map((keyword, i) => 
-                `<span key="${i}" class="gveh-keyword-tag">${keyword.trim()}</span>`
-              ).join('') : '';
-              
-              html += `
-                <div class="gveh-blog-card" onclick="window.location.href='/zh/blog/${blog.id}'">
-                  <div class="gveh-blog-meta">
-                    <span class="gveh-blog-category">${categoryName}</span>
-                    <span>${new Date(blog.created_at).toLocaleDateString('zh-CN')}</span>
-                  </div>
-                  <h3 class="gveh-blog-title">${blog.title_cn || blog.title_en}</h3>
-                  <p class="gveh-blog-excerpt">${blog.content_cn || blog.content_en}</p>
-                  ${keywordsHtml ? `<div class="gveh-blog-keywords">${keywordsHtml}</div>` : ''}
-                </div>
-              `;
-            });
-            html += '</div>';
-            container.innerHTML = html;
-          } else {
-            container.innerHTML = '<div class="gveh-empty-blog"><p>暂无文章，敬请期待...</p></div>';
-          }
-        } catch (error) {
-          console.error('Failed to load blogs:', error);
-          container.innerHTML = '<div class="gveh-empty-blog"><p>暂时无法加载文章</p></div>';
-        }
-      }
-
       function updateAuthStatus() {
         const authContainer = document.getElementById('gveh-auth-container');
         const userData = localStorage.getItem('currentUser');
@@ -613,7 +573,6 @@ try {
       
       document.addEventListener('DOMContentLoaded', function() {
         updateAuthStatus();
-        loadBlogs();
       });
     </script>
 

@@ -1,57 +1,23 @@
 ---
 // src/pages/zh/blog/category/[category].astro
 // ==========================================
-// CHINESE BLOG CATEGORY PAGE
+// CHINESE BLOG CATEGORY PAGE（Markdown 内容集合，构建期静态化）
 // ==========================================
+import { getAllPosts, getCategories, CATEGORY_META } from '../../../../utils/blog';
 
-import { supabase } from '../../../../lib/supabase';
+export const prerender = true;
 
 export async function getStaticPaths() {
-  return [];
+  const categories = await getCategories('zh');
+  return categories.map((c) => ({ params: { category: c } }));
 }
 
 const { category } = Astro.params;
+const posts = (await getAllPosts('zh')).filter((p) => p.category === category);
+const meta = CATEGORY_META[category ?? ''];
 
-const CATEGORY_INFO = {
-  domestic_vs_global: {
-    name: '国产 VS 全球',
-    nameEn: 'Domestic vs Global',
-    icon: '🌍',
-    description: '国产芯片与进口芯片对比分析'
-  },
-  about_us: {
-    name: '关于我们',
-    nameEn: 'About Us',
-    icon: '🏢',
-    description: '公司介绍与行业感悟'
-  },
-  bom_optimization: {
-    name: 'BOM优化',
-    nameEn: 'BOM Optimization',
-    icon: '🔧',
-    description: 'BOM成本优化与替代方案'
-  }
-};
-
-const categoryInfo = CATEGORY_INFO[category as keyof typeof CATEGORY_INFO] || {
-  name: '未知分类',
-  nameEn: 'Unknown',
-  icon: '📄',
-  description: ''
-};
-
-let blogs = [];
-try {
-  const { data } = await supabase
-    .from('blogs')
-    .select('*')
-    .eq('category', category)
-    .eq('status', 'published')
-    .order('created_at', { ascending: false });
-  blogs = data || [];
-} catch (e) {
-  console.error('Error fetching blogs:', e);
-}
+const title = meta ? meta.zh : (category ?? '分类');
+const description = meta ? meta.en : '';
 ---
 
 <html lang="zh-CN">
@@ -59,9 +25,12 @@ try {
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{categoryInfo.name} | VETERAN.CORE</title>
-    <meta name="description" content={categoryInfo.description} />
-    
+    <title>{title} | PNDS</title>
+    <meta name="description" content={`${title} — PNDS 的技术分析与行业笔记。`} />
+    <link rel="canonical" href={`https://www.pnds.com.cn/zh/blog/category/${category}`} />
+    <link rel="alternate" hreflang="zh-CN" href={`https://www.pnds.com.cn/zh/blog/category/${category}`} />
+    <link rel="alternate" hreflang="en" href={`https://www.pnds.com.cn/blog/category/${category}`} />
+
     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
 
     <style is:inline>
@@ -75,323 +44,58 @@ try {
         display: flex;
         flex-direction: column;
       }
-      
-      .gveh-header { 
-        padding: 25px 5%; 
-        display: flex !important;
-        justify-content: space-between !important;
-        align-items: flex-start !important;
-      }
-
-      .gveh-logo-link {
-        text-decoration: none !important;
-        display: block !important;
-        width: 180px !important;
-        position: absolute !important;
-        top: 25px !important;
-        left: 5% !important;
-        z-index: 999 !important;
-      }
-
+      .gveh-header { padding: 25px 5%; display: flex !important; justify-content: space-between !important; align-items: flex-start !important; }
+      .gveh-logo-link { text-decoration: none !important; display: block !important; width: 180px !important; position: absolute !important; top: 25px !important; left: 5% !important; z-index: 999 !important; }
       .gveh-lang-top-btn {
-        text-decoration: none !important;
-        font-family: 'Space Mono', monospace !important;
-        font-size: 12px !important;
-        font-weight: 700 !important;
-        color: #aaa !important;
-        border: 1px solid #333 !important;
-        padding: 6px 12px !important;
-        border-radius: 4px !important;
-        background: transparent !important;
-        transition: all 0.3s ease !important;
+        text-decoration: none !important; font-family: 'Space Mono', monospace !important; font-size: 12px !important;
+        font-weight: 700 !important; color: #aaa !important; border: 1px solid #333 !important; padding: 6px 12px !important;
+        border-radius: 4px !important; background: transparent !important; transition: all 0.3s ease !important;
       }
-      .gveh-lang-top-btn:hover {
-        color: #f39c12 !important;
-        border-color: #f39c12 !important;
-      }
-
-      .gveh-top-right-container {
-        position: absolute !important;
-        top: 25px !important;
-        right: 5% !important;
-        z-index: 999 !important;
-        display: flex !important;
-        align-items: center !important;
-        gap: 12px !important;
-      }
-
+      .gveh-lang-top-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
+      .gveh-top-right-container { position: absolute !important; top: 25px !important; right: 5% !important; z-index: 999 !important; display: flex !important; align-items: center !important; gap: 12px !important; }
       .gveh-auth-btn {
-        text-decoration: none !important;
-        font-family: 'Space Mono', monospace !important;
-        font-size: 12px !important;
-        font-weight: 700 !important;
-        color: #aaa !important;
-        border: 1px solid #333 !important;
-        padding: 6px 12px !important;
-        border-radius: 4px !important;
-        background: transparent !important;
-        transition: all 0.3s ease !important;
-        cursor: pointer !important;
+        text-decoration: none !important; font-family: 'Space Mono', monospace !important; font-size: 12px !important; font-weight: 700 !important;
+        color: #aaa !important; border: 1px solid #333 !important; padding: 6px 12px !important; border-radius: 4px !important;
+        background: transparent !important; transition: all 0.3s ease !important; cursor: pointer !important;
       }
+      .gveh-auth-btn:hover { color: #f39c12 !important; border-color: #f39c12 !important; }
 
-      .gveh-auth-btn:hover {
-        color: #f39c12 !important;
-        border-color: #f39c12 !important;
-      }
+      .gveh-content { flex: 1; max-width: 900px; margin: 140px auto 180px auto; padding: 0 40px; width: 100%; box-sizing: border-box; }
+      .gveh-page-title { font-size: 2.2rem; font-weight: 700; color: #fff; margin: 0 0 8px 0; }
+      .gveh-page-desc { color: #a1a1aa; font-size: 1rem; margin: 0 0 40px 0; }
 
-      .gveh-user-info {
-        display: flex !important;
-        align-items: center !important;
-        gap: 10px !important;
-        cursor: pointer !important;
-        padding: 4px 8px !important;
-        border-radius: 8px !important;
-        transition: background-color 0.3s ease !important;
-      }
-      .gveh-user-info:hover {
-        background-color: rgba(245, 158, 11, 0.1) !important;
-      }
-
-      .gveh-user-avatar {
-        width: 36px !important;
-        height: 36px !important;
-        border-radius: 50% !important;
-        background: linear-gradient(90deg, #f59e0b, #ea580c) !important;
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-        font-weight: 700 !important;
-        font-size: 14px !important;
-        color: #000 !important;
-      }
-
-      .gveh-user-details {
-        text-align: right !important;
-      }
-
-      .gveh-user-name {
-        font-weight: 500 !important;
-        color: #fff !important;
-        font-size: 13px !important;
-      }
-
-      .gveh-user-role {
-        font-size: 11px !important;
-        color: #9ca3af !important;
-      }
-
-      .gveh-content {
-        max-width: 900px;
-        margin: 140px auto 140px auto;
-        padding: 0 40px;
-      }
-
-      .gveh-category-header {
-        margin-bottom: 40px;
-      }
-
-      .gveh-category-icon {
-        font-size: 3rem;
-        margin-bottom: 16px;
-      }
-
-      .gveh-category-title {
-        font-size: 2.5rem;
-        font-weight: 700;
-        margin: 0 0 12px 0;
-        color: #fff;
-      }
-
-      .gveh-category-desc {
-        font-size: 1.1rem;
-        color: #a1a1aa;
-        margin: 0;
-      }
-
-      .gveh-blog-list {
-        display: flex;
-        flex-direction: column;
-        gap: 24px;
-      }
-
+      .gveh-blog-list { display: flex; flex-direction: column; gap: 24px; }
       .gveh-blog-card {
-        background-color: #141417 !important;
-        border: 1px solid rgba(63, 63, 70, 0.4) !important;
-        padding: 24px;
-        border-radius: 8px;
-        transition: all 0.3s ease;
-        cursor: pointer;
+        display: block; text-decoration: none !important; background-color: #141417 !important;
+        border: 1px solid rgba(63, 63, 70, 0.4) !important; padding: 24px; border-radius: 8px; transition: all 0.3s ease;
       }
+      .gveh-blog-card:hover { border-color: rgba(245, 158, 11, 0.4) !important; transform: translateX(4px); }
+      .gveh-blog-meta { display: flex; gap: 16px; align-items: center; font-size: 0.78rem; color: #71717a; margin-bottom: 12px; font-family: 'Space Mono', monospace; }
+      .gveh-blog-category { padding: 2px 8px; background-color: rgba(139, 92, 246, 0.15); border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 4px; color: #a78bfa; }
+      .gveh-blog-title { font-size: 1.25rem; font-weight: 600; color: #fff; margin: 0 0 10px 0; line-height: 1.4; }
+      .gveh-blog-excerpt { font-size: 0.95rem; color: #a1a1aa; line-height: 1.6; margin: 0; }
 
-      .gveh-blog-card:hover {
-        border-color: rgba(245, 158, 11, 0.4) !important;
-        transform: translateX(4px);
-      }
-
-      .gveh-blog-title {
-        font-size: 1.25rem;
-        font-weight: 600;
-        color: #fff;
-        margin: 0 0 8px 0;
-      }
-
-      .gveh-blog-excerpt {
-        font-size: 0.95rem;
-        color: #a1a1aa;
-        line-height: 1.6;
-        margin: 0 0 12px 0;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-      }
-
-      .gveh-blog-meta {
-        display: flex;
-        gap: 16px;
-        font-size: 0.8rem;
-        color: #71717a;
-      }
-
-      .gveh-blog-keywords {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-        margin-top: 12px;
-      }
-
-      .gveh-keyword-tag {
-        padding: 4px 12px;
-        background-color: rgba(139, 92, 246, 0.15);
-        border: 1px solid rgba(139, 92, 246, 0.3);
-        border-radius: 9999px;
-        font-size: 0.75rem;
-        color: #a78bfa;
-        font-family: 'Space Mono', monospace;
-      }
-
-      .gveh-empty-state {
-        text-align: center;
-        padding: 60px 20px;
-      }
-
-      .gveh-empty-icon {
-        font-size: 4rem;
-        margin-bottom: 16px;
-        opacity: 0.5;
-      }
-
-      .gveh-empty-title {
-        font-size: 1.25rem;
-        font-weight: 600;
-        color: #fff;
-        margin: 0 0 8px 0;
-      }
-
-      .gveh-empty-desc {
-        font-size: 0.95rem;
-        color: #71717a;
-        margin: 0;
-      }
-
-      .gveh-nav-container {
-        position: fixed !important; 
-        bottom: 0 !important; 
-        left: 50% !important; 
-        transform: translateX(-50%) !important;
-        padding-bottom: 28px !important; 
-        padding-top: 50px !important; 
-        z-index: 9999 !important;
-        display: flex !important; 
-        justify-content: center !important; 
-        align-items: center !important; 
-        cursor: pointer !important;
-      }
-      .gveh-hover-pill {
-        border: 1px solid rgba(63, 63, 70, 0.2) !important; 
-        padding: 8px 24px !important;
-        display: flex !important; 
-        justify-content: center !important; 
-        align-items: center !important; 
-        gap: 36px !important; 
-        border-radius: 9999px !important;
-        opacity: 0.15 !important; 
-        transform: translateY(15px) scale(0.98) !important;
-        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
-        background-color: rgba(20, 20, 23, 0.4) !important; 
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
-      }
-      .gveh-nav-container:hover .gveh-hover-pill {
-        opacity: 1 !important; 
-        transform: translateY(0) scale(1) !important;
-        background-color: rgba(24, 24, 27, 0.98) !important;
-        backdrop-filter: blur(20px) !important; 
-        -webkit-backdrop-filter: blur(20px) !important;
-        border-color: rgba(245, 158, 11, 0.4) !important;
-        box-shadow: 0 20px 40px rgba(0,0,0,0.7), 0 0 20px rgba(245,158,11,0.15) !important;
-      }
-      .gveh-nav-item {
-        text-decoration: none !important; 
-        display: flex !important; 
-        flex-direction: column !important;
-        align-items: center !important; 
-        gap: 3px !important; 
-        color: rgba(161, 161, 170, 0.7) !important; 
-        transition: all 0.2s ease !important;
-      }
-      .gveh-nav-text {
-        font-size: 10px !important; 
-        font-weight: 700 !important; 
-        letter-spacing: 0.1em !important;
-        text-transform: uppercase !important; 
-        font-family: 'Space Mono', monospace !important;
-      }
-      .gveh-nav-item:hover { 
-        color: #f39c12 !important; 
-      }
-      .gveh-nav-item.active { 
-        color: #f39c12 !important; 
-      }
+      .gveh-empty-state { text-align: center; padding: 80px 20px; }
+      .gveh-empty-icon { font-size: 3rem; margin-bottom: 16px; opacity: 0.5; }
+      .gveh-empty-title { font-size: 1.25rem; font-weight: 600; color: #fff; margin: 0 0 8px 0; }
+      .gveh-empty-desc { font-size: 0.95rem; color: #71717a; margin: 0; }
 
       @media (max-width: 768px) {
-        .gveh-content {
-          margin: 100px auto 120px auto;
-          padding: 0 20px;
-        }
-        .gveh-category-title {
-          font-size: 1.75rem;
-        }
-        .gveh-logo-link {
-          width: 130px !important;
-          position: static !important;
-          margin: 0 auto 20px auto !important;
-          display: block !important;
-          top: auto !important;
-          left: auto !important;
-        }
-        .gveh-top-right-container {
-          position: static !important;
-          top: auto !important;
-          right: auto !important;
-          margin-bottom: 20px !important;
-          flex-wrap: wrap !important;
-          justify-content: center !important;
-        }
-        .gveh-header {
-          flex-direction: column !important;
-          align-items: center !important;
-          padding: 20px 5% !important;
-        }
+        .gveh-logo-link { width: 130px !important; position: static !important; margin: 0 auto 20px auto !important; display: block !important; top: auto !important; left: auto !important; }
+        .gveh-top-right-container { position: static !important; top: auto !important; right: auto !important; margin-bottom: 20px !important; flex-wrap: wrap !important; justify-content: center !important; }
+        .gveh-header { flex-direction: column !important; align-items: center !important; padding: 20px 5% !important; }
+        .gveh-content { margin: 60px auto 140px auto; padding: 0 20px; }
+        .gveh-page-title { font-size: 1.8rem; }
       }
     </style>
   </head>
   <body>
     <header class="gveh-header">
       <a href="/zh" class="gveh-logo-link">
-        <img src="/pnds-logo.png" alt="精挑优选每一颗芯片" style="width: 100% !important; height: auto !important;" />
+        <img src="/pnds-logo.png" alt="PNDS 胖达硬件严选" style="width: 100% !important; height: auto !important;" />
       </a>
       <div class="gveh-top-right-container">
-        <a href="/blog/category/{category}" class="gveh-lang-top-btn">EN / 中文</a>
+        <a href={`/blog/category/${category}`} class="gveh-lang-top-btn">中文 / EN</a>
         <div id="gveh-auth-container">
           <a href="/login" class="gveh-auth-btn">登录</a>
         </div>
@@ -399,93 +103,45 @@ try {
     </header>
 
     <main class="gveh-content">
-      <div class="gveh-category-header">
-        <div class="gveh-category-icon">{categoryInfo.icon}</div>
-        <h1 class="gveh-category-title">{categoryInfo.name}</h1>
-        <p class="gveh-category-desc">{categoryInfo.description}</p>
-      </div>
+      <h1 class="gveh-page-title">{meta ? meta.icon + ' ' + title : title}</h1>
+      <p class="gveh-page-desc">{description}</p>
 
-      {blogs.length > 0 ? (
+      {posts.length > 0 ? (
         <div class="gveh-blog-list">
-          {blogs.map((blog) => (
-            <div 
-              key={blog.id} 
-              class="gveh-blog-card" 
-              onclick="window.location.href='/zh/blog/${blog.id}'"
-            >
-              <h3 class="gveh-blog-title">{blog.title_cn || blog.title_en}</h3>
-              <p class="gveh-blog-excerpt">{blog.content_cn || blog.content_en}</p>
+          {posts.map((p) => (
+            <a href={`/zh/blog/${p.slug}`} class="gveh-blog-card">
               <div class="gveh-blog-meta">
-                <span>{new Date(blog.created_at).toLocaleDateString('zh-CN')}</span>
-                {blog.author_name && <span>{blog.author_name}</span>}
+                <span class="gveh-blog-category">{title}</span>
+                <span>{p.date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
               </div>
-              {blog.keywords && (
-                <div class="gveh-blog-keywords">
-                  {blog.keywords.split(',').slice(0, 3).map((keyword, i) => (
-                    <span key={i} class="gveh-keyword-tag">{keyword.trim()}</span>
-                  ))}
-                </div>
-              )}
-            </div>
+              <h2 class="gveh-blog-title">{p.title}</h2>
+              <p class="gveh-blog-excerpt">{p.description}</p>
+            </a>
           ))}
         </div>
       ) : (
         <div class="gveh-empty-state">
           <div class="gveh-empty-icon">📭</div>
           <h3 class="gveh-empty-title">暂无文章</h3>
-          <p class="gveh-empty-desc">该板块尚未发布任何文章，敬请期待。</p>
+          <p class="gveh-empty-desc">该分类下暂无已发布的文章。</p>
         </div>
       )}
     </main>
-
-    <div class="gveh-nav-container">
-      <div class="gveh-hover-pill">
-        <a href="/zh" class="gveh-nav-item">
-          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
-          <span class="gveh-nav-text">HOME</span>
-        </a>
-        <div style="width: 1px !important; height: 16px !important; background-color: rgba(63, 63, 70, 0.5) !important;"></div>
-        <a href="/bom-hub" class="gveh-nav-item">
-          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
-          <span class="gveh-nav-text">BOM HUB</span>
-        </a>
-      </div>
-    </div>
 
     <script>
       function updateAuthStatus() {
         const authContainer = document.getElementById('gveh-auth-container');
         const userData = localStorage.getItem('currentUser');
-        
         if (userData) {
           try {
             const user = JSON.parse(userData);
             const roleText = user.role === 'admin' ? '管理员' : (user.role === 'sales' ? '业务员' : '客户');
-            const initial = (user.name || 'U').charAt(0).toUpperCase();
-            const dashboardUrl = `/dashboard/${user.role}`;
-            
-            authContainer.innerHTML = `
-              <div class="gveh-user-info" onclick="window.location.href='${dashboardUrl}'">
-                <div class="gveh-user-details">
-                  <div class="gveh-user-name">${user.name || '用户'}</div>
-                  <div class="gveh-user-role">${roleText}</div>
-                </div>
-                <div class="gveh-user-avatar">${initial}</div>
-              </div>
-            `;
-          } catch (e) {
-            console.error('Failed to parse user data', e);
-          }
-        } else {
-          authContainer.innerHTML = `
-            <a href="/login" class="gveh-auth-btn">登录</a>
-          `;
+            const initial = (user.name || '用').charAt(0).toUpperCase();
+            authContainer.innerHTML = '<a href="/dashboard/' + user.role + '" style="text-decoration:none;font-family:\'Space Mono\',monospace;font-size:12px;font-weight:700;color:#f39c12;">' + initial + ' · ' + roleText + '</a>';
+          } catch (e) { console.error('Failed to parse user data', e); }
         }
       }
-      
-      document.addEventListener('DOMContentLoaded', function() {
-        updateAuthStatus();
-      });
+      document.addEventListener('DOMContentLoaded', updateAuthStatus);
     </script>
   </body>
 </html>
