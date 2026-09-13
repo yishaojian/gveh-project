@@ -60,6 +60,20 @@ async function pickModel() {
   }
 }
 
+async function fetchWithRetry(url, opts, tries = 4) {
+  let last;
+  for (let i = 1; i <= tries; i++) {
+    try {
+      const r = await fetch(url, opts);
+      if (r.ok) return r;
+      last = new Error(`HTTP ${r.status}`);
+      if (![429, 500, 502, 503, 504].includes(r.status)) return r;
+    } catch (e) { last = e; }
+    await new Promise((res) => setTimeout(res, 4000 * i));
+  }
+  throw last || new Error('translation request failed');
+}
+
 async function translate(model, data, body) {
   const prompt = [
     '你是资深电子元器件行业英文编辑。把下面的中文博客翻译成专业、地道的英文（面向采购与硬件工程师）。',
@@ -74,7 +88,7 @@ async function translate(model, data, body) {
     body,
   ].join('\n');
 
-  const r = await fetch(
+  const r = await fetchWithRetry(
     `https://generativelanguage.googleapis.com/v1beta/models/${model.replace(/^models\//, '')}:generateContent?key=${KEY}`,
     {
       method: 'POST',
@@ -85,7 +99,6 @@ async function translate(model, data, body) {
       }),
     }
   );
-  if (!r.ok) throw new Error(`HTTP ${r.status}`);
   const d = await r.json();
   const text = d?.candidates?.[0]?.content?.parts?.[0]?.text;
   if (!text || text === 'null') throw new Error('接口返回空/无效译文');
