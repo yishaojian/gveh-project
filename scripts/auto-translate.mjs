@@ -94,7 +94,15 @@ async function translate(model, data, body) {
 }
 
 async function main() {
-  const files = process.argv.slice(2).filter((f) => f.startsWith(ZH_PREFIX) && f.endsWith('.md'));
+  let files = process.argv.slice(2).filter((f) => f.startsWith(ZH_PREFIX) && f.endsWith('.md'));
+  if (!files.length) {
+    // 无参数：扫描全部中文文章（构建期用，只补缺失的英文版）
+    const dir = path.join(ROOT, ZH_PREFIX);
+    try {
+      files = fs.readdirSync(dir).filter((f) => f.endsWith('.md')).map((f) => ZH_PREFIX + f);
+    } catch (e) { files = []; }
+    log('扫描到中文文章', files.length, '篇');
+  }
   if (!files.length) { log('没有需要处理的中文文章，退出'); return; }
   if (!KEY) { log('缺少 GEMINI_API_KEY，退出（不做任何改动）'); process.exit(0); }
 

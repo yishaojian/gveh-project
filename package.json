@@ -6,6 +6,7 @@
     "node": "24.x"
   },
   "scripts": {
+    "prebuild": "node scripts/auto-translate.mjs || true",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
