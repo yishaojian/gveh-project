@@ -11998,5 +11998,805 @@
   "description": "厚膜电阻器 - SMD 1/4watt 90.9ohms 1%",
   "pkg": "1206",
   "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12069K10JNEA",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1/4watt 9.1Kohms 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW20101K00FKEF",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 3/4watt 1Kohms 1%",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CVH252009-3R3M",
+  "brand": "BOURNS",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 1MHz 20%",
+  "pkg": "1008",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CY62147EV30LL-45ZSXIT",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "静态随机存取存储器 4Mb 3V 45ns 256K x 16 LP 静态随机存取存储器",
+  "pkg": "TSOPII-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CY8C27243-24PVXI",
+  "brand": "Infineon Technologies",
+  "category": "MCU",
+  "description": "8位微控制器 -MCU IC MCU 16K FLASH 256B SRAM",
+  "pkg": "SSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CY8CMBR3108-LQXIT",
+  "brand": "Infineon Technologies",
+  "category": "Capacitor",
+  "description": "触摸屏控制器 Capsense Express",
+  "pkg": "QFN-16-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CYPD3125-40LQXI",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "USB 接口集成电路 CCG3",
+  "pkg": "QFN-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CYPD3177-24LQXQT",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "USB 接口集成电路 USB Type-C port controller  CYPD3177",
+  "pkg": "QFN-24(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "D1360K8",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "D1360K8",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "D44H11",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Switch",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "D45H11",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Switch",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DA108S1RL",
+  "brand": "STMicroelectronics",
+  "category": "Diode",
+  "description": "ESD保护二极管/TVS二极管 8 Diode Array",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DA204KT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 20V 100MA",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DA221TL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 20V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DA228UT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SW 80V 200MA",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DALC208SC6",
+  "brand": "STMicroelectronics",
+  "category": "Diode",
+  "description": "ESD保护二极管/TVS二极管 8 Diode Array",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN202KT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN202UMTL",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "小信号开关二极管 Diode Switching 80V 0.3A",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN212KT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 80V 100MA",
+  "pkg": "SC-59",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN217T146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN217UMFHTL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 80VVrm 80V Vr 0.1A Io 100mA",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN217UMTL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 3-Phase Brushless Fan Motor Driver",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN217UT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SW 80V 300MA",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN222TL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAN222WMTL",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "小信号开关二极管 Diode Switching 80V 0.1A",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAP202KT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAP202UMFHTL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 80VVrm 80V Vr 0.1A Io 100mA",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAP202UT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAP222TL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAP222WMTL",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "小信号开关二极管 Diode Switching 80V 0.1A",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DB3",
+  "brand": "AMPHENOL ENERGY TECHNOLOGIES",
+  "category": "IC",
+  "description": "电缆固定件和配件 CORD GRIP STR 7/8 .375-.437",
+  "pkg": "DO-35",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DB3TG",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "双向触发二极管 32 Volt Trigger",
+  "pkg": "DO-35",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CBD16D3LS1KEG/4G",
+  "brand": "Kingston",
+  "category": "IC",
+  "description": "CBD16D3LS1KEG/4G",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CBD26D4S9S1KC-4",
+  "brand": "Kingston",
+  "category": "IC",
+  "description": "CBD26D4S9S1KC-4",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CBD32D4S2S1HC-8",
+  "brand": "Kingston",
+  "category": "IC",
+  "description": "CBD32D4S2S1HC-8",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DF04S-E3/77",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "桥式整流器 RECT 400V  1A    SM  BRIDGE",
+  "pkg": "DF-S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DF06M-E3/45",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "桥式整流器 1.0 Amp 600 Volt",
+  "pkg": "DFM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DFL1510S-E3/77",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "桥式整流器 1000 Volt 1.5 Amp 50 Amp IFSM",
+  "pkg": "DF-S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG201BDQ-T1-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC  DG20",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG201BDY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG202BDQ-T1-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC  DG20",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG202BDY-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC SOIC-16  ANALOG SWITCH QUAD",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG211BDQ-T1-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC  DG21",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG211BDY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG212BDY-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG2592DN-T1-GE4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "开关 IC - 各种 Audio jack detctr 1.6V-5.5V",
+  "pkg": "QFN-10(1.8x1.4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG2723DN-T1-E4",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC 700Mhz Dual SPDT -3dB 5.6pF 40pS",
+  "pkg": "WQFN-10(1.4x1.8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG2726DN-T1-GE4",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "DG2726DN-T1-GE4",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG2730DN-T1-GE4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "USB开关IC DPDT 2 PORT SWITCH FOR USB 2.0",
+  "pkg": "WQFN-10(1.4x1.8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG2735DN-T1-E4",
+  "brand": "Vishay / Siliconix",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC  DG27",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "DG2750DN-T1-E4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Low Volt Quad SPDT w/Negative Swing",
+  "pkg": "QFN-10(1.8x1.4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG403DY-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC Dual SPDT 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG408DQ-T1-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "多路复用开关 IC",
+  "description": "多路复用开关 IC  DG40",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG408DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC Single 8:1, 3-bit 20/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG408LEDN-T1-GE4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC 8-Ch Single Ended Multiplexer 3-16V",
+  "pkg": "VQFN-16-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG408LEDQ-T1-GE3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC 8 Channel Multiplexr Pd 600mW TSSOP-16",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG409DQ-T1-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "多路复用开关 IC",
+  "description": "多路复用开关 IC  DG40",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG409DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC Dual Diff 4:1, 2-bit Multiplexer/MUX",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG409LEDQ-T1-GE3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC Dual 4 Ch Multiplxr Pd 600mW TSSOP-16",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG411DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG412DQ-T1-E3",
+  "brand": "Vishay",
+  "category": "MOSFET",
+  "description": "模拟开关 IC P M Quad SPST CMOS Analog Switch",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG412DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG413DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Quad SPST 22/25V",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG4157EDL-T1-GE3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "多路复用开关 IC SPDT/2:1 Multplxr SC-70-6L",
+  "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG418DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Single SPST 22/25V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG419BDQ-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Single SPDT 20/25V",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG419BDY-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC Single SPDT 20/25V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG419LEDQ-T1-GE3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "Resistor",
+  "description": "模拟开关 IC 11ohm On-Resistance 3-16V/3-8V; TSSOP-8",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG419LEDY-T1-GE4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "Resistor",
+  "description": "模拟开关 IC 11ohm On-Resistance 3-16V/3-8V; SOIC-8",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG441DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC SOIC-16  SW HI SP QUAD SPST",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG442DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC SOIC-16  SWITCH QUAD SPST",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG442LEDY-T1-GE3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Mono quad SPST Pd 650mW SOIC-16",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG444DY-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC SOIC-16  SW HI SP QUAD SPST",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG445DY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC SOIC-16  SW QUAD SPST",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG447DV-T1-E3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "模拟开关 IC Lo-Pwr HV Dual SPST",
+  "pkg": "TSOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG449DS-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Hi-Volt Single SPDT",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG452EY-T1-E3",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Hi-Volt Quad SPST",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG636EEN-T1-GE4",
+  "brand": "VISHAY / SILICONIX",
+  "category": "IC",
+  "description": "模拟开关 IC Dual SPDT 0.3pC mQFN-6L",
+  "pkg": "QFN-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DG9636EN-T1-E4",
+  "brand": "Vishay / Siliconix",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC DUAL SPDT SWITCH",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "DMP1009UFDF-7",
+  "brand": "Diodes Incorporated",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFETBVDSS: 8V-24V",
+  "pkg": "UDFN2020-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSL04-012SC6",
+  "brand": "STMicroelectronics",
+  "category": "板载浪涌保护器",
+  "description": "板载浪涌保护器 Low capacitance TVS for high speed lines such as xDSL",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "DTA014EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SC-89(SOT-490)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA014EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "UMT3F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA014YUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA023EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA023JEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-416F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA024EMT2L",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA024EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "UMT3F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA043EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA043EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA043ZEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA043ZUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA044EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 PNP Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA113ZKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 50MA SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITL PNP 50V 50MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114EU3HZGT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP -50V -0.1A 10kO SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITL PNP 50V 50MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114YETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 70MA",
+  "pkg": "SOT-523-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA114YKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT PNP 40V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
  }
 ]
