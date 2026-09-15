@@ -12798,5 +12798,805 @@
   "description": "数字晶体管 DIGIT PNP 40V 100MA",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
+ },
+ {
+  "pn": "DTA123JETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA123JKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT PNP 50V 100MA",
+  "pkg": "SC-59",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA123JU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP -50V -0.1A 2.2kO SOT-323; SC-70; UMT3",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA123YETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA124EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITL PNP 50V 30MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA124EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 30MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA124XU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP -50 VCEO -0.1A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA",
+  "pkg": "SOT-416F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT PNP 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143TKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143ZU3HZGT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP -50V -0.1A 4.7kO SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA143ZU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP -50V -0.1A 4.7kO SOT-323; SC-70; UMT3",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA144EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 30MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA144EMT2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 30MA",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTA144EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP 50V 30MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTB113EKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITAL PNP 50V 500MA SMD3",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTB113ZKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT PNP 50V 500MA",
+  "pkg": "SC-59",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC013ZMT2L",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC014EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC014EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC014YEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC014YUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC023EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC023JEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC023YMT2L",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC024EMT2L",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC024EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC043EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC043EMT2L",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC043EUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC043ZEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC043ZUBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC044EEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC044TEBTL",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN Digital Transtr w/built in resistors",
+  "pkg": "SOT-416F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC113ZKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 100MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 50MA SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITL NPN 50V 50MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114EU3HZGT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 0.1A 10kO SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITL NPN 50V 50MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114TETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114TKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114YETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 70MA SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC114YUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC123EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC123JETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 100MA SOT-416",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC123JKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC123JU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 0.1A 2.2kO SOT-323; SC-70; UMT3",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC124ECAHZGT116",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN SOT-23 22kO Input Resist",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC124EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITAL NPN 50V 100MA EMD3",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC124EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC124XMT2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DGTL NPN 50V 50MA",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC124XU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50 VCEO 0.1A SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143EEBTL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 TRANS DIGI BJT NPN 100MA TR",
+  "pkg": "SC-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 100MA",
+  "pkg": "SC-75A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143EUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143TKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "SC-59",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143XETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143XKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143XMT2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DGTL NPN 50V 100MA",
+  "pkg": "SC-105AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZCAHZGT116",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN SOT-23 4.7kO Input Resist",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZCAT116",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "数字晶体管 NPN 100mA 50V w/bias resistor",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZMT2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DGTL NPN 50V 100MA",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZU3HZGT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 0.1A 4.7kO SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC143ZU3T106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 0.1A 4.7kO SOT-323; SC-70; UMT3",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC144EETL",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITAL NPN 50V 100MA EMD3",
+  "pkg": "SC-75(SOT-416)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC144EKAT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 100MA",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC144EMT2L",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 30MA",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC144WUAT106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 30MA",
+  "pkg": "SOT-323-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC614TKT146",
+  "brand": "ROHM",
+  "category": "Transistor",
+  "description": "数字晶体管 NPN, SOT-346, R1 Alone Type Digital Transistor (Bias Resistor Built-in Transistor)",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTC643TKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 TRANS DIGI BJT NPN 20V 600MA 3PIN",
+  "pkg": "SC-59",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD113EKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 500MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD113ZKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 500MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD114EKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 500MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD123EKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN 50V 500MA",
+  "pkg": "TO-236-3(SOT-23-3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD123YKT146",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGIT NPN 50V 500MA SOT-346",
+  "pkg": "SOT-346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTD513ZETL",
+  "brand": "ROHM",
+  "category": "Transistor",
+  "description": "数字晶体管 TRANSISTOR",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DTDG14GPT100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DIGITAL NPN 60V 1A",
+  "pkg": "TO-243AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "E-L6219DS013TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "马达/运动/点火控制器和驱动器 Dual Stepper Motor",
+  "pkg": "SO-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "E-TDA7377",
+  "brand": "STMicroelectronics",
+  "category": "Amplifier",
+  "description": "音频放大器 2X35W PWR AMPLIFIER",
+  "pkg": "MultiwAtt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "E-TDA7379",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "音频放大器 Digitally controlled Audio Processor",
+  "pkg": "MultiwAtt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "E-TDA7385",
+  "brand": "STMicroelectronics",
+  "category": "Amplifier",
+  "description": "音频放大器 AB Class Audio Amp 4x42W Quad 4 Ohm",
+  "pkg": "FLEXIWATT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "E-TEA3718DP",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "马达/运动/点火控制器和驱动器 Stepper Motor Drive",
+  "pkg": "PowerDIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ECMF02-4CMX8",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "共模扼流圈/滤波器 ESD Filter USB 2.0 16V 6 Ghz 150W 4.8A",
+  "pkg": "QFN-8(1.2x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVFHT2R15B",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 14.34-14.98V 5mA SOD-523; EMD2",
+  "pkg": "SC-79(SOD-523)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVFHT2R18B",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 17.56-18.35V 5mA SOD-523; EMD2",
+  "pkg": "SC-79",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVFHT2R4.7B",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 150mW Pd Zener SOD-523",
+  "pkg": "SC-79(SOD-523)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVFHT2R8.2B",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 8.02-8.36V 5mA SOD-523; EMD2",
+  "pkg": "SC-79(SOD-523)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R10B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 9.99V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R11B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 10.99V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R12B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 11.99V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R13B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 13.2V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R15B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 14.66V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R16B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 16.18V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R18B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 17.955V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R2.0B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 2V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R2.2B",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "稳压二极管 ZENER   EMD2M   .15W     2.2V",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R2.4B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 2.4V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
  }
 ]
