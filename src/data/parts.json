@@ -14398,5 +14398,805 @@
   "description": "厚膜电阻器 - SMD 0603 150ohm 5% Anti Surge AEC-Q200",
   "pkg": "0603",
   "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ152",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1K5ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ153",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 15Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ154",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 150Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ155",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 15Mohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ183",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 18Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ1R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ203",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 20Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ205",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 2MOhm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ220",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 22ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ221",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 220ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ222",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 2K2ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ223",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 22Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ270",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 27ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ271",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 270ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ2R2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 2.2ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ300",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 3ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ303",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 30Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ330",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 33ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ331",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 330ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ333",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 33Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ470",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 47ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ472",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 4K7ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ473",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 47Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ4R7",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 4.7ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ560",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 56ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ561",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 560ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ5R1",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 5.1ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ620",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 62ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ680",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 68ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ6R8",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 6.8ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ7R5",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 7.5ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ822",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 8K2ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF1200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 120ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF15R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 15ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF3301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 3K3ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF3302",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 33Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF3R92",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 3.92ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF43R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 43ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF60R4",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 60.4ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF61R9",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 61.9ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF6801",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 6K8ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF7500",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 750ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPF91R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 91ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 10ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 10Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ120",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 12ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ122",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 1K2ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ150",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 15ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ1R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 1ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ202",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 2Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ620",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 62ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR10EZPJ751",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0805 750ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF1000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 100ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF1301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 1.3Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF1801",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 1.8Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF1960",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 196ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF1R20",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 1.2ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF20R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 20ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF22R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 22ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF3001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 3Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF3900",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 390ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF6800",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 680ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPF8200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 820ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPJ101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 100ohm 5% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPJ1R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 1ohm 5% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR18EZPJ1R8",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1206 1.8ohm 5% Anti Surge AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 10ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF1100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 110ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF1401",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistor, 3225mm, 1W, 200V, +/-1%, 1,400 Ohm",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF1R60",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 1.6ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF3R30",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 3.3ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF5101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 5.1Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF5102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 51Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF5600",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 560ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF6R20",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 6.2ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF75R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 75ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF8200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 820ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPF91R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 91ohm 1% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPJ332",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 3.3Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPJ680",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 68ohm 5% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR25JZPJ823",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 1210 82Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ETP01-1621RL",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 PRT FOR ETHERNET LNS",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "F1360K8",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "F1360K8",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FEP30DP-E3/45",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 30 Amp 200 Volt",
+  "pkg": "TO-247AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FEPB16JT-E3/45",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "整流器 600 Volt 16A 35ns Dual Common Cathode",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD20H60CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "Diode",
+  "description": "整流器 60 V, 20 A dual Field-Effect Rectifier Diode (FERD)",
+  "pkg": "D2PAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD20U50DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "Diode",
+  "description": "整流器 50 V, 20 A Power FLAT Ultra-Low Vf Field-Effect Rectifier Diode (FERD)",
+  "pkg": "VDFN-8-Power",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD30H100SB-TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "整流器 RECTIFIER",
+  "pkg": "DPAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD30H60CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 60 V, 30 A dual Field-Effect Rectifier Diode (FERD)",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD30M45CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "整流器 ST advancd rectifier 45V 0.35Vf +175",
+  "pkg": "D2PAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FERD40H100SG-TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "整流器 RECTIFIER",
+  "pkg": "D2PAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FM24C64B-GTR",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "F-RAM 64Kb Serial I2C 5V FRAM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FMG1AT148",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 30MA",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FMG3AT148",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 100MA",
+  "pkg": "SOT-25-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FMN1T148",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 4 ARRAY COMMON CATHODE",
+  "pkg": "SOT-25-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FTZ4.3ET148",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 DIODE ZENER QD ANODE 4.305V 200MW",
+  "pkg": "SC-74A(SOT-753)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "G6K-2F-RFDC5",
+  "brand": "OMRON ELECTRONICS",
+  "category": "IC",
+  "description": "高频/射频继电器 1GHz Std Grd NoLatch DPDT 5VDC 100mW",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GBU8K-E3/51",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "桥式整流器 800 Volt 8.0 Amp Glass Passivated",
+  "pkg": "GBU",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GBU8M-E3/45",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "桥式整流器 1000 Volt 8.0 Amp Glass Passivated",
+  "pkg": "GBU",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GD32F303RBT6",
+  "brand": "GIGADEVICE(兆易创新)",
+  "category": "IC",
+  "description": "GD32F303RBT6",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
  }
 ]
