@@ -13598,5 +13598,805 @@
   "description": "稳压二极管 Diode Zener Sgl 2.4V 150mW",
   "pkg": "SOD-523",
   "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R2.7B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 2.7V 150mW",
+  "pkg": "SC-79(SOD-523)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R20B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 19.955V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R22B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 22.005V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R24B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 24.25V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R27B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 26.86V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R3.0B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 3V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R3.3B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 3.3V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R3.9B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 4.025V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R30B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 29.94V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R33B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 32.97V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R36B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 35.97V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R4.3B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 4.3V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R4.7B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 4.65V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R5.1B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 5.09V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R5.6B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 5.61V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R6.2B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 6.195V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R6.8B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 6.79V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R7.5B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 7.44V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R8.2B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 8.19V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EDZVT2R9.1B",
+  "brand": "ROHM",
+  "category": "Diode",
+  "description": "稳压二极管 Diode Zener Sgl 9.04V 150mW",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EEE-FKV101XAL",
+  "brand": "PANASONIC",
+  "category": "IC",
+  "description": "铝质电解电容器-SMD 35VDC 100uF 20% 6x8mm AEC-Q200",
+  "pkg": "SMD,D6.3xL7.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EGF1D-E3/67A",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 1.0 Amp 200V 50ns",
+  "pkg": "DO-214BA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EGF1T-E3/67A",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 1.0 Amp 1300 Volt",
+  "pkg": "DO-214BA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EM6K1T2R",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET 2N-CH 30V .1A",
+  "pkg": "SOT-563(SOT-666)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EM6K31T2R",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET TRANS MOSFET NCH 60V 0.25A 6PIN",
+  "pkg": "SOT-563(SOT-666)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EM6K34T2CR",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET 0.9V Drive Nch MOSFET",
+  "pkg": "SOT-563(SOT-666)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EM6K7T2R",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET TRNSISTR DUAL MOSFET",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EM6M2T2R",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Nch+Pch MOSFET",
+  "pkg": "SOT-563(SOT-666)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMH10T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 100MA",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMH11T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 50MA",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMH9T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 70MA",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMMC04G-W627-X01U",
+  "brand": "",
+  "category": "IC",
+  "description": "EMMC04G-W627-X01U",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMT1T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) DUAL PNP 50V 150MA",
+  "pkg": "SOT-563(SOT-666)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMX1T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) DUAL NPN 50V 150MA",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMZ1T2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN/PNP 50V 150MA",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EMZT6.8ET2R",
+  "brand": "ROHM",
+  "category": "Capacitor",
+  "description": "稳压二极管 LO CAPACITANCE ZENER",
+  "pkg": "SOT-553",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES07D-GS08",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 200 Volt 0.7 Amp",
+  "pkg": "SMF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES1D-E3/61T",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 1.0 Amp 200 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES1DHE3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 200 Volt 30 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES1DHE3A/I",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 200 Volt 30 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES2D-E3/52T",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 2.0 Amp 200 Volt",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES2DHE3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2A,200V,20ns SMB, UF Rect, SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES3D-E3/57T",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 3.0 Amp 200V 20ns",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ES3DHE3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 200 Volt 3.0A 20ns Glass Passivated",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD208B102ELE6327XTMA1",
+  "brand": "Infineon Technologies",
+  "category": "Diode",
+  "description": "ESD保护二极管/TVS二极管 TVS DIODES",
+  "pkg": "SOD-882",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD5Z3.3T1G",
+  "brand": "onsemi",
+  "category": "Diode",
+  "description": "ESD保护二极管/TVS二极管 SOD523 ESD DIODE",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD5Z5.0T1G",
+  "brand": "onsemi",
+  "category": "Diode",
+  "description": "ESD保护二极管/TVS二极管 SOD523 ESD DIODE",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD7504MUTAG",
+  "brand": "onsemi",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 LOW CAP ESD Protection",
+  "pkg": "UDFN-10(1x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA18-1K",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 EOS ESD Transil 450W 12V, 18V 105pF",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA25L",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 SUPPRESSOR",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA25SC6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 25V 500W Unidirect",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA5V3L",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 5.3V 300W Unidirect",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA6V1-5SC6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 6.1V 100W Unidirect",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA6V1BC6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 6.1V 80W Bidirect",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA6V1L",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 6.1V 300W Unidirect",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA6V1SC5",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 6.1V 400W Unidirect",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDA6V1SC6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 6.1V 400W Unidirect",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDALC6V1-1M2",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Low cap TRANSIL",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDALC6V1-5P6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 EMI Filter ESD",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDAXLC6-1BT2",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Single-Line BI ESD 0.4pF 15kV 8kV",
+  "pkg": "SOD-882T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDAXLC6-1BT2Y",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 Automotive 3 V extra low capacitance TVS in 0402",
+  "pkg": "SOD-882T",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ESDCAN01-2BLY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Automotive dual-line TVS in SOT23-3L for CAN bus (12 V system)",
+  "pkg": "SOT23-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDCAN02-2BWY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Automotive dual-line TVS in SOT323-3L for CAN bus (12 V system)",
+  "pkg": "SOT323-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDCAN04-2BWY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Automotive dual-line TVS in SOT323-3L for CAN bus (12 V system)",
+  "pkg": "SOT323-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDCAN06-2BLY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Automotive dual-line TVS in SOT23-3L for CAN bus (24 V system)",
+  "pkg": "SOT23-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDCAN06-2BWY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Automotive dual-line TVS in SOT323-3L for CAN bus (24 V system)",
+  "pkg": "SOT323-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESDCAN24-2BLY",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 Dual-Line TVS Auto TVS CAN 24V 230W",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESH2PCHM3/84A",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 150volts 1.0amp",
+  "pkg": "DO-220AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR01MZPF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0402 1Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR01MZPF1002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0402 10Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPD1292",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPD1472",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistors",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 10ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF1203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 120Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF1803",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 180Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF2002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 20Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF2203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 220Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF2400",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 240ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF2491",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistors",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF3300",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 330ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF3301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 3.3Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF33R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 33ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF47R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 47ohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF49R9",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistors",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF7231",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "ESR03EZPF7231",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF7872",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistors",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF8201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 8.2Kohm 1% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPF9762",
+  "brand": "ROHM",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD Anti-surge Chip Resistors",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 10ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 100ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 10Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ104",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 100Kohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ105",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1MOhm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ106",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 10MOhm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ111",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 110ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ122",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 1K2ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ150",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 15ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESR03EZPJ151",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 0603 150ohm 5% Anti Surge AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
  }
 ]
