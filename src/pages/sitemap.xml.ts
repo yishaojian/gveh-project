@@ -27,6 +27,22 @@ export async function GET() {
     priority: '0.7',
   }));
 
+  // 丝印反查页（/marking-code/<码>）与索引页
+  let markingUrls = [{ loc: '/marking-code', priority: '0.7' }];
+  try {
+    const markings = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), 'src/data/markings.json'), 'utf8')
+    );
+    markingUrls = markingUrls.concat(
+      markings.map((m) => ({
+        loc: `/marking-code/${String(m.code).replace(/\//g, '~')}`,
+        priority: '0.6',
+      }))
+    );
+  } catch (e) {
+    // 未导出丝印数据时跳过
+  }
+
   // 博客：索引页 + 所有非 draft 文章
   const posts = await getAllPosts();
   const blogUrls = [
@@ -38,7 +54,7 @@ export async function GET() {
     })),
   ];
 
-  const urls = [...staticUrls, ...partUrls, ...blogUrls];
+  const urls = [...staticUrls, ...partUrls, ...markingUrls, ...blogUrls];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

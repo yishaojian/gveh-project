@@ -1,0 +1,194 @@
+---
+// src/pages/marking-code/[code].astro
+// PNDS 丝印反查页（技术识别视角，与 partstock 的 /marking/<码> 差异化）
+// 数据：src/data/markings.json（由 stock-matrix/scripts/export-pnds-markings.js 导出）
+import fs from 'node:fs';
+import path from 'node:path';
+
+export const prerender = true;
+
+function loadMarkings() {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/markings.json'), 'utf8'));
+}
+
+// pnds 已有型号页集合（只有存在的才能内链，避免 404）
+function loadPndsParts() {
+  try {
+    const parts = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8'));
+    return new Set(parts.map((p) => p.pn));
+  } catch (e) {
+    return new Set();
+  }
+}
+
+export function getStaticPaths() {
+  // 注意：Astro 会在构建期单独调用 getStaticPaths，辅助函数不保证可见 → 这里直接读文件
+  const items = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'src/data/markings.json'), 'utf8')
+  );
+  return items.map((m) => ({
+    params: { code: String(m.code).replace(/\//g, '~') },
+    props: { item: m },
+  }));
+}
+
+const { item } = Astro.props;
+const code = decodeURIComponent(String(Astro.params.code || '')).replace(/~/g, '/');
+const parts = (item && item.parts) || [];
+const withBrand = parts.filter((p) => p.brand).length;
+const pndsParts = loadPndsParts();
+
+const title = `Identify an unknown SMD part: marking code “${code}” | PNDS`;
+const description =
+  `Marking code “${code}” maps to ${parts.length} candidate part numbers. ` +
+  `How to narrow it down by package, pin count and manufacturer — with the source of each mapping.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TechArticle',
+  headline: `How to identify an SMD component marked “${code}”`,
+  about: code,
+  inLanguage: 'en',
+  publisher: { '@type': 'Organization', name: 'PNDS — Panda Hardware Supply' },
+  mainEntity: {
+    '@type': 'ItemList',
+    name: `Candidates for marking ${code}`,
+    numberOfItems: parts.length,
+    itemListElement: parts.slice(0, 25).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.pn,
+      ...(p.brand ? { description: `${p.brand}${p.pkg ? ' · ' + p.pkg : ''}` } : {}),
+    })),
+  },
+};
+
+// 同一首字符的其他码（内链）
+const allMarkings = (() => {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/markings.json'), 'utf8'));
+  } catch (e) {
+    return [];
+  }
+})();
+const siblings = allMarkings
+  .filter((m) => m.code !== code && String(m.code).slice(0, 1) === String(code).slice(0, 1))
+  .slice(0, 10);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={`https://www.pnds.com.cn/marking-code/${Astro.params.code}`} />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    <style is:inline>
+      :root { --bg:#070d14; --card:#0e1620; --ink:#e6edf3; --muted:#8b98a5; --brand:#22d3ee; }
+      body { margin:0; background:var(--bg); color:var(--ink);
+             font:16px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif; }
+      .wrap { max-width:900px; margin:0 auto; padding:40px 20px 80px; }
+      h1 { font-size:27px; line-height:1.35; margin:6px 0 10px; }
+      h2 { font-size:18px; margin:34px 0 10px; color:var(--brand); letter-spacing:.3px; }
+      .crumb { color:var(--muted); font-size:13px; margin-bottom:14px; }
+      .crumb a { color:var(--muted); text-decoration:none; }
+      .lede { color:#b6c2cf; }
+      table { width:100%; border-collapse:collapse; margin:14px 0; font-size:15px; }
+      th, td { border-bottom:1px solid #1b2733; padding:9px 10px; text-align:left; }
+      th { color:var(--muted); font-weight:600; font-size:13px; text-transform:uppercase; letter-spacing:.4px; }
+      td a { color:var(--brand); text-decoration:none; }
+      .src { color:var(--muted); font-size:12.5px; }
+      .tag { display:inline-block; border:1px solid #1f2c3a; border-radius:999px; padding:2px 10px;
+             font-size:12.5px; color:var(--muted); margin-right:6px; }
+      .note { background:#0b1420; border:1px dashed #22303f; border-radius:10px; padding:12px 14px;
+              color:#93a1af; font-size:14px; margin-top:18px; }
+      ul.faq li { margin:6px 0; }
+      .chips a { display:inline-block; background:var(--card); border:1px solid #1b2733; border-radius:8px;
+                 padding:6px 10px; margin:4px 6px 4px 0; color:var(--ink); text-decoration:none; font-size:14px; }
+      .cta { margin-top:34px; background:var(--card); border:1px solid #1b2733; border-radius:12px; padding:18px 20px; }
+      .cta a { color:var(--brand); }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="crumb"><a href="/">PNDS</a> / <a href="/marking-code">Marking codes</a> / <strong>{code}</strong></div>
+      <h1>Identify an unknown SMD part: marking code “{code}”</h1>
+      <p class="lede">
+        Packages rarely print the full part number. The marking below is shared by several part numbers —
+        use the <strong>package</strong>, <strong>pin count</strong> and the <strong>manufacturer family</strong>
+        together to narrow it down, then confirm against the datasheet.
+      </p>
+      <p>
+        <span class="tag">{parts.length} candidates</span>
+        {withBrand > 0 && <span class="tag">{withBrand} with manufacturer</span>}
+        <span class="tag">source-traceable</span>
+      </p>
+
+      <h2>Candidate part numbers</h2>
+      {parts.length > 0 ? (
+        <table>
+          <thead>
+            <tr><th>Part number</th><th>Manufacturer</th><th>Package</th><th>Mapping source</th></tr>
+          </thead>
+          <tbody>
+            {parts.map((p) => (
+              <tr>
+                <td>{pndsParts.has(p.pn) ? <a href={`/pn/${String(p.pn).replace(/\//g, '~')}`}>{p.pn}</a> : p.pn}</td>
+                <td>{p.brand || '—'}</td>
+                <td>{p.pkg || '—'}</td>
+                <td class="src">{p.src || '—'}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      ) : (
+        <p class="note">No mapping recorded for this code yet.</p>
+      )}
+
+      <h2>How we narrow this down</h2>
+      <ol>
+        <li><strong>Package first</strong> — SOT-23 vs SOD-123 vs SC-59 eliminates most candidates immediately.</li>
+        <li><strong>Pin count and body size</strong> — a 3-pin SOT-23 LDO cannot be a 6-pin dual transistor.</li>
+        <li><strong>Marking style</strong> — laser-marked parts are usually newer production; ink marking often indicates older or second-source vendors.</li>
+        <li><strong>Circuits around it</strong> — a part sitting on a rail with an inductor is a regulator, not a diode.</li>
+        <li><strong>Datasheet check</strong> — every credible candidate lists its marking scheme in the “marking information” section.</li>
+      </ol>
+
+      <h2>FAQ</h2>
+      <ul class="faq">
+        <li><strong>Same code, several parts — which one do I actually have?</strong>
+          Compare package + pin count + surrounding circuit; if it still fits two parts, request a sample verification before production.</li>
+        <li><strong>Can I substitute between the candidates?</strong>
+          No — the same marking may sit on electrically different parts. Always match the electrical spec sheet, not just the marking.</li>
+        <li><strong>Where do these mappings come from?</strong>
+          Public SMD marking directories and historical stock tables; each row keeps its source so you can trace it.</li>
+      </ul>
+
+      {siblings.length > 0 && (
+        <>
+          <h2>Other codes starting with “{String(code).slice(0, 1)}”</h2>
+          <div class="chips">
+            {siblings.map((s) => (
+              <a href={`/marking-code/${String(s.code).replace(/\//g, '~')}`}>{s.code}</a>
+            ))}
+          </div>
+        </>
+      )}
+
+      <div class="cta">
+        <strong>Still not sure what the part is?</strong>
+        <p style="margin:8px 0 0;color:#a9b6c3">
+          Send the code, package and a photo through the <a href="/bom-hub">BOM hub</a> — our engineers
+          cross-check it against datasheets and sourcing records.
+        </p>
+      </div>
+
+      <p class="note">
+        Markings are indicative only: the same code can denote different parts across manufacturers and
+        packages. Confirm with the physical batch marking and the original datasheet before ordering.
+      </p>
+    </div>
+  </body>
+</html>

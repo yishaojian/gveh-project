@@ -1,0 +1,77 @@
+---
+// src/pages/marking-code/index.astro —— PNDS 丝印反查索引（英文站）
+import fs from 'node:fs';
+import path from 'node:path';
+
+export const prerender = true;
+
+const markings = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), 'src/data/markings.json'), 'utf8')
+);
+const meta = (() => {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/markings-meta.json'), 'utf8'));
+  } catch (e) {
+    return { codes: markings.length };
+  }
+})();
+
+const groups = new Map();
+for (const m of markings) {
+  const k = String(m.code).slice(0, 1).toUpperCase() || '#';
+  if (!groups.has(k)) groups.set(k, []);
+  groups.get(k).push(m);
+}
+const keys = [...groups.keys()].sort();
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SMD marking code lookup — identify unmarked components | PNDS</title>
+    <meta name="description"
+      content="Look up the code printed on an SMD package and see the candidate part numbers, packages and manufacturers. A practical guide to identifying unknown components." />
+    <link rel="canonical" href="https://www.pnds.com.cn/marking-code" />
+    <style is:inline>
+      :root { --bg:#070d14; --card:#0e1620; --ink:#e6edf3; --muted:#8b98a5; --brand:#22d3ee; }
+      body { margin:0; background:var(--bg); color:var(--ink);
+             font:16px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif; }
+      .wrap { max-width:980px; margin:0 auto; padding:40px 20px 80px; }
+      h1 { font-size:28px; margin:6px 0 10px; }
+      h2 { font-size:17px; color:var(--brand); margin:30px 0 8px; }
+      .lede { color:#b6c2cf; }
+      .chips a { display:inline-block; background:var(--card); border:1px solid #1b2733; border-radius:8px;
+                 padding:6px 10px; margin:4px 6px 4px 0; color:var(--ink); text-decoration:none; font-size:14px; }
+      .muted { color:var(--muted); font-size:13px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>Identify an unmarked component: SMD marking code lookup</h1>
+      <p class="lede">
+        Type the code printed on the top of the package (for example <code>T4</code>, <code>KA3</code>)
+        to see which part numbers it can denote. {meta.codes || markings.length} codes indexed, each row
+        keeps the source of the mapping.
+      </p>
+      <p class="muted">
+        Method: match the <strong>package</strong> and <strong>pin count</strong> first, then confirm with the
+        manufacturer's datasheet. The same code often denotes different parts across vendors.
+      </p>
+
+      {keys.map((k) => (
+        <section>
+          <h2>“{k}”</h2>
+          <div class="chips">
+            {groups.get(k).map((m) => (
+              <a href={`/marking-code/${String(m.code).replace(/\//g, '~')}`}>
+                {m.code} <span class="muted">· {m.parts.length}</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </body>
+</html>
