@@ -142,7 +142,10 @@ const siblings = allMarkings
             {parts.map((p) => (
               <tr>
                 <td>{pndsParts.has(p.pn) ? <a href={`/pn/${String(p.pn).replace(/\//g, '~')}`}>{p.pn}</a> : p.pn}</td>
-                <td>{p.brand || '—'}</td>
+                <td>
+                  {p.brand || '—'}
+                  {p.brand && p.inf ? <sup title="Derived from the part-number family">*</sup> : null}
+                </td>
                 <td>{p.pkg || '—'}</td>
                 <td class="src">{srcLabel(p.src)}</td>
               </tr>
@@ -194,8 +197,12 @@ const siblings = allMarkings
       <p class="note">
         <strong>How these mappings are compiled:</strong> public SMD marking directories plus our own
         stock records. Each row keeps its original reference internally, so any mapping can be traced
-        on request. Markings are indicative only — confirm with the physical batch marking and the
-        original datasheet before ordering.
+        on request. {parts.some((p) => p.brand && p.inf) && (
+          <span><sup>*</sup> Manufacturer derived from the part-number family (some directory entries carry no
+          manufacturer) — treat it as a lead, not a datasheet fact. </span>
+        )}
+        Markings are indicative only — confirm with the physical batch marking and the original
+        datasheet before ordering.
       </p>
     </div>
   </body>
