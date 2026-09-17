@@ -15198,5 +15198,4005 @@
   "description": "GD32F303RBT6",
   "pkg": "LQFP-64(10x10)",
   "lifecycle": ""
+ },
+ {
+  "pn": "GD32F303VCT6",
+  "brand": "GIGADEVICE",
+  "category": "IC",
+  "description": "GD32F303VCT6",
+  "pkg": "LQFP-100(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GF1G-E3/67A",
+  "brand": "Vishay",
+  "category": "Amplifier",
+  "description": "整流器 1.0 Amp 400 Volt",
+  "pkg": "DO-214BA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM155C80J475MEAAJ",
+  "brand": "Murata Electronics",
+  "category": "IC",
+  "description": "多层陶瓷电容器MLCC - SMD/SMT 4.7 uF 6.3 VDC 20% 0402 X6S",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM188R72A104KA35D",
+  "brand": "Murata Electronics",
+  "category": "IC",
+  "description": "多层陶瓷电容器MLCC - SMD/SMT 0.1 uF 100 VDC 10% 0603 X7R",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GSOT03C-E3-08",
+  "brand": "Vishay",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 3.3 Volt 300 Watt Common Anode",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GSOT05C-E3-08",
+  "brand": "Vishay",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 5.0 Volt 300 Watt Common Anode",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GSOT12C-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  GSOT",
+  "pkg": "SOT",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "GSOT24C-E3-08",
+  "brand": "Vishay",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 24 Volt 300 Watt Common Anode",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GSOT36C-E3-08",
+  "brand": "Vishay",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 36 Volt 300 Watt Common Anode",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GSOT36C-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  GSOT",
+  "pkg": "SOT",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "H11AA1-X006",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "晶体管输出光电耦合器 Bi-Directional Input",
+  "pkg": "DIP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HDMIULC6-4SC6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 ESD PROTECTION",
+  "pkg": "SOT-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HP8MA2TB1",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Nch+Pch Middle Power MOSFET",
+  "pkg": "HSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HS1-3182-8",
+  "brand": "Renesas",
+  "category": "IC",
+  "description": "HS1-3182-8",
+  "pkg": "SBDIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HS8K1TB",
+  "brand": "ROHM",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Nch+Nch Power MOSFET",
+  "pkg": "UDFN-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HSP061-2M6",
+  "brand": "STMicroelectronics",
+  "category": "TVS Diode",
+  "description": "ESD保护二极管/TVS二极管 2-Line ESD Prot 6 GHz 0.6pF 100nA",
+  "pkg": "uQFN-6(1x1.4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HVC0603T2505FET",
+  "brand": "OHMITE",
+  "category": "IC",
+  "description": "厚膜电阻器 - SMD 100mW 25 Mohm 1% 100ppm",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HVCB0603FDC75M0",
+  "brand": "SEI STACKPOLE",
+  "category": "Resistor",
+  "description": "厚膜电阻器 - SMD RES, HV, 0603, 75 Mohm, 1%, 50 ppm, 0.06W",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HVLED001ATR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "LED照明驱动器IC Offline controller for LED lighting with constant voltage primary-sensing and hi",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE3AR1080JG",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "交流/直流转换器 COOLSET",
+  "pkg": "DSO-12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE3PCS01G",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "功率因数校正 - PFC STANDALONE PFC CTRLR IN CCM",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE3RBR4765JZ",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "交流/直流转换器 COOLSET (INCL. GEN5)",
+  "pkg": "DIP-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE5AR0680AG",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "开关控制器  COOLSET",
+  "pkg": "BSOP-12-EP-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICM7555IBAZ",
+  "brand": "RENESAS / INTERSIL",
+  "category": "MOSFET",
+  "description": "计时器和支持产品 GEN PUR CMOS TIMER 8 COM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IFSC1515AHER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "SMD,4x4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IGBRC5000CJJPCWS",
+  "brand": "Vishay",
+  "category": "薄膜电阻器 - SMD",
+  "description": "薄膜电阻器 - SMD IGBRC 5% 500ppm WS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1212ABERR47M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .47 20%",
+  "pkg": "SMD,3x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1212AEERR47M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .47 20%",
+  "pkg": "SMD,3.7x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1212BZER1R0M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,3x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1212BZER1R5M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20%",
+  "pkg": "SMD,3x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1212BZER2R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,3x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABER1R0M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,4.5x4.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABER47NM01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .047uH 20%",
+  "pkg": "SMD,4.5x4.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABERR10M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .1uH 20%",
+  "pkg": "SMD,4.5x4.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABERR68M01",
+  "brand": "Vishay",
+  "category": "功率电感器（SMD型）",
+  "description": "功率电感器（SMD型）",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,4.1x4.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZERR22M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .22uH 20%",
+  "pkg": "1616",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZERR47M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .47uH 20%",
+  "pkg": "SMD,4.5x4.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER2R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,5.5x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER3R3M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20%",
+  "pkg": "SMD,5.2x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER4R7M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,5.2x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER1R5M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20%",
+  "pkg": "SMD,5.5x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER2R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZER4R7M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZERR22M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .22uH 20%",
+  "pkg": "SMD,5.5x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZERR22M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .22uH 20%",
+  "pkg": "2020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZERR33M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .33uH 20%",
+  "pkg": "SMD,5.5x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020CZERR33M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .33uH 20%",
+  "pkg": "SMD,5.5x5.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525AHER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525BDER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525BDER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525BDER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525BDERR10M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .1uH 20%",
+  "pkg": "2525",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER100M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER1R5M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER220M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 22uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER3R3M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER6R8M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 6.8uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER8R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 8.2uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZER8R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 8.2uH 20%",
+  "pkg": "2525",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR20M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .2uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR22M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .22uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR33M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .33uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR47M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .47uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR68M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .68uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525EZER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525EZER1R5M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525EZER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525EZER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "SMD,6.9x6.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZER3R3M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20%",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZERR47M1A",
+  "brand": "Vishay / Dale",
+  "category": "功率电感器（SMD型）",
+  "description": "功率电感器（SMD型） 0.47uH 20%",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZER220M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 22uH 20% Low Profile",
+  "pkg": "SMD,8.2x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZER2R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20% Low Profile",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZER3R3M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20% Low Profile",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZER6R8M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 6.8uH 20% Low Profile",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZERR68M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .68uH 20%",
+  "pkg": "SMD,8.6x8.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,10.2x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER100M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER100M5A",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20% High Temp AEC-Q200",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER150M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 15uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER1R0M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER1R5M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER220M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 22uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER220M8A",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 22uH 20% Automotive",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER2R0M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER330M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 33uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER330M5A",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 33uH 20% High Temp AEC-Q200",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER470M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 47uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZERR47M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 0.47uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZERR47M8A",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 0.47uH 20% Automotive",
+  "pkg": "SMD,10.2x10.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZERR56M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .56uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZERR56M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） .56uH 20%",
+  "pkg": "SMD,10.8x10.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050CEER100M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050CEER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050CEER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050CEER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050FDER100MA1",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 10uH 20% AEC-Q200",
+  "pkg": "SMD,12.9x13.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050FDER2R2M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050FDER3R3M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20%",
+  "pkg": "SMD,12.9x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050FDER6R8M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 6.8uH 20%",
+  "pkg": "SMD,13.2x12.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767DZER3R3M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20%",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER1R0M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1uH 20% upto 2MHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER1R5M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 1.5uH 20% upto 2MHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER220M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 22uH 20% 500KHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER2R2M11",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 2.2uH 20% 500KHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER3R3M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 3.3uH 20% upto 2MHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER4R7M01",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "功率电感器（SMD型） 4.7uH 20% upto 2MHz",
+  "pkg": "SMD,17.2x17.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP6767GZER680M1A",
+  "brand": "Vishay / Dale",
+  "category": "功率电感器（SMD型）",
+  "description": "功率电感器（SMD型） IHLP-6767GZ-1A 68 20% ER E3",
+  "pkg": "",
+  "lifecycle": "New at Mouser"
+ },
+ {
+  "pn": "IHW40N120R5",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "绝缘栅双极晶体管(IGBT) HOME APPLIANCES",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL205AT",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 40-80%",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL250",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR >50%",
+  "pkg": "DIP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL410-X006",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "三极与 SCR 输出光电耦合器 Phototriac Output Zero Crossing",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL4108-X0097",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "IL4108-X0097",
+  "pkg": "SMD-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL420-X007",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "三极与 SCR 输出光电耦合器 Phototriac Output Low Input Current",
+  "pkg": "SOP-6-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL420-X007T",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "三极与 SCR 输出光电耦合器 Phototriac Output Low Input Current",
+  "pkg": "SMD-6P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IL420-X009T",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "三极与 SCR 输出光电耦合器 Phototriac Output Low Input Current",
+  "pkg": "SMD-6P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD206T",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR 63-125%",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD207T",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR 100-200%",
+  "pkg": "SO-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD211T",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR >20%",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD213T",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR >100%",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD217T",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR >100%",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD223T",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "晶体管输出光电耦合器 Photodarlington Out Dual CTR >500%",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILD615-2X016",
+  "brand": "Vishay",
+  "category": "Transistor",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Dual CTR > 63-125%",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ILHB1206ER121V",
+  "brand": "VISHAY / DALE",
+  "category": "IC",
+  "description": "铁氧体磁珠 120ohms 25%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM69D120V01",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "MEMS麦克风 MIC DBP DIGITAL",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM72D128V01XTMA1",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "MEMS麦克风 MIC SDM DIGITAL",
+  "pkg": "SMD-5P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM73A135V01",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "MIC SDM ANALOG",
+  "pkg": "LLGA-5(4x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMD16AT108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP/NPN 50V 500MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMD2AT108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 NPN/PNP 50V 30MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMD9AT108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 PNP/NPN 50V 100MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMH21T110",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 TRANS DIGI BJT NPN 20V 600MA 6PIN",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMH3AT110",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "数字晶体管 DUAL NPN 50V 100MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMN10T108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "小信号开关二极管 SWITCH 80V 100MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMT1AT110",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) DUAL PNP 50V 150MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMT2AT108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) DUAL PNP 50V 150MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMZ1AT108",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN/PNP 50V 150MA SOT-457",
+  "pkg": "SOT-457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IP1837TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关稳压器",
+  "description": "开关稳压器 35A iPOWIR 1.5MHz Pvin 1.5V to 16V REG",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IPA60R125P6",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET HIGH POWER PRICE/PERFORM",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPA80R750P7",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET LOW POWER_NEW",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPB017N10N5",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET IFX FET >80 - 100V",
+  "pkg": "TO-263-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPB60R180C7",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET HIGH POWER_NEW",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPB90R340C3",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900V 15A D2PAK-2",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPD60R280P7S",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET CONSUMER",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPD65R650CE",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET CONSUMER",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPD70R1K4P7S",
+  "brand": "INFINEON / IR",
+  "category": "MOSFET",
+  "description": "MOSFET CONSUMER",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPD80R4K5P7",
+  "brand": "INFINEON / IR",
+  "category": "MOSFET",
+  "description": "MOSFET LOW POWER_NEW",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPP50R280CE",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 13A TO220-3 CoolMOS CE",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPT60R080G7",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET HIGH POWER_NEW",
+  "pkg": "HSOF-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPW60R070C6",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 53A TO247-3 CoolMOS C6",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPW65R099C6",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 700V 38A TO247-3",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR1167ASTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 SmartRectifier Cntrl IC",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2102STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 HI LO SIDE DRVR 600V 130mA 160ns",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2106STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr Soft Trn On Noninvert",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2110PBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr All HiVlt Pins 1 Sd",
+  "pkg": "DIP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2110STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr All HiVlt Pins 1 Sd",
+  "pkg": "SOIC-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2113STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr All HiVlt Pins 1 Sd",
+  "pkg": "SOIC-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2130PBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "栅极驱动器 3 PHASE DRVR INVERTING INPUT",
+  "pkg": "DIP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2131SPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 3 PHASE DRVR INVERTING INPUT",
+  "pkg": "SOIC-28-300mil",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR2156PBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Ballast Cntrl Prog Preht Tm & Run Freq",
+  "pkg": "DIP-14",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR21571STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Ballast Cntrl Thrml Ovrload Prot",
+  "pkg": "SOIC-16",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR2181STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr Soft Trn On Non Invrt",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR21834SPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HALF BRDG DRVR 600V 10 to 20V 1.4A",
+  "pkg": "SOIC-14",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IR2184STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HALF BRDG DRVR 600V 10 to 20V 1.4A",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2520DSPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 600V BALLAST CTRL IC ADPT ZERO VOLT",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3447AMTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "IFX POL",
+  "pkg": "PQFN-29(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR3448MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关稳压器",
+  "description": "开关稳压器 16A Hi Intg SGL In VTG Sync Buck Reg",
+  "pkg": "PQFN-29-EP(5x6)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3475MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关稳压器",
+  "description": "开关稳压器 10A SupIRBuck Reg 750kHz, 3.0-27V in",
+  "pkg": "QFN-17(5x4)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3505MPBF",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IR3505MPBF",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR3537MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 12V HI EFFICIENCY MOSFET DRVR",
+  "pkg": "DFN-10",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "IR3567BMTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关控制器",
+  "description": "开关控制器  Dual PWM Ctrl 200kHz to 2MHz",
+  "pkg": "QFN-56",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3622MPBF",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IR3622MPBF",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR3823AMTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "IFX POL",
+  "pkg": "PQFN-19(3.5x3.5)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3847MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关稳压器",
+  "description": "开关稳压器 25A Single 1.5MHz 5V to 21V App w/PWM",
+  "pkg": "PQFN-29-EP(5x6)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3897MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3A SupIRBuck Voltage Reg for 12V input",
+  "pkg": "PQFN-24-EP(4x5)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR3899AMTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "IC",
+  "description": "IFX POL",
+  "pkg": "PQFN-17(4x5)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IR4426STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 25V dual low-side ,3.3A,85ns,DSO-8",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR51H420",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IR51H420",
+  "pkg": "SIP-9",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRAM136-1061A2",
+  "brand": "onsemi",
+  "category": "IC",
+  "description": "IRAM136-1061A2",
+  "pkg": "SIP-1A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRAM256-2067A",
+  "brand": "Infineon Technologies",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 IPM",
+  "pkg": "SIP-29",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF100B201",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET, 100V, 192A 4.2 mOhm, 170 nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF1010EPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 81A 12mOhm 86.6nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRF1404STRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 40V 162A 4mOhm 160nC",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF1405PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 133A 5.3mOhm 170nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF1407STRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 75V 100A 7.8mOhm 160nC",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF2804PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 40V 280A 2.3mOhm 160nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF2804STRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 40V 280A 2.3mOhm 160nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF2805PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 175A 4.7mOhm 150nC",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3205PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 98A 8mOhm 97.3nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3205ZPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 110A 6.5mOhm 76nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF3415PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 43A 42mOhm 133.3nC",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3707PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 12.5mOhms 19nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF3710PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 57A 23mOhm 86.7nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3710STRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 57A 23mOhm 86.7nC",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3710ZPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 59A 18mOhm 82nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3805SPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 1 N-CH 3.3mOhm HEXFET 75A ID",
+  "pkg": "TO-263",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF4905STRRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 1 P-CH -55V HEXFET 20mOhms 120nC",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF510STRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO263  100V  5.6A N-CH MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF520PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V  9.2A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF530NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 17A 90mOhm 24.7nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF530PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V   14A N-CH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF540NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 33A 44mOhm 47.3nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF5802TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 0.9A 1200mOhm 4.5nC",
+  "pkg": "TSOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF614SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 250V",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF624SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 250V 4.4 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRF630",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 200 Volt 10 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF640NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 18A 150mOhm 44.7nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF640PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  200V   18A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF640SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 200V 18 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF6629TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 25V 1 N-CH HEXFET 2.1mOhms 34nC",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF6668TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 80V 1 N-CH HEXFET 15mOhms 22nC",
+  "pkg": "DirectFET",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7103TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 50V 3.0A",
+  "pkg": "SO-8",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRF710PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  400V    2A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7201PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 1 N-CH HEXFET 30mOhms 19nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF720PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  400V  3.3A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF720STRRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 3.3 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7240TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -40V -10.5A 15mOhm 73nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7241TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -40V -6.2A 41mOhm 53nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7313TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 30V 6.5A",
+  "pkg": "SO-8",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRF7317TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL N/PCh 20V 6.6A",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7341TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 55V 4.7A",
+  "pkg": "SO-8",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRF7343TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL N/PCh 55V 4.7A",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7351TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 8A 17.8mOhm 24nC Dual",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7402TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 6.8A 35mOhm 14nC",
+  "pkg": "SOIC-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRF7404TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -20V -6.7A 40mOhm 33.3nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF740ASPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 10 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF740BPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 400V 600mOhm@10V 10A N-Ch D-SRS",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF740PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  400V   10A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF740SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 10 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7410TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -12V -16A 7mOhm 91nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7424TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -30V -11A 13.5mOhm 75nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7425TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -20V -15A 8.2mOhm 87nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7458TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET IR MOSFET 30 V in a SO-8 package",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7469TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 40V 9A 17mOhm 15nC",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7470TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 40V 11A 13mOhm 29nC",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7480MTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Single N-Channel HEXFET Power MOSFET",
+  "pkg": "DirectFET",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRF7607TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 6.5A 30mOhm 22nC Micro 8",
+  "pkg": "MSOP-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7832TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 20A 4mOhm 34nC",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7855TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 12A 9.4mOhm 26nC Qg",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7905TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 30V 8.9A",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF7907TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 30V 9.1A",
+  "pkg": "SO-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRF8010STRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 80A 15mOhm 81nC",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF830APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  IRF8",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF830PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V  4.5A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF840ALPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO262  500V    8A N-CH MOSFET",
+  "pkg": "TO-262",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF840APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V    8A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF840ASTRRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 500V",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF840BPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 500V 850mOhm@10V 8.7A N-Ch D-SRS",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRF840LCSPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO263  500V    8A N-CH MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF840STRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO263  500V    8A N-CH MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF8721TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 14A 8.5mOhm 8.3nC Qg",
+  "pkg": "SOIC-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF8736TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 18A 4.8mOhm 17nC Qg",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF8910TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 20V 10A",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF9321TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -30V -15A 7.2mOhm",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF9333TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -30V -9.2A 19.4mOhm",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF9362TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET Dual MOSFT PCh -8.0A 21.0mOhm -4.5V capb",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF9389TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Dual N and P Ch HEXFET 20-8 20VGS",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRF9510PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V    4A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9530NSTRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -100V -14A 200mOhm 38.7nC",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9530PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V   12A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9540NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -100V -23A 117mOhm 64.7nC",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9540NSTRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -100V -23A 117mOhm 64.7nC",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9540PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V   19A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9610PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  200V  1.8A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9630PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  200V  6.5A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9640PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  200V   11A P-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9Z34PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220    P-CH  60V  18A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFB11N50APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V   11A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFB13N50APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V   14A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB17N50LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V   16A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB18N50KPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  SIHP",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB23N15DPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 23A 90mOhm 37nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB3006PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 270A 2.5mOhm 200nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB3206PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 210A 3mOhm 120nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB3306PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 160A 4.2mOhm 85nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB3607PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 75V 80A 9.0mOhm 56nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB4127PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 76A 20mOhm 100nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB41N15DPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 150V 1 N-CH HEXFET 45mOhms 72nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB4212PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 18A 72.5mOhm 15nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB4227PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 65A 26mOhm 70nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB4321PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 83A 15mOhm 71nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB4332PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 250V 60A 33mOhm 99nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB4410ZPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 97A 9mOhm 83nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB4610PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 73A 14mOhm 90nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB4615PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 34A 41mOhm 26nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFB4710PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 75A 14mOhm 110nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFB5615PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET Audio MOSFT 150V 34A 41mOhm 26nC",
+  "pkg": "ITO-220AB-3",
+  "lifecycle": "Part Number Change"
+ },
+ {
+  "pn": "IRFB61N15DPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 150V 1 N-CH HEXFET 32mOhms 95nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFB7434PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 1.6mOhm 195A HEXFET 294W 216nC",
+  "pkg": "TO-220AB",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFB7437PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 2.0mOhm 195A HEXFET 230W 150nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFB7530PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N CH 60V 195A TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFB9N65APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  650V  8.5A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFBC20PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  2.2A N-CH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBC30APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  3.6A N-CH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBC30PBF-BE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  3.6A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFBC40APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  6.2A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBC40ASTRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 600V 6.2 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBC40PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  6.2A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBC40SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 600V 6.2 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBF20PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  900V  1.7A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBF20SPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO263  900V  1.7A N-CH MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBF20STRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 900V 1.7 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBF30PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  900V  3.6A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFBG30PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220   1KV  3.1A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFD110PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 100V    1A N-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFD120PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 100V  1.3A N-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFD220PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 200V   .8A N-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFD320PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 400V  .49A N-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFD420PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 500V",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFD9020PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP  60V  1.6A P-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFD9220PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 200V  .56A P-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFH4253DTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 25V Dual N-Ch 1.45mOhm 31nC 45A",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFH5015TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 150V SINGLE N-CH 31mOhms 33nC",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFH5210TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 1 N-CH HEXFET 14.9mOhms 39nC",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFH5250TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 25V 1 N-CH HEXFET 1.15mOhms 52nC",
+  "pkg": "PQFN(5x6)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFH7084TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CH 40V 100A PQFN",
+  "pkg": "QFN",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFH7440TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 85A 2.4mOhm 92nC STrongIRFET",
+  "pkg": "PQFN5x6-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFH8303TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CH 30V 100A PQFN",
+  "pkg": "QFN",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFH8330TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 1 N-CH HEXFET 6.6mOhms 9.3nC",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFH9310TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 1 P-CH -30V HEXFET 7.7mOhms 11nC",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFHM8363TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V DUAL N-CH HEXFET 14.9mOhms 15nC",
+  "pkg": "PQFN-8(3.3x3.3)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFHS8342TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 1 N-CH HEXFET 16mOhms 4.2nC",
+  "pkg": "PQFN-6(2x2)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFI3205PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 64A 8mOhm 113.3nC",
+  "pkg": "TO-220FP",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFI4212H-117P",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT DUAL NCh 100V 11A 5-Pin",
+  "pkg": "TO-220FP-5",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFI510GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V  4.5A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI644GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  250V  7.9A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFI740GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  400V  5.4A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI830GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  IRFI",
+  "pkg": "TO-220FP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFI840GLCPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V  4.5A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI840GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V  4.6A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI9520GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V  5.2A P-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI9530GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  100V  7.7A P-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIB6N60APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  5.5A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIB7N50APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  500V  6.6A N-CH MOSFET",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIBE30GPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel Power MOSFET 2.1A, 800V, 78nC",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFL110TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 100V 1.5 Amp",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFL210TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 200V 0.96 Amp",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFL214PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET  IRFL",
+  "pkg": "SOT-223-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFL9014TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 60V 1.1 Amp",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFL9110TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 100V 1.1 Amp",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFML8244TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 25V 5.8A 24mOhm 5.4 Qg",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP048PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247    N-CH  60V  70A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP064NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 98A 8mOhm 113.3nCAC",
+  "pkg": "TO-247AC-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP064PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247    N-CH  60V  70A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP140PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  100V   31A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP150PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  100V   41A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP17N50LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   16A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP21N60LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 600V",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP22N60KPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 600V",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP23N50LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   23A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP240PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  200V   20A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP250MPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 30A 75mOhm 82nCAC",
+  "pkg": "TO-247-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFP250NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 30A 75mOhm 82nCAC",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP250PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  200V   30A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP260MPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 49A 40mOhm 156nCAC",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP31N50LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   31A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP32N50KPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   32A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP340PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  400V   11A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP360LCPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  400V   23A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP360PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  400V   23A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP4110PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 168A 4.6mOhm 152nC Qg",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP4227PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 65A 25mOhm 70nC Qg",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP440PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V  8.8A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP4468PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 290A 2.6mOhm 360nC Qg",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP450APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   14A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP450PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   14A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP460APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   20A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP4668PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 200V 130A 9.7mOhm 161nC Qg",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP4768PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 250V 83A 21mOhm 195nC Qg",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFP9140PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  100V   21A P-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP9240PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  200V   12A P-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPC50PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  600V   11A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPC60LCPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  600V   16A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPE30PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  800V  4.1A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPE40PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 800V",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFPE50PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  800V  7.8A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPF40PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 900V",
+  "pkg": "TO-247-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFPF50PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  IRFP",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPG30PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247   1KV  3.1A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPG40PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247   1KV  4.3A N-CH MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPS38N60LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 600V",
+  "pkg": "TO-274AA",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFPS40N50LPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 500V",
+  "pkg": "TO-274AA",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFPS43N50KPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 500V",
+  "pkg": "TO-274AA",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR014TRLPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252    N-CH  60V  7.7A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR014TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 60V 7.7 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR1010ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 7.5mOhms 63nC",
+  "pkg": "TO252-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFR1018ETRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 79A 8.4mOhm 46nC Qg",
+  "pkg": "TO-252",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFR110TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 100V 4.3 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR120TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252  100V  7.7A N-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR120ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 1 N-CH HEXFET 26mOhms 70nC",
+  "pkg": "DPAK",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR220TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 200V 4.8 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR224TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFET N-CHANNEL 250V",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR24N15DTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 24A 95mOhm 30nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR2607ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET IR FET >60-400V",
+  "pkg": "TO252-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFR310TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 1.7 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR320TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252  400V  3.1A N-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR3410TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V SINGLE N-CH 39mOhms 37nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR3704ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 1 N-CH HEXFET 8.4mOhms 9.3nC",
+  "pkg": "TO252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR3710ZTRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 1 N-CH HEXFET 18mOhms 69nC",
+  "pkg": "TO252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR3806TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 43A 16.2mOhm 22nC Qg",
+  "pkg": "TO252-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFR420ATRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 500V 3.3 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR420TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252  500V  3.3A N-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR4615TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 33A 42mOhm 26nC Qg",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR5305TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 1 P-CH -55V HEXFET 65mOhms 42nC",
+  "pkg": "DPAK(TO-252AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR5410TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 1 P-CH -100V HEXFET 205mOhms 70nC",
+  "pkg": "DPAK(TO-252AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR5505TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 1 P-CH -55V HEXFET 110mOhms 21.3nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR7440TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 90A 2.5mOhm 89nC StrongIRFET",
+  "pkg": "DPAK(TO-252AA)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFR9014TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252    P-CH  60V  5.1A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR9120NTRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT PCh -6.5A 480mOhm 18nC",
+  "pkg": "TO252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFR9210TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252  200V  1.9A P-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR9220TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO252  200V  3.6A P-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR9310TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 400V 1.8 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS11N50APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO263  500V   11A N-CH MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS11N50ATRLP",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 500V 11 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFS3206TRRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 210A 3mOhm 120nC Qg",
+  "pkg": "TO-263-7",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRFS3607TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 75V 80A 9.0mOhm 56nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS4115TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 99A 12.1mOhm 77nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS4229TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 250V 45A 48mOhm 72nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS4410ZTRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 97A 9mOhm 83nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS4615TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 33A 42mOhm 26nC Qg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS7430TRL7PP",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 40V StrongIRFET 240A, .75mOhm,305nC",
+  "pkg": "TO-263-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFS7730TRL7PP",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 75V Single N-Channel HEXFET",
+  "pkg": "TO-263-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFSL3607PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 75V 80A 9.0mOhm 56nC",
+  "pkg": "TO262-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFTS8342TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 8.2A 19mOhm 4.8 Qg",
+  "pkg": "TSOP-6",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFTS9342TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL -30V -5.8A 40 mOhm",
+  "pkg": "TSOP-6",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFU110PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO251  100V  4.3A N-CH MOSFET",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU120PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO251  100V  7.7A N-CH MOSFET",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU210PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO251  200V  2.6A N-CH MOSFET",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU214PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO251  250V  2.2A N-CH MOSFET",
+  "pkg": "TO-251",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRFU220PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO251  200V  4.8A N-CH MOSFET",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU310PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 1.7 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU320PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 400V 3.1 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU420PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 500V 2.4 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU430APBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 500V 5.0 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU4615PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 150V 33A 42mOhm 26nC",
+  "pkg": "TO-251-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRFU9014PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 60V 5.1 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU9024PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 60V 8.8 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFU9310PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Chan 400V 1.8 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFUC20PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 600V 2.0 Amp",
+  "pkg": "TO-251",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ34NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 26A 40mOhm 22.7nC",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ44NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 49A 17.5mOhm 42nC",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ44PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220    N-CH  60V  50A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ44RPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220    N-CH  60V  50A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ44VZPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 57A 12mOhm 43nC",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRG4IBC30SPBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V DC-1kHz",
+  "pkg": "TO-220FP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRG4PC50KPBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V UltraFast 8-25kHz",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRGP30B120KD-EP",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 1200V ULTRAFAST 5-40 KHZ COPACK IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRGP4063D1PBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) IR IGBT 600V 600V 48A COPAK-247AC",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRGP4066D-EPBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V UltraFast Trench IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRGP4069DPBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 76A",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRGP4640DPBF",
+  "brand": "Infineon Technologies",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V UltraFast IGBT 40A 250W 75nC",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRKT105/16A",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "IRKT105/16A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRL3705ZLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 86A 8mOhm 40nC Log Lvl",
+  "pkg": "TO262-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRL620PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  IRF6",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRL640PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  200V   17A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLB3813PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 190A 1.95mOhm 57nC Qg",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLB4132PBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET IR FET UP TO 60V",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLD120PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET HVMDIP 100V  1.3A N-CH MOSFET",
+  "pkg": "DIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLH5030TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 1 N-CH HEXFET 9mOhms 44nC",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRLIB4343PBF",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IRLIB4343PBF",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLL2705TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 3.8A 40mOhm 32nC Log Lvl",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML0030TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 5.2A 28mOhm 3.6nC Qg",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML0060TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 2.7A 92mOhm 2.5nC Qg",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML0100TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 100V 1.6A 220mOhm 2.5nC Qg",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML2030TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 2.7A 100mOhm 1.0nC",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML2060TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 1.2A 480mOhm 0.7nC Qg",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML2402TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 1.2A 250mOhm 2.6nC LogLvl",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLML2502TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 4.2A 45mOhm 8nC Log Lvl",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLML5103TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -0.61A 600mOhm 3.4nC LogLvl",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML5203TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -30V -3A 98mOhm 9.5nC Log Lvl",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLML6244TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 6.3A 21mOhm 2.5V cpbl",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML6246TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 20V 4.1A 46mOhm 2.5V cpbl",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML6302TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -0.62A 600mOhm 2.4nC LogLvl",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLML6344TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 5.0A 29mOhm 30V 2.5V drv capable",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLML6401TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -4.3A 50mOhm 10nC Log Lvl",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLML6402TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT P-Ch -3.7A 65mOhm 8nC Log Lvl",
+  "pkg": "SOT-23",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRLMS1503TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 30V 3.2A 100mOhm 6.4nC LogLvl",
+  "pkg": "SOT-23-6",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRLR024NTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 65mOhms 10nC",
+  "pkg": "DPAK(TO-252AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLR120NTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 1 N-CH HEXFET 185mOhms 13.3nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLR2905TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 27mOhms 32nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLR2905ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 27mOhms 32nC",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLR3110ZTRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 100V HEXFET 14mOhms 15nC",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRLR3705ZPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 55V 1 N-CH HEXFET 8mOhms 44nC",
+  "pkg": "TO252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLR8729TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 1 N-CH HEXFET 8.9mOhms 10nC",
+  "pkg": "TO252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRLS3036TRLPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 60V 270A 2.4mOhm 91nC Log Lvl",
+  "pkg": "TO-263-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRLTS2242TRPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL -20V -6.9A 32mOhm -2.5V capabl",
+  "pkg": "SOT-163",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRLU120PBF",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-Chan 100V 7.7 Amp",
+  "pkg": "TO-251",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLZ24NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 18A 60mOhm 10nC LogLvlAB",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLZ24PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO220   60V   17A N-CH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "IRLZ34NPBF",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET MOSFT 55V 27A 16.7nC 35mOhm LogLvAB",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
  }
 ]
