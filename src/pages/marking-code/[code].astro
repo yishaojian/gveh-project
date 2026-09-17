@@ -38,6 +38,13 @@ const parts = (item && item.parts) || [];
 const withBrand = parts.filter((p) => p.brand).length;
 const pndsParts = loadPndsParts();
 
+/* 对外只说来源类别，不暴露内部文件名/页码（库里仍保留原始出处供内部溯源） */
+const SRC_LABEL = {
+  '表格': 'Stock-record verified',
+  'PDF': 'Public marking directory',
+};
+const srcLabel = (t) => SRC_LABEL[t] || SRC_LABEL['PDF'];
+
 const title = `Identify an unknown SMD part: marking code “${code}” | PNDS`;
 const description =
   `Marking code “${code}” maps to ${parts.length} candidate part numbers. ` +
@@ -123,8 +130,7 @@ const siblings = allMarkings
       <p>
         <span class="tag">{parts.length} candidates</span>
         {withBrand > 0 && <span class="tag">{withBrand} with manufacturer</span>}
-        <span class="tag">source-traceable</span>
-      </p>
+        <span class="tag">source-traceable</span>      </p>
 
       <h2>Candidate part numbers</h2>
       {parts.length > 0 ? (
@@ -138,7 +144,7 @@ const siblings = allMarkings
                 <td>{pndsParts.has(p.pn) ? <a href={`/pn/${String(p.pn).replace(/\//g, '~')}`}>{p.pn}</a> : p.pn}</td>
                 <td>{p.brand || '—'}</td>
                 <td>{p.pkg || '—'}</td>
-                <td class="src">{p.src || '—'}</td>
+                <td class="src">{srcLabel(p.src)}</td>
               </tr>
             ))}
           </tbody>
@@ -186,8 +192,10 @@ const siblings = allMarkings
       </div>
 
       <p class="note">
-        Markings are indicative only: the same code can denote different parts across manufacturers and
-        packages. Confirm with the physical batch marking and the original datasheet before ordering.
+        <strong>How these mappings are compiled:</strong> public SMD marking directories plus our own
+        stock records. Each row keeps its original reference internally, so any mapping can be traced
+        on request. Markings are indicative only — confirm with the physical batch marking and the
+        original datasheet before ordering.
       </p>
     </div>
   </body>
