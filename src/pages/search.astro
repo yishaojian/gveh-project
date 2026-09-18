@@ -1,0 +1,118 @@
+---
+// PNDS 型号查询页 — 前端过滤 /search-data.json（含未生成详情页的型号，避免 404）
+const style = `
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #09090b !important; color: #fafafa !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+  .ps-wrap { max-width: 920px; margin: 0 auto; padding: 48px 20px 80px; }
+  .ps-badge { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; letter-spacing: 3px; color: #f39c12; border: 1px solid rgba(243,156,18,.4); display: inline-block; padding: 4px 14px; border-radius: 999px; margin-bottom: 22px; }
+  .ps-title { font-size: 30px; font-weight: 700; margin-bottom: 10px; }
+  .ps-sub { color: #a1a1aa; font-size: 14px; line-height: 1.8; margin-bottom: 22px; }
+  .ps-form { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  .ps-input { flex: 1; min-width: 220px; padding: 13px 16px; border-radius: 8px; border: 1px solid #27272a; background: #18181b; color: #e4e4e7; font-size: 14px; outline: none; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .ps-input:focus { border-color: #f39c12; }
+  .ps-btn { padding: 13px 24px; border-radius: 8px; border: none; cursor: pointer; background: #f39c12; color: #09090b; font-weight: 700; font-size: 14px; }
+  .ps-meta { color: #71717a; font-size: 12px; margin-bottom: 16px; }
+  .ps-card { display: block; padding: 13px 16px; border: 1px solid #27272a; border-radius: 8px; background: #111113; margin-bottom: 8px; text-decoration: none; }
+  .ps-card:hover { border-color: #f39c12; }
+  .ps-pn { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: 700; color: #fbbf24; word-break: break-all; }
+  .ps-info { font-size: 12px; color: #a1a1aa; margin-top: 4px; line-height: 1.6; }
+  .ps-tag { display: inline-block; font-size: 11px; padding: 1px 8px; border-radius: 99px; margin-left: 8px; border: 1px solid #3f3f46; color: #d4d4d8; }
+  .ps-tag.new { color: #34d399; border-color: rgba(52,211,153,.4); }
+  .ps-more { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
+  .ps-link { padding: 11px 20px; border-radius: 8px; text-decoration: none; border: 1px solid #3f3f46; color: #d4d4d8; font-size: 14px; }
+  .ps-link.solid { background: #1c1917; border-color: #78350f; color: #fbbf24; }
+`;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Part Number Search | PNDS Component Database</title>
+    <meta name="description" content="Search the PNDS component database by part number, manufacturer or category. Full specs, stock and pricing from Shenzhen — updated daily." />
+    <style is:inline>{style}</style>
+  </head>
+  <body>
+    <div class="ps-wrap">
+      <div class="ps-badge">PNDS · PART SEARCH</div>
+      <h1 class="ps-title">Part Number Search</h1>
+      <p class="ps-sub">
+        Type a full part number (e.g. OPA2197IDR), a manufacturer or a category keyword.<br />
+        Items marked <span class="ps-tag new">PAGE READY</span> have a detail page; others can be quoted directly by our engineers.
+      </p>
+      <form class="ps-form" id="f" action="/search" method="get">
+        <input class="ps-input" id="q" name="q" placeholder="Enter part number, e.g. OPA2197IDR" autocomplete="off" />
+        <button class="ps-btn" type="submit">Search</button>
+      </form>
+      <div class="ps-meta" id="meta">Loading database…</div>
+      <div id="list"></div>
+      <div id="moreWrap" style="display:none;margin-top:14px;">
+        <button class="ps-btn" id="moreBtn" style="background:#27272a;color:#d4d4d8;font-weight:500;">Load more</button>
+      </div>
+      <div class="ps-more">
+        <a class="ps-link" href="/">← Back to Home</a>
+        <a class="ps-link solid" href="/bom-hub">BOM Inquiry</a>
+      </div>
+    </div>
+    <script is:inline>
+      (function () {
+        var PAGE = 40, all = [], shown = 0, data = null;
+        var q = document.getElementById('q'), list = document.getElementById('list'), meta = document.getElementById('meta');
+        var moreWrap = document.getElementById('moreWrap'), moreBtn = document.getElementById('moreBtn');
+        function esc(s) {
+          return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; });
+        }
+        function render() {
+          list.innerHTML = all.slice(0, shown).map(function (r) {
+            var pn = r[0], brand = r[1], cat = r[2], pkg = r[3], desc = r[4], pub = r[5];
+            var head = pub
+              ? '<a class="ps-card" href="/pn/' + encodeURIComponent(pn.replace(/\//g, '~')) + '">'
+              : '<div class="ps-card">';
+            var tail = pub ? '</a>' : '</div>';
+            var tag = pub ? '<span class="ps-tag new">PAGE READY</span>' : '<span class="ps-tag">quote on request</span>';
+            return head +
+              '<div class="ps-pn">' + esc(pn) + tag + '</div>' +
+              '<div class="ps-info">' + [brand, cat, pkg].filter(Boolean).map(esc).join(' · ') +
+              (desc ? '<br>' + esc(desc) : '') + '</div>' + tail;
+          }).join('');
+          moreWrap.style.display = shown < all.length ? 'block' : 'none';
+        }
+        function search(term) {
+          term = (term || '').trim().toUpperCase();
+          if (!data) { all = []; shown = 0; render(); return; }
+          if (!term) {
+            all = []; shown = 0; render();
+            meta.textContent = data.total + ' parts in database (' + data.published + ' with detail pages) · start typing · data ' + data.generated;
+            return;
+          }
+          var exact = [], start = [], part = [];
+          data.items.forEach(function (r) {
+            var pn = r[0].toUpperCase();
+            if (pn === term) exact.push(r);
+            else if (pn.indexOf(term) === 0) start.push(r);
+            else if ((pn + ' ' + r[1] + ' ' + r[2] + ' ' + r[3]).toUpperCase().indexOf(term) >= 0) part.push(r);
+          });
+          all = exact.concat(start, part);
+          shown = Math.min(PAGE, all.length);
+          meta.textContent = all.length
+            ? all.length + ' match(es) out of ' + data.total + ' parts'
+            : 'No match for "' + term + '" — try another spelling or send us a BOM inquiry.';
+          render();
+        }
+        moreBtn.addEventListener('click', function () { shown = Math.min(shown + PAGE, all.length); render(); });
+        document.getElementById('f').addEventListener('submit', function (e) {
+          e.preventDefault();
+          var term = q.value;
+          history.replaceState(null, '', term ? '/search?q=' + encodeURIComponent(term) : '/search');
+          search(term);
+        });
+        var init = new URLSearchParams(location.search).get('q') || '';
+        q.value = init;
+        fetch('/search-data.json')
+          .then(function (r) { return r.json(); })
+          .then(function (j) { data = j; search(init); })
+          .catch(function () { meta.textContent = 'Failed to load the database. Refresh, or send us a BOM inquiry.'; });
+      })();
+    </script>
+  </body>
+</html>

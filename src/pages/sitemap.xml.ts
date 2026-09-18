@@ -17,6 +17,7 @@ export async function GET() {
 
   const staticUrls = [
     { loc: '/', priority: '1.0' },
+    { loc: '/search', priority: '0.8' },
     { loc: '/bom-hub', priority: '0.8' },
     { loc: '/login', priority: '0.3' },
     { loc: '/zh', priority: '0.6' },

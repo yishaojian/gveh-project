@@ -8,14 +8,26 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { getAllPosts, categoryName } from '../utils/blog';
 
-// 热门型号（构建时读 parts.json，渐进式随批次增长）
+// 热门型号（构建时读 parts.json；按日期轮换取样 → 每天不同，同一天内稳定）
 let featuredParts = [];
 let partsMeta = { count: 0, total: 0, updatedAt: '' };
 try {
   const parts = JSON.parse(
     fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
   );
-  featuredParts = parts.slice(0, 6);
+  const FEATURED = 6;
+  if (parts.length <= FEATURED) {
+    featuredParts = parts;
+  } else {
+    // 日期→确定性起点（每天往后推一屏，遍历完整库后回环），避免“永远是那几个型号”
+    const day = new Date();
+    const seed = day.getUTCFullYear() * 10000 + (day.getUTCMonth() + 1) * 100 + day.getUTCDate();
+    const start = (seed * FEATURED) % parts.length;
+    featuredParts = parts.slice(start, start + FEATURED);
+    if (featuredParts.length < FEATURED) {
+      featuredParts = featuredParts.concat(parts.slice(0, FEATURED - featuredParts.length));
+    }
+  }
 } catch (e) {
   featuredParts = [];
 }
@@ -575,7 +587,7 @@ const latestPosts = (await getAllPosts('en')).slice(0, 3);
       <section class="gveh-parts-section">
         <div class="gveh-section-header">
           <h2 class="gveh-section-title">Featured Parts</h2>
-          <a href={`/pn/${featuredParts.length ? featuredParts[0].pn.replace(/\//g, '~') : 'OPA2197IDR'}`} class="gveh-section-link">Browse Part Pages →</a>
+          <a href="/search" class="gveh-section-link">Search Parts →</a>
         </div>
         <div class="gveh-db-status">
           <svg style="width:12px;height:12px;vertical-align:-1px;margin-right:6px;" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M5 12l5 5 9-10" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -607,6 +619,11 @@ const latestPosts = (await getAllPosts('en')).slice(0, 3);
         <a href="/bom-hub" class="gveh-nav-item">
           <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
           <span class="gveh-nav-text">BOM HUB</span>
+        </a>
+        <div style="width: 1px !important; height: 16px !important; background-color: rgba(63, 63, 70, 0.5) !important;"></div>
+        <a href="/search" class="gveh-nav-item">
+          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path stroke-linecap="round" stroke-linejoin="round" d="M20 20l-3.5-3.5"></path></svg>
+          <span class="gveh-nav-text">SEARCH</span>
         </a>
       </div>
     </div>
