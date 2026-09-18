@@ -21,6 +21,7 @@ export async function GET() {
     { loc: '/bom-hub', priority: '0.8' },
     { loc: '/login', priority: '0.3' },
     { loc: '/zh', priority: '0.6' },
+    { loc: '/zh/search', priority: '0.8' },
   ];
 
   const partUrls = parts.map((p) => ({

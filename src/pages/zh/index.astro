@@ -14,7 +14,18 @@ try {
   const parts = JSON.parse(
     fs.readFileSync(path.join(process.cwd(), 'src/data/parts.json'), 'utf8')
   );
-  featuredParts = parts.slice(0, 6);
+  const FEATURED = 6;
+  if (parts.length <= FEATURED) {
+    featuredParts = parts;
+  } else {
+    const day = new Date();
+    const seed = day.getUTCFullYear() * 10000 + (day.getUTCMonth() + 1) * 100 + day.getUTCDate();
+    const start = (seed * FEATURED) % parts.length;
+    featuredParts = parts.slice(start, start + FEATURED);
+    if (featuredParts.length < FEATURED) {
+      featuredParts = featuredParts.concat(parts.slice(0, FEATURED - featuredParts.length));
+    }
+  }
 } catch (e) {
   featuredParts = [];
 }
@@ -523,7 +534,7 @@ const latestPosts = (await getAllPosts('zh')).slice(0, 3);
       <section class="gveh-parts-section">
         <div class="gveh-section-header">
           <h2 class="gveh-section-title">热门型号推荐</h2>
-          <a href={`/pn/${featuredParts.length ? featuredParts[0].pn.replace(/\//g, '~') : 'OPA2197IDR'}`} class="gveh-section-link">浏览型号 →</a>
+          <a href="/zh/search" class="gveh-section-link">型号查询 →</a>
         </div>
         <div class="gveh-db-status" style="margin-bottom:20px;">
           <svg style="width:12px;height:12px;vertical-align:-1px;margin-right:6px;" viewBox="0 0 24 24" fill="none" stroke="#34d399" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M5 12l5 5 9-10" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -531,6 +542,10 @@ const latestPosts = (await getAllPosts('zh')).slice(0, 3);
           <span style="opacity:0.6;">·</span>
           <span>每日自动更新 · 最近同步 {partsMeta.updatedAt} UTC</span>
         </div>
+        <form action="/zh/search" method="get" style="display:flex;gap:8px;flex-wrap:wrap;margin:0 20px 18px;">
+          <input type="text" name="q" placeholder="输入型号查询，如 STM32F103C8T6" autocomplete="off" style="flex:1;min-width:220px;padding:12px 14px;border:1px solid #27272a;border-radius:8px;background:#18181b;color:#e4e4e7;font-size:14px;outline:none;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;" />
+          <button type="submit" style="padding:12px 22px;border:none;border-radius:8px;background:#f39c12;color:#09090b;font-weight:700;font-size:14px;cursor:pointer;">搜索</button>
+        </form>
         <div class="gveh-parts-grid">
           {featuredParts.length ? featuredParts.map((p) => (
             <a href={`/pn/${p.pn.replace(/\//g, '~')}`} class="gveh-part-card" style="text-decoration: none !important;">
@@ -555,6 +570,11 @@ const latestPosts = (await getAllPosts('zh')).slice(0, 3);
         <a href="/zh/bom-hub" class="gveh-nav-item">
           <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path></svg>
           <span class="gveh-nav-text">BOM中心</span>
+        </a>
+        <div style="width: 1px !important; height: 16px !important; background-color: rgba(63, 63, 70, 0.5) !important;"></div>
+        <a href="/zh/search" class="gveh-nav-item">
+          <svg style="width:18px; height:18px;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path stroke-linecap="round" stroke-linejoin="round" d="M20 20l-3.5-3.5"></path></svg>
+          <span class="gveh-nav-text">型号查询</span>
         </a>
       </div>
     </div>

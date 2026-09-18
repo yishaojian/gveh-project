@@ -595,6 +595,10 @@ const latestPosts = (await getAllPosts('en')).slice(0, 3);
           <span style="opacity:0.6;">·</span>
           <span>updated daily · last sync {partsMeta.updatedAt} UTC</span>
         </div>
+        <form action="/search" method="get" style="display:flex;gap:8px;flex-wrap:wrap;margin:0 20px 18px;">
+          <input type="text" name="q" placeholder="Search a part number, e.g. OPA2197IDR" autocomplete="off" style="flex:1;min-width:220px;padding:12px 14px;border:1px solid #27272a;border-radius:8px;background:#18181b;color:#e4e4e7;font-size:14px;outline:none;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;" />
+          <button type="submit" style="padding:12px 22px;border:none;border-radius:8px;background:#f39c12;color:#09090b;font-weight:700;font-size:14px;cursor:pointer;">Search</button>
+        </form>
         <div class="gveh-parts-grid">
           {featuredParts.length ? featuredParts.map((p) => (
             <a href={`/pn/${p.pn.replace(/\//g, '~')}`} class="gveh-part-card" style="text-decoration: none !important;">
