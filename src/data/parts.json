@@ -19198,5 +19198,4005 @@
   "description": "MOSFET MOSFT 55V 27A 16.7nC 35mOhm LogLvAB",
   "pkg": "TO-220-3",
   "lifecycle": "End of Life"
+ },
+ {
+  "pn": "IRS2004STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Half Brdg Drvr w/ Hi&Lw Side Outpt",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "IRS2092STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "音频放大器",
+  "description": "音频放大器 200V Dig Aud Drvr",
+  "pkg": "SOIC-16-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2104STRPBF",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IC GATE DRVR HALF-BRIDGE 8SOIC",
+  "pkg": "-40°C ~ 150°C (TJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS21864STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr capbl of 4A & 4A",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS21867STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Hi CUR Iout = 4A robust HS/LS Gt Drvr",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2186STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Hi&Lw Sd Drvr capbl of 4A & 4A",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2304STRPBF",
+  "brand": "Infineon Technologies",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Half Brdg Drvr w/ Hi&Lw Side Outpt",
+  "pkg": "SOIC-8N",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS44273LTRPBF",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IC GATE DRVR LOW-SIDE SOT23-5",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRU1207-25CS",
+  "brand": "Infineon",
+  "category": "IC",
+  "description": "IRU1207-25CS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IS31FL3236A-QFLS2-TR",
+  "brand": "Lumissil",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC LED Driver 36-Channel",
+  "pkg": "QFN-44-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ISP25DP06NM",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET SMALL SIGNAL MOSFETS",
+  "pkg": "SOT223-4",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ITA25B1RL",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 25V 300W Bidirect",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "KDZLVTFTR51",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 48-54Vz(V) 2Iz(mA) AEC-Q101 Qualified",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZLVTFTR56",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 53-60Vz(V) 2Iz(mA) AEC-Q101 Qualified",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZLVTFTR68",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 64-72Vz(V) 2Iz(mA) AEC-Q101 Qualified",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZLVTFTR91",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 85-96Vz(V) 2Iz(mA) AEC-Q101 Qualified",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR10B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 10-11.2V 40mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR11B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 11-12.3V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR12B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 12-13.5V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR13B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 13.3-15V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR15B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 14.7-16.5V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR16B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 16.2-18.3V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR18B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 18-20.3V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR20B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 20-22.4V 20mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR22B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 22-24.5V 10mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR24B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 24-27.6V 10mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR27B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 27-30.8V 10mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR3.0B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3-3.4V 40mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR30B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 30-34V 10mA SOD-123FL; PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR5.1B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.1-5.7V 40mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR5.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.6-6.3V 40mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTFTR6.8B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 6.8-7.7V 40mA SOD-123FL; PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR10B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 10.31V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR11B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 11.51V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR12B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 12.5V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR13B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 13.82V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR15B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 15.35V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR16B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 16.86V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR18B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 19V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR2.0B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 2.0V 1000mW Surface Mount",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR2.7B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 2.7V 1000mW Surface Mount",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR20B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 20.82V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR22B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 23.85V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR24B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 25.31V 7% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR3.0B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 2-Pin Mold PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR3.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3.813V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR3.9B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 4.136V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR30B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 31.57V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR33B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 34.95V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR36B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 39.24V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR4.3B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 4.572V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR4.7B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 4.924V 5% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR5.1B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.368V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR5.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.856V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR6.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 6.509V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR6.8B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 7.28V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR7.5B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 7.889V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KDZVTR8.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 8.655V 6% 1W 2-Pin PMDU",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF25BD-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 0.5A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF25BDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF33BD-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.5A Positive",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF33BDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF50BD-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.5A Positive",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KF50BDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 1K 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1002",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 10Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 100Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF10R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 10ohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1500",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 150ohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1502",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 15Kohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF1503",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 150K 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF2203",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 220Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF2701",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 2.7Kohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF27R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 27ohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF3300",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 330ohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF33R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 33ohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF3R30",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 3.3ohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF4702",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 47Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPF82R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 82ohm 1% High Voltage",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPJ103",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 10Kohm 5% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR03EZPJ514",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 510Kohm 5% High VoltageAEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 100ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1002",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 10Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 100Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1004",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1MOhm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF10R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 10ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1200",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 120ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1201",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1.2Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1202",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 12Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1203",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 120Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1302",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 13Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1501",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1.5K 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1503",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 150Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1801",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1.8Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1802",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 18Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF1R00",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 1ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 2K 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2200",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 220ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2201",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 2.2Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2204",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 2.2MOhm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF22R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 22ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2402",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 24Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF24R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 24ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF2701",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 2.7Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF3000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 300ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF3001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 3Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF3002",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 30Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF3323",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 332Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF4700",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 470ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF4702",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 47Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF4703",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 470K 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF47R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 47ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF5100",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 510ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF5101",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 5.1Kohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF5600",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 560ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF5601",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 5.6K 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF5602",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 56K 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF6801",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 6.8Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF68R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 68ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF7500",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 750ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF7501",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 7.5Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF8200",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 820ohm 1% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF8201",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 8.2Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF8202",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 82Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF9100",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 910ohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPF9101",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 9.1Kohm 1% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPJ334",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 330Kohm 5% High VoltageAEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR10EZPJ475",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0805 4.7Mohm 5% High Voltage",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 100ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 100Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1004",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1204",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1.2MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1504",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1.5MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1802",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 18Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1803",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 180Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF1R00",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 200Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2004",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2101",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.1Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2200",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 220ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2203",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 220Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2204",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.2MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2404",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.4MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2673",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 267Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2701",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.7Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF2703",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 270Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 300K 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3004",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 3MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3303",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 330Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3304",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 3.3MOhm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3323",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 332Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3901",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 3.9Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3903",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 390Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF3904",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 3.9Mohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4700",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 470ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4701",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 4K7ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4702",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 47Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4703",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 470Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4704",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 4.7Mohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4993",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 499Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF4R70",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 4.7ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF6203",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 620Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF6801",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 6.8Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF6803",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 680Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF7501",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 7.5Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF7503",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 750Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF8R20",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 8.2ohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPF9103",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 910Kohm 1% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ102",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 1Kohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ225",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.2Mohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ275",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 2.7Mohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ470",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 47ohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ682",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 6.8Kohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR18EZPJ824",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 820Kohm 5% High VoltageAEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR25JZPF3R00",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1210 3ohm 1% High Voltage",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KTR25JZPJ513",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1210 51Kohm 5% High Voltage",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L200CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Adj Voltage/Current",
+  "pkg": "Pentawatt",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L272D013TR",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 DUAL Pwr Op Amp",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L293D",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Push-Pull 4-Channel",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L293DD013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Push-Pull 4-Channel",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L296",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.1 to 40V Step-Down",
+  "pkg": "Multiwatt-15V",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L297/1",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Stepper Motor",
+  "pkg": "DIP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L297D013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Stepper Motor",
+  "pkg": "SO-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L298N",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Dual Full Bridge",
+  "pkg": "MultiwAtt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4931CD50-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.25A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4940D2T5-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 1.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4940V5",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 1.5A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4941BV",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 1.0A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4960",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.1 to 40V 2.5 Amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L4962E/A",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.0 to 40V Step-Down",
+  "pkg": "Heptawatt-7V",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L4964",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.1 to 28V 4.0 Amp",
+  "pkg": "Multiwatt-15V",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "L4971D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.3 to 50V Step-Down",
+  "pkg": "SOIC-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4978",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.3 to 50V Step-Down",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4978D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.3 to 50V Step-Down",
+  "pkg": "SO-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4979MD013TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0 Volt 0.5 Amp",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4981A",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Very High Power",
+  "pkg": "DIP-20",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L4981AD013TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC PFC CTR AVER CURR 100KHZ 20SO",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4981BD013TR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Very High Power",
+  "pkg": "SO-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L4984DTR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Current Mode PFC CCM Line Modulated Bi",
+  "pkg": "SSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5150BNTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5V LDO 500mV Vdp 150mA 5.6V to 40V",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5970AD",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4.4-36V 1A Step-Down",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5970ADTR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 STEP DOWN MONOLITHIC SWITCH REG 1.5A",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5970D",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.2 to 35V Step-Down",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5970D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.2 to 35V Step-Down",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5972D",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.235 to 35V Step-Dn",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5972D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.235 to 35V Step-Dn",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5973D",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.235 to 35V Step-Dn",
+  "pkg": "HSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5973D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2.5 A Step-DN Switching Reg",
+  "pkg": "HSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L5986ATR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Step-down switch regulator, 2.5A",
+  "pkg": "HSOP-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6201",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Full Bridge",
+  "pkg": "SO-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6201013TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC HALF BRIDGE DRIVER 1A 20SO",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6203",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC HALF BRIDGE DRV 4A 11MULTWATT",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6205D013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Dual Full Bridge",
+  "pkg": "SO-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6205PD013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Dual Full Bridge",
+  "pkg": "PowerSO-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6206QTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Dual Bridge DRV 8 to 52V 5.6A 100KHz",
+  "pkg": "HVQFN-48-EP(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6207PD",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Dual Full Bridge",
+  "pkg": "PowerSO-36",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6208PD",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Stepper Motor",
+  "pkg": "PowerSO-36",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6208PD013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Stepper Motor",
+  "pkg": "PowerSO-36",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6226QTR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 DMOS Full Bridge Driver",
+  "pkg": "QFN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6228DTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Stepper Motor",
+  "pkg": "SO-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6228PDTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Stepper Motor",
+  "pkg": "PowerSO-36",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6228QTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS Dual Full Bridge w/ PWM",
+  "pkg": "VFQFPN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6229PDTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 3-Phase DC Motor",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6230QTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 DMOS 3-Ph Motor 8 to 52V 2.8A Driver",
+  "pkg": "QFN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6377D013TR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 0.5A Intel Power Sw",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6384ED013TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HV H-Bridge driver",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6385ED013TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HV H-Bridge driver",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6386ED013TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 High Volt High Low Driver",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6387ED013TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HV H-Bridge driver",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6388ED013TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 High Volt High Low Driver",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6390DTR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 HI-VOLTAGE HI/LW SIDE DRIVER",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6470H",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 8 - 45V 7.0A 1/128 Microstepping SPI",
+  "pkg": "HTSSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6470HTR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 8 - 45V 7.0A Bipolar dSPIN MicroStepping",
+  "pkg": "HTSSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6506D013TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Stepper Motor",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6561",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC PFC CTRLR TRANSITION 8DIP",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6561D013TR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Wide Input Voltage",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "L6562ADTR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC HV H-Bridge driver",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6562AN",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Low 2.5mA 30uA Transition Mode PFC",
+  "pkg": "DIP-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L6562ATDTR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Transition-mode PFC controller",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6562DTR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Trans Mode PFC Cont",
+  "pkg": "SO-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "L6563ATR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC Advanced transition mode PFC controller",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6563HTR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC 700V 6mA Start-Up Transition-Mode PFC",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6563TR",
+  "brand": "STMicroelectronics",
+  "category": "功率因数校正 - PFC",
+  "description": "功率因数校正 - PFC POWER SUPPLY",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6565DTR",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  Current-Mode Pri Cnt",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6566BTR",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  MultiMode Controller for SMPS",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6598",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) High Volt Reson Cont",
+  "pkg": "PDIP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L6598D013TR",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) High Volt Reson Cont",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6599ADTR",
+  "brand": "STMicroelectronics",
+  "category": "Resistor",
+  "description": "IC RESONANT CONVRTR CTRLR 16SOIC",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6599ATDTR",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) IMPROVED High-Volt RESONANT CONTROLLER",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6699DTR",
+  "brand": "STMicroelectronics",
+  "category": "交流/直流转换器",
+  "description": "交流/直流转换器 Enhanced High Volt Res CTRL 600V",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6725TR",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  Adjustable Step Down Controller",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L6726ATR",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  PWM Controler Single",
+  "pkg": "SO-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "L6902D013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1.235 to 34V Step-Dn",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6920DBTR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 SYNCRONOUS RECT. STEP UP CONVERTER",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6920DTR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 0.6 to 5.5V Step-Up",
+  "pkg": "TSSOP-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L6924D013TR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC BATT CHG LI-ION 1CEL 16VFQFPN",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6932D1.2TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.2V 2A Ultra LDO",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L6932D1.8TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.8V 2A Ultra LDO",
+  "pkg": "SO-8",
+  "lifecycle": "Factory Special Order"
+ },
+ {
+  "pn": "L6981NDR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 38 V, 1.5 A synchronous step-down converter with 20uAA quiescent current",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6983CQTR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 38 V, 3 A synchronous step-down converter with 17uAA quiescent current",
+  "pkg": "QFN-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6984ATR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 36 V, 400 mA synchronous step-down switching regulator",
+  "pkg": "DFN-10-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6984TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 36 V, 400 mA synchronous step-down switching regulator",
+  "pkg": "VFDFPN-10(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6986TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 38 V, 2 A synchronous step-down switching regulator with 30uAA quiescent cu",
+  "pkg": "HTSSOP-16-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805ABD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805ACV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.0A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805ACV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Precision 1.5A Reg 5V Output Dual Gauge",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.0A Positive",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 POS Voltage Reg IC 3-Terminal 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7806CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Pos V Reg Dual Guage 1.5A 6V",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7808CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 8.0V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7808CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 8.0V 1.0A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7808CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Precision 1.5A Reg 24V Out Dual Gauge",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7809ABD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7809CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 1.5A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7809CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Pos VTG Reg 1.5A 9V 3-TERM IC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7812ABD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812ABV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.5A POS REG IC 12V Output Voltage",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812ACD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812ACV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.0A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.5A Positive",
+  "pkg": "TO-220-FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.5A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7812CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 POS Voltage Reg IC 3-Terminal 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815ABD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815ABV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 1.0A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 1.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 1.0A Positive",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V, 1.5A Positive voltage regulator IC",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7815CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 POS Voltage Reg IC 3-Terminal 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7818CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 POS VTG REG 1.5A 18V 3-TERM IC",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7824CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 +24 V out 1.5 A out",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7824CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Precision 1.5A Reg 12V Out Dual Gauge",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ABD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC REG LINEAR 5V 100MA SOT89-3",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ABZ-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Positive",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ACD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ACZ",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Positive",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L05ACZ-AP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Positive",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L08ABZTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 8.0V 0.1A Positive",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L08ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 8.0V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L08ACZ",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 8.0V 0.1A Positive",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L09ABD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 0.1A Positive",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L09ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L09ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L12ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Pos Vltg regulators",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L12ACD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 0.1A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L12ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L12ACZ",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 0.1A Positive",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L15ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L15ACD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 0.1A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L24ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 24V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L33ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 3.3V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L33ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 3.3V 0.1A Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78L33ACZ",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 3.3V 0.1A Positive",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M05ABDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M05CDT-1",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.5A Positive",
+  "pkg": "TO-251-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L78M05CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M09CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 9.0V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M10ABDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Precision 500mA REG",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M12CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M15ABDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M24ABDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 24V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L78M24CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 24V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7905CD2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Negative",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7905CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Negative",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7905CV",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 1.5A Negative",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7905CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 NEG Voltage Reg IC 3-Terminal 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7908CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Neg VTG Reg 15A Neg 8V 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "L7912CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 1.5A Negative",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7912CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Negative Reg 1.5A Output -12V TO-220",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7915CP",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 1.5A Negative",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7915CV-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 NEG Voltage Reg IC 3-Terminal 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7986A",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3A Step-Down Reg 4.5 to 38V 250 KHz",
+  "pkg": "HSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7986ATR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3A Step-Down Reg 3A DC 4.5 38V 250kHz",
+  "pkg": "HSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7986TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2A Step-Down REG 2A DC 4.5 to 38V",
+  "pkg": "TDFN-10-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7987L",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 61 V 2 A asynchronous step-down switching regulator with adjustable current limi",
+  "pkg": "HTSSOP-16-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7987LTR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 61 V 2 A asynchronous step-down switching regulator with adjustable current limi",
+  "pkg": "HTSSOP-16-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7987TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 61 V 3 A asynchronous step-down switching regulator with adjustable current limi",
+  "pkg": "HTSSOP-16-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L79L05ABUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Negative",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L79L05ACD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Negative",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L79L05ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 5.0V 0.1A Negative",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L79L12ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 12V 0.1A Negative",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L79L15ACUTR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 15V 0.1A Negative",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L974113TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Octal self Config Low/High Side Driver",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L9779WD-SPI-TR",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) Multifunction IC for engine management system",
+  "pkg": "HiQUAD-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L9960T-TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Dual H-bridge",
+  "pkg": "SSOP-36-300mil",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LAP-301MB",
+  "brand": "ROHM Semiconductor",
+  "category": "LED 显示器和配件",
+  "description": "LED 显示器和配件 1DIGIT 8LED GRN CA DISP MOD",
+  "pkg": "插件,P=2mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LC709204FXE-01TBG",
+  "brand": "onsemi",
+  "category": "电池管理",
+  "description": "电池管理 FUEL GAUGE",
+  "pkg": "WLCSP-12(1.48x1.91)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LCP22-150B1RL",
+  "brand": "STMicroelectronics",
+  "category": "电信接口IC",
+  "description": "电信接口IC Protection IC for ringing SLICs",
+  "pkg": "SOP-8-208mil",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LD1084V",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.85-30V 5.0A Adj",
+  "pkg": "TO-220AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LD1085D2M-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.85-30V 3.0A Adj",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1085D2M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 3.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1085D2T-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.85-30V 3.0A Adj",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1085D2T33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 3.0A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1086D2M33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 1.5A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1086D2T33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 1.5A Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1086DT33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 1.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1086DTTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.85-30V 1.5A Adj",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1086V33-DG",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.5 A adjustable and fixed low drop positive voltage regulator",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117AS12TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LOW DROP FIXED REG",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117AS33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 1.0A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117D33CTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.8A Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DT12TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.2V 0.8A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DT33CTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.8A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DT33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.8A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DT50CTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.8A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DT50TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.8A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117DTTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.25-15V 0.8A Adj",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117S18TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.8V 0.8A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117S25CTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 0.8A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117S25TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 0.8A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117S33CTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.8A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117S50TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.8A Positive",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117STR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.25-15V 0.8A Adj",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD1117V50C",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0 0.8A Positive",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LD29150DT25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 1.5A Very Low",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD29150PTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Adjust 1.5A Very Low",
+  "pkg": "TO-252-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD29300P2MTR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Adjust 3.0A Very Low",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2980ABM50TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 50mA Positive",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2980CM33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 50mA Positive",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2981ABU33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 100mA Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2981ABU50TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 100mA Positive",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2985BM33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 150mA Positive",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD2985BM50R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 150mA Positive",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39050PU25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V 500mA ULTRA LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39050PUR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 ADJ FRM 0.8V LDO 500mA",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39100PU33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1 A low quiescent current low noise voltage regulator",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39100PUR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1A Low Quiescent Reg 1.5 to 5.5 V 200mV",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39150PU-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Ultralow drop BICMOS Volt REG 2.5V to 6V",
+  "pkg": "DFN-6(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39150PU33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Ultra low drop BiCMOS voltage regulator",
+  "pkg": "DFN-6(3x3)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LD39200DPUR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2 A high PSRR ultra low drop linear regulator with reverse current protection",
+  "pkg": "DFN-8(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39200PU33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2 A high PSRR ultra low drop linear regulator with reverse current protection",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD39300PT-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Bicmos Vltg Regulatr Ultra Lo Drop",
+  "pkg": "TO-252-5",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LD3985M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 BICMOS VOLT REG",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LD59100PUR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1A Ultra Low-Dropout regulator with Reverse Current Protection",
+  "pkg": "DFN-8(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDCL015MR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 150mA Capless Ultra Low REG 50mV 100mA",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120M-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent Very low noise LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120M30R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent Very low noise LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent Very low noise LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120PU-R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200mA Low Quiescent Crnt low noise LDO",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120PU25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current very low noise LDO",
+  "pkg": "DFN-6L(1.2x1.3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK120PU33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current very low noise LDO",
+  "pkg": "DFN-6L(1.2x1.3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK130M25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 300 mA low quiescent current very low noise LDO automotive",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK130M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 300mA low Q LDO 1.9 to 5.5V 100mV",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK220M30R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and low noise LDO",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK220M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and low noise LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK220M50R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and low noise LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK220U33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and low noise LDO",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK320ADU30R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and high PSRR voltage regulator",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK320ADU33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and high PSRR voltage regulator",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDK320ADU50R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA low quiescent current and high PSRR voltage regulator",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDL1117S33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.2 A High PSRR low dropout linear voltage regulator",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LDLN025J25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 250 mA ultra-low noise LDO",
+  "pkg": "FlipChip-4(0.6x0.6)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LDLN025M30R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 250 mA ultra-low noise LDO",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE50ABD-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 100mA Positive",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LF253DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Wideband JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LF25CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 2.5V1A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LF33CDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LF50ABDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 0.5A Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LH1510AAB",
+  "brand": "Vishay Semiconductors",
+  "category": "固态继电器-PCB安装",
+  "description": "固态继电器-PCB安装 Normally Open Form 1A",
+  "pkg": "SMD-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LK112M33TR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3.3V 100mA Linear",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LL4148-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 100V Io/150mA T/R",
+  "pkg": "MiniMELF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM124DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Low Power",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM158DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low PWR Dual OP AMP 100dB 1.1 MHz 20nA",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM211DRG4",
+  "brand": "Texas Instruments",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Single Strobed Diffe rential ALT 595-LM2 ALT 595-LM211DR",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM211DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Single GP Voltage",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM217LD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM217MDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM219DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Hi-Spd Dual Voltage",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM224ADT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power, low input bias current",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM224DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Low Power",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM224PT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power quad op-amps with low input bias current",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM235Z",
+  "brand": "STMicroelectronics",
+  "category": "板上安装温度传感器",
+  "description": "板上安装温度传感器 3-Term Adjust Currnt",
+  "pkg": "TO-92-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LM239ADT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Quad Voltage",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM239DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Quad Voltage",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM258ADT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM258DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2596S-5.0",
+  "brand": "Texas Instruments",
+  "category": "开关稳压器",
+  "description": "开关稳压器 SIMPLE SWITCHER&reg; 4.5V to 40V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263",
+  "pkg": "TO-263",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LM2901DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Quad Voltage",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2902DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power, bipolar op-amp",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2903DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Dual Voltage",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2903PT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Dual Voltage",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2903YDT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Low power dual voltage comparator",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2904DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2904PT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2931ADT50R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 5.0V 100mA Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LM293ADT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Dual Voltage",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM293DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Dual Voltage",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM311DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Single GP Voltage",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317D2T-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317LD13TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Low current 1.2 to 37 V adjustable voltage regulator",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317LZ",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317MDT-TR",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317T",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Positive 1.5 Amp Output",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317T-DG",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Dual Guage ADJ 1.2V to 37V 1.5A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM319DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Hi-Spd Dual Voltage",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324ADT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power, low input bias current",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324DT",
+  "brand": "STMicroelectronics",
+  "category": "Amplifier",
+  "description": "IC OPAMP GP 4 CIRCUIT 14SO",
+  "pkg": "30 V",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324PT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power, low input bias current",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324WDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low power, low input bias current",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM339APT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo Pwr QUAD Vltg COMPARATOR",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM339DT",
+  "brand": "ROHM Semiconductor",
+  "category": "模拟比较器",
+  "description": "模拟比较器 COMPARATOR QUAD +/-18V/36V 14PIN",
+  "pkg": "SOIC-14",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "LM358ADT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358QT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low Power DUAL OP 100 dB 1.1MHz 20nA",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393DT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Dual Voltage",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4041CILT-1.2",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Precision micropower shunt volt reference",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM431SAIMFX/LM431SBIMFX/LM431SCIMFX",
+  "brand": "Texas Instruments",
+  "category": "IC",
+  "description": "LM431SAIMFX/LM431SBIMFX/LM431SCIMFX",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMH5401IRMST",
+  "brand": "Texas Instruments",
+  "category": "射频放大器",
+  "description": "射频放大器 8GHz 14-UQFN -40 to 85 A 595-LMH5401IRMS A 595-LMH5401IRMSR",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMH6401IRMZT",
+  "brand": "Texas Instruments",
+  "category": "差分放大器",
+  "description": "差分放大器 5Ghz Ultra Wideband Dig Var Gain Amp A 5 A 595-LMH6401IRMZR",
+  "pkg": "UQFN-16(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV321RILT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Rail-to-Rail Input and Output",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV324IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Rail-to-Rail Input and Output",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV324IPT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Rail-to-Rail Input and Output",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV324LIDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 2.7 to 5.5V 1.3Mhz 250uA 5V 7mV Op Amp",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV331ILT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Low Volt Comparator 2.7 - 5V 20 uA 200ns",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV358IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Rail-to-Rail Input and Output",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV824IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 LP 400uA 5V 50nA 2.5 - 5.5V 5.5 MHz",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMX321ICT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low PWR 120uA 2.7V 2.3 to 5.5V 1.3 MHz",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP5012RUKR",
+  "brand": "Texas Instruments",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC 12-channel I2C const ant-current RGB LED",
+  "pkg": "WQFN-20-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP5907MFX-1.8/NOPB",
+  "brand": "Texas Instruments",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 250mA Ultra-Lo Noise LDO Reg",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LQW15AN6N6G80D",
+  "brand": "Murata Electronics",
+  "category": "射频电感器（SMD型）",
+  "description": "射频电感器（SMD型）",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LQW15AN6N8G00D",
+  "brand": "Murata Electronics",
+  "category": "射频电感器（SMD型）",
+  "description": "射频电感器（SMD型） 6.8  NH      +-.2NH",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LQW15AN8N2G00D",
+  "brand": "Murata Electronics",
+  "category": "射频电感器（SMD型）",
+  "description": "射频电感器（SMD型） 8.2  NH   2%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LSANB2520MKT3R3M",
+  "brand": "TAIYO YUDEN",
+  "category": "功率电感器（SMD型）",
+  "description": "功率电感器（SMD型） INDUCTOR,METAL WIRE-W CHIP,1008 ,3.3UH20% ,T&R",
+  "pkg": "1008",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT1764EFE#PBF",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 3A, Fast Tran Resp, L N, LDO Regs",
+  "pkg": "TSSOP-16-EP",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LT3015IDD-5#PBF",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 1.5A, L N, Neg Lin Reg w/ Prec C Lim",
+  "pkg": "DFN-8-EP(3x3)",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LT3080EMS8E-1",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 LT3080-1 - Parallelable 1.1A Adjustable Single Resistor Low Dropout Regulator",
+  "pkg": "MSOP-8-EP",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LT3094EDD",
+  "brand": "Analog Devices",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 -20V, 500mA Ultralow Noise/PSRR LDO",
+  "pkg": "WDFN-12-EP(3x3)",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTC3265EFE#PBF",
+  "brand": "Analog Devices",
+  "category": "开关稳压器",
+  "description": "开关稳压器 L N 2x S w/ Boost & Inv Ch Pumps",
+  "pkg": "TSSOP-20-EP",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTC4365HTS8#TRPBF",
+  "brand": "Analog Devices",
+  "category": "板载浪涌保护器",
+  "description": "板载浪涌保护器 Overvoltage, Undervoltage & Reverse S Pr",
+  "pkg": "TSOT-23-8",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTC4365HTS8-1#TRMPBF",
+  "brand": "Analog Devices",
+  "category": "板载浪涌保护器",
+  "description": "板载浪涌保护器 Overvoltage, Undervoltage & Reverse S Pr",
+  "pkg": "TSOT-23-8",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTM4630IY-1A#PBF",
+  "brand": "Analog Devices",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2x 18A or 1x 36A  Module  Reg w/ 0.8 D",
+  "pkg": "BGA-144",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTM4644IY",
+  "brand": "Analog Devices",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4x DC/DC  Module  Reg w/ Config 4A Out",
+  "pkg": "BGA-77",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "LTR10EVHFL1R00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 1ohm 1% Rev Term AEC-Q200",
+  "pkg": "0508",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHFL1R10",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 1.1ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "End of Life"
  }
 ]
