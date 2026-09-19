@@ -23198,5 +23198,4005 @@
   "description": "电流检测电阻器 - SMD 0805 1.1ohm 1% Rev Term AEC-Q200",
   "pkg": "0805",
   "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LTR10EVHFL1R20",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 1.2ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LTR10EVHFL1R50",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 1.5ohm 1% Rev Term AEC-Q200",
+  "pkg": "0508",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LTR10EVHFL4R70",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 4.7ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHFLR220",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 0.22ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LTR10EVHFLR470",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 0.470ohm 1% Rev Term AEC-Q200",
+  "pkg": "0508",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHFLR820",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 0.82ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHFLR910",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0508 0.91ohm 1% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHJLR15",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.15ohm 5% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR10EVHJLR18",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.18ohm 5% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "LTR10EVHJLR33",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.33ohm 5% Rev Term AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "LTR18EZPF10R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 10ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1200",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 120ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF12R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 12ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1300",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD High-Power/Wide-Terminal/Anti-Surge Chip Resistor, 1632mm, 0.75W, 200V, +/-1%, 130 Ohm",
+  "pkg": "SMD,3.2x1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1500",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 150ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1501",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 1K5ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF15R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 15ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1621",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 1.62Kohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1R00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 1ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF1R50",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 1.5ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF2000",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 200ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF20R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 20ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF2200",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 220ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF22R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD High-Power/Wide-Terminal/Anti-Surge Chip Resistor, 1632mm, 0.75W, 200V, +/-1%, 22.0 Ohm",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF2R70",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 2.7ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF3300",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 330ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF36R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 36ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF3900",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 390ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF39R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD High-Power/Wide-Terminal/Anti-Surge Chip Resistor, 1632mm, 0.75W, 200V, +/-1%, 39.0 Ohm",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF3R00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 3ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF4300",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 430ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF43R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD High-Power/Wide-Terminal/Anti-Surge Chip Resistor, 1632mm, 0.75W, 200V, +/-1%, 43.0 Ohm",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF4700",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 470ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF4R30",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 4.3ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF68R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 68ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF75R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 75ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPF8R20",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 8.2ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFLR150",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.150ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFLR200",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.2ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFSR015",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.015ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFSR022",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.022ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFSR050",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.05ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFSR051",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.051ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPFSR091",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 0.091ohm 1% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ102",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0612 1Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ110",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 11ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ150",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 15ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ151",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 150ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ160",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 16ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ1R2",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 1.2ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ1R3",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 1.3ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ1R8",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 1.8ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ271",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 270ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ2R2",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 2.2ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ2R4",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0612 2.4ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ392",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 3.9Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ393",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 39Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ3R0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 3ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ3R3",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 3.3ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ471",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 470ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ473",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 47Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ4R3",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 4.3ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ512",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 5.1Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ6R8",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1206 6.8ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ752",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 7.5Kohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ7R5",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 7.5ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ820",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0612 82ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR18EZPJ821",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0612 820ohm 5% Rev Term AEC-Q200",
+  "pkg": "0612",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF1R00",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1020 1ohm 1% Rev Term AEC-Q200",
+  "pkg": "1020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF2R20",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1020 2.2ohm 1% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF3R00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 02010 3ohm 1% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF4R70",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1020 4.7ohm 1% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF68R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 2010 68ohm 1% Rev Term AEC-Q200",
+  "pkg": "1020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPF82R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 2010 82ohm 1% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPJ101",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 100ohm 5% Rev Term AEC-Q200",
+  "pkg": "1020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPJ120",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 2010 12ohm 5% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTR50UZPJ8R2",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 2010 8.2ohm 5% Rev Term AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OM8SEP4256Q-A01",
+  "brand": "Kingston",
+  "category": "IC",
+  "description": "OM8SEP4256Q-A01",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OM8P0S3128Q-A0",
+  "brand": "Kingston",
+  "category": "固态硬盘 - SSD",
+  "description": "固态硬盘 - SSD M.2 2280 128GB SATA3 SSD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24128-BRDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 电可擦除可编程只读存储器 S. I2C 128k",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24128-BWMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 128K (16Kx8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24128-DFMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 128-Kbit I2C EEProm 1MHz 1.7V to 5.5V",
+  "pkg": "TDFN-8-EP(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24256-BRDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kb and 256Kb Ser",
+  "pkg": "TSSOP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24256-BRMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kb and 256Kb Ser",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24256-BWMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256K (32Kx8)",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24256-DFCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256Kb serial I2C bus 1 MHz 1.7 to 5.5V",
+  "pkg": "WLCSP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24256-DFMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256-Kbit serial I2C Bus 电可擦除可编程只读存储器",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24512-DFCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kit I2C EEProm 128kB 1 MHz 1.7 5.5V",
+  "pkg": "WLCSP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24512-DFMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512kB I2C EEProm 1 MHz 1.7 5.5V",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24512-DRDW8TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512-Kbit serial I2C bus 电可擦除可编程只读存储器 105&#176;C operation",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24512-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kb and 256Kb Ser",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24512-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kb and 256Kb Ser",
+  "pkg": "TSSOP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24512-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 512Kb and 256Kb Ser",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24C01-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1.8-5.5V 1K (128x8)",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-FDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC EEPROM 2KBIT I2C 8TSSOP",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-FMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2-Kbit serial I2C Bus 电可擦除可编程只读存储器",
+  "pkg": "UFDFPN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2Kbit 100kHz I2C 400 kHZ Fast-Mode",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1.8-5.5V 2K (256x8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5-5.5V 2K (256x8)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C02-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 电可擦除可编程只读存储器 S I2C 2K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C04-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 16Kbit 8Kbit 4Kbit 2Kb and 1Kb Serial",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C04-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 电可擦除可编程只读存储器 S I2C 4k",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C08-RDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1.8-5.5V 8K (1Kx8)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C08-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 16Kbit 8Kbit 4Kbit 2Kb and 1Kb Serial",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C08-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5-5.5V 8K (1Kx8)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C16-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 16Kbit 100kHz I2C 400 kHZ Fast-Mode",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C16-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 16Kbit 8Kbit 4Kbit 2Kb and 1Kb Serial",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C16-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5-5.5V 16K (2Kx8)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C16-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 电可擦除可编程只读存储器 S I2C 16k",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C32-FDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 32kB Serial I2C bus 1MHz 1.7V to 5.5V",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C32-FMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 32 Kbit serial I2C 1MHz Fast 电可擦除可编程只读存储器",
+  "pkg": "UFDFPN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C32-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1.8-5.5V 32K (4Kx8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C32-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5-5.5V 32K (4Kx8)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-FCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 64kB Serial I2C bus 1.7V 1MHz Fast Mode",
+  "pkg": "WLCSP-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-FDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 64kB Serial I2C bus 1.7V 1MHz Fast Mode",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-FMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 64 Kbit serial I2C Bus 电可擦除可编程只读存储器",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-RDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 128 Kbit 64 Kbit and 32 Kbit serial",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 128 Kbit 64 Kbit and 32 Kbit serial",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24C64-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 电可擦除可编程只读存储器 S. I2C 64k",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M24LR16E-RDW6T/2",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 16kB EEPROM Dual INT 400 kHz IC2 13.56MHz",
+  "pkg": "TSSOP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24LR16E-RMC6T/2",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 16kB EEPROM Dual INT 400 kHz IC2 13.56MHz",
+  "pkg": "UFDFPN-8(2x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24LR64E-RMC6T/2",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 64Kbit EEProm 400kHz 13.56Mhz 1.8 to 5.5",
+  "pkg": "UDFN-8(2x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24LR64E-RMN6T/2",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 64Kbit EEProm 400kHz 13.56Mhz 1.8 to 5.5",
+  "pkg": "SO-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24M01-DFCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1Mb serial IAC bus 1 MHz 1.7 to 5.5V",
+  "pkg": "WLCSP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24M01-DFMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1-Mbit I2C EEProm 256kB 1.7V to 5.5V",
+  "pkg": "SO-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24M01-RDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1-Mbit I2C EEProm 256kB 1.7V to 5.5V",
+  "pkg": "TSSOP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24M01-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1 Mbit Serial",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24M02-DRMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2 Mbit serial I2C 1.8V to 5.5V 电可擦除可编程只读存储器",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "M24SR64-YMN6T/2",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 64-Kbit Dynamic NFC RFID tag EEProm",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T00M6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 64 (8X8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T00SM6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 2.0 to 5.5V 64 (8X8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T01M6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Low-Pwr serial RTC W/ battry switchover",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T0M6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 64 (8X8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T56M6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 512 (64x8)",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T62LC6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial real-time clocks with alarm",
+  "pkg": "LCC-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "M41T62Q6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 1.3V to 3.6V w/Alarm",
+  "pkg": "QFN-16-EP(3x3)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "M41T81M6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 512 (64x8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T81SM6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 2.0-5.5V 512 (64x8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T93RMY6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial SPI bus RTC",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T94MH6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 512 (64x8)",
+  "pkg": "SOP-28-8.9mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M41T94MQ6F",
+  "brand": "STMicroelectronics",
+  "category": "实时时钟",
+  "description": "实时时钟 Serial 512 (64x8)",
+  "pkg": "SO-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M4T28-BR12SH1",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC CLK BATT/XTAL 32.768KHZ 48MAH",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M4T32-BR12SH6",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC CLK BAT/XTAL 32.768KHZ 120MAH",
+  "pkg": "插件,21.8x15mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B12D0SWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B18D0SWB",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "M55342K12B18D0SWB",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B300DSWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B330DSWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B3E30SWB",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "M55342K12B3E30SWB",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B3E90SWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B430DSWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B47E0SWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B620DSWB",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "M55342K12B620DSWB",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B62E0SWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B6D20SWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B820DSWB",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M55342K12B82D0SWB",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "M55342K12B82D0SWB",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M6060P-E3/45",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60 Amp 60 Volt Dual Common Cath",
+  "pkg": "TO-247AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HC151YRM13TR",
+  "brand": "STMicroelectronics",
+  "category": "编码器、解码器、复用器和解复用器",
+  "description": "编码器、解码器、复用器和解复用器 8-Channel Multiplexer",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C46-RMN3TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 Auto 1-Kb MICROWIRE serial 电可擦除可编程只读存储器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C46-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC EEPROM 1KBIT MICROWIRE 8-SOIC",
+  "pkg": "-40°C ~ 85°C (TA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C56-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5 V 2K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C66-RMN3TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 Auto 4-Kb MICROWIRE serial 电可擦除可编程只读存储器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C66-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 4K (512x8 or 256x16)",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C66-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5 V 4K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C86-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 16K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95020-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 2K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95040-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 4 Kbit SPI BUS EE 10MHz CR 5ms",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95040-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 4K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95080-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 8K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95128-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 128kB Serial BUS EE 10MHz CR 5ms",
+  "pkg": "TDFN-8-EP(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95160-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 16kB Serial BUS EE 1.8V to 5.5V ESD",
+  "pkg": "UFDFPN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95160-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 Serial SPI Bus 电可擦除可编程只读存储器",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95160-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 16K",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-DFCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256Kb serial SPI bus 20 MHz 5ms 64 Byte",
+  "pkg": "WLCSP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-DFMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256Kb SPI Bus 电可擦除可编程只读存储器 w/ hi spd clock",
+  "pkg": "DFN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 256 Kbit Serial Bus 电可擦除可编程只读存储器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 256k",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95320-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 32kB 电可擦除可编程只读存储器 20 MHz 1.8V to 5.5V 1M WC",
+  "pkg": "DFN-8-EP(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95320-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 32k",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95512-DRMF3TG/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 Automotive 512 Kbit SPI bus 电可擦除可编程只读存储器 with high speed clock",
+  "pkg": "MLP-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95640-DRMN3TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 Auto 64Kb SPI bus 电可擦除可编程只读存储器",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95640-RMC6TG",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 64Kbit SPI 电可擦除可编程只读存储器 20 MHz 1.8V to 5.5V",
+  "pkg": "UFDFPN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95640-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 32 Kbit and 64 Kbit serial SPI bus EE",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95640-WDW6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2.5 V to 5.5V 64k",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95640-WMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 5.5V 64K (8Kx8)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95M01-DFCS6TP/K",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1Mb serial SPI bus 16MHz 1.7V to 5.5V",
+  "pkg": "WLCSP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95M01-RMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 1 Mbit SPI bus 电可擦除可编程只读存储器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95M02-DRMN6TP",
+  "brand": "STMicroelectronics",
+  "category": "电可擦除可编程只读存储器",
+  "description": "电可擦除可编程只读存储器 2 Mbit serial SPI 2Mb 5MHz 电可擦除可编程只读存储器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3221EIPWR",
+  "brand": "Texas Instruments",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 RS-232 Line Driver/R eceiver A 595-MAX32 A 595-MAX3221EIPW",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232ESE",
+  "brand": "Analog Devices / Maxim Integrated",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 3.0V to 5.5V, Low-Power, up to 1Mbps, Tr",
+  "pkg": "SOP16",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "MAX8713ETG+",
+  "brand": "Analog Devices / Maxim Integrated",
+  "category": "电池管理",
+  "description": "电池管理 Simplified Multichemistry SMBus Battery Charger",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "MBR3045PT-E3/45",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30 Amp 45 Volt",
+  "pkg": "TO-247AD",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "MBR3060PT-E3/45",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30 Amp 60 Volt",
+  "pkg": "TO-247AD",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "MC33078DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Noise",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33079DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Low Noise",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33171DT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Low Power",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34063ABN",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 DC DC CONVERTER CONTROL CIRCUITS",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34063ACD-TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.0 to 40V DC-DC Cnv",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34063ECD-TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.0 to 40V DC-DC Cnv",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34063ECN",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 3.0 to 40V DC-DC Cnv",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC4558IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Wide Bandwidth",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCL4148-TR",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 100 Volt 350mA",
+  "pkg": "MicroMELF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF1000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF1000",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF1001",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF1002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF1002",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF1004",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF1004",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF1005",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF1005",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF2000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF2000",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF3001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF3001",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF3303",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF3303",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF3903",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF3903",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF4701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF4701",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF49R9",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF49R9",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPF9092",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPF9092",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPJ102",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPJ103",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ331",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPJ331",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ471",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPJ471",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR006YLPJ683",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR006YLPJ683",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1000",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1001",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1002",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1003",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1003",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1004",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1004",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF10R0",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1101",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1102",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1201",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1211",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1211",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1212",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1212",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1273",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1273",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1500",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1500",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1501",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1501",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1502",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1502",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1503",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1503",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1602",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1602",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1621",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1621",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF1622",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF1622",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2000",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2001",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2002",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2004",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2004",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2053",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2053",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2201",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF22R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF22R0",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2400",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2400",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2433",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2433",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2492",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2492",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF24R9",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF24R9",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2671",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2671",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2701",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2702",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2702",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF2741",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF2741",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3002",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3003",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3003",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3011",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3011",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3162",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3162",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3240",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3240",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3301",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3302",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3302",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3321",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3321",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF33R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF33R0",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3603",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3603",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3742",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3742",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF3922",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF3922",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4020",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4020",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4022",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4022",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4122",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4122",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4301",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4423",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4423",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4531",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4531",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4700",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4700",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4701",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4702",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4702",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4703",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4703",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4750",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4750",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4752",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4752",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4990",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4990",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4991",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4991",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4992",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4992",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF4993",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF4993",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF49R9",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF49R9",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5101",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5102",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5103",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5112",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5112",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF51R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF51R0",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5491",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5491",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5601",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5601",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF5602",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF5602",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF6491",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF6491",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF6492",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF6492",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF6801",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF6801",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF6802",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF6802",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF68R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF68R0",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF68R1",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF68R1",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF7501",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF7501",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF75R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF75R0",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF8062",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF8062",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF8201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF8201",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9092",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9092",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9100",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9101",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9102",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9103",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPF9531",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPF9531",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ000",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ100",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ101",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ102",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ103",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ104",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ104",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ105",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ105",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ201",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ220",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ220",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ221",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ221",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ222",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ222",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ330",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ330",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ332",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ332",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ334",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ334",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ472",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ472",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ473",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ473",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR01MZPJ561",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR01MZPJ561",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1002",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1003",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1003",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1004",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1004",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1053",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1053",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX10R0",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1101",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1103",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1152",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1152",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1201",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1203",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1210",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1210",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1242",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1242",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1273",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1273",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1302",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1302",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1304",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1304",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1501",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1501",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1502",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1502",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1800",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1800",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1801",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1801",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1802",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1802",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1803",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1803",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX1822",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX1822",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX18R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX18R0",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2000",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2001",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2002",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2201",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2202",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2202",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2203",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2204",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2204",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2211",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2211",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2262",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2262",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2263",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2263",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX22R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX22R0",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2402",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2402",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2700",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2700",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX2701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX2701",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3000",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3001",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3002",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3163",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3163",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3301",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3302",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3302",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3303",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3303",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3601",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3601",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3900",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3900",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX3902",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX3902",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4300",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4300",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4700",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4700",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4702",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4702",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4703",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4703",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4990",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4990",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX4992",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX4992",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX49R9",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX49R9",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX5100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX5100",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX5102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX5102",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX5600",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX5600",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX5621",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX5621",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6202",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6202",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6491",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6491",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6800",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6800",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6802",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6802",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX68R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX68R0",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX6980",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX6980",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX7500",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX7500",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX7501",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX7501",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPFX82R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPFX82R0",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ000",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ100",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 10ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ101",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 100ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ102",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1.0Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ103",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 10Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ104",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ104",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ105",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ105",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ121",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 120ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ122",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1.2Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ124",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ124",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ131",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ131",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ150",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ150",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ151",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 150ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ152",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1.5Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ153",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ153",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ154",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ154",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ155",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1.5Mohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ180",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ180",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ181",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 180ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ182",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1.8Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ183",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ183",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ1R0",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 1ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ1R5",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 1.5ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ1R6",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 1.6ohms 5%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ1R8",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 1.8ohms 5%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ201",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ202",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 2.0Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ203",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ204",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ204",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ205",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ205",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ221",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 220ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ222",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 2.2Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ223",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ223",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ224",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ224",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ241",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ241",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ271",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ271",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ272",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 5% 2.7Kohms",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ273",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ273",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ274",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ274",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ2R2",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 2.2ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ300",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ300",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ301",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ301",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ302",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ302",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ303",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ303",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ330",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ330",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ331",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 330ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ332",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 3.3Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ333",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watts 33Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ334",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 330Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ335",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 3.3Mohms 5%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ361",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ361",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ362",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 3.6Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ363",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watts 36Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ364",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 360Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ391",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 390ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ3R3",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 3.3ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ3R9",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 3.9ohms 5%",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ432",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 4.3Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ434",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 430Kohms 5%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ470",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 47ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ471",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 470ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ472",
+  "brand": "Vishay",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 4.7Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ473",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watts 47Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ474",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 470Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ475",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 4.7Mohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ510",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 51ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ511",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 510ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ512",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 5.1Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ513",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ513",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ514",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 510Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ560",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 56ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ562",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 5.6Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ563",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watts 56Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ564",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 560Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ5R1",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/8watts 5.1ohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ622",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 6.2Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ623",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watts 62Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ680",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ680",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ682",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 6.8Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ684",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 680Kohms 5%",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ750",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ750",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ751",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ751",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ752",
+  "brand": "KOA Speer",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 1/10watt 7.5Kohms 5%",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ820",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ820",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ821",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ821",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ822",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ822",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ823",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ823",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ824",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ824",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ911",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ911",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ912",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ912",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR03EZPJ913",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR03EZPJ913",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR100JZHFLR180",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR100JZHFLR180",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR100JZHFLR620",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR100JZHFLR620",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF1000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF1000",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF1001",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF1003",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF1003",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF1004",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF1004",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF10R0",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF2001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF2001",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF2200",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF2200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF2201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF2201",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF2202",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF2202",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF2203",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF2203",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF4700",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF4700",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF4701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF4701",
+  "pkg": "",
+  "lifecycle": ""
  }
 ]
