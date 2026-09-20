@@ -27198,5 +27198,4005 @@
   "description": "MCR10ERTF4701",
   "pkg": "",
   "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF47R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF47R0",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF5600",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF5600",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF5601",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF5601",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTF5602",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTF5602",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10ERTJ335",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10ERTJ335",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1000",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1001",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1002",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1003",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1003",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF10R0",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1201",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1201",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1370",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1370",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF1502",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF1502",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF15R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF15R0",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF2000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF2000",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF2001",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF2001",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF2002",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF2002",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF20R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF20R0",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF2202",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF2202",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF2212",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF2212",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF27R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF27R0",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF4021",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF4021",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF4701",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF4701",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF4752",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF4752",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF5601",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF5601",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF6800",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF6800",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPF9101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPF9101",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ000",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ100",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ101",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ102",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ103",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ104",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ104",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ105",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ105",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ135",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ135",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ151",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ151",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ152",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ152",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ154",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ154",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ180",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ180",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ204",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ204",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ222",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ222",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ223",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ223",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ304",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ304",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ331",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ331",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ332",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ332",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ334",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ334",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ391",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ391",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ392",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ392",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ431",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ431",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ470",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ470",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ471",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ471",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ472",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ472",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ473",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ473",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ510",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ510",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ561",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ561",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ564",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ564",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ620",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ620",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ623",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ623",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ624",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ624",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ682",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ682",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ684",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ684",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR10EZPJ823",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR10EZPJ823",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF10R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF10R0",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF1500",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF1500",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF1501",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF1501",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF1600",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF1600",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF1803",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF1803",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF1804",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF1804",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF2000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF2000",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF2741",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF2741",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF3303",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF3303",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF4700",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF4700",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF47R0",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF47R0",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPF5603",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPF5603",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ000",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ000",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ100",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ101",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ101",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ102",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ103",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ122",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ122",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ124",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ124",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ152",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ152",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ155",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ155",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ181",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ181",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ204",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ204",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ220",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ220",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ221",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ221",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ222",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ222",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ2R2",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ2R2",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ335",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ335",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ361",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ361",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR18EZPJ820",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR18EZPJ820",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCR50JZHFLR100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MCR50JZHFLR100",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MD1802FX",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Power Transistor",
+  "pkg": "TO-3PF",
+  "lifecycle": "Factory Special Order"
+ },
+ {
+  "pn": "MD1803DFX",
+  "brand": "STMicroelectronics",
+  "category": "数字晶体管",
+  "description": "数字晶体管 HI VLT NPN PWR TRANS STANDARD DEF",
+  "pkg": "TO-3PF",
+  "lifecycle": "Factory Special Order"
+ },
+ {
+  "pn": "MJD112T4",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD117T4",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD122T4",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD127T4",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD31CT4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD32CT4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD340T4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD44H11T4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD44H11T4-A",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Automotive-grade low voltage NPN power transistor",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJD45H11T4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJE2955T",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Switch",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJE3055T",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Switch",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MJE340",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Medium Power",
+  "pkg": "SOT-32-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MMBF5485",
+  "brand": "onsemi",
+  "category": "JFET",
+  "description": "JFET NCh RF Transistor",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MMBZ15VALFHT116",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 225mW 14.25-15.75Vbr A-common SOT-23 TVS",
+  "pkg": "SOT-23",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "MMBZ33VALFHT116",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 225mW 31.35-34.65Vbr A-common SOT-23 TVS",
+  "pkg": "SOT-23",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "MMBZ6V8ALFHT116",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 225mW 6.46-7.14Vbr A-common SOT-23 TVS",
+  "pkg": "SOT-23",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "MMSZ4711-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 27 Volt 0.5W 5%",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MMSZ5227C-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 3.6 Volt 0.5W 2%",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR14E0APJ100",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR14E0APJ100",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR14E0APJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR14E0APJ103",
+  "pkg": "0603x4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR14E0APJ153",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR14E0APJ153",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR14E0APJ470",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR14E0APJ470",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR14E0APJ510",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR14E0APJ510",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR15E0RPJ103",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR15E0RPJ103",
+  "pkg": "SMD-10P,3.2x1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR15E0RPJ104",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR15E0RPJ104",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR18E0APJ510",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR18E0APJ510",
+  "pkg": "SMD-16P,3.8x1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MNR35J5RJ102",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "MNR35J5RJ102",
+  "pkg": "SMD-10P,3.1x6.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPMT10019001BT1",
+  "brand": "Vishay / Thin Film",
+  "category": "电阻器网络与阵列",
+  "description": "电阻器网络与阵列 MPMT 1K 9K 0.1%ABS 0.1%RATIO T1 e3",
+  "pkg": "SOT-23",
+  "lifecycle": "New at Mouser"
+ },
+ {
+  "pn": "OMSP0S3128Q-00",
+  "brand": "Kingston",
+  "category": "固态硬盘 - SSD",
+  "description": "固态硬盘 - SSD mSATA 128GB SATA3 SSD",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSE1PJ-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600 Volt 20 Amp IFSM",
+  "pkg": "DO-219AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSE1PJHM3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600 Volt 20 Amp IFSM",
+  "pkg": "DO-219AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSL0104RGBU1",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED RGB 624/527/470nm 700/1200/400mcd",
+  "pkg": "SMD,6.4x2.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSL0402RGBU1",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD-6P,1.8x1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSP3V3-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 100W 3.3V Unidirect",
+  "pkg": "MicroSMP(DO-219AD)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSP430F5510IRGCR",
+  "brand": "Texas Instruments",
+  "category": "16位微控制器 - MCU",
+  "description": "16位微控制器 - MCU Mixed Signal MCU A 5 95-MSP430F5510IRGCT A 595-MSP430F5510IRGCT",
+  "pkg": "QFN-64-EP(9x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSP5.0A-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 100W 5.0V Unidirect",
+  "pkg": "MicroSMP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSS1P2L-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 20 Volt",
+  "pkg": "MicroSMP(DO-219AD)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSS1P3-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 30 Volt",
+  "pkg": "MicroSMP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSS1P5HM3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1A 50V SM Schottky Rect",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSS1P6-M3/89A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 60 Volt",
+  "pkg": "MicroSMP(DO-219AD)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSS1P6HM3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1A 60V SM Schottky Rect",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT25QU512ABB1EW9-0SIT",
+  "brand": "Micron",
+  "category": "NOR闪存",
+  "description": "NOR闪存 SPI 512Mbit 4 1.8 Volts 8/8 WPDFN 1",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT29F2G01ABAGDWB-ITG",
+  "brand": "Micron",
+  "category": "NAND闪存",
+  "description": "NAND闪存 SLC 2Gbit 1 8/8 UPDFN 1 IT",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MURS160-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600V 25ns",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP170AXV190T2G",
+  "brand": "onsemi",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 ULTRA-LOW IQ 150 MA CMOS",
+  "pkg": "SOT-563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP170BXV190T2G",
+  "brand": "onsemi",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 ULTRA-LOW IQ 150 MA CMOS",
+  "pkg": "SOT-563",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "NMC0402X7R104K16TRPF",
+  "brand": "",
+  "category": "IC",
+  "description": "NMC0402X7R104K16TRPF",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NRC04F1000TRF",
+  "brand": "",
+  "category": "IC",
+  "description": "NRC04F1000TRF",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NRC04ZOTRF",
+  "brand": "",
+  "category": "IC",
+  "description": "NRC04ZOTRF",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NSR0530HT1G",
+  "brand": "onsemi",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 0.5 A 30 V SOD-323 S",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OA2ZHA22Q",
+  "brand": "STMicroelectronics",
+  "category": "精密放大器",
+  "description": "精密放大器 High precision 5 uV zero drift, low-power dual op amp",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OP1177ARZ",
+  "brand": "Analog Devices",
+  "category": "精密放大器",
+  "description": "精密放大器 SINGLE, PRECISION LOW NOISE OP AMP",
+  "pkg": "SOIC-8",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "OPA2197IDGKR",
+  "brand": "Texas Instruments",
+  "category": "精密放大器",
+  "description": "精密放大器 Dual 36-V precision rail-to-rail input A A 595-OPA2197IDGKT",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OPA4872IDR",
+  "brand": "Texas Instruments",
+  "category": "视频放大器",
+  "description": "视频放大器 4:1 High Speed Multi plexer A 595-OPA487 A 595-OPA4872ID",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P0102BL5AA4",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 0.25 Amp 200 Volt",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P4KE12A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 12V Unidirect",
+  "pkg": "DO-204AL(DO-41)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P4KE220A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 220V Unidirect",
+  "pkg": "DO-204AL(DO-41)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P4KE440A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 440V Unidirect",
+  "pkg": "DO-204AL(DO-41)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P4KE6.8A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 6.8V Unidirect",
+  "pkg": "DO-41(DO-204AL)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6KE220CA-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 220V Bidirect",
+  "pkg": "DO-204AC(DO-15)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6KE250A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 250V Unidirect",
+  "pkg": "DO-15(DO-204AC)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "P6KE350A-E3/23",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  P6KE",
+  "pkg": "Ammo Pack",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "P6KE51A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 51V Unidirect",
+  "pkg": "DO-15(DO-204AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6KE7.5A-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 7.5V Unidirect",
+  "pkg": "DO-15(DO-204AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6SMB150A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 150V Unidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6SMB36CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 36V Bidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "P6SMB39CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 39V Bidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PB3006-E3/45",
+  "brand": "Vishay Semiconductors",
+  "category": "桥式整流器",
+  "description": "桥式整流器 30A,600V Enhanced Power Bridge",
+  "pkg": "SIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCA9306DCUT",
+  "brand": "Texas Instruments",
+  "category": "转换 - 电压电平",
+  "description": "转换 - 电压电平 Dual BiDir I2C-Bus & SMBus Vltg Lvl-Tran A 595-PCA9306DCUR",
+  "pkg": "VSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR10B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 10Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR11B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 10uA 150C Pd 1000mW SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR12B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 12Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR13B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 10uA 150C Pd 1000mW SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR15B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 15Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR16B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 16Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR18B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 18Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR2.0B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 2.0V 1000mW Surface Mount",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR2.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 2.2V 1000mW Surface Mount",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR2.4B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 10uA 150C Pd 1000mW SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR2.7B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 2.7V 1000mW Surface Mount",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR22B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 10uA 150C Pd 1000mW SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR24B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 24Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR3.0B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode 3.0V 1000mW Surface Mount",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR3.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 3.6Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR3.9B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 3.9Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR30B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 30Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR33B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener 10uA 150C Pd 1000mW SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR36B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 36Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR4.3B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 4.3Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR4.7B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 4.7Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR5.1B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 5.1Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR5.6A",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 5.6Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PDZVTR5.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 5.6Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR6.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 6.2Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR6.8B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 6.8Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR8.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 8.2Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PDZVTR9.1B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 1000mW Pd SOD-128 PMDTM 9.1Vz(V) Min",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PE42020A-X",
+  "brand": "pSemi",
+  "category": "RF 开关 IC",
+  "description": "RF 开关 IC SPDT, TruDC , Absorptive, 50ohm RF Switch",
+  "pkg": "QFN-20-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PE42553B-Z",
+  "brand": "pSemi",
+  "category": "RF 开关 IC",
+  "description": "RF 开关 IC SPDT, High Iso, High Power, Absorptive, 50ohm Instrumentation Switch",
+  "pkg": "QFN-16-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PE4302G-20MLP",
+  "brand": "PSEMI",
+  "category": "IC",
+  "description": "PE4302G-20MLP",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PESD1CAN215",
+  "brand": "Nexperia",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 PESD1CAN/SOT23/TO-236AB",
+  "pkg": "SOT23",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PIC12F1822T-E/SN",
+  "brand": "MICRCHIPS",
+  "category": "IC",
+  "description": "PIC12F1822T-E/SN",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PM8834TR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 4A dual low side MOSFET driver",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR03EZPJ000",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD ZERO  OHM  JUMPER 1/4W",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFU10L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.01ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFU5L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.005ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFU6L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.006ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFU7L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.007ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFU8L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.008ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFV1L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.001ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFV2L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.002ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR100HZPFV3L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2512 0.003ohm 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFU10L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.01ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFU5L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.005ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFU8L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.008ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFU9L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.009ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFV2L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.002ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPFV3L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0.003ohm 1% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPJ000",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 0ohm Jumper 5% CS Mtl Strp AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR10EZPJU5L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0805 5mOhm 5% AEC-Q200",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR18EZPFU10L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 0.01ohm 1% AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR18EZPFU5L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 0.005ohm 1% AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR18EZPFV2L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 0.002ohm 1% AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR18EZPJV4L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1206 4mOhm 5% AEC-Q200",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR25HZPFU5L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1210 0.005ohm 1% AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR25HZPFV1L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1210 0.001ohm 1% AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR25HZPFV3L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1210 3mOhm 1% AEC-Q200",
+  "pkg": "1210",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU10L0",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.01ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU5L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.005ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU6L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.006ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU7L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.007ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU8L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.008ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFU9L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.009ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFV1L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.001ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFV2L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.002ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFV3L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.003ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PMR50HZPFV4L00",
+  "brand": "ROHM Semiconductor",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2010 0.004ohm 1% AEC-Q200",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PT0603FR-7W0R1L",
+  "brand": "YAGEO",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 100 mOhms 200mW 1 % 200 ppm/C AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PTZTE2511B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 11V 1W",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PTZTE2530B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 30V 10MA",
+  "pkg": "SOD-106",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PTZTE2536B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 36V 10MA",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PTZTE257.5B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 7.5V 40MA",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PTZTFTE255.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 ZENER   DO-214AC  1W     5.6V",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PVA1352NSPBF",
+  "brand": "Infineon Technologies",
+  "category": "固态继电器-PCB安装",
+  "description": "固态继电器-PCB安装 100V 1 Form A Photo Voltaic Relay",
+  "pkg": "SMT-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PVI5080NPBF",
+  "brand": "Infineon Technologies",
+  "category": "光电二极管输出光电耦合器",
+  "description": "光电二极管输出光电耦合器 1 Form A Photo Voltaic Isolator",
+  "pkg": "DIP-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "PVT412LPBF",
+  "brand": "Infineon Technologies",
+  "category": "固态继电器-PCB安装",
+  "description": "固态继电器-PCB安装 400V 1 Form A Photo Voltaic Relay",
+  "pkg": "DIP-6",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "PVT412LSPBF",
+  "brand": "Infineon Technologies",
+  "category": "固态继电器-PCB安装",
+  "description": "固态继电器-PCB安装 400V 1 FORM A PHOTO VOLTAIC RELAY",
+  "pkg": "DIP-6",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "QH8MA2TCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Nch+Pch Power MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "QH8MA3TCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 30V N+P Ch MOSFET",
+  "pkg": "TSMT8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "QH8MA4TCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Zener Diode, 100mW, 2 Pin.",
+  "pkg": "TSMT-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "QS6J11TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET TRANS MOSFET PCH 12V 2A 6PIN",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "QS6M3TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N+P 30 20V 1.5A TSMT6",
+  "pkg": "SOT-457T",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "QS6M4TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N+P 30 20V 1.5A TSMT6",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "QS8M31TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET TSMT8    NPCH  60V  3A",
+  "pkg": "TSMT8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "QSX8TR",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANS GP BJT NPN 30V 1A 6PIN",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "R6004ENX",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 10V Drive Nch MOSFET",
+  "pkg": "TO-220FM-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "R6011KNXC7",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V   11A N-CH MOSFET",
+  "pkg": "TO-220FM-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "R6015ENX",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 10V Drive Nch MOSFET",
+  "pkg": "TO-220FM-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "R6020KNX",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 600V 20A Si MOSFET",
+  "pkg": "TO-220FM-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RAL035P01TCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Trans MOSFET P-CH 12V 3.5A",
+  "pkg": "SOT-363T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB021VAM90TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 90V Vr 0.2A Io SOD-323HE SBD",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB050LAM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT    30V   SKY 3A",
+  "pkg": "SOD-128-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB050LAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr 0.1mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB050LAM-60TFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 3A Io SBD SOD-128 2A",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB050LAM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 3A Io SOD-128 PMDTM Schottky",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB051LAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20V Vr 0.15mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB051MM-2YTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB055LAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr 0.1mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB058LAM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB058LAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB058LAM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB058LAM150TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 150V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB060LAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr 0.1mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB060MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 2A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB060MM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode; Schottky 60V, 2A",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB068MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT  30V  2A  SBD",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB068MM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode, Rectifier FRD 60V-VR 2A-IO Single",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB070MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 1.5A 2-Pin",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB080LAM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr 0.15mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB081LAM-20TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20V Vr 5A Io SOD-128 PMDTM Schottky",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB085BGE-40TL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 10A Io TO-252 SBD",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB160MM-30TFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V VR 1A 0.46V VF PMDU; SOD-123FL",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB160MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 1A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB160MM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 40V 1A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB160MM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 60V 1A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB160VAM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB161MM-20TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 25V 1A 2-Pin",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB161QS-40T18R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schtky Br 40V Vr/Vrm 1A Io 3A IFRM RASMID",
+  "pkg": "SMD1006",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB162MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Compact and lower height LEDs w/lens",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB162MM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 40V 1A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB162MM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 60V 1A 2-Pin",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB162VAM-20TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20V Vr 1A Io PMDTM Schottky",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168MM-40TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 40V   1A    SM  SKY BARRI",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168MM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode, Rectifier FRD 60V-VR 1A-IO Single",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168MM100TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168MM150TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168VAM-60TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode 60V, 1A, SOD-323HE",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168VAM100TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Vr 100V; Io 1A SBD 5A Ifsm; SOD-323HE",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168VAM150TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Vr 150V; Io 1A SBD 5A Ifsm; SOD-323HE",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB168VYM100FHTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100V Vr 1A Io SBD SOD-323HE 1A",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB225NS-40TL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 DIODE SCHOTTKY 110V 30A 3PIN 3+TAB",
+  "pkg": "TO-263S-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB411DT146",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 0.5A",
+  "pkg": "SMD3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB421DT146",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 100MA",
+  "pkg": "SMD3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB471ET148",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 0.1A SC-74A",
+  "pkg": "SMD5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB495DT146",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 400MA",
+  "pkg": "SMD3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB500VM-40TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode (Rectifier FRD) Single",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB501SM-30FHT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.1A IO SOD-523; EMD2",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB510SM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode 30V, 100mA, SOD-523",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB510SM-40FHT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 0.1A IO SOD-523; EMD2",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB510VM-30FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.1A IO SOD-323FL; UMD2",
+  "pkg": "SC-90(SOD-323F)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB511SM-30FHT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.1A IO SOD-523; EMD2",
+  "pkg": "SOD-523",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RB520CM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB520CS-30FHT2RA",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr 0.1A Io SBD SOD-923 0.01A",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB520HS-30T15R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 30V  .2A    SM  SKY BARRI",
+  "pkg": "SOD-962",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB520SM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 0.2A",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB520SM-40T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTY 30V .1A",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521CM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521G-30GT2R",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "RB521G-30GT2R",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521SM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 0.2A",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521SM-40T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 45V 0.2A",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521SM-60FHT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr; 0.2A IO SOD-523; EMD2",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521SM-60T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 60V  .2A   SOD-523",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521VM-30TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 30V  .2A    SM  SKY BARRI",
+  "pkg": "SC-90(SOD-323F)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521VM-40FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 0.2A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB521VM-40TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode 40V, 200mA, SOD-323FL",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB522ES-30T15R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SBD 30V Vrm 100mA Id 0201(0603)",
+  "pkg": "SMD0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB530CM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode 30V, 100mA, SOD-923",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB530CM-60T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB530VM-30FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.1A IO SOD-323FL; UMD2",
+  "pkg": "SC-90(SOD-323F)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB530VM-30TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Capacitive Sensor Switch Control ICs",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB530VM-40FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 0.1A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB531SM-30T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode (Rectifier FRD) Single",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB531XNTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 30V 100MA",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB548WTL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 30V 100MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB550VAM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Pch -30V -7.5A Middle Power MOSFET",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB550VM-30FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.5A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB551VM-30GJTE-17",
+  "brand": "ROHM",
+  "category": "IC",
+  "description": "RB551VM-30GJTE-17",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB551VM-30TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 0.5A",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB551VM-40FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 0.2A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB551VM-40TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 40V  .2A    SM  SKY BARRI",
+  "pkg": "SC-90(SOD-323F)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB558WMTL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 30V  .1A    SM  SKY BARRI",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB560VM-40FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr; 0.5A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB578VAM100TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 100V .7A    SM  SKY BARRI",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB705DT146",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 30MA",
+  "pkg": "SMD3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB706F-40T106",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 45V 30MA",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB715FT106",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 30MA",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB715UMTL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SBD - H. Spd Swtchng UMD3F",
+  "pkg": "SOT-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB715WTL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY 40V 30MA",
+  "pkg": "SOT-416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB751SM-40FHT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.03A IO SOD-523; EMD2",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB751SM-40T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT  30V  30MA  SCHOTTKY",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB751VM-40FHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr; 0.03A IO SOD-323FL; UMD2",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB751VM-40TE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 40V 0.03A",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RB886GT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY HIGH FREQ",
+  "pkg": "SOD-723",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RBO40-40G-TR",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 Reversed Battery OverVolt Prot",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBQ30NS65ATL",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diode Low IR, 65V, 30A, TO-263S (D2PAK)",
+  "pkg": "TO-263S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR1LAM40ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40V Vr 1A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR1LAM60ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 1A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR2MM30ATFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V VR 2A 0.53V VF PMDU; SOD-123FL",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR2MM30ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode, Rectifier FRD 30V-VR 2A-IO Single",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR2MM30BTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode, Rectifier FRD 30V-VR 2A-IO Single",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR3LAM30ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR3LAM60BTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 3A Io Schottky Br Diode",
+  "pkg": "SOD-128-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR3MM30ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode, Rectifier FRD 30V-VR 3A-IO Single",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR3MM60ATFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V VR 3A 0.66V VF PMDU; SOD-123FL",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR3MM60BTFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V VR 3A 0.61V VF PMDU; SOD-123FL",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR5LAM60ATFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V VR 5A 0.55V VF PMDTM; SOD-128",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBR5LAM60ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Vr 5A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBS1LAM40ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20V Vr 1A Io Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBS3LAM40BTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 20V   3A    SM  SKY BARRI",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBS3MM40ATR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 20V   3A    SM  SKY BARRI",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RBS3MM40BTR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 20V   3A    SM  SKY BARRI",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RC0402FR-0710KL",
+  "brand": "YAGEO",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD General Purpose Chip Resistor 0402, 10kOhms, 1%, 1/16W",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RC0402FR-071KL",
+  "brand": "YAGEO",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD General Purpose Chip Resistor 0402, 1kOhms, 1%, 1/16W",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RC0402FR-0722RL",
+  "brand": "YAGEO",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD General Purpose Chip Resistor 0402, 22Ohms, 1%, 1/16W",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RCWL1206R100JMEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/4watt .100ohm 5%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RD3L140SPTL1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -60V -14A TO-252(DPAK)",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RD3P050SNTL1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 100V 5A TO-252(DPAK)",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RD3P130SPTL1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -100V -13A TO-252(DPAK)",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RD3P200SNTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1C001UNTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT416   N-CH  20V .1A",
+  "pkg": "SOT416",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1C001ZPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Pch MOSFET",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1C002UNTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Nch MOSFET",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1C002ZPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET  755-RZM002P02T2L",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1E002SPTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Pch MOSFET Drive Pch",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1J002YNTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Small Signal MOSFET N-CH .9V Drive .2A",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RE1L002SNTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET  755-RSM002N06T2L",
+  "pkg": "SOT-416FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF2025AIDDCR",
+  "brand": "Texas Instruments",
+  "category": "参考电压",
+  "description": "参考电压 Low-Drift Lw-Pwr Du al Output Volt Ref A A 595-REF2025AIDDCT",
+  "pkg": "TSOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF01VM2SFHTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 250V Vrm 1A IFSM SOD-323FL; UMD2",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF01VM2STE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 PNP Driver Transistor",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF05VAM1STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 100V Vrm 0.5A Io Recovery Diode",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF05VAM2STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 200V Vrm 0.5A Io Recovery Diode",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF071MM2STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 200V VR 0.7A IO SOD-123FL; PMDU",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF081MM2STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 200V Vrm 1A Io Recovery Diode",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF08L6STE25",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 DIODE FAST REC 600V 0.8A SOD-106",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RF1005TF6SC9",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Fast Recovery Diode",
+  "pkg": "TO-220NFM-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF2001T3D",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 FAST 300V 20A",
+  "pkg": "TO-220FN-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF201LAM2STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vr 0.8A Io Fast Recovery Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF201LAM4STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 400V VR 1.5A IO SOD-128; PMDTM",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF4C100BCTCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -20V(Vdss), -10.0A(Id), (1.8V Drive)",
+  "pkg": "DFN2020-8S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF4E080BNTR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4.5V Drive Nch MOSFET",
+  "pkg": "DFN2020-8S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RF601BM2DTL",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 200V Vrm 6A Io Std Fast Rec Diode",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RF6E045AJTCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 30V 4.5A Si MOSFET",
+  "pkg": "SOT-363T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFN1LAM6STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V VR 0.8A IO SOD-128; PMDTM",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFN1LAM7STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Fast Recvry 700V Vr SOD-128 0.8A Io",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFN1LAM7STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vr 0.8A Io Fast Recovery Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFN2LAM6STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V VR 1.5A IO SOD-128; PMDTM",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFNL10TJ6SGC9",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vrm 10A Io Recovery Diode",
+  "pkg": "TO-220ACFP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFU02VSM6STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vrm 0.2A Io Recovery Diode",
+  "pkg": "TUMD2SM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFU02VSM8STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 800V Vrm 0.2A Io Recovery Diode",
+  "pkg": "TUMD2SM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFUH20NS6STL",
+  "brand": "ROHM Semiconductor",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 Diode Switching 600V 20A",
+  "pkg": "TO-263S-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFUH20TB3SNZC9",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Super Fast Recovery Diode",
+  "pkg": "TO-220FN-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFUH20TB4SNZC9",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Super Fast Recovery Diode",
+  "pkg": "TO-220FN-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RFV8BM6STL",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 RFV8BM6S is Hyper fast recovery Hard recovery type Schottkey Barrier Diode for General rectification.",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RFV8TJ6SGC9",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vrm 8A Io Recovery Diode",
+  "pkg": "TO-220ACFP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RGS80TSX2DHRC11",
+  "brand": "ROHM Semiconductor",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) IGBT Trench Field Stop 1200 V 80 A 555 W Through Hole TO-247N",
+  "pkg": "TO-247N",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RGTH60TS65DGC11",
+  "brand": "ROHM Semiconductor",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 650V 30A IGBT Stop Trench",
+  "pkg": "TO-247N-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RH0251R500FE02",
+  "brand": "Vishay / Dale",
+  "category": "线绕电阻器 - 底架安装",
+  "description": "线绕电阻器 - 底架安装 25watt 1.5ohm 1%",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RH050R4000FE02",
+  "brand": "Vishay / Dale",
+  "category": "线绕电阻器 - 底架安装",
+  "description": "线绕电阻器 - 底架安装 .4    OHM  1%     50W",
+  "pkg": "螺栓安装",
+  "lifecycle": "New at Mouser"
+ },
+ {
+  "pn": "RHU002N06T106",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 60V 200MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RHU003N03T106",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 30V 300MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RJU003N03T106",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 30V 300MA SOT-323",
+  "pkg": "SOT-323",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RK7002BMT116",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 2.5V Drive Nch MOSFET",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RLZTE-1139B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 DIODE ZENER 36.275V 500MW",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RN771VTE-17",
+  "brand": "ROHM Semiconductor",
+  "category": "PIN 二极管",
+  "description": "PIN 二极管 DIODE PIN SWITCH 50V 2PIN UMD",
+  "pkg": "SOD-323FL",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RN779DT146",
+  "brand": "ROHM Semiconductor",
+  "category": "PIN 二极管",
+  "description": "PIN 二极管 DIODE PIN 50V 50MA",
+  "pkg": "SMD3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-0226",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） 50mA 5V 80mW Photointerrupter",
+  "pkg": "SMD",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-0352E",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） Photointerrupter gap width 4mm",
+  "pkg": "SMD",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-221A",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） PHOTOINTPTR ULTRAMIN Wide Gap 4.9x2.6mm",
+  "pkg": "DIP-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-222",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） PHOTOINTPTR ULTRAMIN HIGH RES 4.9x2.6mm",
+  "pkg": "DIP-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-246",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） PHOTOINTERRUPTER",
+  "pkg": "DIP-4",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RPI-352",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） PHOTOINTERRUPTER 3mm Gap 4.2x5.4mm",
+  "pkg": "DIP-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPI-441C1",
+  "brand": "ROHM Semiconductor",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） PHOTOINTERRUPTER 4mm Gap 8.0x4.2mm",
+  "pkg": "DIP-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RPM-012PBT87",
+  "brand": "ROHM Semiconductor",
+  "category": "光电晶体管",
+  "description": "光电晶体管 SMD IR RECEIVER SIDE VIEW",
+  "pkg": "SMD",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RPM7138-R",
+  "brand": "ROHM Semiconductor",
+  "category": "红外接收机",
+  "description": "红外接收机 REMOTE CTRL 37.9KHZ",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RPR-0521RS",
+  "brand": "ROHM Semiconductor",
+  "category": "光IC传感器",
+  "description": "光IC传感器 ALS w/prx 1.8V logic w/ IrLED driver",
+  "pkg": "SMD-8P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RPR-220",
+  "brand": "ROHM Semiconductor",
+  "category": "光电晶体管",
+  "description": "光电晶体管 PHOTO SENSOR DISTANCE 6mm",
+  "pkg": "DIP-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RQ1E050RPTR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET  755-RF4E075ATTCR",
+  "pkg": "TSMT-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RQ1E070RPTR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET MID PWR MOSFET SER",
+  "pkg": "TSMT-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RQ3E160ADTB1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET HSMT8    N-CH  30V  16A",
+  "pkg": "HSMT-8(3x3.2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ3G100GNTB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Nch, 40V(Vdss), 10.0A(Id), (4.5V Drive)",
+  "pkg": "HSMT-8(3x3.2)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RQ3L050GNTB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 60V 12A Si MOSFET",
+  "pkg": "HSMT-8(3.2x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RQ5A040ZPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -12V(Vdss), -4.0A(Id), (1.2V, 1.5V Drive)",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5C030TPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT346   P-CH  20V  3A",
+  "pkg": "SOT346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5C060BCTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -20V -6A Si MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5E025SPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -30V -2.5A Small Signal MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5E030AJTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 30V 3Ad Si MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5E030RPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -3.0A(Id), (4.0V Drive)",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5E035ATTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -3.5A(Id), (4.5V, 6.0V Drive)",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5H020SPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -45V -2.0A Power MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ5H025TNTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 45V 2.5A Small Signal MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ6E030ATTCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -3.0A(Id), (4.5V, 6.0V Drive)",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ6E045BNTCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT457   N-CH  30V  4.5A",
+  "pkg": "SOT457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ6E045RPTR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -4.5A(Id), (4.0V Drive)",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ6E050ATTCR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -5.0A(Id), (4.5V, 6.0V Drive)",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RQ6P015SPTR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT457 100V  1.5A P-CH MOSFET",
+  "pkg": "SOT457",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR1LAM4STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 RECT 400V  1A    SM  STD RCOVR",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR1LAM4STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 500V Vr 1A Io Rectifying Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR1VWM6STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Rectifier 1A Io PMDE 600VVrm",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR264MM-400TFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 RECT 400V .7A    SM  STD RCOVR",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR268MM-600TFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 RECT 400V  1A    SM  STD RCOVR",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR268MM-600TR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V Vrm; 400V Vr PMDU; 1A Io 25A Ifsm",
+  "pkg": "SOD-123F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RR274EA-400TR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER 400V .5A",
+  "pkg": "SOT-25T",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RR2LAM6STFTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 600V 2A Automotive 2-Pin PMDT-M T/R",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RRE02VSM6STR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Rectifier Diode wideframe discrete",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RRE02VTM4SFHTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Rectifier 0.2A Io SOD-323HE 400VVrm",
+  "pkg": "TUMD2SM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RRE02VTM6SFHTR",
+  "brand": "ROHM Semiconductor",
+  "category": "整流器",
+  "description": "整流器 Rectifier 0.2A Io SOD-323HE 600VVrm",
+  "pkg": "TUMD2SM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RRH050P03GZETB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RRL025P03TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Med Pwr, Sw MOSFET P Chan, -30V, -2.5A",
+  "pkg": "SOT-363T",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RRQ045P03TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Med Pwr, Sw MOSFET P Chan, -30V, -4.5A",
+  "pkg": "SOT-457T",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RS1E130GNTB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4.5V Drive Nch MOSFET",
+  "pkg": "HSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RS1E260ATTB1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Pch, -30V(Vdss), -26.0A(Id), (4.5V, 6.0V Drive)",
+  "pkg": "HSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RS1G180MNTB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Trans MOSFET N-CH 40V 18A",
+  "pkg": "HSOP8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RS1J-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600V 250ns",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RS1PBHM3/84A",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 100volt 1.0amp",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RS3E095BNGZETB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 30V 9.5A Si MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSA6.1ENTR",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 TVS ARRAY4 ELEMENTS",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSAC6.8CMT2R",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 TVS Diode w/high surge protect",
+  "pkg": "SOD-923",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSB6.8CMT2N",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管",
+  "pkg": "SOD-923",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "RSB6.8SMT2N",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 Capacitive Switch Controller ICs",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSC002P03T316",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Pch -30V -250mA SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSF010P05TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Pch MOSFET Drive Pch",
+  "pkg": "SOT-323T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSH070P05GZETB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Pch MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RSJ550N10TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Nch MOSFET",
+  "pkg": "TO-263",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RSM002P03T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET P-CH 30V 200MA",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSR010N10TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Nch MOSFET",
+  "pkg": "SOT-346T",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RSX101MM-30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Diode Schottky 30V 1A 2-Pin",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSX101VAM30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky Barrier Diodes",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSX201VAM30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Zero-cross control Non-isolated",
+  "pkg": "SOD-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSX301LAM30TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30V Vr 0.09mA IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RSX501LAM20TR",
+  "brand": "ROHM Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20V Vr 5A IR Schottky Br Diode",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RTF015N03TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 30V 1.5A TUMT3",
+  "pkg": "SOT-323T",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RTQ045N03FRATR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 30V Vds 4.5A 0.042Rds(on) 7.6Qg",
+  "pkg": "SOT-457T",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RTR025N03TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 30V 2.5A TSMT3",
+  "pkg": "SOT-346T",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RTR030P02TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET P-CH 20V 3A TSMT3",
+  "pkg": "SOT-346T",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "RU1C001UNTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT323   N-CH  20V .1A",
+  "pkg": "SOT323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RU1C001ZPTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Pch MOSFET",
+  "pkg": "SOT-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RU1C002ZPTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Pch MOSFET Drive Pch",
+  "pkg": "SOT-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RU1E002SPTCL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Pch MOSFET Drive Pch",
+  "pkg": "SOT-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RU1L002SNTL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Transistor, MOSFET Nch, 60V(Vdss), 0.2A(Id), (2.5V, 4.0V Drive)",
+  "pkg": "SOT-323FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RUC002N05T116",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Ultra Lo Vtg 1.2V drive Nch MOSFET",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RUE002N02TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Sm Signal, Sw MOSFET N Chan, 20V, 0.2A",
+  "pkg": "SOT-416",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RUM001L02T2CL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOT723   N-CH  20V .1A",
+  "pkg": "SOT723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RUM002N02T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SW MOSFET SMLL SIG N-CH 20V .2A",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RUM002N05T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET TRANS MOSFET NCH 50V 0.2A 3PIN",
+  "pkg": "SOT-723",
+  "lifecycle": ""
  }
 ]
