@@ -4,6 +4,7 @@
 // 数据：src/data/markings.json（由 stock-matrix/scripts/export-pnds-markings.js 导出）
 import fs from 'node:fs';
 import path from 'node:path';
+import { partUrl } from '../../utils/partUrl';
 
 export const prerender = true;
 
@@ -141,7 +142,7 @@ const siblings = allMarkings
           <tbody>
             {parts.map((p) => (
               <tr>
-                <td>{pndsParts.has(p.pn) ? <a href={`/pn/${String(p.pn).replace(/\//g, '~')}`}>{p.pn}</a> : p.pn}</td>
+                <td>{pndsParts.has(p.pn) ? <a href={partUrl(p.pn)}>{p.pn}</a> : p.pn}</td>
                 <td>
                   {p.brand || '—'}
                   {p.brand && p.inf ? <sup title="Derived from the part-number family">*</sup> : null}

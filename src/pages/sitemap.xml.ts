@@ -4,6 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { getAllPosts } from '../utils/blog';
+import { partUrl } from '../utils/partUrl';
 
 export const prerender = true;
 
@@ -25,7 +26,7 @@ export async function GET() {
   ];
 
   const partUrls = parts.map((p) => ({
-    loc: `/pn/${p.pn.replace(/\//g, '~')}`,
+    loc: partUrl(p.pn),
     priority: '0.7',
   }));
 

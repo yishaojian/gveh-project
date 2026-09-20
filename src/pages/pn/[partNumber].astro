@@ -3,6 +3,7 @@
 // PNDS 型号 SEO 页 — 复用 gveh-project 原版深色科技风
 import fs from 'node:fs';
 import path from 'node:path';
+import { partAbsoluteUrl } from '../../utils/partUrl';
 
 export const prerender = true;
 
@@ -53,7 +54,7 @@ const jsonLd = part
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{pageTitle}</title>
     <meta name="description" content={pageDesc} />
-    <link rel="canonical" href={`https://www.pnds.com.cn/pn/${raw}`} />
+    <link rel="canonical" href={partAbsoluteUrl(partNumber)} />
 {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <style is:inline>
       body {

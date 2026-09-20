@@ -1,4 +1,5 @@
 ---
+import { partUrl } from '../utils/partUrl';
 // src/pages/index.astro
 // ==========================================
 // VETERAN.CORE // DEFAULT ENGLISH HOMEPAGE
@@ -620,7 +621,7 @@ const latestPosts = (await getAllPosts('en')).slice(0, 3);
         </form>
         <div class="gveh-parts-grid">
           {featuredParts.length ? featuredParts.map((p) => (
-            <a href={`/pn/${p.pn.replace(/\//g, '~')}`} class="gveh-part-card" style="text-decoration: none !important;">
+            <a href={partUrl(p.pn)} class="gveh-part-card" style="text-decoration: none !important;">
               <div class="gveh-part-pn">{p.pn}</div>
               <div class="gveh-part-brand">{p.brand || 'Electronic Component'}</div>
               <div class="gveh-part-cat">{p.category || ''}</div>
