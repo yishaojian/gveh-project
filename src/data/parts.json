@@ -2,16 +2,16 @@
  {
   "pn": "OPA2197IDR",
   "brand": "Texas Instruments",
-  "category": "Amplifier",
-  "description": "精密放大器 Dual 36-V precision rail-to-rail input A A 595-OPA2197ID",
-  "pkg": "TO-RAIL",
+  "category": "精密运放",
+  "description": "36V轨到轨输入/输出低偏移电压精密运算放大器",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "1.5KE27A-E3/54",
   "brand": "Vishay Semiconductors",
-  "category": "ESD保护二极管/TVS二极管",
-  "description": "ESD保护二极管/TVS二极管 1500W 27V Unidirect",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "单向TVS 23.1V截止 峰值浪涌电流：40A",
   "pkg": "DO-27",
   "lifecycle": ""
  },
@@ -26,8 +26,8 @@
  {
   "pn": "1.5SMC200A-E3/57T",
   "brand": "Vishay Semiconductors",
-  "category": "ESD保护二极管/TVS二极管",
-  "description": "ESD保护二极管/TVS二极管 1500W 200V Unidirect",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "单向 171V 3.6A@10/1000us",
   "pkg": "SMC(DO-214AB)",
   "lifecycle": ""
  },
@@ -58,8 +58,8 @@
  {
   "pn": "16RIA80",
   "brand": "Vishay Semiconductors",
-  "category": "SCR",
-  "description": "SCR 800 Volt 16 Amp",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "16RIA80",
   "pkg": "TO-48",
   "lifecycle": ""
  },
@@ -98,64 +98,64 @@
  {
   "pn": "1N4004-E3/54",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 Vr/400V Io/1A",
+  "category": "通用二极管",
+  "description": "通用型塑封整流器",
   "pkg": "DO-41",
   "lifecycle": ""
  },
  {
   "pn": "1N4006-E3/54",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 Vr/800V Io/1A",
+  "category": "通用二极管",
+  "description": "通用型塑封整流器",
   "pkg": "DO-41",
   "lifecycle": ""
  },
  {
   "pn": "1N4148W-E3-08",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 75V, 300mA Small Signal Fast Switching Diode",
+  "category": "开关二极管",
+  "description": "75V 150mA",
   "pkg": "SOD-123",
   "lifecycle": ""
  },
  {
   "pn": "1N4148W-HE3-08",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 Small Signal Fast Switching Diode",
+  "category": "开关二极管",
+  "description": "75V 150mA",
   "pkg": "SOD-123",
   "lifecycle": "End of Life"
  },
  {
   "pn": "1N4148WS-E3-08",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 100 Volt 350mA",
+  "category": "开关二极管",
+  "description": "75V 150mA",
   "pkg": "SOD-323",
   "lifecycle": "End of Life"
  },
  {
   "pn": "1N4148WS-HE3-08",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 100 Volt 350mA 4ns",
+  "category": "开关二极管",
+  "description": "75V 150mA",
   "pkg": "SOD-323",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "1N5062TR",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 2.0 Amp 800 Volt 50 Amp IFSM",
+  "category": "雪崩二极管",
+  "description": "800V 2A",
   "pkg": "SOD-57",
   "lifecycle": ""
  },
  {
   "pn": "1N5399-E3/54",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1.5 Amp 1000 Volt",
+  "category": "通用二极管",
+  "description": "1kV",
   "pkg": "DO-41",
   "lifecycle": ""
  },
@@ -178,73 +178,73 @@
  {
   "pn": "1N6484-E3/96",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1.0 Amp 1000 Volt",
+  "category": "通用二极管",
+  "description": "1N6484-E3/96",
   "pkg": "DO-213AB",
   "lifecycle": ""
  },
  {
   "pn": "1SS355TE-17",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 SWITCH 90V 100MA",
+  "category": "开关二极管",
+  "description": "80V 100mA 停产",
   "pkg": "SOD-323",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "1SS355VMFHTE-17",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 90V Vrm 0.1A IO SOD-323FL; UMD2",
+  "category": "开关二极管",
+  "description": "80V 100mA",
   "pkg": "SOD-323FL",
   "lifecycle": ""
  },
  {
   "pn": "1SS356TW11",
   "brand": "ROHM Semiconductor",
-  "category": "PIN 二极管",
-  "description": "PIN 二极管 SW 35V 100MA",
+  "category": "射频开关",
+  "description": "停产 频段切换二极管",
   "pkg": "SOD-323FL",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "1SS356VMTE-17",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 RECT 35V  .1A    SM  BAND SWIT",
+  "category": "通用二极管",
+  "description": "35V 100mA",
   "pkg": "SOD-323FL",
   "lifecycle": ""
  },
  {
   "pn": "1SS380VMFHTE-17",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 80V Vrm 0.1A IO SOD-323FL; UMD2",
+  "category": "开关二极管",
+  "description": "80V 100mA",
   "pkg": "SOD-323FL",
   "lifecycle": ""
  },
  {
   "pn": "1SS400CMT2R",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 High Speed Switching Diode",
+  "category": "开关二极管",
+  "description": "80V 100mA",
   "pkg": "SOD-923",
   "lifecycle": ""
  },
  {
   "pn": "1SS400SMT2R",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 Diode Switching 90V 0.1A",
+  "category": "开关二极管",
+  "description": "80V 100mA",
   "pkg": "SOD-523",
   "lifecycle": ""
  },
  {
   "pn": "AD623ARZ",
   "brand": "Analog Devices",
-  "category": "Amplifier",
-  "description": "仪表放大器 SOIC SINGLE SUPPLY RAIL-RAIL L/C IN AMP",
-  "pkg": "SOIC",
+  "category": "仪表放大器",
+  "description": "单电源和双电源、轨到轨、低成本仪表放大器",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -258,544 +258,544 @@
  {
   "pn": "24LC512-E/SM",
   "brand": "Microchip Technology",
-  "category": "电可擦除可编程只读存储器",
-  "description": "电可擦除可编程只读存储器 64kx8 - 2.5V",
+  "category": "EEPROM",
+  "description": "24LC512 E/SM",
   "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "293D105X9016A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 1uF 16volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "1uF ±10% 16V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D105X9025A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 1uF 25volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "1uF ±10% 25V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D105X9035A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 1uF 35volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "1uF ±10% 35V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D105X9035B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 1uF 35volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "1uF ±10% 35V",
   "pkg": "1411",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9010A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 10volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 10V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9016A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 16volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 16V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9016B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 16volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 16V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9016C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 16volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 16V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9035C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 35volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 35V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D106X9035D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 35volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 35V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X0010B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 293D107X0010B2Te3",
+  "category": "钽电容",
+  "description": "100uF ±20% 10V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 10V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X9010D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 10volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 10V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X9016D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 16volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 16V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X9020D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 20volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 20V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D107X96R3C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 6.3volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 6.3V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D156X9025B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 293D156X9025B2Te3",
+  "category": "钽电容",
+  "description": "15uF ±10% 25V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D157X96R3C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 150uF 6.3volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "150uF ±10% 6.3V",
   "pkg": "CASE-C-6032",
   "lifecycle": ""
  },
  {
   "pn": "293D224X9035A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 0.22uF 35volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "220nF ±10% 35V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D225X9016A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 2.2uF 16volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "2.2uF ±10% 16V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D225X9025B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 2.2uF 25volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "2.2uF ±10% 25V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D225X9035B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 2.2uF 35volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "2.2uF ±10% 35V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9010A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 10volt 10% A Case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 10V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9010B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 10volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 10V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9016B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 16volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 16V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9016D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 16volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 16V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9020C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 20volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 20V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9025C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 25volt 10% C Case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 25V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X9025D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 25volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 25V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X96R3A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 6.3volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 6.3V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D226X96R3B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 6.3volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 6.3V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D227X0004B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 293D 220m uF 0.2 4V 3528-21 , 7\" reel",
+  "category": "钽电容",
+  "description": "220uF ±20% 4V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D227X96R3C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 220uF 6.3volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "220uF ±10% 6.3V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D227X96R3D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 220uF 6.3volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "220uF ±10% 6.3V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D334X9035A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 0.33uF 35volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "330nF ±10% 35V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D335X9035B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 3.3uF 35volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "3.3uF ±10% 35V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 10V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X9016C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 16volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 16V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X9020C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 20volt 10% C Case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 20V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X9025D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 25volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 25V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X9025E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 25volts 10% E case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 25V",
   "pkg": "CASE-E-7343-43(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D336X96R3A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 6.3volt 10% A Case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 6.3V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D474X9035A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 0.47uF 35volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "470nF ±10% 35V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D475X9016B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 4.7uF 16volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "4.7uF ±10% 16V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D475X9025B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 4.7uF 25volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "4.7uF ±10% 25V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D476X9010B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 10volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 10V",
   "pkg": "CASE-B-3528-21(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D476X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 10V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D476X9016C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 16volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 16V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D476X9020D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 20volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 20V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D476X9035E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 293D476X9035E2Te3",
+  "category": "钽电容",
+  "description": "47uF ±10% 35V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D477X9010E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 470uF 10volts 10% E case Molded",
+  "category": "钽电容",
+  "description": "470uF ±10% 10V",
   "pkg": "CASE-E-7343-43(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D477X96R3D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 470uF 6.3volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "470uF ±10% 6.3V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "293D685X9025B2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 6.8uF 25volts 10% B case Molded",
+  "category": "钽电容",
+  "description": "6.8uF ±10% 25V",
   "pkg": "1411",
   "lifecycle": ""
  },
  {
   "pn": "293D686X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 68uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "68uF ±10% 10V",
   "pkg": "CASE-C-6032",
   "lifecycle": ""
  },
  {
   "pn": "298D476X0004M2T",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 4volts 20% M case MAP",
+  "category": "钽电容",
+  "description": "47uF ±20% 4V",
   "pkg": "0603",
   "lifecycle": ""
  },
  {
   "pn": "2N7002K-T1-GE3",
   "brand": "Vishay",
-  "category": "MOSFET",
-  "description": "MOSFET 60V Vds 20V Vgs SOT-23",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:60V 电流:300mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "2SA1036KT146Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:500mA 电压:32V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1036KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:500mA 电压:32V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1037AKT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1576AT106Q",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1576AT106S",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1576U3HZGT106Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) -50V; -150mA Gen Pur. Amplifier",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "UMT-3",
   "lifecycle": ""
  },
  {
   "pn": "2SA1576U3HZGT106R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) GP Transistor -50V; -150mA",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1576U3T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V -0.15A 0.2W SOT-323; SC-70; UMT",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
+  "pkg": "SC-70",
   "lifecycle": ""
  },
  {
   "pn": "2SA1577T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.5A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:500mA 电压:32V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1774TLQ",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-416",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "SOT-416",
   "lifecycle": ""
  },
  {
   "pn": "2SA1774TLR",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A SOT-416",
+  "category": "三极管(BJT)",
+  "description": "hfe=180~390 通用晶体管 PNP 电流:150mA 电压:50V",
   "pkg": "SOT-416",
   "lifecycle": ""
  },
@@ -810,144 +810,144 @@
  {
   "pn": "2SA2029T2LQ",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SA2029T2LR",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR PNP GEN. PURPOSE HFE RANK 'R'",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:150mA 电压:50V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SA2030T2L",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 12V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:500mA 电压:12V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SA2071T100Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR 60V3A PNP CPT3;HI VLT DISCHRG",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:60V",
   "pkg": "SOT-89",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "2SA2094TLQ",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANS GP BJT PNP 60V 2A 3PIN",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:2A 电压:60V",
   "pkg": "SC-96",
   "lifecycle": "End of Life"
  },
  {
   "pn": "2SAR293P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -1A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1A 电压:30V",
   "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
   "pn": "2SAR502UBTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Digital Transtr Driver",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:0.5A 电压:30V",
   "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SAR512P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -2A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:2A 电压:30V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SAR512RTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V -2A Driver Transistor",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:2A 电压:30V",
   "pkg": "SOT-346",
   "lifecycle": ""
  },
  {
   "pn": "2SAR513PFRAT100",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP SOT-89 -1A 180 to 450hFE -50V",
-  "pkg": "SOT-89",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1A 电压:50V",
+  "pkg": "SOT-89-3",
   "lifecycle": ""
  },
  {
   "pn": "2SAR513RTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) I2C BUS 1Kbit EEPROM",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1A 电压:50V",
   "pkg": "SOT-346T",
   "lifecycle": ""
  },
  {
   "pn": "2SAR523EBTL",
   "brand": "ROHM",
-  "category": "Transistor",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP, SOT-416FL, -50V -100mA, General Purpose Amplification Transistor",
-  "pkg": "SOT-416FL",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:100mA 电压:50V",
+  "pkg": "SOT-416",
   "lifecycle": ""
  },
  {
   "pn": "2SAR523UBTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) GP Amplification Trans",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:100mA 电压:50V",
   "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SAR533P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V Vceo -3A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:50V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SAR543RTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Linear Constant Current VCM Driver",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:50V",
   "pkg": "SC-96",
   "lifecycle": ""
  },
  {
   "pn": "2SAR552P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -30V Vceo -3A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:30V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SAR554P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP -50V Vceo -2A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1.5A 电压:80V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SAR573D3FRATL",
   "brand": "ROHM",
-  "category": "Transistor",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP, TO-252 (DPAK), -50V -3A, Power Transistor",
+  "category": "三极管(BJT)",
+  "description": "PNP-3.0A-50V功率晶体管",
   "pkg": "TO-252",
   "lifecycle": ""
  },
@@ -970,241 +970,241 @@
  {
   "pn": "2SB1197KT146Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.8A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:800mA 电压:32V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SB1197KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 32V 0.8A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:800mA 电压:32V",
   "pkg": "SC-59-3",
   "lifecycle": ""
  },
  {
   "pn": "2SB1198KT146Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 80V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:0.5A 电压:80V",
   "pkg": "SC-59",
   "lifecycle": ""
  },
  {
   "pn": "2SB1198KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 80V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:0.5A 电压:80V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SB1708TL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 30V 3A",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:30V",
   "pkg": "SOT-346T",
   "lifecycle": "End of Life"
  },
  {
   "pn": "2SB1731TL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 30V 1.5A",
+  "category": "三极管(BJT)",
+  "description": "2SB1731TL",
   "pkg": "TUMT-3",
   "lifecycle": ""
  },
  {
   "pn": "2SC2411KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:32V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SC2412KT146Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "hfe=120~270 NPN 电流:150mA 电压:50V",
   "pkg": "SOT-346",
   "lifecycle": ""
  },
  {
   "pn": "2SC2412KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SC3838KT146P",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "category": "三极管(BJT)",
+  "description": "高频放大晶体管，具有高过渡频率、小rbb'-Cc和高增益、小噪声系数的特点",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "2SC3906KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 120V 50MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:50mA 电压:120V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SC3906KT146S",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 120V 50MA",
+  "category": "三极管(BJT)",
+  "description": "2SC3906KT146S",
   "pkg": "TO-236-3",
   "lifecycle": ""
  },
  {
   "pn": "2SC4081T106Q",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SC4081T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SC4081U3HZGT106Q",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A 0.2W SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SC4081U3HZGT106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A 0.2W SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
+  "pkg": "SOT-323-3",
   "lifecycle": ""
  },
  {
   "pn": "2SC4082T106P",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 20V 50MA SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 50mA 20V",
+  "pkg": "SC-70",
   "lifecycle": ""
  },
  {
   "pn": "2SC4083T106N",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "hfe=56~270 NPN 电流:50mA 电压:11V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SC4083T106P",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:50mA 电压:11V",
   "pkg": "SC-70",
   "lifecycle": "End of Life"
  },
  {
   "pn": "2SC4097T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.5A SOT-323",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:32V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SC4098T106P",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN RF AMP",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:50mA 电压:25V",
   "pkg": "SOT-323",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "2SC4617TLR",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A SOT-416",
-  "pkg": "SOT-416",
+  "category": "三极管(BJT)",
+  "description": "hfe=180~390 NPN 电流:150mA 电压:50V",
+  "pkg": "SC-75(SOT-523)",
   "lifecycle": ""
  },
  {
   "pn": "2SC5658T2LQ",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SC5658T2LR",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SC5662T2LP",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 11V 50MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:50mA 电压:11V",
   "pkg": "SOT-723",
   "lifecycle": "End of Life"
  },
  {
   "pn": "2SC5663T2L",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 12V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:12V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
  {
   "pn": "2SC5824T100Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 60V 3A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:60V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SC5824T100R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 60V 3A",
-  "pkg": "SOT-89-3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:60V",
+  "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SC5876U3T106Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Medium power transistor (60V, 0.5A)",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:60V",
   "pkg": "SOT-323",
   "lifecycle": "New Product"
  },
  {
   "pn": "2SC5876U3T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) SOT-323 BIPOLAR BJT NPN",
-  "pkg": "SOT-323",
+  "category": "三极管(BJT)",
+  "description": "2SC5876U3T106R",
+  "pkg": "SOT-323-3",
   "lifecycle": ""
  },
  {
@@ -1218,96 +1218,96 @@
  {
   "pn": "2SCR293P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V Vceo 1A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1A 电压:30V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SCR502UBTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Digital Transtr Driver",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:0.5A 电压:30V",
   "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SCR512P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V Vceo 2A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "2SCR512P5T100",
   "pkg": "SOT-89-3",
   "lifecycle": ""
  },
  {
   "pn": "2SCR513P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V Vceo 1A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1A 电压:50V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SCR513RTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Trans GP BJT NPN 50V 1A",
+  "category": "三极管(BJT)",
+  "description": "2SCR513RTL 停产",
   "pkg": "SOT-346",
   "lifecycle": ""
  },
  {
   "pn": "2SCR523EBTL",
   "brand": "ROHM",
-  "category": "Transistor",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN, SOT-416FL, 50V 100mA, General Purpose Amplification Transistor",
-  "pkg": "SOT-416FL",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:100mA 电压:50V",
+  "pkg": "SOT-416F",
   "lifecycle": ""
  },
  {
   "pn": "2SCR523UBTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Trans NPN GP 50V 0.1A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:100mA 电压:50V",
   "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
   "pn": "2SCR533P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V Vceo 3A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:50V",
   "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
   "pn": "2SCR543RTL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Isolated AC/DC Converter",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:50V",
   "pkg": "SC-96",
   "lifecycle": ""
  },
  {
   "pn": "2SCR554P5T100",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 80V Vceo 1.5A Ic MPT3",
+  "category": "三极管(BJT)",
+  "description": "中功率晶体管，低饱和电压，高速开关",
   "pkg": "SOT-89-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD1383KT146B",
   "brand": "ROHM Semiconductor",
-  "category": "达林顿晶体管",
-  "description": "达林顿晶体管 NPN 32V 0.3A",
+  "category": "达林顿管",
+  "description": "NPN 32V 300mA",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD1484KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:50V",
   "pkg": "TO-236-3",
   "lifecycle": ""
  },
@@ -1322,24 +1322,24 @@
  {
   "pn": "2SD1766T100R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 2A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:2A 电压:32V",
   "pkg": "TO-243AA",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "2SD1781KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 32V 0.8A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:800mA 电压:32V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD1782KT146R",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 80V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "hfe=180-390 NPN 电流:500mA 电压:80V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
@@ -1354,96 +1354,96 @@
  {
   "pn": "2SD1949T106Q",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:50V",
   "pkg": "UMT-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD1949T106R",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.5A SOT-323",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:50V",
   "pkg": "SOT-323",
   "lifecycle": ""
  },
  {
   "pn": "2SD2114KT146V",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 20V 0.5A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:0.5A 电压:20V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD2142KT146",
   "brand": "ROHM Semiconductor",
-  "category": "达林顿晶体管",
-  "description": "达林顿晶体管 DARL NPN 30V .3A",
+  "category": "达林顿管",
+  "description": "NPN 30V 300mA",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD2226KT146V",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD2226KT146W",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 150MA",
+  "category": "三极管(BJT)",
+  "description": "2SD2226KT146W",
   "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SD2537T100V",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 25V 1.2A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.2A 电压:25V",
   "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2SD2673TL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 30V 3A",
+  "category": "三极管(BJT)",
+  "description": "通用放大晶体管",
   "pkg": "TSMT3",
   "lifecycle": ""
  },
  {
   "pn": "2SD2701TL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 12V 2A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.5A 电压:30V",
   "pkg": "TUMT-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD2703TL",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) 30V 1A NPN LOW",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1A 电压:30V",
   "pkg": "SOT-323-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD2704KT146",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) TRANSISTOR BIPOLAR NPN; 30Vebo; 0.3A",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:0.3A 电压:20V",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "2SD2707T2LV",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 50V 0.15A",
+  "category": "三极管(BJT)",
+  "description": "通用晶体管 NPN 电流:150mA 电压:50V",
   "pkg": "SOT-723",
   "lifecycle": ""
  },
@@ -1458,9 +1458,9 @@
  {
   "pn": "2SK3019TL",
   "brand": "ROHM Semiconductor",
-  "category": "MOSFET",
-  "description": "MOSFET N-CH 30V .1A SOT416",
-  "pkg": "SOT416",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V 电流:100mA",
+  "pkg": "SC-75(SOT-523)",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
@@ -1474,56 +1474,56 @@
  {
   "pn": "2SK3541T2L",
   "brand": "ROHM Semiconductor",
-  "category": "MOSFET",
-  "description": "MOSFET N-CH 30V .1A",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V 电流:100mA",
   "pkg": "SOT-723",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "2STF1360",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) LOW VOLTAGE FAST SWITCHING NPN POWER",
-  "pkg": "SOT-89-3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:60V",
+  "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2STF2360",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Lo Vltg fast switch pnp Pwr transistor",
-  "pkg": "SOT-89-3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:60V",
+  "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
   "pn": "2STR1215",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) Lo Vltg FAST SWITCH Hi GAIN PNP",
+  "category": "三极管(BJT)",
+  "description": "低压快速开关NPN功率晶体管，采用PB-HCD技术，低集电极-发射极饱和电压、高电流增益、快速开关速度，适用于表面贴装电路",
   "pkg": "SOT-23",
   "lifecycle": "End of Life"
  },
  {
   "pn": "2STR2160",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) LOW VOLTAGE FAST SWITCHING PNP POWER",
-  "pkg": "SOT-23-3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1A 电压:60V",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "MAX828EUK",
   "brand": "onsemi",
-  "category": "开关稳压器",
-  "description": "开关稳压器 Switched Cap Voltage",
+  "category": "电荷泵",
+  "description": "MAX828EUK",
   "pkg": "TSOP-5",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "LMV321IDBVR",
   "brand": "Texas Instruments",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 Low V R/R A 595-LMV3 21IDBVT A 595-LMV32 A 595-LMV321IDBVT",
+  "category": "运算放大器",
+  "description": "低电压轨到轨输出运算放大器",
   "pkg": "SOT-23-5",
   "lifecycle": ""
  },
@@ -1538,16 +1538,16 @@
  {
   "pn": "LM385M3X-1.2",
   "brand": "Texas Instruments",
-  "category": "Diode",
-  "description": "参考电压 1.235-V, 0C to 70C,  micropower voltage reference diode 3-SOT-23 0 to 70",
+  "category": "电压基准芯片",
+  "description": "25uA 100ppm/℃",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "5034800640",
   "brand": "Molex",
-  "category": "FFC & FPC连接器",
-  "description": "FFC & FPC连接器 .5MM PTCH FPC R/A SM DUAL CONTACT 6CIR",
+  "category": "FFC/FPC连接器",
+  "description": "翻盖式 双侧触点/上下接 P数:6P 间距:0.5mm",
   "pkg": "SMD,P=0.5mm,卧贴",
   "lifecycle": ""
  },
@@ -1562,152 +1562,152 @@
  {
   "pn": "593D106X0025C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 25volts 20% C case Molded",
+  "category": "钽电容",
+  "description": "10uF ±20% 25V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D106X9016A2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 16volts 10% A case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 16V",
   "pkg": "CASE-A-3216-18(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D106X9025C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 25volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 25V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D106X9035D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 10uF 35volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "10uF ±10% 35V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D107X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 10V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D107X9010D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 10volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 10V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D107X9016E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 16volts 10% E case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 16V",
   "pkg": "CASE-E-7343-43(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D107X9020E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 100uF 20volts 10% E case Molded",
+  "category": "钽电容",
+  "description": "100uF ±10% 20V",
   "pkg": "CASE-D-7343",
   "lifecycle": ""
  },
  {
   "pn": "593D156X9035D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 15uF 35volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "15uF ±10% 35V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D157X96R3D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 593D157X96R3D2Te3",
+  "category": "钽电容",
+  "description": "150uF ±10% 6.3V",
   "pkg": "2917",
   "lifecycle": ""
  },
  {
   "pn": "593D226X9025D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 22uF 25volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "22uF ±10% 25V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D227X9010E2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 220uF 10volts 10% E case Molded",
+  "category": "钽电容",
+  "description": "220uF ±10% 10V",
   "pkg": "CASE-E-7343-43(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D336X9025D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 33uF 25volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "33uF ±10% 25V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D476X9010C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 10volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 10V",
   "pkg": "CASE-C-6032",
   "lifecycle": ""
  },
  {
   "pn": "593D476X9016C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 16volts 10% C case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 16V",
   "pkg": "CASE-C-6032-28(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D476X9016D2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 47uF 16volts 10% D case Molded",
+  "category": "钽电容",
+  "description": "47uF ±10% 16V",
   "pkg": "CASE-D-7343-31(mm)",
   "lifecycle": ""
  },
  {
   "pn": "593D476X96R3C2TE3",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 476uF 6.3volts 10%",
+  "category": "钽电容",
+  "description": "47uF ±10% 6.3V",
   "pkg": "2312",
   "lifecycle": ""
  },
  {
   "pn": "594D476X9016B2T",
   "brand": "Vishay / Sprague",
-  "category": "钽质电容器-固体SMD",
-  "description": "钽质电容器-固体SMD 594D476X9016B2T",
+  "category": "钽电容",
+  "description": "47uF ±10% 16V",
   "pkg": "1611",
   "lifecycle": ""
  },
  {
   "pn": "SM36T1G",
   "brand": "onsemi",
-  "category": "ESD保护二极管/TVS二极管",
-  "description": "ESD保护二极管/TVS二极管 LOW NOISE AMPLIFIER",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "单向ESD 36V截止 峰值浪涌电流：4A@8/20us",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
@@ -1722,16 +1722,16 @@
  {
   "pn": "SM15T1G",
   "brand": "onsemi",
-  "category": "TVS Diode",
-  "description": "ESD保护二极管/TVS二极管 ZEN SOT23 TVS ARRAY 15V",
-  "pkg": "SOT23",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "单向ESD 15V截止 峰值浪涌电流：10A@8/20us",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "74HC4053M/TR",
   "brand": "HGSEMI",
-  "category": "IC",
-  "description": "74HC4053M/TR",
+  "category": "信号开关/编解码器/多路复用器",
+  "description": "高速 CMOS 三路 2 通道模拟多路复用器和多路信号分离器",
   "pkg": "SOP-16",
   "lifecycle": ""
  },
@@ -1746,64 +1746,64 @@
  {
   "pn": "A5973D",
   "brand": "STMicroelectronics",
-  "category": "开关稳压器",
-  "description": "开关稳压器 Up to 2 A step down 4V to 36V 250 kHz",
+  "category": "DC-DC电源芯片",
+  "description": "降压型 2A 4V~36V 停产",
   "pkg": "SO-8-EP",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "ACS102-6T1-TR",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "category": "功率电子开关",
+  "description": "瞬态保护交流开关",
   "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "ACS108-6SA",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "category": "功率电子开关",
+  "description": "0.8 A - 600 V 过压保护交流开关",
   "pkg": "TO-92",
   "lifecycle": "End of Life"
  },
  {
   "pn": "ACS108-6SN-TR",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Transient Vltg Protected AC Switch",
+  "category": "功率电子开关",
+  "description": "过压保护交流开关",
   "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "ACST1635-8FP",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 OverVltg protected AC switch 1500 Vrms",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "ACST1635-8FP",
   "pkg": "TO-220-3",
   "lifecycle": ""
  },
  {
   "pn": "ACST210-8BTR",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Triac Crowbar 10mA Switch 2A 800V",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "ACST210-8BTR",
   "pkg": "TO-252-2(DPAK)",
   "lifecycle": ""
  },
  {
   "pn": "ACST310-8BTR",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Overvoltage protected AC switch",
+  "category": "功率电子开关",
+  "description": "过压保护交流开关",
   "pkg": "DPAK",
   "lifecycle": ""
  },
  {
   "pn": "ACST410-8BTR",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Overvoltage Triac Low <10mA 1500 rms",
+  "category": "功率电子开关",
+  "description": "过压保护交流开关",
   "pkg": "TO-252(DPAK)",
   "lifecycle": ""
  },
@@ -1818,24 +1818,24 @@
  {
   "pn": "ADF5356BCPZ",
   "brand": "Analog Devices",
-  "category": "时钟合成器/抖动清除器",
-  "description": "时钟合成器/抖动清除器 13.6GHz PLLVCO(upgrade of ADF5355)",
+  "category": "时钟发生器/频率合成器/PLL",
+  "description": "集成 VCO 的微波宽带合成器",
   "pkg": "LFCSP-32(5x5)",
   "lifecycle": "Restricted Availability"
  },
  {
   "pn": "ADM7151ARDZ-04-R7",
   "brand": "Analog Devices",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 800mA ULN 1.5to5.1Vo Adj LDO",
+  "category": "线性稳压器(LDO)",
+  "description": "1.5V~5.1V 800mA 16V",
   "pkg": "SOIC-8-EP",
   "lifecycle": "Restricted Availability"
  },
  {
   "pn": "ADP7156ARDZ-3.3-R7",
   "brand": "Analog Devices",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 3.3/5Vin 1.2A Ultra Low Noise LDO, Fixed",
+  "category": "线性稳压器(LDO)",
+  "description": "3.3V 1.2A 5.5V",
   "pkg": "SOIC-8-EP",
   "lifecycle": "Restricted Availability"
  },
@@ -1850,32 +1850,32 @@
  {
   "pn": "AO3401A",
   "brand": "AOS",
-  "category": "IC",
-  "description": "AO3401A",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:30V 电流:4A",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "ARS34Y4H",
   "brand": "Panasonic Industry",
-  "category": "高频/射频继电器",
-  "description": "高频/射频继电器 RS series relay",
+  "category": "信号继电器",
+  "description": "ARS34Y4H",
   "pkg": "-",
   "lifecycle": ""
  },
  {
   "pn": "ATMEGA328P-AU",
   "brand": "Microchip Technology",
-  "category": "8位微控制器 -MCU",
-  "description": "8位微控制器 -MCU 32KB In-system Flash 20MHz 1.8V-5.5V",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "基于AVR增强型RISC架构的低功耗CMOS 8位微控制器",
   "pkg": "TQFP-32(7x7)",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "AVS10CB",
   "brand": "STMicroelectronics",
-  "category": "双向可控硅",
-  "description": "双向可控硅 Auto Voltage Switch",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "600V",
   "pkg": "TO-220AB",
   "lifecycle": ""
  },
@@ -1890,192 +1890,192 @@
  {
   "pn": "B-STLINK-ISOL",
   "brand": "STMicroelectronics",
-  "category": "电源管理IC开发工具",
-  "description": "电源管理IC开发工具 Isolation and voltage adapter board for STLINK-V3SET",
+  "category": "开发板",
+  "description": "STLINK-V3SET隔离和电压适配板",
   "pkg": "-",
   "lifecycle": ""
  },
  {
   "pn": "B340A-E3/61T",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 3.0 Amp 40 Volt",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:3A",
   "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
   "pn": "B360A-E3/61T",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 60 Volt 3.0 Amp 50 Amp IFSM",
+  "category": "肖特基二极管",
+  "description": "电压:60V 电流:3A",
   "pkg": "DO-214AC",
   "lifecycle": ""
  },
  {
   "pn": "BA00BC0WFP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 REG PNP 1A",
+  "category": "线性稳压器(LDO)",
+  "description": "1.5V~12V 1A 16V",
   "pkg": "TO-252-5",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA00DD0WHFP-TR",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 VOLT VAR OUTPUT 1.5V-16V",
+  "category": "线性稳压器(LDO)",
+  "description": "2A 25V",
   "pkg": "HRP5",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA06CC0WFP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 REG 1A 6V",
+  "category": "线性稳压器(LDO)",
+  "description": "6V 1A 25V",
   "pkg": "TO-252-5",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA08CC0WFP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 REG 1A 8V",
+  "category": "线性稳压器(LDO)",
+  "description": "8V 1A 25V",
   "pkg": "TO-252-5",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA08FP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 REGULATOR 8V 1A",
+  "category": "线性稳压器(LDO)",
+  "description": "8V 1A 25V",
   "pkg": "TO-252",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA10339F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "模拟比较器",
-  "description": "模拟比较器 QUAD COMPARATOR",
+  "category": "比较器",
+  "description": "地感比较器",
   "pkg": "SOP-14",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA10339FV-E2",
   "brand": "ROHM Semiconductor",
-  "category": "模拟比较器",
-  "description": "模拟比较器 QUAD OP-AMP",
+  "category": "比较器",
+  "description": "BA10339FV-E2",
   "pkg": "SSOP-14-4.4mm",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA10358F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 OPAMP DUAL 32V",
+  "category": "运算放大器",
+  "description": "高增益低功耗运算放大器",
   "pkg": "SOP-8",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BA10358FV-E2",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 OPAMP DUAL 32V",
+  "category": "运算放大器",
+  "description": "高增益低功耗运算放大器",
   "pkg": "SSOP-B8",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA10393F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "模拟比较器",
-  "description": "模拟比较器 DUAL COMPARATOR",
+  "category": "比较器",
+  "description": "地感比较器",
   "pkg": "SOP-8",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BA25BC0FP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 IC LDO 2.5V 1A",
+  "category": "线性稳压器(LDO)",
+  "description": "2.5V 1A 16V",
   "pkg": "TO-252",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA3121F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "音频放大器",
-  "description": "音频放大器 AUDIO ISOLATION AMP",
+  "category": "音频功率放大器",
+  "description": "接地隔离放大器 停产",
   "pkg": "SOP-8",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA3472F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 1-7V 2 CHANNELS 150nA 3.5mA",
+  "category": "运算放大器",
+  "description": "高速高电压运算放大器 停产",
   "pkg": "SOP-8",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BA3474RFV-E2",
   "brand": "ROHM Semiconductor",
-  "category": "高速运算放大器",
-  "description": "高速运算放大器 Ind 4Ch 3-36V Ground Sense",
+  "category": "运算放大器",
+  "description": "BA3474RFV-E2",
   "pkg": "SSOP-14-4.4mm",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BA4560F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 OP-AMP GENERIC 4560 DUAL 8 PIN",
+  "category": "运算放大器",
+  "description": "低噪声运算放大器",
   "pkg": "SOIC-8-175mil",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA4580RF-E2",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 2-16V 2 CHANNELS 100nA 6mA",
+  "category": "运算放大器",
+  "description": "低噪声运算放大器",
   "pkg": "SOP-8",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA4580RFVM-TR",
   "brand": "ROHM Semiconductor",
-  "category": "运算放大器 - 运放",
-  "description": "运算放大器 - 运放 2-16V 2 CHANNELS 100nA 6mA",
+  "category": "运算放大器",
+  "description": "低噪声运算放大器",
   "pkg": "MSOP-8",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA50BC0T",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 IC LDO 1A 5V",
+  "category": "线性稳压器(LDO)",
+  "description": "5V 1A 16V",
   "pkg": "TO-220FP-3",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA50DD0WHFP-TR",
   "brand": "ROHM Semiconductor",
-  "category": "线性稳压器",
-  "description": "线性稳压器 5 5V",
+  "category": "线性稳压器(LDO)",
+  "description": "5V 2A 25V",
   "pkg": "HRP-5",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BA6285FS-E2",
   "brand": "ROHM Semiconductor",
-  "category": "马达/运动/点火控制器和驱动器",
-  "description": "马达/运动/点火控制器和驱动器 REVRS MOTOR DRIVER 16PIN",
+  "category": "有刷直流电机驱动芯片",
+  "description": "BA6285FS-E2",
   "pkg": "LSOP-16-175mil",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "BA6406F-E2",
   "brand": "ROHM Semiconductor",
-  "category": "马达/运动/点火控制器和驱动器",
-  "description": "马达/运动/点火控制器和驱动器 WAVE FAN MOTOR DRVR 2PHASE 8PIN",
+  "category": "电机驱动芯片",
+  "description": "直流无刷冷却风扇电机驱动器",
   "pkg": "SOP-8-4.4mm",
   "lifecycle": "Not Recommended for New Designs"
  },
@@ -2090,8 +2090,8 @@
  {
   "pn": "BA6664FM-E2",
   "brand": "ROHM Semiconductor",
-  "category": "马达/运动/点火控制器和驱动器",
-  "description": "马达/运动/点火控制器和驱动器 SPINDLE MOTOR DRVR 1 PHASE 30PIN",
+  "category": "无刷直流(BLDC)电机驱动芯片",
+  "description": "BA6664FM-E2",
   "pkg": "HSOP-28-300mil",
   "lifecycle": "Obsolete"
  },
@@ -2114,56 +2114,56 @@
  {
   "pn": "BA8391G-TR",
   "brand": "ROHM Semiconductor",
-  "category": "模拟比较器",
-  "description": "模拟比较器 Grd Sense Cmprtr 2-36V 7mV Max",
+  "category": "比较器",
+  "description": "通用且高可靠性电压比较器",
   "pkg": "SSOP-5-1.6mm",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BAL-NRF01D3",
   "brand": "STMicroelectronics",
-  "category": "信号调节",
-  "description": "信号调节 50ohm balun Trans 2G45 ISM",
+  "category": "巴伦(balun)",
+  "description": "50Ω标称输入/共轭匹配巴伦，集成谐波滤波器",
   "pkg": "FCBGA-5",
   "lifecycle": ""
  },
  {
   "pn": "BALF-NRF01D3",
   "brand": "STMicroelectronics",
-  "category": "信号调节",
-  "description": "信号调节 50 ohms nominal input / conjugate match balun to nRF51822-QFAAG0,\\rnRF51822-QF",
+  "category": "巴伦(balun)",
+  "description": "BALF-NRF01D3",
   "pkg": "UFBGA-5",
   "lifecycle": ""
  },
  {
   "pn": "BALF-NRF01E3",
   "brand": "STMicroelectronics",
-  "category": "信号调节",
-  "description": "信号调节 50ohms nominal input / conjugate match balun to nRF51x22-QFAA, nRF51x22-QFAC,",
+  "category": "巴伦(balun)",
+  "description": "2.45 GHz 带集成匹配网络的巴伦",
   "pkg": "WLCSP-6",
   "lifecycle": ""
  },
  {
   "pn": "BALF-NRG-02D3",
   "brand": "STMicroelectronics",
-  "category": "信号调节",
-  "description": "信号调节 50ohms / conjugate match balun to BlueNRG transceiver, with integrated harmoni",
+  "category": "巴伦(balun)",
+  "description": "50 欧姆标称输入/与 BlueNRG 收发器共轭匹配，集成谐波滤波器",
   "pkg": "UFBGA-4",
   "lifecycle": ""
  },
  {
   "pn": "BALF-SPI2-01D3",
   "brand": "STMicroelectronics",
-  "category": "信号调节",
-  "description": "信号调节 50 ohms nominal input / conjugate match balun to S2-LP,868 - 930 MHz with inte",
+  "category": "巴伦(balun)",
+  "description": "860 - 930 MHz带集成谐波滤波器的巴伦",
   "pkg": "UFBGA-6",
   "lifecycle": ""
  },
  {
   "pn": "BAQ334-TR",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 60 Volt 200mA 2.0 Amp IFSM",
+  "category": "开关二极管",
+  "description": "停产 60V 200mA",
   "pkg": "MicroMELF",
   "lifecycle": ""
  },
@@ -2178,280 +2178,280 @@
  {
   "pn": "BAS16HMFHT116",
   "brand": "ROHM",
-  "category": "Diode",
-  "description": "小信号开关二极管 100V Vrm; 500mA Ifm Swtch Diode SOT-23",
+  "category": "开关二极管",
+  "description": "80V 215mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAS16HMT116",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 Switching Diode 100V, 215mA",
+  "category": "开关二极管",
+  "description": "80V 215mA",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BAS21HMFHT116",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 250VVrm 200V Vr 0.2A Io 0.1mA",
+  "category": "开关二极管",
+  "description": "200V 200mA",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BAS385-TR",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 30 Volt 200mA 300mA IFSM",
+  "category": "肖特基二极管",
+  "description": "电压:30V 电流:200mA",
   "pkg": "MicroMELF",
   "lifecycle": ""
  },
  {
   "pn": "BAS40-04-HE3-08",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 40 Volt 200mA Common Anode AUTO",
+  "category": "肖特基二极管",
+  "description": "停产 电压:40V 电流:200mA",
   "pkg": "SOT-23-3",
   "lifecycle": "End of Life"
  },
  {
   "pn": "BAS40-04HMFHT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:120mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAS40-05HMFHT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
-  "pkg": "SOT-23",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:120mA",
+  "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "BAS40-06HMFHT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:120mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAS40HMFHT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "肖特基二极管与整流器 40V Vr 0.12A Io SBD SOT-23 0.04A",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:120mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAS70-04-E3-08",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 70 Volt 200mA Series",
+  "category": "肖特基二极管",
+  "description": "电压:70V 电流:200mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAS70-04-G3-08",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 70 Volt 200mA Common Anode",
+  "category": "肖特基二极管",
+  "description": "电压:70V 电流:200mA",
   "pkg": "SOT-23-3",
   "lifecycle": ""
  },
  {
   "pn": "BAT20JFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 RECTIFIER",
+  "category": "肖特基二极管",
+  "description": "电压:23V 电流:1A",
   "pkg": "SOD-323",
   "lifecycle": ""
  },
  {
   "pn": "BAT30KFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 schottky diode",
+  "category": "肖特基二极管",
+  "description": "电压:30V 电流:300mA",
   "pkg": "SOD-523",
   "lifecycle": ""
  },
  {
   "pn": "BAT41KFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 schottky diode",
+  "category": "肖特基二极管",
+  "description": "电压:100V 电流:200mA",
   "pkg": "SOD-523",
   "lifecycle": ""
  },
  {
   "pn": "BAT46W-E3-08",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 100Volt 150mA 750mA",
+  "category": "肖特基二极管",
+  "description": "电压:100V 电流:150mA",
   "pkg": "SOD-123",
   "lifecycle": ""
  },
  {
   "pn": "BAT46ZFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 schottky diode",
+  "category": "肖特基二极管",
+  "description": "表面贴装肖特基势垒整流二极管，适用于一般整流，具有低正向电压、低反向电流和高可靠性特点",
   "pkg": "SOD-123",
   "lifecycle": ""
  },
  {
   "pn": "BAT54CFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 300mA 40V",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:300mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAT54CHMT116",
   "brand": "ROHM",
-  "category": "Diode",
-  "description": "肖特基二极管与整流器 Schottky Barrier Diode in SOT-23 Package",
+  "category": "肖特基二极管",
+  "description": "电压:30V 电流:200mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAT54FILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 300mA 30 Volt",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:300mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAT54HMT116",
   "brand": "ROHM",
-  "category": "Diode",
-  "description": "肖特基二极管与整流器 Schottky Barrier Diode in SOT-23 Package",
+  "category": "肖特基二极管",
+  "description": "电压:30V 电流:200mA",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BAT54JFILM",
   "brand": "STMicroelectronics",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 300mA 40 Volt",
+  "category": "肖特基二极管",
+  "description": "电压:40V 电流:300mA",
   "pkg": "SOD-323",
   "lifecycle": ""
  },
  {
   "pn": "BAV21W-E3-08",
   "brand": "Vishay Semiconductors",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 250V 625mA 1A IFSM",
+  "category": "开关二极管",
+  "description": "200V 250mA",
   "pkg": "SOD-123",
   "lifecycle": ""
  },
  {
   "pn": "BAV70HMT116",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Cathode Common Switching Diode",
+  "category": "开关二极管",
+  "description": "80V 215mA",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BAV99HMT116",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Series Connection, Switching Diode",
+  "category": "开关二极管",
+  "description": "80V 215mA",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BAW56HMT116",
   "brand": "ROHM Semiconductor",
-  "category": "小信号开关二极管",
-  "description": "小信号开关二极管 High-speed switching, 80V, 215mA, Anode Common Switching Diode",
+  "category": "开关二极管",
+  "description": "80V 215mA",
   "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BC847BHZGT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN SOT-23 0.1A 200 to 450hFE 45V",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:100mA 电压:45V",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BC857BHZGT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP SOT-23 -0.1A 210 to 480hFE -45V",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:100mA 电压:45V",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BC858BHZGT116",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) SOT-23 BIPOLAR BJT PNP",
-  "pkg": "SOT-23",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:100mA 电压:30V",
+  "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "BCP53-16",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Medium Power",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1A 电压:100V",
   "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "BCX19T116",
   "brand": "ROHM Semiconductor",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 45V 500MA",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:45V",
   "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "BD00C0AWFP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 LDO REG 5PIN 3V-15V 1A",
+  "category": "线性稳压器(LDO)",
+  "description": "3V~15V 1A 26.5V",
   "pkg": "TO-252-5",
   "lifecycle": ""
  },
  {
   "pn": "BD00GA3WEFJ-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 LDO REG 0.8V-7V 0.3A 8PIN",
+  "category": "线性稳压器(LDO)",
+  "description": "1.5V~13V 300mA 14V",
   "pkg": "HTSOP-J8-EP",
   "lifecycle": ""
  },
  {
   "pn": "BD00IC0WEFJ-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差电压控制器",
-  "description": "低压差电压控制器 LDO Reg Pos Variable Vltg 1A",
+  "category": "线性稳压器(LDO)",
+  "description": "800mV~4.5V 1A 5.5V",
   "pkg": "SOIC-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "BD00KA5WFP-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 VARIABLE 1.0V-3.3V",
+  "category": "线性稳压器(LDO)",
+  "description": "1V~4V 500mA 5.5V",
   "pkg": "TO-252-5",
   "lifecycle": ""
  },
  {
   "pn": "BD135",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Audio Amplifier",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.5A 电压:45V",
   "pkg": "TO-126-3",
   "lifecycle": ""
  },
@@ -2466,96 +2466,96 @@
  {
   "pn": "BD139",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Audio Amplifier",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.5A 电压:80V",
   "pkg": "TO-126",
   "lifecycle": ""
  },
  {
   "pn": "BD139-10",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Silicon Trnsistr",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.5A 电压:80V",
   "pkg": "SOT-32",
   "lifecycle": ""
  },
  {
   "pn": "BD139-16",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Silicon Trnsistr",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:1.5A 电压:80V",
   "pkg": "TO-126",
   "lifecycle": ""
  },
  {
   "pn": "BD140",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Audio Amplfier",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1.5A 电压:80V",
   "pkg": "TO-126",
   "lifecycle": ""
  },
  {
   "pn": "BD140-16",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Silicon Trnsistr",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:1.5A 电压:80V",
   "pkg": "TO-126",
   "lifecycle": ""
  },
  {
   "pn": "BD1754HFN-TR",
   "brand": "ROHM Semiconductor",
-  "category": "LED照明驱动器IC",
-  "description": "LED照明驱动器IC 4 LEDs 2.7-5.5V 32mA Max Curr",
+  "category": "LED驱动",
+  "description": "BD1754HFN-TR",
   "pkg": "HSON-8",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BD18340FV-ME2",
   "brand": "ROHM",
-  "category": "IC",
-  "description": "LED照明驱动器IC Cntrlr Auto LED Lmps 4.5-19V; SSOP-B16",
-  "pkg": "SOP-B16",
+  "category": "LED驱动",
+  "description": "BD18340FV-ME2",
+  "pkg": "LSSOP-16-175mil",
   "lifecycle": ""
  },
  {
   "pn": "BD2204GUL-E2",
   "brand": "ROHM Semiconductor",
-  "category": "电源开关 IC - 配电",
-  "description": "电源开关 IC - 配电 POWER SWITCH/DRIVER IC",
+  "category": "功率电子开关",
+  "description": "SD卡电源选择开关IC",
   "pkg": "UFBGA-6",
   "lifecycle": ""
  },
  {
   "pn": "BD2242G-GTR",
   "brand": "ROHM Semiconductor",
-  "category": "电源开关 IC - 配电",
-  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "category": "功率电子开关",
+  "description": "1通道紧凑型高端开关IC，可调电流限制",
   "pkg": "SSOP-6-1.6mm",
   "lifecycle": ""
  },
  {
   "pn": "BD2248G-GTR",
   "brand": "ROHM Semiconductor",
-  "category": "电源开关 IC - 配电",
-  "description": "电源开关 IC - 配电 Hi Side USB Pwr Sw",
+  "category": "功率电子开关",
+  "description": "用于PC和数字消费产品的电源管理开关IC",
   "pkg": "SSOP-5-1.6mm",
   "lifecycle": ""
  },
  {
   "pn": "BD237",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN General Purpose",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:2A 电压:80V",
   "pkg": "SOT-32-3",
   "lifecycle": ""
  },
  {
   "pn": "BD239C",
   "brand": "STMicroelectronics",
-  "category": "双极晶体管 - 双极结型晶体管(BJT)",
-  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Pwr Transistors",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:2A 电压:115V",
   "pkg": "TO-220",
   "lifecycle": ""
  },
@@ -31197,6 +31197,4006 @@
   "category": "MOSFET",
   "description": "MOSFET TRANS MOSFET NCH 50V 0.2A 3PIN",
   "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RUM003N02T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Small Signal Single N-CH 20V .3A .15W",
+  "pkg": "SOT-723",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RVQ040N05TR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Med Pwr, Sw MOSFET N Chan, 45V, 4A",
+  "pkg": "SOT-457T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RYC002N05T316",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 0.9V Drive Nch Si MOSFET",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RYM002N05T2CL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET .9V DRIVE N-Ch MOSFET",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RZE002P02TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V DRVE PCH MOSFET",
+  "pkg": "SOT-416",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "RZF013P01TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.5V Drive Pch MOSFET",
+  "pkg": "SOT-323T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RZF020P01TL",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.5V DRVE PCH MOSFET",
+  "pkg": "SOT-323T",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RZM001P02T2L",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Pch MOSFET",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S07M-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 0.7 Amp 1000 Volt 1.8uS",
+  "pkg": "DO-219AB(SMF)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1A-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 50 Volt",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1G-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 400 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1GHE3A/I",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1A 400V 40A@8.3ms Single Die Auto",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1J-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1JHE3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1A 600V 40A@8.3ms Single Die Auto",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1JHE3A/I",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1A 600V 40A@8.3ms Single Die Auto",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S1M-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1000 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S29GL064N90TFI040",
+  "brand": "Infineon Technologies",
+  "category": "NOR闪存",
+  "description": "NOR闪存 64Mb 3V 90ns Parallel NOR闪存",
+  "pkg": "TSOP-48-18.4mm",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "S2G-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 400 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S2GHE3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1.5A, 400V, SMB GPP, STD, SM RECT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S5M-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 5.0 Amp 1000 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SB560-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 60 Volt 220A IFSM @ 8.3ms",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SB5H100-E3/54",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100 Volt 5.0 Amp 200 Amp IFSM",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SBLB1040CT-E3/81",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 40 Volt 10 Amp Dual Common-Cathode",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SBYV26C-E3/73",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600 Volt 1.0A 30ns 30 Amp IFSM",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SCS206AGC",
+  "brand": "ROHM Semiconductor",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 DIODE: 6A 600V",
+  "pkg": "TO-220AC2L",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SCS210AJTLL",
+  "brand": "ROHM Semiconductor",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 DIODE: 10A 600V",
+  "pkg": "TO-263AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SCS212AJTLL",
+  "brand": "ROHM Semiconductor",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 SiC, SBD 650V 12A DPAK",
+  "pkg": "TO-263AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SCT2650STER",
+  "brand": "SCT(芯洲科技)",
+  "category": "IC",
+  "description": "SCT2650STER",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SCT2H12NZGC11",
+  "brand": "ROHM Semiconductor",
+  "category": "碳化硅MOSFET",
+  "description": "碳化硅MOSFET 1700V 3.7A N-MOSFET Silicon Carbide SiC",
+  "pkg": "TO-3PFM",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SCT3120ALGC11",
+  "brand": "ROHM Semiconductor",
+  "category": "碳化硅MOSFET",
+  "description": "碳化硅MOSFET N-Ch 650V SiC 21A 120mOhm TrenchMOS",
+  "pkg": "TO-247N-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SD101AWS-E3-08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30mA 60Volt 2A IFSM",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SDZT15R5.6",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode RASMID Series",
+  "pkg": "SMD0603",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "SEO100SITEMAP",
+  "brand": "",
+  "category": "IC",
+  "description": "SEO100SITEMAP",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH1690AT",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR > 50-150%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6106-3",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-200%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6106-3T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR>100-200%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH610A-1",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器  VO61",
+  "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH610A-2",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器  VO61",
+  "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH610A-3",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器  VO61",
+  "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6156-2T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 63-125%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6156-3T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-200%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6156-3X001T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Optocplr Phototrnstr 100-200% CTR VDE",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH615A-3X009T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Optocplr Phototrnstr 100-200% CTR",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH615ABM",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR>200-600%",
+  "pkg": "DIP-4",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SFH617A-4X016",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器  VO61",
+  "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6186-2T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 63-125%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6186-3T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-200%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6186-3X001T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR>100-200%",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6186-4T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 160-320%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH620A-3",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-320%",
+  "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6286-3",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-320%",
+  "pkg": "SMD-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH636-X007T",
+  "brand": "Vishay Semiconductors",
+  "category": "高速光耦合器",
+  "description": "高速光耦合器 1Mbd High-Speed Trans Out CTR>19%",
+  "pkg": "SMD-6",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SFH690BT",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 100-300%",
+  "pkg": "SOP-4-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFH6916T",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 SOP-16 CPLR QUAD 50-300% CTR",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 100ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 1Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1002",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 10Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 100Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1103",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 110Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1201",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 1K2ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1211",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 1.21Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1243",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 124Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1502",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 15Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1503",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 150Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1623",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 162Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF1822",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistor, 1005mm, +/-1%, 50V, 0.063W, 18,200 Ohm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 2Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2210",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistor, 1005mm, +/-1%, 50V, 0.063W, 221 Ohm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2211",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 2.21Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2212",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 22.1Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF22R1",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 22.1ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2400",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 240ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2492",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 24.9Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2551",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 2.55Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2672",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistors",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2743",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 274Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF2942",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 29.4Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3162",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 31.6Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3243",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 324Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3320",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 332ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3321",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 3.32Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3322",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistors",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3482",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 34.8Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3651",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 3.65Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3652",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 36.5Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF3742",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 37.4Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF39R2",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 39.2ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4221",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 4.22Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4751",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 4.75Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4752",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 47.5Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF47R5",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 47.5ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4990",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 499ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4991",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 4.99Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF4993",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistor, 1005mm, +/-1%, 50V, 0.063W, 499,000 Ohm",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF49R9",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 49.9ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPF5902",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 59Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPJ000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 Jumper 5% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPJ102",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 1Kohms 5% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR01MZPJ332",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0402 3K3ohm 5% Anti-Sulfur AEC-Q200",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF1001",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 1Kohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF1003",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 100Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF1004",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 1Mohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF10R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 10ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF15R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 15ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF1800",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD Sulfur Tolerant Chip Resistor, 1608mm, +/-1%, 50V, 0.1W, 180 Ohm",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF2002",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 20Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF3301",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 3K3ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF4702",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 47Kohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF47R0",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 47ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF5101",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 5K1ohm 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPF5600",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 560ohms 1% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SFR03EZPJ000",
+  "brand": "ROHM Semiconductor",
+  "category": "厚膜电阻器 - SMD",
+  "description": "厚膜电阻器 - SMD 0603 jumper 5% Anti-Sulfur AEC-Q200",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SG2525AP013TR",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  Voltage Mode w/Sync",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SG3524N",
+  "brand": "Texas Instruments",
+  "category": "开关控制器",
+  "description": "开关控制器  Regulating Pulse Width Modulator",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SG3525AN",
+  "brand": "STMicroelectronics",
+  "category": "开关控制器",
+  "description": "开关控制器  Voltage Mode w/Sync",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SH8K32GZETB",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 4V Drive Nch+Nch MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "SH8M41TB1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET Nch+Pch 80V/-80V 3.4A/-2.6A; MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SH8MA4TB1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Nch+Pch Power MOSFET",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI1012CR-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 8V Vgs SC75A",
+  "pkg": "SC-75A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI1012R-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 0.6A 175mW 700mohm @ 4.5V",
+  "pkg": "SOT-416",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI1308EDL-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 12V Vgs SC70-3",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI1539CDL-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs SC70-6 N&P PAIR",
+  "pkg": "SC-70-6(SOT-363)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2301CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2302CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2303CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2305CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -8V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2308BDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI2309CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2312BDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 5.0A 1.25W 31mohm @ 4.5V",
+  "pkg": "SOT-23",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SI2323CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2323DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 4.7A 1.25W 39 mohms @ 4.5V",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI2324DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 100V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2325DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -150V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2328DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 100V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2333CDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 12V 5.1A 2.5W 35 mohms @ 4.5V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2333DDS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -12V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2337DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -80V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI2342DS-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 8V Vds 5V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2347DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2356DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 12V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI2374DS-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 8V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3421DV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs TSOP-6",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3424CDV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs TSOP-6",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3430DV-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 2.4A 2.0W 170mohm @ 10V",
+  "pkg": "TSOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3437DV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -150V Vds 20V Vgs TSOP-6",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3459BDV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs TSOP-6",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3493DDV-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 8V Vgs TSOP-6",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI3552DV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs TSOP-6 N&P PAIR",
+  "pkg": "SOP-6",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SI3585CDV-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 12V Vgs TSOP-6 N&P PAIR",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4134DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4154DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4162DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4174DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4204DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4214DDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4228DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 25V Vds 12V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4288DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4431CDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4447ADY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4599DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds 20V Vgs SO-8 N&P PAIR",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4634DY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4816BDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4825DDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 25V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4840BDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI4925DDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI6913DQ-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -12V Vds 8V Vgs TSSOP-8",
+  "pkg": "SOP-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SI7112DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 17.8A 3.8W 7.5mohm @ 10V",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7115DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -150V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7119DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -200V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7121ADN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 25V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7145DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7149ADP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 25V Vgs PowerPAK SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7172DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 200V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAK-SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7220DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI7230DN-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 14A 3.7W 12mohm @ 10V",
+  "pkg": "-",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SI7232DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 8V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7234DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 12V Vds 12V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7272DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7288DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7415DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7461DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7465DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7469DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -80V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7611DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7615ADN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 12V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7898DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 150V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI7938DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI9435BDY-T1-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 5.7A 0.042Ohm",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SI9926CDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 12V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI9945BDY-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V Vds 20V Vgs SO-8",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SIA445EDJ-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 12V Vgs PowerPAK SC-70",
+  "pkg": "PowerPAK-SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIA483DJ-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs PowerPAK SC-70",
+  "pkg": "PowerPAK-SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIA517DJ-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 12V Vds 8V Vgs PowerPAK SC-70",
+  "pkg": "PowerPAK-SC-70-6-Dual",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHFB20N50K-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET  SIHP",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SIHG33N60EF-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 600V Vds 30V Vgs TO-247AC",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHG61N65EF-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 650V Vds 30V Vgs TO-247AC",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHG64N65E-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 650V Vds 30V Vgs TO-247AC",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHG70N60EF-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  SIHW",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHP12N60E-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 600V Vds 30V Vgs TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHP12N60E-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 600V Vds 30V Vgs TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIHP30N60E-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 600V Vds 30V Vgs TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIP32419DN-T1-GE4",
+  "brand": "Vishay / Siliconix",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 56mOhm 28volt Smart Load Switch",
+  "pkg": "DFN-10(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIP32429DN-T1-GE4",
+  "brand": "Vishay / Siliconix",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 56mOhm 28volt Smart Load Switch",
+  "pkg": "TDFN-10-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIP32431DR3-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 1A Slew Rate Ctrl Load Switch",
+  "pkg": "SOT-363-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIP32510DT-T1-GE3",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "IC PWR SWTCH N-CHAN 1:1 TSOT23-6",
+  "pkg": "Load Discharge, Slew Rate Controlled",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIR422DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAK-SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIR500DP-T1-RE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET PPAKSO8  N-CH  30V  85.9A",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIR606BDP-T1-RE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 100V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIR668ADP-T1-RE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 100V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIRA04DP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIRA10BDP-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIRA18BDP-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET PPAKSO8  N-CH  30V  19A",
+  "pkg": "PowerPAKSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIRA20DP-T1-RE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 25V Vds 16V Vgs PowerPAK SO-8",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIRA60DP-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs PowerPAK SO-8",
+  "pkg": "PowerPAK-SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIS406DN-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 25V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIS434DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIS435DNT-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 8V Vgs PowerPAK 1212-8T",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIS443DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIS476DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds 20V Vgs PowerPAK 1212-8",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SISA04DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET For New Design See: 78-SISHA04DN-T1-GE3",
+  "pkg": "PowerPAK1212-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SISS02DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 25V Vds 16V Vgs PowerPAK 1212-8S",
+  "pkg": "PowerPAK1212-8S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SISS23DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds 8V Vgs PowerPAK 1212-8S",
+  "pkg": "PowerPAK1212-8S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SISS27DN-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -30V Vds 20V Vgs PowerPAK 1212-8S",
+  "pkg": "PowerPAK1212-8S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SL03-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.1A .395V",
+  "pkg": "DO-219AB(SMF)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SL44-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 4.0 Amp 40 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SLR-56MGT32",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED GREEN FLANGED GRN DIFFUSED LENS",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SLVU2.8-4A1",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 LV Ethernet Gig Protection 30A 1.5pF",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SM15T100A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 100V 5% Uni",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM15T200A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 200V 5% Uni",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM15T36A",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 36V Unidirect",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM15T39A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 39V 5% Uni",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM4T39CAY",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400 W 2.3kW Transil 5V to 70V Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T150A",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 150V Unidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T18CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 18V 5% Bi",
+  "pkg": "DO-214AA(SMBJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T200A",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 200V Unidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T22A",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 22V Unidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T33CAY",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600 W 4kW Transil 6V to 70V Bi",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T36A",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 36V Unidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SM6T68A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 68V 5% Uni",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMA6J28A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 28V 5% Unidir",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMA6J33A-TR",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 HJ Temp Transil",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ10A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 10V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ12CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 12V 5% Bi",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ13A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 13V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ15A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 15V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ15CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 15V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ16CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 16V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ188A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 188V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ18CA-E3/5A",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 18V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ24A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 24V 5% Uni",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ26A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 26V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ30A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 30V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ30CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 30V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ33A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 33V 5% Uni",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ33CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 33V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ33CAHE3/5A",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 33V 5% Bi AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SMAJ5.0A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 5.0V 5% Uni",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ5.0CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 5.0V 5% Bi",
+  "pkg": "DO-214AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ58CA-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 58V 5% Bi",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ6.0A-TR",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 6.0V Unidirect",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ6.5A-TR",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 6.5V Unidirect",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMAJ7.0A-E3/61",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 400W 7.0V 5% Uni",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ10CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 10V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ12A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 12V 600W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ12CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 12V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ130A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 130V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ130CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 130V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ14A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 14V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ150A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 150V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ15A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 15V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ15CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 15V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ15CA-TR",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 15V Bidirect",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ16A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 16V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ17A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 17V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ18A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 18V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ18CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 18V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ20CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 20V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ24A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 24V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ24CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 24V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ26A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 26V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ28A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 28V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ28CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 28V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ28CAHE3B/H",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W,28V 5%,BIDIR,SMB TVS",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ30A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 30V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ30CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 30V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ33A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 33V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ36A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 36V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ36CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 36V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ36CA-E3/5B",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 36V 800W Bidir TransZorb 5% Tol",
+  "pkg": "DO-214AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ3V3-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 3.3V 600W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ40A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 40V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ40CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 40V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ5.0A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 5.0V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ5.0CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 5.0V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ58CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 58V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ6.5CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 6.5V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ60CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 60V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ7.0A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 7.0V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ7.5CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 7.5V 600W Bidir Tran sZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ78A-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 78V 1000W UniDir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMBJ9.0CA-E3/52",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 9.0V 800W Bidir TransZorb 5% Tol",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ12A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 12V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ15A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 15V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ15CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 15V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ24A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 24V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ30A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 30V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ33A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 33V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ33CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 33V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ36A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 36V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ36CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 36V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ40A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 40V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ40CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 40V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ48A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 48V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ5.0A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 5.0V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ5.0CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 5.0V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ58A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 58V Unidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ6.0CA-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 6.0V Bidirect",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMCJ78A-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 1500W 78V Unidirect",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMF12A-TP",
+  "brand": "Micro Commercial Components (MCC)",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 12V, 200W TVS,",
+  "pkg": "SOD-123FL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-522MUWT86",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD,1.6x1.3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-811WTT86A",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "1305",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-812MTT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "1305",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-A12M8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD,1.6x1.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-A12P8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD,1.2x1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-A12U8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD,1.6x1.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-A12Y8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD,1.6x1.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12D1WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12D8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12FWT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12M1WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12M8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12P8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12P8WT86C",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12U8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12V1WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12V8WT86C",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D12Y1WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D13FWT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D13M8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D13VWT86C",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D13Y8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D14VWT86A",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-D15UWT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-E12M8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-E12P8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-E12V8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-E12Y8WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-H12D8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-H12P8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-H12V8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-H12V8TT86C",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-H12Y8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P11DTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P11UTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P11YTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P12M2TT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P12MTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P12UTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P12VTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P13FTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P13PTT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML-P24MUWT86R",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0404",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SML4746AHE3A/I",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 18V Zener SMA (DO-214AC)",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLD12BN1WT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED Blue 470nm; 40mcd 0603; 66mW",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLD12WBN1W1",
+  "brand": "ROHM Semiconductor",
+  "category": "白色 LED",
+  "description": "白色 LED White 120mcd 2.9V Vr; 0603",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLEN3BC8TT86",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED SMD LED BLUE 0603",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLEN3WBC8W1",
+  "brand": "ROHM Semiconductor",
+  "category": "白色 LED",
+  "description": "白色 LED White 10mA; 120mcd 0603; 10mA; 33mW Pd",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLMN2BCTT86C",
+  "brand": "ROHM Semiconductor",
+  "category": "单色LED",
+  "description": "单色LED Blue 470nm 36mcd InG AECQ-102",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLP14WBCN1W1",
+  "brand": "ROHM Semiconductor",
+  "category": "白色 LED",
+  "description": "白色 LED PICOLED, High Brightness White Chip LED",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLP36RGBNW3",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "0604",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLVN6RGB1U1",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD2835-6P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLVN6RGB1W1",
+  "brand": "ROHM Semiconductor",
+  "category": "多色LED",
+  "description": "多色LED The factory is currently not accepting orders for this product.",
+  "pkg": "SMD2835-6P",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SMLVT3V3",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 600W 3.3V Unidirect",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMLZN4WBGUW1",
+  "brand": "ROHM Semiconductor",
+  "category": "白色 LED",
+  "description": "白色 LED High brightness chip LED with reflector",
+  "pkg": "PLCC2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMM02040C1002FB300",
+  "brand": "Vishay / Draloric",
+  "category": "MELF电阻器",
+  "description": "MELF电阻器 1/4watt 10Kohms 1% 50ppm",
+  "pkg": "MELF-0204",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMM02040C4702FB300",
+  "brand": "Vishay / Draloric",
+  "category": "MELF电阻器",
+  "description": "MELF电阻器 1/4watt 47kohms 1% 50ppm",
+  "pkg": "MELF-0204",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SMP100LC-25",
+  "brand": "STMicroelectronics",
+  "category": "板载浪涌保护器",
+  "description": "板载浪涌保护器 25V 50uA Bidirect",
+  "pkg": "DO-214AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74AUC2G34DCKR",
+  "brand": "Texas Instruments",
+  "category": "缓冲器和线路驱动器",
+  "description": "缓冲器和线路驱动器 DUAL BUFFER GATE",
+  "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74AVC4T245PWR",
+  "brand": "Texas Instruments",
+  "category": "转换 - 电压电平",
+  "description": "转换 - 电压电平 4-Bit Dual-Supply Bu s Xcvr A 595-SN74AV A 595-SN74AVC4T245PW",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC1G125DBVR",
+  "brand": "Texas Instruments",
+  "category": "缓冲器和线路驱动器",
+  "description": "缓冲器和线路驱动器 SINGLE BUS BUFFER GA TE A 595-SN74LVC1G1 A 595-SN74LVC1G125DBVT",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC1T45DCK",
+  "brand": "Texas Instruments",
+  "category": "转换 - 电压电平",
+  "description": "转换 - 电压电平 SINGLE-BIT BUS TRANS CEIVER A 595-SN74LV A 595-SN74LVC1T45DCKR",
+  "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SP3232ECY-L",
+  "brand": "MaxLinear",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 RS232 120 kbps temp 0C to 70C",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SP3232EEY-L/TR",
+  "brand": "MaxLinear",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 TRUE +3V-+5.5V RS-232",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SP8K80TB1",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SOP8   2NCH  500V  .5A",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SPD07N60C3",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET LOW POWER_LEGACY",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SPP11N60C3",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 11A TO220-3",
+  "pkg": "TO220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SPP24N60C3",
+  "brand": "Infineon Technologies",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 24.3A TO220-3",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SQ1421EDH-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V (D-S) -/+20V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1431EH-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V 3A 3W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1470AEH-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds +/-12V Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1539EH-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 30Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1563AEH-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 20Vds 8Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1912AEEH-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 20Vds 12Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1912EH-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds 0.8A Id AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ1922EEH-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 20V Vds Dual N-Ch AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ2301ES-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P-Channel 20V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ2309ES-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 60V (D-S)",
+  "pkg": "SOT-23",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SQ2318AES-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 40V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQ2319ADS-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -40Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQ2361AEES-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds +/-20V Vgs AEC-Q101 Qualified",
+  "pkg": "SOT-23-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQ2389ES-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 40V (D-S)",
+  "pkg": "SOT-23-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SQ3419AEEV-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds TSOP-6 AEC-Q101 Qualified",
+  "pkg": "SOP-6",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SQ3427EV-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -60Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ3460EV-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 8A 3.6W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ3495EV-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 30-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4005EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -12Vds 8Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4064EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 60Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4153EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -12Vds 8Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4182EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 30Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4401CEY-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 40-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4401EY-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 17.3A 7.14W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "SQ4435EY-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-Channel 30V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4470EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 16A 7.1W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4483BEEY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET P-Channel 30V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4483EY-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -30Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4840EY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET  SQ48",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQ4917CEY-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET DUAL P-CHANNEL 60-V (D-S) 175C MOSFE",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ4946CEY-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET DUAL N-CHANNEL 60-V (D-S) 175C MOSFE",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQ7415AEN-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET  SQ74",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQA401CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA401EEJ-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET -20V Vds; +/-8V Vgs PowerPAK SC-70-6L",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA407CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA410CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20v 7.8amp AEC-Q101",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA410EJ-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 7.8A 13.6W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA413CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA446CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 20-V (D-S) 175C AEC-Q101",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA470CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 30-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA470EEJ-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds; +/-12V Vgs PowerPAK SC-70-6L",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA470EJ-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V PowerPAK SC-70 AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA602CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQA604CEJW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD25N06-22LGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 25A 62W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD40020ELGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 40-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD40052ELGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 40-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD40N10-25GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET  SQD7",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD40P10-40LGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET -100V -30A 136W AEC-Q101 Qualified",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD50N04-4M5LGE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  SQD1",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SQD50N04-5M6GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 40V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD50N06-09LGE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 50A 136W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD50N10-8M9LGE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 50A 45watt AEC-Q101 Qualified",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQD50P06-15LGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 50A 136W AEC-Q101 Qualified",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ403BEEP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -30Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ411EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -12V Vds -60A Id AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ444EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 40V Vds AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ446EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 40Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ459EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -60Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ474EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 100Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ479EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P Ch -80Vds 20Vgs AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ868EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Ch 40V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ940EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 15A AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ980AEP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Channel 75V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJ992EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Channel 60V AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJA04EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 60V Vds PowerPAK AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJA12EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 100-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJA42EP-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET Nch 40V Vds 20V Vgs PowerPAK SO-8L",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQJB90EP-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Ch 80V Vds AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQM120P06-07LGE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 60 V 120A 375 W AEC-Q101 Qualified",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS180ENW-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS182ELNW-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS405CENW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CHANNEL 12-V (D-S) 175C AEC-Q101",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS411ENW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -40V Vds 20V Vgs POWERPAK 1212-8W",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS420EN-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 20V 8A 18W AEC-Q101 Qualified",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQS482ENW-T1GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 30V Vds -/+20V Vgs PowerPAK 1212-8W",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SQSA84CENW-T1GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SR1UARU",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 CONDITIONING & INTERFACES",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SRK2000DTR",
+  "brand": "STMicroelectronics",
+  "category": "栅极驱动器",
+  "description": "栅极驱动器 Synch Rectifier Dual Smart Driver LLC",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SRK2001ATR",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) Adaptive synchronous rectification controller for LLC resonant converter",
+  "pkg": "SSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SRK2001TR",
+  "brand": "STMicroelectronics",
+  "category": "专业电源管理 (PMIC)",
+  "description": "专业电源管理 (PMIC) Adaptive synchronous rectification controller for LLC resonant converter",
+  "pkg": "SSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS12-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 20 Volt",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS14-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 40 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS14HE3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器  SS14",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "SS16-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 60 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS1H10-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 100 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS1H9-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 90 Volt 1.0 Amp 50 Amp IFSM",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS22-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 20 Volt",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS24-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 40 Volt",
+  "pkg": "DO-214AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS26-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 60 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS26SHE3B/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60V Sctky Bar Rectfr SMA (DO-214AC)",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS2FH10HM3/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 If 2A Vrrm 100V AEC-Q101 Qualified",
+  "pkg": "DO-219AB(SMF)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS2H10-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 100 Volt",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS34-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 40 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS36-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 60 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS3P3-M3/84A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 30 Volt 50 Amp IFSM",
+  "pkg": "DO-220AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS3P6-M3/84A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60volts 3.0 Amp 45 Amp IFSM",
+  "pkg": "DO-220AA(SMP)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS3P6L-M3/86A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 60 Volt",
+  "pkg": "TO-277A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS5P10-M3/86A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp100 Volt",
+  "pkg": "TO-277A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS5P10HM3A/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5A 100V SM Schottky Rect",
+  "pkg": "TO-277A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS5P5-M3/86A",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 50 Volt",
+  "pkg": "TO-277A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSA24-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 40 Volt",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSA34-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 40 Volt",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSB43L-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 4A, 30V, SMB, SM SCHOTTKY RECT.",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": "New at Mouser"
+ },
+ {
+  "pn": "SSB44-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 4.0 Amp 40 Volt",
+  "pkg": "DO-214AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSC54-E3/57T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 40 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST2222AT116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 40V 0.6A",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST2907AHZGT116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP SOT-23 -0.6A -60V VCEO",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST2907AT116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 60V 0.6A",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST3904T116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) 40V 20MA",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST3906T116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) 40V 200MA",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST4401T116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN 40V 0.6A",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SST4403T116",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 40V 0.6A",
+  "pkg": "SOT-23-3",
   "lifecycle": ""
  }
 ]
