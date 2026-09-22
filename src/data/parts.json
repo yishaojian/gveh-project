@@ -2562,24 +2562,24 @@
  {
   "pn": "BD33FA1FP3-ZTL",
   "brand": "ROHM",
-  "category": "Regulator",
-  "description": "低压差稳压器 1A 25-6 LDO 100mA Industrial SOT89-3K",
-  "pkg": "SOT89-3K",
+  "category": "线性稳压器(LDO)",
+  "description": "3.3V 100mA 25V",
+  "pkg": "SOT-89-3K",
   "lifecycle": ""
  },
  {
   "pn": "BD33GA5WEFJ-E2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 500mA Fixed Output LDO Regulator",
+  "category": "线性稳压器(LDO)",
+  "description": "3.3V 500mA 14V",
   "pkg": "HTSOP-J8-EP",
   "lifecycle": ""
  },
  {
   "pn": "BD33IA5MEFJ-ME2",
   "brand": "ROHM Semiconductor",
-  "category": "低压差稳压器",
-  "description": "低压差稳压器 IC Pwr Linear Reg Single Output LDO",
+  "category": "线性稳压器(LDO)",
+  "description": "800mV~4.5V 500mA 5.5V",
   "pkg": "HTSOP-J8-EP",
   "lifecycle": "Not Recommended for New Designs"
  },
@@ -35198,5 +35198,4005 @@
   "description": "双极晶体管 - 双极结型晶体管(BJT) PNP 40V 0.6A",
   "pkg": "SOT-23-3",
   "lifecycle": ""
+ },
+ {
+  "pn": "ST13003-K",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) High voltage Fast-switching NPN",
+  "pkg": "SOT-32-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST13005",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Hi-Volt Fast Sw",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST13007D",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) High voltage fast-switching NPN power transistor",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST13009",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) HV fast-switching NPN power trans",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "ST1480ABDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Trancvr Driver/Recvr",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1480ACDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Trancvr Driver/Recvr",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S06APUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Synch rectification inhibit 1.5A 1.5",
+  "pkg": "DFN-6(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S09IPUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2A 1.5 MHz PWM Step Down Switch Reg",
+  "pkg": "DFN-6D",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S09PUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 2A 1.5 MHz PWM Step Down Switch Reg",
+  "pkg": "DFN-6D",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S12GR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 SYNCH RECT W/ENABLE STEP-DOWN REG 1.7",
+  "pkg": "TSOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S32PUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4A DC 2.8V to 5.5V 0.8V 1.5MHz POR",
+  "pkg": "VFQFPN-8L(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S40IPUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4A Peak Step-Down 4.0V to 18V 850 kHz",
+  "pkg": "VFQFPN-8L(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST1S50PUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 4 A Monolithic synchronous step-down converter with high efficiency at light loa",
+  "pkg": "VFDFPN-10(3x3)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "ST202EBDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 5V 2Driver/2Receiver",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST232BDR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC TRANSCEIVER FULL 2/2 16SO",
+  "pkg": "16-SOIC (0.154\", 3.90mm Width)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST2378ETTR",
+  "brand": "STMicroelectronics",
+  "category": "转换 - 电压电平",
+  "description": "转换 - 电压电平 8-Bit Dual Sup Trans",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST25DV04K-IER6S3",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 Dynamic NFC/RFID tag IC with 4-Kbit EEPROM, and fast transfer mode capability",
+  "pkg": "SOIC-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "ST25DV04K-JFR6D3",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 Dynamic NFC/RFID tag IC with 4-Kbit EEPROM, and fast transfer mode capability",
+  "pkg": "UDFN-12-EP(3x3)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "ST25DV64K-IER6S3",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 Dynamic NFC/RFID tag IC with 64-Kbit EEPROM, and fast transfer mode capability",
+  "pkg": "SO-8",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "ST25R3911B-AQFT",
+  "brand": "STMicroelectronics",
+  "category": "NFC/RFID标签和应答器",
+  "description": "NFC/RFID标签和应答器 High performance HF reader / NFC initiator with 1.4 W supporting VHBR and AAT",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST3232BDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 Lo Power 2Drvr/2Rcvr",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST3232EBDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232接口集成电路 Lo Power 2Drvr/2Rcvr",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST3485EBDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC 3.3 V Powered, 15 kV ESD protected, up to 12 Mbps RS-485/RS-422 transceiver",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST3485ECDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Trancvr Driver/Recvr",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST3485EIDT",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC 3.3 V Powered, 15 kV ESD protected, up to 12 Mbps RS-485/RS-422 transceiver, [-4",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485BDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485CDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485EBDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485ECDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485ERBDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST485EXDR",
+  "brand": "STMicroelectronics",
+  "category": "RS-422/RS-485 接口 IC",
+  "description": "RS-422/RS-485 接口 IC Hi-Spd Lo Pwr Trans",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST5N95K5D7",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "ST5N95K5D7",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST62T01CB6",
+  "brand": "STMicroelectronics",
+  "category": "8位微控制器 -MCU",
+  "description": "8位微控制器 -MCU OTP EPROM 2K No Intf",
+  "pkg": "DIP-16",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ST62T60CB6",
+  "brand": "STMicroelectronics",
+  "category": "8位微控制器 -MCU",
+  "description": "8位微控制器 -MCU OTP EPROM 4K SPI",
+  "pkg": "DIP-20",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ST62T65CM6",
+  "brand": "STMicroelectronics",
+  "category": "8位微控制器 -MCU",
+  "description": "8位微控制器 -MCU OTP EPROM 4K SPI",
+  "pkg": "SO-28",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ST662ABD-TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.0 to 12V DC-DC Cnv",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ST662ACD-TR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 5.0 to 12V DC-DC Cnv",
+  "pkg": "SOIC-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "ST715M25R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 ST715xx high Volt 85 mA LDO",
+  "pkg": "SOT-23-5",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "ST715M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 HI INPUT VOLTAGE 85mA LDO LINEAR REG",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST730MR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 300 mA, 28 V low-dropout voltage regulator, with 5uAA quiescent current",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST77N65M5D29182",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "ST77N65M5D29182",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ST8024CDR",
+  "brand": "STMicroelectronics",
+  "category": "智能卡接口IC",
+  "description": "智能卡接口IC Smartcard 3V or 5V",
+  "pkg": "SO-28-300mil",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "ST8024LCTR",
+  "brand": "STMicroelectronics",
+  "category": "智能卡接口IC",
+  "description": "智能卡接口IC Smart card interface 3V or 5V 26 MHz",
+  "pkg": "TSSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STA309A13TR",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 8-CH DDX Digital Audio 100 dB 1W",
+  "pkg": "TQFP-64",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STA540",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 4-CH AB Audio AMP 4 X 13 W Dual/Quad",
+  "pkg": "Multiwatt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB10N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 950 V, 0.65 Ohm typ., 8 A MDmesh K5 Power MOSFET in a D2PAK package",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB10NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 10 Amp Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB11NM60T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 11 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB11NM80T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 11 Amp Power MDmesh",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB12NK80ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 10.5A Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB12NM50T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 12 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB13007DT4",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN power transistor",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB13N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 800V 0.37Ohm 12A MDmesh K5",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB140NF75T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 75 Volt 120 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB14NK50ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 14 Amp Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB150NF55T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 55 Volt 120 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB15810",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET D2PAK",
+  "pkg": "D2PAK",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "STB15N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 0.3Ohm typ MDmesh K5 14A",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB160N75F3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 75V 3.5mOhm N-Channel",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB18N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.255Ohm 13A MDmesh M2",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB18NF30",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 330V 18A MOS STripFET II D2PAK",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB20N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 18A MDmesh M5 0.19Ohm",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB20N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 0.275 Ohm 17.5A MDmesh K5",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB20NM60T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 20 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB21NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-ch 500 Volt 17Amp Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB21NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 17A FDMesh II",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB22N60DM6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 200 mOhm typ., 15 A MDmesh DM6 Power MOSFET in a D2PAK package",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB23NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.150 Ohm 19.5A FDmesh II MOS",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB24NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.168 Ohm 17A Mdmesh II",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB25N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 0.19 Ohm 19.5A MDmesh K5",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB25NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 21A FDMesh II",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB270N4F3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 40V Pwr Mosfet",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB27NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch Power Mosfet 600V STripFET D2PAK",
+  "pkg": "TO-263-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STB28NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.135 21A MDmesh II",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB28NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Nchnl 600 V 0120 Ohm typ 24 A Pwr MOSFET",
+  "pkg": "D2PAK(TO-263)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB30N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET N-CH 650V",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB30NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 35 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB33N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.108 Ohm typ., 26 A MDmesh M2 Power MOSFET in D2PAK package",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB34NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch Power Mosfet 600V 0.097 Ohm 29A",
+  "pkg": "TO-263-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STB35N65DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 93 mOhm typ., 32 A MDmesh DM2 Power MOSFET in a D2PAK package",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB35NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 40 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB36N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 85 mOhm typ., 30 A MDmesh M6 Power MOSFET in a D2PAK package",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB36NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 0.032Ohm 30A N-Channel",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB36NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Auto-grade N-CH 650V 29A FDmesh II 0.097",
+  "pkg": "TO-GRADE",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB3NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 2.4 A Zener SuperMESH",
+  "pkg": "",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "STB40NF10LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 40 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB45N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.067 Ohm 35A MDmesh M5 MOS",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB46N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 68 mOhm typ., 36 A MDmesh M6 Power MOSFET in a D2PAK package",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB55NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 50 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB60NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 60 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB60NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 60 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB60NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 100V 0.019Ohm 80A",
+  "pkg": "TO-263-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB6N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 1.06Ohm 4.5A MDmesh M2",
+  "pkg": "D2PAK",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STB6NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 6 Amp Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB6NK90ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 5.8 A Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB75NF75LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 75 Volt 75 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB75NF75T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 75V-0.0095ohms 80A",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB7NK80ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 5.2A Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB80NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 80 Amp",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STB9NK50ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 7.2 A Zener SuperMESH",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STBB1-APUR",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 1A High EFF DC DC 1.5MHz 2.0V to 5.5V",
+  "pkg": "DFN-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STBP112CVDJ6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Overvoltage Protecti 28V N-Ch FET 170mOhm",
+  "pkg": "TDFN-8-EP(2x2)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STBP120BVDK6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Protection Device Thermal Shutdown",
+  "pkg": "TDFN-10(2.5x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STBR3012G2-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 High voltage rectifier for bridge applications",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STC3100IST",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC BATT MON LI-ION 1CELL 8MINISO",
+  "pkg": "MiniSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STC3115AIQT",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC BATT MONITOR 10DFN",
+  "pkg": "DFN-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STC4054GR",
+  "brand": "STMicroelectronics",
+  "category": "电池管理",
+  "description": "电池管理 800mA Linear Li Ion batery chargr",
+  "pkg": "TSOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STCC2540IQTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 USB Charging Cntlr w/ Intg Pwr Switch",
+  "pkg": "VFQFPN-16(2.9x2.9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STCS1APHR",
+  "brand": "STMicroelectronics",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC 1.5 A Max Const LED Driver",
+  "pkg": "SO-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STCS1PHR",
+  "brand": "STMicroelectronics",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC 1.5 A max LED driver",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD100N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 0.0068mOhm 80A STripFETVII 120",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD10LN80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 550 mOhm typ., 8 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD10N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 440 mOhm typ., 8 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD10NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 10 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD10NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V Mdmesh 10A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD10P6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 60V 0.15Ohm 10A STripFET VI DeepGat",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD11N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 370 mOhm typ., 10 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STD11N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 500 mOhm typ., 8 A MDmesh M6 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD11N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.60 Ohm typ., 7 A MDmesh M2 Power MOSFET in DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD11NM65N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.425Ohm 11A pwr MDMesh II",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STD12N50DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 500 V, 0.299 Ohm typ., 11 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD12N60DM2AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 600 V, 370 mOhm typ., 10 A MDmesh DM2 Power MOSFET in",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD12N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.395 Ohm typ., 9 A MDmesh M2 Power MOSFET in DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD12NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 12 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD12NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 12 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD13N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.310 Ohm typ., 11 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD13N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.35Ohm 11A Mdmesh M2",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD13N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 370 mOhm typ., 10 A MDmesh M2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD13NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 500 V, 0.285 typ., 12 A MDmesh II Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": "Factory Special Order"
+ },
+ {
+  "pn": "STD13NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 11 Amp Power MDmesh",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STD14NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.246 ohm 12 A MDmesh II",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD15N50M2AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 500 V, 0.336 Ohm typ., 10 A MDmesh M2 Power MOSFET in",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD16N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 280 mOhm typ., 12 A MDmesh M2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD16N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 Volt 12 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD16NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 16 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD16NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 60V 0.060 Ohm 16A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD16NF25",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 250V Pwr Mosfet",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD17NF25",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET NCh 250V 0.165mOhm 17A MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD18N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.198 Ohm 15 A MDmesh M5",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD1NK60T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 1.0Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD1NK80ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 V 13 Ohms Zener SuperMESH 1A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD20NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 60V 0.032 Ohm 24A STripFET II",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD20NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 24 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD20NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD25NF10LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 25 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD25NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 25 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD25NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 200V 0.10Ohm 18 A StripFET FET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD2HNK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 600V Zener SuprMESH 4.4 A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD2N105K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1050 V, 6 Ohm typ., 1.5 A MDmesh K5 Power MOSFET in DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD2N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 620V 3 Ohm 2.2A SuperMESH 3",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD2NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 1000V Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD2NK90ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 2.1Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD30NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 35 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD30NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 60 V",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD30PF03LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 30 Volt 24 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD35NF06LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 35 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD35NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 35 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD35P6LLF6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-channel 60 V, 0.025 Ohm typ., 35 A STripFET F6 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD3N65M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 1.4 Ohm typ., 3.5 A MDmesh M6 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STD3NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Hi Vltg NPN Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD3NK50ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 2.3Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD3NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 2.4 A Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD3NK80ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 2.5A Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD3NK90ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 3.0Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD40NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET AC Pwr switch",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD40NF3LLT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 30 Volt 40 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD44N4LF6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 40V 8.9 mOhm 44A STripFET VI Deep",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD45N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Nchanl 100V 0013 Ohm typ 45 A Pwr MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD4LN80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 2.1 Ohm typ., 3 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD4N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 1.90 Ohm typ., 3 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD4NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 1000 V, 5.4 Ohm typ., 2.2 A SuperMESH Power MOSFET in",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD4NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 4 Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD4NK80ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 3.0Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5N20LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 200 Volt 5 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5N52K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 525 V 4.4 A SuperMESH3",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5N95K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 950 VDSS <3.5 RDS 4A ID 90W Pw",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 950V 2Ohm typ 3.5A Zener-protected",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NK40Z-1",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 400 Volt 3.0 A",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NK40ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 400 Volt 3 Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NK50ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 4.4 A Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NK60ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 5 Amp Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NM50AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 500 V, 700 mOhm typ., 7.5 A MDmesh Power MOSFET in a",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD5NM50T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 7.5 A",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD5NM60T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 5 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD60NF06T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 60 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD60NF55LT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 55 Volt 60 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.95 Ohm typ., 5 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 620V 1.1 Ohms 5.5A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 1.2 Ohm typ., 4 A MDmesh M2 Power MOSFET in DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 1.3 Ohm typ., 4.5 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 1 Ohm 9A Zener MDmesh K5",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD6NF10T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 6 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD6NK50ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 500V 0.98 OHM 5.6A",
+  "pkg": "TO-252-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STD70N10F4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 100V-0.015ohms 60A",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD7LN80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.95 Ohm typ., 5 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7N52K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 525 V 6.3 A DPAK",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7N60",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.86Ohm 5A MDmesh M2",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.78 Ohm typ., 6 A MDmesh DM2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.98 Ohm typ., 5 A MDmesh M2 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 720 mOhm typ., 7 A MDmesh K5 Power MOSFET in a DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7NK40ZT4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 400 Volt 5.4 A Zener SuperMESH",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V5 A 0.84 Ohm DPAK",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7NM80",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 800V-0.95ohms Mdmesh 6.5A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD7NS20T4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 200 Volt 7 Amp",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STD80N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 0.0085Ohm typ 70A STripFET VII",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD80N4F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 40V 80A STripFET VI DeepGate",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD8N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 0.76 Ohm 6A MDmesh K5",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD8NF25",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 250 V 318 mOhm 8 A STripFET II",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD9N65DM6AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 650 V, 365 mOhm typ., 9 A MDmesh DM6 Power MOSFET in",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD9N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.79 Ohm typ., 5 A MDmesh M2 Power MOSFET in DPAK package",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STD9NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 500V 0.47 Ohm 7.5A",
+  "pkg": "TO-252-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF10N60",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 440 mOhm typ., 8 A MDmesh DM2 Power MOSFET in a TO-220FP packag",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF10N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.56Ohm 7.5A MDmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF10N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.470 Ohm typ., 9 A MDmesh K5 Power MOSFET in a TO-220FP packag",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF10NK60Z045Y",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "STF10NK60Z045Y",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF10P6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-CH 60V 0.13Ohm 10A STripFET VI",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF11N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 370 mOhm typ., 10 A MDmesh DM2 Power MOSFET in a TO-220FP packa",
+  "pkg": "TO-220FP",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF11N60M2-EP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.550 Ohm typ., 7.5 A MDmesh M2 EP Power MOSFET in a TO-220FP p",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF11NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET N-CH 500V",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF11NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 600V-0.37ohms FDMesh 10A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STF11NM65N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 650V Pwr Mosfet",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF11NM80",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 11 Amp Power MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF12N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET N-CH 650V",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF12NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 V 0.53 Ohm Zener SuperMESH 10A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF13N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.35Ohm 11A Mdmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF13N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 370 mOhm typ., 10 A MDmesh M2 Power MOSFET in a TO-220FP packag",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF13N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 V 0.37 Ohm 12 A Zener-protect",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF13NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 11A MDMESH Power MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF13NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.32Ohm 11A FDMesh II",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF14NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.246 Ohm 12A Mdmesh 2 PWR MO",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF15NM65N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 650V Pwr Mosfet",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF16N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 280 mOhm typ., 15 A MDmesh K5 Power MOSFET in a TO-220FP packag",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF17N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 620V 0.34 Ohm 15A SuperMESH 3 2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF18N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.255Ohm 13A MDmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF18N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.275 Ohm typ., 12 A MDmesh M2 Power MOSFET in a TO-220FP packa",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF18NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V 0.27ohm 13A MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF20NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF20NM65N-Y11",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "STF20NM65N-Y11",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF21N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V 0.175 17A MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF22NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V 0.190 16A MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF24N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.175 Ohm typ., 18 A MDmesh DM2 Power MOSFET in TO-220FP packag",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF24N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.168Ohm 18A MDmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF24N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.185 Ohm typ., 16 A MDmesh M2 Power MOSFET in TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF24NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-ch 600 V 0.168 Ohm 17 A MDmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF26NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V 20 A Mdmesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF28N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.13 Ohm typ., 21 A MDmesh DM2 Power MOSFET in a TO-220FP packa",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF28NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.135 Ohm MDmesh II Power MO",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF2LN60K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 4ohm 2A SuperMESH3 FET",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "STF2N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 620V 3 Ohm 2.2A SuperMESH3",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF2N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 800V 3.5Ohm typ 2A Zener-protected",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF33N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.108Ohm 26A MDmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF33N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.117 Ohm typ., 24 A MDmesh M2 Power MOSFET in TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF36N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 85 mOhm typ., 30 A MDmesh M6 Power MOSFET in a TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF3N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 620V-2.2ohms 2.7A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF3NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 24V 120A Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF3NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 2.5Amp Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF40NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF42N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 65V 33A MDMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF4N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 800V 2.1Ohm 3A Zener-protected",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF4N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 1.90 Ohm typ., 4 A MDmesh K5 Power MOSFET in a TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF5N52K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 525V 1.2 Ohm 4.4A SuperMESH 3",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF5N95K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 3 Ohm 4A Zener SuperMESH3",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF5NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 1000 Volt 3.5A Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF6N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 1.06Ohm 4.5A MDmesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF6N65K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 1.1 Ohm 5.4A SuperMESH3",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF6N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 1.2 Ohm typ., 4 A MDmesh M2 Power MOSFET in TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF6N68K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STF6N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 1 Ohm 9A Zener MDmesh K5",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF7N52DK3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 525V 0.95 Ohm 6A SuperFREDmesh3",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF7NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 V 4.7 A MDmesh 2nd Gen",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF8N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 550 mOhm typ 8 A MDmesh DM2 Power MOSFET",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF8NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.73 Ohm 5A MDmesh II PWR MO",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF8NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET NCH 6V 7A FDMESH FDMesh",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF9HN65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STF9N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.72Ohm 5.5A MDMesh M2",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STF9NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 900V-1.1ohms Zener SuperMESH 8A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFH18N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 255 mOhm typ., 13 A MDmesh M2 Power MOSFET in a TO-220FP wide c",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFI4N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 620 V 1.7 Ohm 3.8 A, SuperMESH3",
+  "pkg": "TO-281-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STFI6N65K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 V 1.1 Ohm 5.4 A SuperMESH3",
+  "pkg": "TO-281-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STFI9N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET",
+  "pkg": "TO-281-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STFU13N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.37 Ohm typ., 12 A MDmesh K5 Power MOSFET in TO-220FP ultra na",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFU14N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.400 Ohm typ., 12 A MDmesh K5 Power MOSFET in a TO-220FP ultra",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFU15N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 300 mOhm typ., 14 A MDmesh K5 Power MOSFET in TO-220FP ultra na",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFU16N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.32 Ohm typ 11 A MDmesh M2 Power MOSFET in TO-220FP ultra narr",
+  "pkg": "TO-220FP",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "STFU28N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.15 Ohm typ., 20 A MDmesh M2 Power MOSFET in TO-220FP ultra na",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFW12N120K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1200 V, 0.62 Ohm typ., 12 A MDmesh K5 Power MOSFET in TO-3PF packge",
+  "pkg": "TO-3PF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFW3N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1500 V 2.5 A PowerMESH",
+  "pkg": "TO-3PF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFW45N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.067 Ohm typ 35 A, MDmesh M5 Power MOSFET in TO-3PF package",
+  "pkg": "TO-3PF",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STFW4N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1500 V 4 A PowerMESH",
+  "pkg": "TO-3PF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STFW8N120K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1200 V, 1.65 Ohm typ., 6 A MDmesh K5 Power MOSFET in a TO-3PF package",
+  "pkg": "TO-3PF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STG1218IQT",
+  "brand": "STMicroelectronics",
+  "category": "开关稳压器",
+  "description": "开关稳压器 Dual supply, quad SPDT switch, 1.8V and 3.3V logic input compatible",
+  "pkg": "VFQFPN-20(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STG3157CTR",
+  "brand": "STMicroelectronics",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC Low Volt/Low-On SPDT",
+  "pkg": "SOT-323-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STG719STR",
+  "brand": "STMicroelectronics",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC Lo-Volt SPDT Switch",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGB10NC60KDT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N-channel MOSFET",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGB19NC60HDT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N Ch 600V 19A",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGB19NC60KDT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 20 A - 600 V - short circuit rugged IGBT",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGD10NC60KDT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N Ch 600V 10A",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGD18N40LZT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) EAS 180 mJ-400 V clamped IGBT",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGD6NC60HDT4",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) PowerMESH&#34 IGBT",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGF10NB60SD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N-Ch 600 Volt 10 Amp",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGF15H60DF",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) Trench gate H series 600V 15A HiSpd",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGIB15CH60TS-L",
+  "brand": "STMicroelectronics",
+  "category": "IGBT 模块",
+  "description": "IGBT 模块 SLLIMM 2nd,3phs 15A,600V shrt-crct",
+  "pkg": "SDIP2B-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGIPN3H60AT",
+  "brand": "STMicroelectronics",
+  "category": "IGBT 模块",
+  "description": "IGBT 模块 SLLIMM nano IPM, 3 A, 600 V, 3-phase inverter bridge IGBT",
+  "pkg": "DIP-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGIPQ3H60T-HZ",
+  "brand": "STMicroelectronics",
+  "category": "IGBT 模块",
+  "description": "IGBT 模块 SLLIMM nano 2nd series IPM, 3-phase inverter, 3 A, 600 V, IGBT",
+  "pkg": "N2DIP-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGP10NC60KD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) PowerMESH&#34 IGBT",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGP19NC60HD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 19 A - 600 V very fast IGBT",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGP19NC60KD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 20 A - 600 V - short circuit rugged IGBT",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGP40V60F",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 40A Trench Gate 1.8V Vce IGBT",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STGP7NC60HD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) IGBT",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW19NC60HD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 19 A - 600 V Very fast IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW20NC60VD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N-Ch 600 Volt 30 Amp",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW30NC60KD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 30A 600v IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW30NC60WD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) PowerMESH&#34 IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW30V60F",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 30A Hi Spd TrenchGate FieldStop",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STGW39NC60VD",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) N-CHANNEL MFT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW40V60DF",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 40A High Speed Trench Gate IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGW40V60F",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 40A Trench Gate 1.8V Vce IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STGW60V60DF",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 60A High Speed Trench Gate IGBT",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGWA75M65DF2",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) Trench gate field-stop IGBT M series, 650 V 75 A low loss",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STGWT40H65DFB",
+  "brand": "STMicroelectronics",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 650V 40A HSpd trench gate field-stop IGB",
+  "pkg": "TO-3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STH10N80K5-2AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 800 V, 0.60 Ohm typ., 8 A MDmesh K5 Power MOSFET in a",
+  "pkg": "H2PAK-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STH310N10F7-2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 100V 2.1mOhm 180A STripFET VI",
+  "pkg": "H2PAK-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STI6N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 1 Ohm 9A Zener 5 Power",
+  "pkg": "TO-262-3",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "STL100N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 0.0062 Ohm 19A STripFET VII DG",
+  "pkg": "PDFN-8(5.2x6.2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL10N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.85 Ohm typ., 4.5 A MDmesh M2 Power MOSFET in a PowerFLAT 5x6",
+  "pkg": "PQFN-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL110N4F7AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 40 V, 3.3 mOhm typ., 108 A STripFET F7 Power MOSFET i",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL11N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STL12P6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-CH 60V 0.13Ohm 12A STripFET VI",
+  "pkg": "PowerFLAT-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL130N6F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 60 V, 3 mOhm typ., 130 A STripFET F7 Power MOSFET in a PowerFLAT 5x6 p",
+  "pkg": "PowerFLAT-5x6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL140N4LLF5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 40V 0.00275 Ohm 32A STripFET V 40V",
+  "pkg": "DFN-8(5x6)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STL140N6F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 60 V, 0.0024 Ohm typ., 140 A STripFET F7 Power MOSFET in a PowerFLAT 5",
+  "pkg": "PDFN-8(5x5.8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL150N3LLH5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 30 V PowerFLAT",
+  "pkg": "PowerFLAT(5x6)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STL16N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.29 Ohm typ., 8 A MDmesh M2 Power MOSFET in a PowerFLAT 5x6 HV",
+  "pkg": "PowerFlat-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL18N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.290 Ohm typ., 8 A MDmesh M2 Power MOSFET in a PowerFLAT 5x6 H",
+  "pkg": "VDFN-8-Power",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL22N60DM6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 220 mOhm typ., 13 A MDmesh DM6 Power MOSFET in a PowerFLAT 8x8",
+  "pkg": "",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STL36N55M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 550V 0.066Ohm 31A MDmesh M5",
+  "pkg": "VDFN-8-Power",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STL36N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 91 mOhm typ., 25 A MDmesh M6 Power MOSFET in a PowerFLAT 8x8 HV",
+  "pkg": "PowerVDFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL3NK40",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 400 V, 4.5 Ohm typ., 0.43 A SuperMESH(TM) Power MOSFET in a PowerFLAT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL3NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 1.5Ohm 2.2A MDMesh II MOS",
+  "pkg": "PowerFLAT-8(3.3x3.3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL40DN3LLH5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Ch 30V 11A 0.016 Ohm STripFET V",
+  "pkg": "PowerFLAT-5x6-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL42P4LLF6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-channel 40 V, 0.0155 Ohm typ., 42 A STripFET F6 Power MOSFET in a PowerFLAT 5x",
+  "pkg": "PowerFLAT(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL42P6LLF6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-channel 60 V, 0.023 Ohm typ., 42 A STripFET F6 Power MOSFET in a PowerFLAT 5x6",
+  "pkg": "PowerFLAT-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL45N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 V 0.075 Ohm 22.5 A Mdmesh",
+  "pkg": "PowerFLAT-HV(8x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL60P4LLF6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-channel -40 V, 0.0115 Ohm typ., -60 A STripFET F6 Power MOSFET in a PowerFLAT",
+  "pkg": "PowerFlat-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STL8DN6LF3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Dual N-Ch 60V 7.8A 22.5mOhm STripFETIII",
+  "pkg": "PowerFLAT-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLD40DPUR",
+  "brand": "STMicroelectronics",
+  "category": "LED照明驱动器IC",
+  "description": "LED照明驱动器IC White LED pwr supply large dis backlight",
+  "pkg": "QFN-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLED316SMTR",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC INTERFACE SPECIALIZED 24SO",
+  "pkg": "SO-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLQ015M28R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 150 mA - ultra low quiescent current linear voltage regulator",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLQ015M30R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 150 mA - ultra low quiescent current linear voltage regulator",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLQ015M33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 150 mA - ultra low quiescent current linear voltage regulator",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLQ020PUR",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200 mA ultra-low quiescent current LDO",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STLQ50C33R",
+  "brand": "STMicroelectronics",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 50mA Supply current Lo drop linear reg",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1001RWX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 RESET CIRCUIT",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1001SWX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 RESET CIRCUIT",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1061N21WX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Lo Pwr Vltg Detector",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1061N25WX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Lo Pwr Vltg Detector",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1061N29WX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 2.9V Active Lo Open Drain Voltage Detect",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1815SWX7F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 2.88VRST Active Low Push-Pull Reset",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM1816TWX7F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 3.06VRST Active Low Open Drain reset",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F100CBT6BTR",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU Value line ARM Cortex-M3 MCU 128Kb",
+  "pkg": "LQFP-48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F103C8T6",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU 32BIT Cortex M3 64KB 20KB RAM 2X12 ADC",
+  "pkg": "LQFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F205RET6",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU 32BIT ARM Cortex M3 Connectivity 512kB",
+  "pkg": "LQFP-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F205RGT6TR",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU STM32F20 High-Perf M3 1Mb 120 MHz MCU",
+  "pkg": "LQFP-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F750Z8T6",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU High-performance & DSP FPU, Arm Cortex-M7 MCU 64 Kbyte of Flash 216 MHz CPU, Art",
+  "pkg": "LQFP-144",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32H750XBH6",
+  "brand": "STMicroelectronics",
+  "category": "ARM微控制器 - MCU",
+  "description": "ARM微控制器 - MCU High-performance & DSP DP-FPU, Arm Cortex-M7 MCU 128KBytes of Flash 1MB RAM, 480",
+  "pkg": "TFBGA-265",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6315RGW13F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Open Drain Microprocessor Reset",
+  "pkg": "SOT-143-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6510WCACDG6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Dual Push-Button Smart Reset Adjust",
+  "pkg": "TDFN-8(2x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6519APAAUB6F",
+  "brand": "STMicroelectronics",
+  "category": "Resistor",
+  "description": "IC SUPERVISOR SMART RESET 6UDFN",
+  "pkg": "6-UDFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6779TWB6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Dual triple ultra Lo Vltg supervisor",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6822RWY6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Supervisor reset",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM6822TWY6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 SUPERVISOR WATCHDOG",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM706PM6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 4.38V Reset Suprvsr",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM809LWX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 4.63V Reset 140ms",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM809MWX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 4.38V Reset 140ms",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM810MWX6F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 4.38V Reset 140ms",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPE811QTR",
+  "brand": "STMicroelectronics",
+  "category": "接口-I/O扩展器",
+  "description": "接口-I/O扩展器 8-BIT PORT EXPANDER W/ADV TOUCHSCREEN",
+  "pkg": "QFN-16",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STMPS2141MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2141STR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Enhanced single channel power switches",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2151MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2151STR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2161MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2161STR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2171MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2171STR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 SGL CHNL PWR SWTCH",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2242MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 Enhanced dual ch Power Switches",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STMPS2252MTR",
+  "brand": "STMicroelectronics",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 100m Ohm High-Side Mosfet Dual Switch",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN1HNK60",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 600V 8Ohm 1A N-Chnnl Zener SuperMESH",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN1NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 0.25A Zener SuperMESH",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN1NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET Zener SuperMESH",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN3N45K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 450V 3.2 ohm 1.8 A SuperMESH3",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN3NF06L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 4 AMP",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN3P6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 60 V, 0.13 Ohm 3 A STripFET VI",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN4NF20L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 200V 1.1 Ohm 1A LGC STripFET II",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN790A",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) POWER MOSFET",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN93003",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) High voltage fast-switching PNP power transistor",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STN9360",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Hi Vltg fast-switch PNP pwr transistor",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP08CP05MTR",
+  "brand": "STMicroelectronics",
+  "category": "计数器移位寄存器",
+  "description": "计数器移位寄存器 Lo Vltg LoCurent Pwr 8B shift register",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP08DP05MTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 LV 8-BIT CONSTANT CURRENT LED SINK",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP100N8F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 80 V, 0.008 Ohm typ., 100 A, STripFET F6 Power MOSFET in a TO-220 pack",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP105N3LL",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 30V 2.7mOhm 150A STripFET VI",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V .65Ohm typ 8A Zener-protected",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 10 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10NK60ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 10 Amp Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10NK70ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 700V-0.75ohms Zener SuperMESH 8.6A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 9 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10NK80ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 9 Amp Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP10P6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 60V 0.15Ohm 10A pwr MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP110N8F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 80 V, 0.0056 Ohm typ 110 A, STripFET F6 Power MOSFET",
+  "pkg": "TO-220",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP11N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.43 Ohm 9A MDmeshV 710V",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP11NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 10 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP11NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 10A FDMesh II",
+  "pkg": "TO-220-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STP11NM80",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 11 Amp Power MDmesh",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP120NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 120A STripFET II 110A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP12N120K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1200 V, 0.62 Ohm typ., 12 A MDmesh K5 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP12PF06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 60 Volt 12 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP13N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.310 Ohm typ 11 A MDmesh DM2 Power MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP13NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 11 Amp Power MDmesh",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP140NF75",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 75 Volt 120 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP14NK50ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 500V-0.34ohms Zener SuperMESH 14A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP14NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.246 ohm 12 A MDmesh II",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP150N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 0.0036Ohm typ. 110A",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP150N10F7AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive N-channel 100 V, 4.2 mOhm typ., 110 A, STripFET F7 Power MOSFET in a",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP15N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V .0308 Ohm 11A MDmesh V MOS",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP15NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 14A FDMesh II",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP160N75F3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 75V 3.5mOhm 120A N-Channel",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP16CP05MTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 LV 16-BIT LED SINK DRIVER",
+  "pkg": "SO-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CP05TTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 Lo Vltg 16B constant current Led sink",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPC05XTTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 30MHz, 3.3V, 5-100mA LED sink driver",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPC26PTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 LV 16-bit LED Driver 5mA to 90mA 30MHz",
+  "pkg": "QSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPC26TTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 Low voltage 16-bit constant current LED sink driver",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPC26XTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 Low Voltage 16-bit LED Sink Driver",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPS05MTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 Low Voltage 16-bit Constant Auto Save",
+  "pkg": "SO-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16CPS05TTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 Low Voltage 16-bit Constant Auto Save",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16DP05MTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 16-Bit LED Sink w/output error",
+  "pkg": "SOP-24-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 Volt 12 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP16NF06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 16 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP17NF25",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 250V STripFET II Mosfet",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP17NK40ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CHANNEL 400V -.23 Zener SuperMESH 15A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP180N10F3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 3.9 mOhm 180A STripFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP18N55M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 550V 0.18 Ohm 13A Mdmesh M5",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP18N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.260 Ohm typ., 12 A MDmesh DM2 Power MOSFET in a TO-220 packag",
+  "pkg": "TO-220",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP18N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.255Ohm 13A MDmesh M2",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP20N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.168 Ohm 18A Mdmesh V",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP20N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 0.275 Ohm 17.5A MDmesh K5",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP20NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP20NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 17 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP20NM60",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 20 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP21N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V MDMesh M5",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP22NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V 0.190ohm 16A Mdmesh",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP23N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.23 Ohm typ., 16 A MDmesh K5 Power MOSFET in a TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP24DP05BTR",
+  "brand": "STMicroelectronics",
+  "category": "LED显示驱动器",
+  "description": "LED显示驱动器 24-bit shift regstr LED panel displays",
+  "pkg": "TQFP-48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP24N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.175 Ohm typ. 18A MDmesh DM2",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP24N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.168 Ohm 18A Mdmesh M2",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP24NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.168 Ohm 17A Mdmesh II",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP26NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V Mdmesh II Power",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP28NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.135 21A MDmesh II",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP2N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 950V 4.2Ohm typ 2A Zener-protected",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP2NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 2.1Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP30NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 35 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP310N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100V 2.7 mOhm 180A STripFET VII",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP315N10F7",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 100 V, 2.3 mOhm typ., 180 A STripFET F7  Power MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP33N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.110 Ohm typ., 24 A MDmesh DM2 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP33N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 105 mOhm typ., 25 A MDmesh M6 Power MOSFET in a TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP34NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.097 Ohm 29A Fdmesh II FD",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP35N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.094 Ohm typ., 28 A MDmesh DM2 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP3N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 1500V 6Ohm 2.5A N-Channel",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP3NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 3 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP3NK90ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 4.1 Ohm typ., 3 A SuperMESH Power MOSFET in TO-220FP package",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP40N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.087 Ohm typ., 32 A MDmesh M2 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP40NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 50 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP40NF10L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 40 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP40NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP43N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.085 Ohm typ., 34 A MDmesh DM2 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP45N60DM6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.085 Ohm typ., 30 A MDmesh DM6 Power MOSFET in a TO-220 packag",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP4N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PowerMESH MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP4N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 800V 2.1Ohm 3A Zener-protected",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP4NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 4 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP4NK60ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PowerMESH Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP4NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 3.0 A Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP50NF25",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 250V 0.21 15A Pwr MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP55NF06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 55 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP55NF06FP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 55 Amp",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP55NF06L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 55 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5N105K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1050 V, 2.9 Ohm typ., 3 A MDmesh K5 Power MOSFET in TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 1.50 Ohm typ., 4 A MDmesh K5 Power MOSFET in a TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 1000 Volt 3.5A Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 4.4 A Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 4.3 A Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP5NK80ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 4.3 A Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP60NF06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 60 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP60NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP65NF06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel MOSFET",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP6N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 900 V, 0.91 Ohm typ., 6 A MDmesh K5 Power MOSFET in a TO-220 package",
+  "pkg": "TO-220",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP6N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 1 Ohm 9A Zener MDmesh K5",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP6NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 6 Amp Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP6NK60ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 600V Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP6NK90ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 900V-1.56ohms Zener SuperMESH 5.8A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP75NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP75NF75",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 75 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP75NF75FP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 75V-0.0095ohms 80A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
  }
 ]
