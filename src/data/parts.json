@@ -39198,5 +39198,4005 @@
   "description": "MOSFET N-Ch, 75V-0.0095ohms 80A",
   "pkg": "TO-220FP-3",
   "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP7N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-220-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STP7NK80ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 5.2 A Zener SuperMESH",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80N6F6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 60V 110A STripFET VI DeepGATE",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STP80NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 100 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80NF10FP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 100V 0.012 Ohm 30A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80NF12",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 120 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80NF55-06",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 55 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80NF55-08",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 55 Volt 80 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP80NF70",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 68V 0.0082 Ohm 98 A STripFET II",
+  "pkg": "TO-220-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STP8NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 1000 V 1.60 Ohm Zener SuperMESH 6.5",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP8NK80ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 6.2 A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP90NF03L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 30 Volt 90 Amp",
+  "pkg": "TO-220-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STP9NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 7.2 A Zener SuperMESH",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STP9NK60ZFP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 600V-0.85ohms 7A",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPIC6C595TTR",
+  "brand": "STMicroelectronics",
+  "category": "计数器移位寄存器",
+  "description": "计数器移位寄存器 8-Bit Shift Register",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPIC6D595MTR",
+  "brand": "STMicroelectronics",
+  "category": "计数器移位寄存器",
+  "description": "计数器移位寄存器 Power logic 8-BIT",
+  "pkg": "SO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10150CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X5 Amp 150 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10150CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X5 Amp 150 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10170CB-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Hi Vltg Pwr SCHOTTKY RECTIFIER",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10170CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Hi Vltg Pwr SCHOTTKY RECTIFIER",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1045B-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 10 Amp 45 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1045D",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 10 Amp 45 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10H100CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X5 Amp 100 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS10L60CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X5 Amp 60 Volt",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS120MF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Power Schottky Rec 1A 20V 0.41VF",
+  "pkg": "DO-222AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS140A",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 40 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS140Z",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 40 Volt",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1545CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X7.5 Amp 45 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS15H100CB-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X7.5 Amp 100 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS160U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 60 Volt",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1H100AF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100V High Voltage 0.62V Low Leakage",
+  "pkg": "DO-221AC(SMA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1H100U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 100 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1L30A",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 30 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1L30U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 30 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1L40M",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 40 Volt",
+  "pkg": "DO-216AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS1L60A",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 1.0 Amp 60 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20150CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X10 Amp 150 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20170CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Hi Vltg Pwr SCHOTTKY RECTIFIER",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20170CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x10 Amp 170 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20200CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 200V Schottky DC DC 45pF TO220PF 2000V",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20200CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 200V Schottky DC DC 45pF TO220PF 2000V",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20H100CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X10 Amp 100 Volt",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20L25CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X10 Amp 25 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20L45CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Lo drop Pwr Schottky rectifier",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20L60CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X10 Amp 60 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20M100SG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20A 100V",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS20S100CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100V 20A Power Schottky 0.71V Vf",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS2200U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 200V Schottky DC DC 2A 0.58V Vf",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS2H100",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 100 Volt",
+  "pkg": "Ammo Pack",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STPS2H100A",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 100 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS2H100AY",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Automotive High PWR Schottky 100V Vrrm",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS2H100U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 100 Volt",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS2L40U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2.0 Amp 40 Volt 0.34V Vf Low Drop",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30120DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Low drop power Schottky rectifier",
+  "pkg": "Power-FLAT(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30150CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 150 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30150CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 150 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30170CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 HIGH VOLTAGE POWER SCHOTTKY RECTIFIER",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30170DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30 A Vrrm 170 V Vf 0.65 Tj 150c",
+  "pkg": "Power-FLAT(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3030CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x15 Amp 30 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3045CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 45 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3045CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 45 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30H100CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 100 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30H100CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 100 Volt",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30H100DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Pwr Schottky 30A 100VRRM 0.56VF",
+  "pkg": "PowerFLAT5x6-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30H60CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Power Schottky Rectifier",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30L120CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x15A 120V .51Vf Power Schottkey Rec",
+  "pkg": "TO-220FP-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STPS30L45CFP",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x15 Amp 45 Volt",
+  "pkg": "TO-220FP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30L60CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X15 Amp 60 Volt",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS30M60DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Power Schottky REC 30A 60V VRRM 0.385VF",
+  "pkg": "PowerFLAT(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3150U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 150 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3150UF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Pwr SCHOTTKY RECTIFIER",
+  "pkg": "DO-221AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3150UY",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Pwr Schottky 3A 150V VRRM 0.67VF",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS340S",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 40 Volt",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS360AF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 60 V , 3 A Schottky Barrier, Power Schottky",
+  "pkg": "SOD-128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3H100U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 100V Vrrm 3A IF Schottky Barrier",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3H100UF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Power Schottky REC 3A IF 100V Vrrm .68V",
+  "pkg": "DO-221AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3L40UF",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Pwr SCHOTTKY RECTIFIER",
+  "pkg": "DO-221AA(SMB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3L60S",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 60 Volt",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS3L60U",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3.0 Amp 60 Volt",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40150CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 High Junction 60A IF 2 x 20A 150V 0.75 V",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40170CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 HIGH VOLTAGE POWER SCHOTTKY RECTIFIER",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40170CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY RECTIFIER",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40170CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY RECTIFIER",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40H100CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X20 Amp 100 Volt",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS40L45CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X20 Amp 45 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS41H100CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X20 Amp 100 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS41H100CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X20 Amp 100 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS5H100B-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 100 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS5L25B-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 25 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS5L60",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 5.0 Amp 60 Volt",
+  "pkg": "Ammo Pack",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STPS60H100CT",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECTIFIER",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS60SM200CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Dual Schottky 200V 640 mV 2 x 30 A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS61150CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x30 Amp 150 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS61H100CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2x30 Amp 100 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS6M100DEE-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 High Volt Schottky 6A 100V Vrrm 0.64V",
+  "pkg": "PowerFLAT(3.3x3.3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS80170CW",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 SCHOTTKY RECTIFIER",
+  "pkg": "TO247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS80H100CY",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2X40 Amp 100 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STPS8170DEE-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Power Schottky REC 8A 170V 0.66V VF",
+  "pkg": "Power-FLAT(3.3x3.3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS8H100D",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 8.0 Amp 100 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS8H100G-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 8.0 Amp 100 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPS8L30B-TR",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 8.0 Amp 30 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPSC10065DLF",
+  "brand": "STMicroelectronics",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 650 V 10 A power Schottky silicon carbide diode",
+  "pkg": "VDFN-8-Power",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STPSC10H065B-TR",
+  "brand": "STMicroelectronics",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 650 V 10A Schottky silicon carbide DPAK",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPSC10H12D",
+  "brand": "STMicroelectronics",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 1200 V, 10 A High Surge Silicon Carbide Power Schottky Diode",
+  "pkg": "TO-220AC",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STPSC20H065CW",
+  "brand": "STMicroelectronics",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 650 V 20A Schottky silicon carbid TO247",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STPSC2H12B-TR1",
+  "brand": "STMicroelectronics",
+  "category": "碳化硅肖特基二极管",
+  "description": "碳化硅肖特基二极管 1200 V power Schottky silicon carbide diode",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STQ1HNK60R-AP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 7.3 Ohm typ., 1 A SuperMESH PowerMOSFET in TO-92 package",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STQ1NC45R-AP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STQ1NK60ZR-AP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 13 Ohm typ., 0.3 A Zener-protected SuperMESH(TM) Power MOSFET i",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STQ1NK80ZR-AP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 800V 13 Ohm 1A",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STQ2HNK60ZR-AP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 3.5 Ohm typ., 500 mA SuperMESH Power MOSFET in a TO-92 package",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STRVS241X02E",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 Rep Volt Suppressor TVS 241V Ipp 2A",
+  "pkg": "Ammo Pack",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STS1DNC45",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 450 Volt 0.4 A",
+  "pkg": "SO-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STS1NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 0.25A Zener SuperMESH",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STS2DNF30L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 30 Volt 3 Amp",
+  "pkg": "SO-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STS4DNF60L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 60 Volt 4 Amp",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STS4DPF30L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET P-Ch 30 Volt 4 Amp",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STSPIN32F0TR",
+  "brand": "STMicroelectronics",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 Advanced BLDC controller with embedded STM32 MCU",
+  "pkg": "VFQFPN-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STT6N3LLH6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 30V .025Ohm 6A STripFET VI",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1002CB-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2x8 Amp 200 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1003SB-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 300 V, 10 A Ultrafast Diode",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH100W06CW",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 ultrafast 2X50A 600V 0.92VF",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH102A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 200 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH108A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 800 Volt",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH110",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1000 Volt",
+  "pkg": "DO-41",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH110A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1000 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH112A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1200 Volt",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH112U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 1200 Volt",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1210DI",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast recovery high voltage diode",
+  "pkg": "TO-220AC-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH12R06D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 12 Amp 600 Volt",
+  "pkg": "TO-220AC-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1502D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 ULTRAFAST RECOVERY DIODE",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1512G-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1200V Ultrafast 2500V rms 12pF",
+  "pkg": "D2PAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH15AC06CT",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast Recovery 1500V 12pF Diode",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH15L06D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "TO-220AC-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH15L06FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 15 Amp 600 Volt",
+  "pkg": "TO-220FP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH15L06G-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 RECTIFIER Ultrafast Hi Vltg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH15S12D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1200 V, 15 A Ultrafast Boost Diode",
+  "pkg": "TO-220AC-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH16L06CT",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH16R04CT",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Recovery Diode Ultra Fast",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1L06A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600 Volt",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1R02A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast recovery Diode",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1R06A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH1R06U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 1.0 Amp 600 Volt",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2002CFP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2002CT",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2x15 Amp 200 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2003CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2X10 Amp 300 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2003CT",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2X10 Amp 300 Volt",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH208U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2.0 Amp 800 Volt",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH20R04G-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 High Effecientcy Rectifier",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH212S",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 850 VRMS High Voltage",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH212U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 high voltage diode",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2R02A",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Recovery Diode Ultra Fast",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2R02U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 ULTRAFAST RECOVERY",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH2R02UY",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 200V Planar Pt 2A 200V Ultrafast Diode",
+  "pkg": "DO-214AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH3002CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH3003CW",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2x15 Amp 300 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30AC06CPF",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast Recovery 3000V 12pF Diode",
+  "pkg": "TO-3PF",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30L06CG-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 RECTIFIER Ultrafast Hi Vltg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30L06CW",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30L06G-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 RECTIFIER Ultrafast Hi Vltg",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30R02DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast High EFF Recovery Diode",
+  "pkg": "Power-FLAT(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH30R06CW",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2X15 Amp 600 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH310",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 3.0 Amp 1000 Volt",
+  "pkg": "Ammo Pack",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STTH3L06U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH3R02",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Automotive ultrafast rectifier",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH3R06",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 3.0 Amp 600 Volt",
+  "pkg": "Ammo Pack",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STTH3R06S",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 600 V, 3 A Turbo 2 Ultrafast Diode",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH3R06U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 RECTIFIER",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH4R02U",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 200 V, 4 A High Effiency Ultrafast Diode",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH506B-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 ultrafast HV rectifier",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH5L06B-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 5.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH5R06FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 5.0 Amp 600 Volt",
+  "pkg": "TO-220FPAC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH6002CW",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 2x30 Amp 200 Volt",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH6004W",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast high voltage rectifier",
+  "pkg": "DO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH6006W",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Turbo 2 RECTIFIER Ultrafast Hi Vltg",
+  "pkg": "DO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH6010W",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast recovery high voltage diode",
+  "pkg": "DO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH6012W",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast recovery 1200 V diode",
+  "pkg": "DO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH802CB-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 8.0 Amp 200 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH806DIRG",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 high volt rectifier",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH810D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 Ultrafast recovery high voltage diode",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH810FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 high voltage diode",
+  "pkg": "TO-220FPAC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH812FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 high voltage diode",
+  "pkg": "TO-220FPAC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH8L06D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 8.0 Amp 600 Volt",
+  "pkg": "TO-220AC-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH8L06FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 8.0 Amp 600 Volt",
+  "pkg": "TO-220FP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH8R03DJF-TR",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 300V Hyperfast REC 8A 300V 1.3V VF 30ns",
+  "pkg": "PowerFLAT-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH8R06D",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 8.0 Amp 600 Volt",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STTH8R06FP",
+  "brand": "STMicroelectronics",
+  "category": "整流器",
+  "description": "整流器 8.0 Amp 600 Volt",
+  "pkg": "TO-220FP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU11N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.60 Ohm typ., 7 A MDmesh M2 Power MOSFET in IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STU2N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 3.5 Ohm typ., 2 A MDmesh K5 Power MOSFET in an IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU3LN62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 620V 2.5 Ohm 2.5A SuperMESH 3",
+  "pkg": "TO-251-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STU3N62K3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch, 620V-2.2ohms 2.7A",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU3N65M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 1.4 Ohm typ 3.5 A MDmesh M6 Power MOSFET in an IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STU3N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 2.8Ohm typ 2.5A Zener-protecte",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU4N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 2.1Ohm typ 3A Zener-protected",
+  "pkg": "TO-251-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STU5N70M6-S",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 700 V, 1.2 Ohm typ 3.5 A MDmesh M6 Power MOSFET",
+  "pkg": "TO-251-3",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "STU5N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 950 V, 2 Ohm typ 3.5 A MDmesh K5 Power MOSFET in an IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STU6N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.95 Ohm typ 5 A MDmesh DM2 Power MOSFET in an IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STU6N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 1.06Ohm 4.5A MDmesh M2",
+  "pkg": "TO-251-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STU7N105K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1050 V, 1.4 Ohm typ., 4 A MDmesh K5 Power MOSFET in an IPAK package",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU7N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 V 0.95 Ohm 6 A Zener-protecte",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU7NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.84 Ohm 5A 2nd Gen MDmesh",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STU8N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 V 0.76 Ohm 6 A Zener-protected",
+  "pkg": "TO-251-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STV0910ADB",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "STV0910ADB",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STV270N4F3",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 40 V",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STV300NH02L",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N Ch 24V 0.8m 280A Pwr MOSFET",
+  "pkg": "PowerSO-10",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STV6110A",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "STV6110A",
+  "pkg": "QFN-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STVVGLNA",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "STVVGLNA",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW10N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V .65Ohm typ 8A Zener-protected",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW10NK60Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 10 Amp Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW11NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 1000 Volt 8.3 A Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW120NF10",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW12N120K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1200 V, 0.62 Ohm typ., 12 A MDmesh K5 Power MOSFET in TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW12NK80Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800 Volt 10.5 A Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW12NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 11 Amp Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW13N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW13NK100Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 1000 Volt 13A Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW14NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 14 Amp Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW15N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 0.3Ohm 14A pwr MDmesh K5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW15N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 950V 0.41Ohm typ. 12A MDmesh K5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW15NK50Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500 Volt 14 Amp Zener SuperMESH",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW15NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 15 Amp Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW15NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V FDMesh",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW18NM80",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V MDMesh",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW19NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET N-CH 500V 13A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW19NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 V 0.27 Ohm 13 A MDmesh(TM)",
+  "pkg": "TO-247-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW20N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Channel 950V, 0.275Ohms, 17.5A MDmesh K5 Power MOSFET in TO-247",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW20NM60",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600 Volt 20 Amp",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW21N150K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1500 V, 0.7 Ohm typ., 14 A MDmesh K5 Power MOSFET in a TO-247 packge",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW21N90K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900V 0.25 Ohm 18.5A MDmesh K5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW21NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 17A FDMesh II",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW22N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V .28Ohm typ 17.5A Zener-protect",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW24N60DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.175 Ohm typ. 18A MDmesh DM2",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW24N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.168Ohm 18A MDmesh M2",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW24NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.18 Ohm 17A MDmesh II",
+  "pkg": "TO-247-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW25N60M2-EP",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.175 Ohm typ., 18 A MDmesh M2 EP Power MOSFET in a TO-247 pack",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW25N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 800V 0.19 Ohm 19.5 A MDmesh K5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW26NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V Mdmesh II Power",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW27NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V FDMesh",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW28NM50N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 500V 0.135 21A MDmesh II",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW30N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET POWER MOSFET N-CH 650V 22 A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW33N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.108Ohm typ. 26A MDmesh M2",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW33N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 105 mOhm typ., 25 A MDmesh M6 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW36N60M6",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 85 mOhm typ., 30 A MDmesh M6 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW36NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Auto-grade N-CH 600V 0.097Ohm typ 29A",
+  "pkg": "TO-GRADE",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW37N60DM2AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 600 V, 0.094 Ohm typ 28 A MDmesh DM2 Power MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW38N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650V 0.076 Ohm 30 A MDmesh M5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW3N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET 1500V 6Ohm 2.5A N-Channel",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW40N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-chanel 600 V 0.078 Ohm typ 34 A",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW40N95DK5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 950 V, 0.120 Ohm typ., 38 A MDmesh DK5 Power MOSFET in a TO-247 packag",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW40NF20",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Low charge STripFET",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW42N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 Volt 33 Amp",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW43NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600V, 35A FDMesh II",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW48N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 60 mOhm typ., 42 A MDmesh M2 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW48N60M6-4",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 61 mOhm typ., 39 A MDmesh M6 Power MOSFET in a TO247-4 package",
+  "pkg": "TO-247-4",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW48NM60N",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 600V 0.055 Ohm 39A Mdmesh II",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW4N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1500 V PowerMesh",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW55NM60ND",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V FDMesh",
+  "pkg": "TO-247-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "STW56N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 0.045 Ohm typ., 52 A MDmesh M2 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW56N65DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.058 Ohm typ., 48 A MDmesh DM2 Power MOSFET in a TO-247 packag",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW63N65DM2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.042 Ohm typ., 60 A MDmesh DM2 Power MOSFET in a TO-247 packag",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW65N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.07 Ohm typ., 46 A MDmesh K5 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW6N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V 1 Ohm 9A Zener MDmesh K5",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW70N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 600V 0.031Ohm typ. 68A MDmesh M2",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW70N65M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V, 0.039 Ohm typ., 63 A MDmesh M2 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW75NF30",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW75NF30AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET PTD HIGH VOLTAGE",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW77N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 650 V 0.033ohm 69A Mdmesh",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW7N105K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 1050 V, 1.4 Ohm typ., 4 A MDmesh K5 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW9N150",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-CH 1500V HI-VOLT PWRMESH PWR MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW9N80K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 800 V, 0.73 Ohm typ., 7 A MDmesh K5 Power MOSFET in a TO-247 package",
+  "pkg": "TO-247",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "STW9NK90Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 900 Volt 8 Amp Zener SuperMESH",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STW9NK95Z",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 950 V, 1.15 Ohm typ 7 A SuperMESH Power MOSFET",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWA20N95K5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 950V .275Ohm 17.5A Zener-protect",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWA48N60M2",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-channel 600 V, 60 mOhm typ., 42 A MDmesh M2 Power MOSFET in a TO-247 long lead",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWA57N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 V 0.056 Ohm 42 A Mdmesh",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWA72N60DM2AG",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET Automotive-grade N-channel 600 V, 37 mOhm typ., 66 A, MDmesh DM2 Power MOSFET in",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWA88N65M5",
+  "brand": "STMicroelectronics",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch 650 V 0.024 Ohm 84 A MDmesh(TM)",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWD100NYWY3F",
+  "brand": "STMicroelectronics",
+  "category": "IC",
+  "description": "IC SUPERVISOR 1 CHANNEL SOT23-5",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STWD100YNYWY3F",
+  "brand": "STMicroelectronics",
+  "category": "监控电路",
+  "description": "监控电路 Watchdog Timer Circuits",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD19P06-60-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 19A 38.5W 60mohm @ 10V",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD23N06-31-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET N-Ch MOSFET 60V 31 mohm @ 10V",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD40N10-25-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  SUD3",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD50N04-8M8P-4GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 50A 48.1W 8.8mohm @ 10V",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD50P04-08-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 40V 50A P-CH MOSFET",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUD50P06-15L-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET P-CH 60V 50A",
+  "pkg": "DPAK(TO-252)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUM110N10-09-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 100V 110A 375W",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUM110P04-04L-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET  SUM1",
+  "pkg": "TO-263(D2PAK)",
+  "lifecycle": "Not Recommended for New Designs"
+ },
+ {
+  "pn": "SUM110P06-07L-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 110A 375W",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUM110P06-08L-E3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET 60V 110A 272W 8.0mohm @ 10V",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SUM110P08-11L-E3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 80V 110A 375W",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1235-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 12 Amp 600 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1235-800G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 12 Amp 800 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1250-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25A Std Snuberless Traics",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1610-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 16 A Snubberless logic standard TRI",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1610-800G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 17 A Snubberless logic standard TRI",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1635-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 16 Amp 600 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T1635H-8G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 16 A - 800 V - 150 &#176;C H-series Triac in D2PAK",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T2535-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25 Amp 600 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T2535-800G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25A BTA UL1557 Cert 4/3 Quadrant Triac",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T2535T-8G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25 A - 800 V - T-Series Triac in D2PAK",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T2535T-8T",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25 A - 800 V - T-Series Triac in TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-6G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 30 A - 600 V - 150 &#176;C H-series 双向可控硅",
+  "pkg": "D2PAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-6I",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 SNUBBERLESS 30 A TRIACS",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-6T",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 SNUBBERLESS 30 A TRIACS",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-8G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 30 A - 800 V - 150 &#176;C H-series Triac in D&#178;PAK",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-8I",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 30 A - 800 V - 150 &#176;C H-series Triac in TO-220AB Ins.",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3035H-8T",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 30 A - 800 V - 150 &#176;C H-series Triac in TO-220AB",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3050H-6G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 30 A - 600 V - 150 &#176;C H-series 双向可控硅",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T3050H-6I",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 SNUBBERLESS 30 A TRIACS",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T405-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T405-700B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4A TRIACS",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T405-800B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 800 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T405Q-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T410-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T410-800B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 800 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T435-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 4.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55A107M6R3C0045",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  100uF 6.3volts 20% A Case 45 Max.ESR",
+  "pkg": "CASE-A-3216-18(mm)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "T55A107M6R3C0070",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  100uF 6.3 volts 20% A Case 70 Max. ESR",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B106M016C0100",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  10uF 16volts 20% B Case 100 Max. ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B106M035C0200",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  10uF 35volts 20% 200mohms maxESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B107M6R3C0035",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  100uF 6.3 volts 20% B Case 35 Max. ESR",
+  "pkg": "1411",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B156M025C0100",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  15uF 25volts 20% B Case 100 Max.ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B157M6R3C0025",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  150uF 6.3volts 20% B Case 25 Max.ESR",
+  "pkg": "1411",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B226M016C0070",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  22uF 16volts 20% B Case 70 Max. ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B227M6R3C0035",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  220uF 6.3volts 20% B Case 35 Max. ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B337M2R5C0025",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  330uF 2.5volts 20% B Case 25 Max. ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55B476M010C0070",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  47uF 10 volts 20% B Case 70 Max. ESR",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55D106M050C0090",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  10uF 50volts 20% D Case 90 Max.ESR",
+  "pkg": "CASE-D-7343-31(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55D106M063C0060",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  10uF 63volts 20% D Case 60 Max.ESR",
+  "pkg": "CASE-A-3216-18(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55D107M010C0055",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  100uF 10volts 20% D Case 55 Max. ESR",
+  "pkg": "2917",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55D107M025C0060",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  100uF 25volts 20% D Case 60 Max.ESR",
+  "pkg": "CASE-D-7343-31(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55D336M035C0100",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  33uF 35volts 20% D Case 100 Max.ESR",
+  "pkg": "CASE-D-7343-31(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55V337M6R3C0025",
+  "brand": "Vishay / Sprague",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  330uF 6.3volts 20% V Case 25 Max. ESR",
+  "pkg": "2917",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T810-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 8A TRIACS",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T835-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 8.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T835-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 8.0 Amp 600 Volt",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T835H-6I",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 Hi temp 8A 双向可控硅",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TBAV99LM",
+  "brand": "Toshiba",
+  "category": "小信号开关二极管",
+  "description": "小信号开关二极管 High Speed Switching Diode",
+  "pkg": "",
+  "lifecycle": "Factory Special Order"
+ },
+ {
+  "pn": "TCA0J226M8R",
+  "brand": "KYOCERA AVX",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 6.3 VDC 22 uF 1206 2 0 % ESR=3.5 mOhms",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCA0J476M8R",
+  "brand": "KYOCERA AVX",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 6.3 VDC 47 uF 1206 2 0 % ESR=3.2 mOhms",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCA1D105M8R",
+  "brand": "KYOCERA AVX",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 20 VDC 1 uF 1206 20 % ESR=7 mOhms",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCFGA1A226M8R",
+  "brand": "ROHM Semiconductor",
+  "category": "IC",
+  "description": "Cap 22uF 10VDC 20% SMD T-R",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1003",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOP-4-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1006",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOP-4-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1007",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOP-4-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1009",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 200-400%",
+  "pkg": "SOP-4-2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1018",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor 130-260% CTR 5mA",
+  "pkg": "SOP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCLT1109",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out Single CTR 200-400%",
+  "pkg": "SOP-5-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCMD1000",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Photodarlington Out Single CTR >600%",
+  "pkg": "SOP-4-1.27mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCMT1106",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOIC-4-175mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCMT1108",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOP-4-1.27mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCMT1109",
+  "brand": "Vishay Semiconductors",
+  "category": "晶体管输出光电耦合器",
+  "description": "晶体管输出光电耦合器 Phototransistor Out",
+  "pkg": "SOP-4-1.27mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCOB1A476M8R",
+  "brand": "KYOCERA AVX",
+  "category": "聚合物钽电容器",
+  "description": "聚合物钽电容器  10 VDC 47 uF 1210 20 % ESR=150 mOhms",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TCPT1350X01",
+  "brand": "Vishay Semiconductors",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） 1CH 0.3mm APERT SENSOR TRANS",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCPT1600X01",
+  "brand": "Vishay Semiconductors",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） Sg Chnl 1.6mA AEC-Q101 Qualified",
+  "pkg": "MODULE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCRT1010S",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "TCRT1010S",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TCTP1A226M8R",
+  "brand": "KYOCERA AVX",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 10 VDC 22 uF 0805 20 % ESR=5 mOhms",
+  "pkg": "0805",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TCTU1D334M8R",
+  "brand": "KYOCERA AVX",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 20 VDC 0.33 uF 0602 20 % ESR=30 mOhms",
+  "pkg": "CASE-U-1005-06(mm)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TCUT1600X01",
+  "brand": "Vishay Semiconductors",
+  "category": "光学开关（透射型，光电晶体管输出）",
+  "description": "光学开关（透射型，光电晶体管输出） Dual Chnl 1.6mA AEC-Q101 Qualified",
+  "pkg": "SMD-6P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA2004R",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 10+10W Stereo Amp",
+  "pkg": "Multiwatt-11",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TDA2822D013TR",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 Dual Lo-Volt Pwr Amp",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA5210",
+  "brand": "Infineon Technologies",
+  "category": "射频接收器",
+  "description": "射频接收器 5V 50nA ASK/FSK Receiver",
+  "pkg": "TSSOP-28",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TDA7265",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 25W Stereo Amplifier",
+  "pkg": "Multiwatt-11-V",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7266D13TR",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 7+7W DUAL BRIDGE AMP",
+  "pkg": "SOIC-20-EP-11mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7269A",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 14W Stereo Amplifier",
+  "pkg": "Multiwatt-11",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7293V",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 100W Audio Amplifier",
+  "pkg": "MultiwAtt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7294V",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 100W Audio Amplifier",
+  "pkg": "MultiwAtt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7296",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 60W Audio Amplifier",
+  "pkg": "Multiwatt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7297",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 15W Dual Bridge Amp",
+  "pkg": "Multiwatt-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7388",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 4X41W QUAD BRDG CAR RADIO AMPLIFIER",
+  "pkg": "FLEXIWATT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TDA7418TR",
+  "brand": "STMicroelectronics",
+  "category": "音频 DSP",
+  "description": "音频 DSP 3 Band Car Audio Processor 8-10V",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TDA7449D13TR",
+  "brand": "STMicroelectronics",
+  "category": "音频 DSP",
+  "description": "音频 DSP Audio Tone CTRL 2 Stereo Inputs 1 dB",
+  "pkg": "SO-20",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TEMD5110X01",
+  "brand": "Vishay Semiconductors",
+  "category": "光电二极管",
+  "description": "光电二极管 Top view 790-1050nm +/-65 deg",
+  "pkg": "SMD-4P,5x4.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TEMD6010FX01",
+  "brand": "Vishay Semiconductors",
+  "category": "环境光传感器",
+  "description": "环境光传感器 16V 100mW 540nm AEC-Q101 Qualified",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TEMD7000X01",
+  "brand": "Vishay Semiconductors",
+  "category": "光电二极管",
+  "description": "光电二极管 0805 350 to 1120nm +/-60 deg",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TEMT6000X01",
+  "brand": "Vishay Semiconductors",
+  "category": "环境光传感器",
+  "description": "环境光传感器 Ambient Light Sensor AEC-Q101 Qualified",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TEMT6200FX01",
+  "brand": "Vishay Semiconductors",
+  "category": "环境光传感器",
+  "description": "环境光传感器 Ambient Light Sensor AEC-Q101 Qualified",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TEPT4400",
+  "brand": "Vishay Semiconductors",
+  "category": "环境光传感器",
+  "description": "环境光传感器 Ambient Light Sensor",
+  "pkg": "插件,P=2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFBS4711-TT1",
+  "brand": "Vishay Semiconductors",
+  "category": "红外收发器",
+  "description": "红外收发器 SIR 115.2 kbits/s 2.7-5.5V Op Voltage",
+  "pkg": "SMD-6P,6x3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFDU6103-TT3",
+  "brand": "Vishay Semiconductors",
+  "category": "红外收发器",
+  "description": "红外收发器 SIR 115.2kbits Top View",
+  "pkg": "SMD",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TFZVTR10B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR12B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR13B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Vz(V) 12.55-13.21",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR15B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode",
+  "pkg": "TUMD2M",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR16B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Vz(V) 15.25-16.04",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR2.4B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR22B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR24B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Vz(V) 22.61-23.77",
+  "pkg": "SMD-2P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR30B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR5.1B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR5.6B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Zener Diode",
+  "pkg": "SOD-323HE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TFZVTR8.2B",
+  "brand": "ROHM Semiconductor",
+  "category": "稳压二极管",
+  "description": "稳压二极管 Pd 500mW Iz(mA) Zener Diode",
+  "pkg": "SMD-2P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP107",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP115",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP120",
+  "brand": "Rectron",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Plastic Lds",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP122",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP127",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP142",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP142T",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 NPN Power Darlington",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP147",
+  "brand": "STMicroelectronics",
+  "category": "达林顿晶体管",
+  "description": "达林顿晶体管 PNP Power Darlington",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP2955",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Power Trans 15A 60V 90W",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP3055",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Comp NPN - PNP Epitaxial-Base Trans",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP32C",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Power",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP35CP",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) Complementary power transistors",
+  "pkg": "TO-3P",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "TIP36C",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP Gen Pur Power",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP41C",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Power",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP47",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Power",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TIP50",
+  "brand": "STMicroelectronics",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN Gen Pur Power",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJM4558CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Bipolar Oper Amps Wide bandwidth",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL061CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Power JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL061IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Power JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL062CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL062IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Power JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL064CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Low Power JFET",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL064IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low input current (200pA), low power (200uA) 36V JFET Op-Amps, quad",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL071CDR",
+  "brand": "Texas Instruments",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Low-Noise JFET-Input A 595-TL071CD A 595 A 595-TL071CD",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL071CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Noise JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL071IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Noise JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL072ACDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Noise JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL072CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Low Noise JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL074CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Low Noise JFET",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL081IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Gen Purp JFET",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL082BCDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 JFET inputs, low input bias current",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL082CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Gen Purp JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL082CPT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Gen Purp JFET",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL082IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Gen Purp JFET",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL084BIDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 JFET inputs, low input bias current",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL084CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Gen Purp JFET",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL084IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 JFET inputs, low input bias current",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL1431CZT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 2.5-36V Prog Adjust",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431",
+  "brand": "onsemi",
+  "category": "IC",
+  "description": "ANA 2.5V PROG SHUNT REF",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431ACZ",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 2.5-36V Prog Adjust",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431AIDT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 2.5-36V Prog Adjust",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431AIL3T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Prog Voltage Ref 2.5 to 36V .22 Ohm",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431IDT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 2.5-36V Prog Adjust",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431IL3T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Prog Voltage Ref 2.5 to 36V .22 Ohm",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431IL5T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Prog Voltage Ref 2.5 to 36V .22 Ohm",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL432AIL3T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Prog Shunt Ref 2.5 36V 1-100mA 0.22 Ohm",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL432IL3T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Adjustable voltage reference",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV70018DCKR",
+  "brand": "Texas Instruments",
+  "category": "IC",
+  "description": "IC REG LINEAR 1.8V 200MA SC-70-5",
+  "pkg": "Enable",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV7041DCKT",
+  "brand": "Texas Instruments",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Nanopower small siz e comparator with op A 595-TLV7041DCKR",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLVH431BIL3T",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 1.24V to 18V Prog Shunt Ref 100uA 60mA",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLZ5V1C-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 5.1 Volt 0.5 Watt IR = 2uA",
+  "pkg": "SOD-80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMA0J107MTRF",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 100uF 6.3V 20% A case",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMA1A476MTRF",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 10V 20% A case",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMA1C106KTRF",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD TMCMA1C106KTRF",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMA1C226MTRF",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 22uF 16V 20% A case",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMB0J227MTR2F",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD TMCMB0J227MTR2F",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMCMB1A107MTR2F",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD TMCMB1A107MTR2F",
+  "pkg": "CASE-B-3528-21(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TMMBAT46FILM",
+  "brand": "STMicroelectronics",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 150mA 100 Volt",
+  "pkg": "MiniMELF",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TMUX1136DQAR",
+  "brand": "Texas Instruments",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC 3-pA on-state leakag e current 5-V 2:1",
+  "pkg": "USON-10(1x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TN1625-1000G-TR",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 16 Amp 1000 Volt",
+  "pkg": "TO-263-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TN1625-600G-TR",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 16A SCRS",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TN2404K-T1-GE3",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET 240V 0.2A 0.36W 4.0ohms @ 10V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TN805-600B-TR",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR 8.0 Amp 600 Volt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP0610K-T1-GE3",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET -60V Vds 20V Vgs SOT-23",
+  "pkg": "SOT-23",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TPC116S8-TR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "IC",
+  "description": "TPC116S8-TR",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPDV1225RG",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 25A High Volt Triac 1200V 150mA IGT",
+  "pkg": "TOP-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPDV1240RG",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 40 A 1200 Volt",
+  "pkg": "TO-3P-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPN3021RL",
+  "brand": "STMicroelectronics",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 38V 300mA Triple",
+  "pkg": "SO-8",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TPR3333-S3TR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "IC",
+  "description": "TPR3333-S3TR",
+  "pkg": "SOT-23G-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPR3340-S3TR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "IC",
+  "description": "TPR3340-S3TR",
+  "pkg": "SOT-23G-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS76933DBVR",
+  "brand": "Texas Instruments",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 Ultra Low-Power 100- mA LDO A 595-TPS769 A 595-TPS76933DBVT",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS79301DBVR",
+  "brand": "Texas Instruments",
+  "category": "低压差稳压器",
+  "description": "低压差稳压器 200mA Adj Hi PSRR",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS92200D2DDCR",
+  "brand": "Texas Instruments",
+  "category": "IC",
+  "description": "IC LED DRV RGLTR PWM SOT23-THIN",
+  "pkg": "-40°C ~ 85°C",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPSMB13A-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管  TPSM",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TR3D476K025C0150",
+  "brand": "Vishay / Sprague",
+  "category": "钽质电容器-固体SMD",
+  "description": "钽质电容器-固体SMD 47uF 25volts 10% D cs ESR 0.15 Molded",
+  "pkg": "CASE-D-7343-31(mm)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS110-8UF",
+  "brand": "STMicroelectronics",
+  "category": "SCR",
+  "description": "SCR High surge voltage 1.25 A SCR for circuit breaker",
+  "pkg": "SMBflAt-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS2431BILT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 2.5-24V Prog Shunt",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS271CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Power Prog",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS271IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Lo-Power Prog",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS272ACDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Hi-Performance",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS27L2CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Prec Low-Power",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS27L2CPT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Prec Low-Power",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS27L2IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Prec Low-Power",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS27L2IPT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Prec Low-Power",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS27M2IDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Prec Low-Power",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS3021ILT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Rail to Rail 1.8V Hi Spd comparator",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS321ILT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Single Low Power",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS331ICT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Micropower 20uA 1.6V to 5V RtoR",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS331IQT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 1.6V to 5V 20uA MicroPWR 2kV 210ns",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS334IYDT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Micropwr Lo-vtg RR 1.6 to 5V 20uA 210ns",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS3431BILT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 1.24V Prog Shunt",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS3702IDT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Micropower dual CMOS voltage comparator",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS391ILT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Lo-Pwr Sngl Voltage",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS391RILT",
+  "brand": "STMicroelectronics",
+  "category": "模拟比较器",
+  "description": "模拟比较器 Low Power 0.2mA 18 or 36V VCC Comp",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS431BILT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 1.24-6V Adjust Shunt",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS431ILT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 1.24-6V Adjust Shunt",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4431AILT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 1.224V Open Collector Shunt",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4436ICT",
+  "brand": "STMicroelectronics",
+  "category": "参考电压",
+  "description": "参考电压 Adjustable 0.6V open collector shunt vol",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS462CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Dual Rail-to-Rail",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS464CDT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Rail-to-Rail",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS464CPT",
+  "brand": "STMicroelectronics",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 Quad Rail-to-Rail",
+  "pkg": "TO-RAIL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS472IQT",
+  "brand": "STMicroelectronics",
+  "category": "传声器前置放大器",
+  "description": "传声器前置放大器 Microphone Preamp Lo Noise",
+  "pkg": "QFN-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS482IST",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 100mW Headphone Amp",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4871IDT",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 1W Audio Power Amp",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "TS4871IST",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 1W Audio Power Amp",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4890IST",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 1W Audio Power Amp",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4962IQT",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 3W Class D w/standby",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TS4990IDT",
+  "brand": "STMicroelectronics",
+  "category": "音频放大器",
+  "description": "音频放大器 1.2W audio Pwr amp",
+  "pkg": "SO-8",
+  "lifecycle": ""
  }
 ]
