@@ -47198,5 +47198,4005 @@
   "description": "整流器 600 Volt 85 Amp",
   "pkg": "DO-203AB(DO-5)",
   "lifecycle": ""
+ },
+ {
+  "pn": "VS-85HFR120",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1200 Volt 85 Amp",
+  "pkg": "DO-203AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-85HFR120M",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 85A 1200V Rev",
+  "pkg": "DO-203AB(DO-5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-88HF100",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 85 Amp 1000 Volt 1800 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-88HFR100",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 85 Amp 1000 Volt 1800 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8CWH02FN-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2x4A 200V Hyperfast 23ns FRED Pt",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8DKH02-M3/H",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 200V 4+4A Flat Pak FRED",
+  "pkg": "DFN-8(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8ETH03PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  VS-8",
+  "pkg": "TO-220-2",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-8ETL06S-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600V 8A IF (TO-263AB) 175A IFSM",
+  "pkg": "TO-263AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8EWH06FNTR-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 Hyperfast 8A 600V 18ns",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8EWL06FN-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 8A 600V 60ns Hyperfast",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8EWS08STRL-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 New Input Diodes - D-PAK-e3",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8EWX06FNTR-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 Hyperfast 8A 600V 15ns",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-8TQ100STRL-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky - D2PAK-e3",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-C5PH3012L-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 1200V",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5PH3006L-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 600V H Series",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5PH3012L-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1200V, 30A TO-220",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5PH6006L-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 60A 600V H Series",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5TH0812-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 8A 1200V",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5TH1506-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 600V H Series",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5TH1512-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 1200V",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5TH3006-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 600V H Series",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-E5TX1506-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 600V X Series",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-EPH3006-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 600V 27ns Hyperfast",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-ETH1506FP-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 600V Hyperfast 29ns",
+  "pkg": "TO-220FP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-ETH3006S-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 600V Hyperfast 26ns",
+  "pkg": "TO-220-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-ETU1506S-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 600V Ultrafast 40ns",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-ETX0806FP-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 8A 600V Hyperfast 17ns",
+  "pkg": "TO-220FP-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-GBPC2502A",
+  "brand": "Vishay Semiconductors",
+  "category": "桥式整流器",
+  "description": "桥式整流器 200 Volt 25 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-GT100DA60U",
+  "brand": "Vishay Semiconductors",
+  "category": "IGBT 模块",
+  "description": "IGBT 模块  VS-G",
+  "pkg": "SOT-227",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-HFA04TB60-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600V 4A TO-220 HexFred",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA06TB120S-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1200V 6A TO-263 HexFred",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA08PB120-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 8A 1200V Ultrafast 28ns HEXFRED",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA08PB60-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 8A 600V Ultrafast 18ns HEXFRED",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA08TB120-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1200V 8A TO-220 HexFred",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA08TB60S-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600V 8A TO-263 HexFred",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA15PB60-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 15A 600V Ultrafast 19ns HEXFRED",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA16PA60C-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2x8A 600V Ultrafast 18ns HEXFRED",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA16PB120-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 16A 1200V Ultrafast 30ns HEXFRED",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA16TB120-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1200V 16A TO-220 HexFred",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA25PB60-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 25A 600V Ultrafast 23ns HEXFRED",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA25TB60-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600V 25A TO-220 HexFred",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA30PB120-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 30A 1200V Ultrafast 47ns HEXFRED",
+  "pkg": "TO-247-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA30TA60C-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600V 30A TO-220 HexFred",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA32PA120C-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2x16A1200V Ultrafast 30ns HEXFRED",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-HFA60EA120P",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  VS-H",
+  "pkg": "SOT-227",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-HFA60FA120P",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  VS-H",
+  "pkg": "SOT-227",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-HFA90NH40PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 400 Volt 170 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-KBPC804PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "桥式整流器",
+  "description": "桥式整流器  KBPC",
+  "pkg": "D-72",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-KBPC810PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "桥式整流器",
+  "description": "桥式整流器  KBPC",
+  "pkg": "D-72",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-MBR0540PBF",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "VS-MBR0540PBF",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-MBRS140TRPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器  VS-M",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-MBRS340-M3/9AT",
+  "brand": "Vishay",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 Schottky - SMC",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": "New at Mouser"
+ },
+ {
+  "pn": "VS-MUR1520-N3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  VS-M",
+  "pkg": "TO-220-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-MUR2020CT-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 200V 20A TO-220 Fred Pt",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-MUR820-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 200V 8A TO-220 Fred Pt",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-MURB2020CT-M3",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 200V 20A TO-263 Fred Pt",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-MURD620CTPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器  MURD",
+  "pkg": "TO-252-3",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-P101W",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 400 Volt 25 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-P401W",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 400 Volt 40 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-P425",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 40 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-SD1100C04C",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 400 Volt 1400 Amp",
+  "pkg": "DO-200AA",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD400C16C",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1600 Volt 800 Amp",
+  "pkg": "DO-200AA",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD400N24PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2400 Volt 400 Amp",
+  "pkg": "DO-205AB(DO-9)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD400R24PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2400 Volt 400 Amp",
+  "pkg": "DO-205AB(DO-9)",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD600N22PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 600 Amp 2200 Volt 11000 Amp IFSM",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD600N28PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2800 Volt 600 Amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD600R04PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 400 Volt 600 Amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD600R16PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1600 Volt 600 Amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-SD600R28PC",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 2800 Volt 600 Amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST110S12P0VPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 110 Amp 1200 Volt 175 Amp IT(RMS)",
+  "pkg": "TO-209AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST1230C16K0L",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR Thyristors - K-PUK",
+  "pkg": "TO-200AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST180S12P0VPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 200 Amp 1200 Volt 314 Amp IT(RMS)",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST180S12P1VPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 200 Amp 1200 Volt 314 Amp IT(RMS)",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST180S16P0PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 200 Amp 1600 Volt 314 Amp IT(RMS)",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST183C08CFN0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 800 Volt 370 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230C12C1",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 410 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VS-ST230C16C0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 410 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230S08P0VPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 230 Amp 800 Volt 360 Amp IT(RMS)",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230S12P0V",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 1200 Volt 230 Amp",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230S12P1VPBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 230 Amp 1200 Volt 360 Amp IT(RMS)",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230S16P0PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR  VS-S",
+  "pkg": "TO-209AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST230S16P1PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 230 Amp 1600 Volt 360 Amp IT(RMS)",
+  "pkg": "TO-93",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST300C16C0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 650 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST300C16C1",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 650 Amp 1600 Volt 1290 Amp IT(RMS)",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST303C12LFK0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 620 Amp",
+  "pkg": "TO-200AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST330C12C1",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 720 Amp 1200 Volt 1420 Amp IT(RMS)",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST330C16C0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 1600 Volt 720 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VS-ST330C16C1",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 1600 Volt 720 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST330S12P0PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 330 Amp 1200 Volt 520 Amp IT(RMS)",
+  "pkg": "TO-209AE",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VS-ST330S12P1PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 330 Amp 1200 Volt 520 Amp IT(RMS)",
+  "pkg": "TO-209AE",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST330S16P0PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 Thyristors - TO-118 COMP RND",
+  "pkg": "TO-118",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST333C08CFL0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 800 Volt 720 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST333C08LFM0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 800 Volt 620 Amp",
+  "pkg": "TO-200AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST380CH06C0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 600 Volt 960 Amp",
+  "pkg": "TO-200AB",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VS-ST730C16L0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 1600 Volt 990 Amp",
+  "pkg": "TO-200AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-ST780C06L0",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR",
+  "description": "SCR 600 Volt 1350 Amp",
+  "pkg": "TO-200AC",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-T40HFL100S05",
+  "brand": "Vishay Semiconductors",
+  "category": "整流器",
+  "description": "整流器 1000 Volt 40 Amp",
+  "pkg": "D-55",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKCS200/045",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 200 Amp 45 Volt 8600 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKCS403/100",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 400 Amp 100 Volt 25500 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKD166/08PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 800 Volt 165 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKD166/12PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 165 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKD166/16PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 165 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKD56/12",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 1200 Volt 60 Amp 1360 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKD91/16",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 1600 Volt 100 Amp 2115 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKE56/14",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 1400 Volt 60 Amp 1360 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKH56/12",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 60 Amp 890 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKH91/12",
+  "brand": "Vishay Semiconductors",
+  "category": "二极管模块",
+  "description": "二极管模块 1200 Volt 95 Amp 2094 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKH91/16",
+  "brand": "Vishay Semiconductors",
+  "category": "晶闸管模块",
+  "description": "晶闸管模块 1600 Volt 95 Amp 2094 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT105/16",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 105 Amp 2094 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT136/12PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 135 Amp",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT136/16PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 135 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT162/12PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 160 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT162/16PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 160 Amp",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT250-12PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200volt 250amp",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-VSKT250-16PBF",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600volt 250amp",
+  "pkg": "-",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VS-VSKT41/12",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 45 Amp 890 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT56/12",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1200 Volt 60 Amp 890 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT56/16",
+  "brand": "Vishay Semiconductors",
+  "category": "SCR模块",
+  "description": "SCR模块 1600 Volt 60 Amp 890 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT91/08",
+  "brand": "Vishay Semiconductors",
+  "category": "晶闸管模块",
+  "description": "晶闸管模块 800 Volt 95 Amp 2094 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT91/12",
+  "brand": "Vishay Semiconductors",
+  "category": "晶闸管模块",
+  "description": "晶闸管模块 1200 Volt 95 Amp 2094 Amp IFSM",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS-VSKT91/16",
+  "brand": "Vishay Semiconductors",
+  "category": "晶闸管模块",
+  "description": "晶闸管模块 1600 Volt 95 Amp 2094 Amp IFSM",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS3V3BC1HST15R",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 RASMID&trade; Series - Transient Voltage Suppressor",
+  "pkg": "SOD-962",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VS5V0BC1EST15R",
+  "brand": "ROHM Semiconductor",
+  "category": "ESD保护二极管/TVS二极管",
+  "description": "ESD保护二极管/TVS二极管 BI DIRECTIONAL PROTECTION DIODE",
+  "pkg": "SMD0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSMA1085400",
+  "brand": "Vishay Semiconductors",
+  "category": "红外发射源",
+  "description": "红外发射源 IR surface emitter high power 850nm",
+  "pkg": "SMD-3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSMB2943GX01",
+  "brand": "Vishay Semiconductors",
+  "category": "红外发射源",
+  "description": "红外发射源 940nm, SMD 20mW/sr, +/-25deg.",
+  "pkg": "SMD-2,2.3x2.3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSMD66694",
+  "brand": "Vishay Semiconductors",
+  "category": "红外发射源",
+  "description": "红外发射源 660/940nm, SMD 2.3mW/sr, +/-60deg.",
+  "pkg": "SMD-4P,2x2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSS8D2M6HM3/H",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 RECT 60V   2A    SM  TMBS",
+  "pkg": "DO-221AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSSA210-E3/61T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 2A,100V,TMBS",
+  "pkg": "SMA(DO-214AC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VSSB310-E3/52T",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 3A100voltsTMBS",
+  "pkg": "SMB(DO-214AA)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "VT6J1T2CR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Pch+Pch MOSFET",
+  "pkg": "SMD-6P",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VT6K1T2CR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET SMALL SIGNAL TR MOSFET",
+  "pkg": "UDFN-6(1x1.2)",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VT6M1T2CR",
+  "brand": "ROHM Semiconductor",
+  "category": "MOSFET",
+  "description": "MOSFET 1.2V Drive Nch+Pch MOSFET",
+  "pkg": "SMD-6P",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VT6T1T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) PNP+PNP -20VCEO-0.2A VMT6",
+  "pkg": "SMD-6P",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "VT6Z1T2R",
+  "brand": "ROHM Semiconductor",
+  "category": "双极晶体管 - 双极结型晶体管(BJT)",
+  "description": "双极晶体管 - 双极结型晶体管(BJT) NPN/PNP",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "VY1102M35Y5UQ63V0",
+  "brand": "Vishay / BC Components",
+  "category": "安全电容器",
+  "description": "安全电容器 1000pF X760 Y500VAC 20% Y5U",
+  "pkg": "插件,P=10mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "W25Q16JVSSIQ",
+  "brand": "Winbond",
+  "category": "NOR闪存",
+  "description": "NOR闪存 spiFlash, 3V, 16M-bit, 4Kb Uniform Sector",
+  "pkg": "SOIC-8",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "W25Q64JVSSIQ",
+  "brand": "Winbond",
+  "category": "NOR闪存",
+  "description": "NOR闪存 spiFlash, 64M-bit, 4Kb Uniform Sector",
+  "pkg": "SOIC-8-208mil",
+  "lifecycle": "Verify Status with Factory"
+ },
+ {
+  "pn": "WSL080500000ZEA9",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/8W Jumper",
+  "pkg": "0805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL10205L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watt .005ohms 1%",
+  "pkg": "1020",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL120600000ZEA9",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/4watt JUMPER",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL1206R0100FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/4watt .01ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL1206R0100FEA18",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/2watt .01ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL1206R0200FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/4watt .02ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL1206R0200FEA18",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/2watt .02ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL1206R0400FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/4watt .04ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2010R0330FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1/2watt .033ohms 1%",
+  "pkg": "2010",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL25121L000FEA18",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .001ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL25123L000FEA18",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .003ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL25124L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .004ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL25125L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .005ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0100FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .01ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0100FEA18",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .01ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0200FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .02ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0250FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .025ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0330FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .033ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R0500FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .05ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R1000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .1ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R2000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .2ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL2512R4700JEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD WSL-2512 .47 5% EA e3",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL36372L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .002ohms 1% 4-Terminal",
+  "pkg": "3637",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSL39214L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .004ohms 1%",
+  "pkg": "3921",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLF25122L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 6watt 2mOhms 1% AEC-Q200",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP12063L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1watt .003ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP12065L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 1Watt 0.005Ohms 1%",
+  "pkg": "1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP25121L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .001ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP25122L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .002ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP25124L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .004ohms 1%",
+  "pkg": "2512",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP2726L5000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0.0005ohms 1%",
+  "pkg": "2726",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP3921L5000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 9watts .0005ohm 1%",
+  "pkg": "3921",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSLP5931L1000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 0.0001 ohm 1%",
+  "pkg": "5931",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0100FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .01ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0125FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD WSR-2 .0125 1% EA E2",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0200FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .02ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0400FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .04ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0499FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD .0499ohms 2watts 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0500FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .05ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R0700FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .07ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R1000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .1ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R2500FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .25ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR2R3000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 2watts .3ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR33L570FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD WSR-3 .00357 1% EA e2",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR35L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .005ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR37L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .007ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0100FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .01ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0150FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .015ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0300FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .03ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0330FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .033ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0500FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .05ohms 1%",
+  "pkg": "SMD,7x11.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0660FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD WSR-3 .066 1% EA e2",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R0800FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3W .08ohm 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R1000DEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD WSR-3 .1 .5% EA e2",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R1000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 3watts .10ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR3R1200FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD .12   OHM  1%   3W  75PPM",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR52L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .002ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR53L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .003ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR55L000FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .005ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR5R0100FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD .01ohms 5watts 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR5R0150FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .015ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR5R0200FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .02ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WSR5R0300FEA",
+  "brand": "Vishay / Dale",
+  "category": "电流检测电阻器 - SMD",
+  "description": "电流检测电阻器 - SMD 5watts .03ohms 1%",
+  "pkg": "4527",
+  "lifecycle": ""
+ },
+ {
+  "pn": "X-NUCLEO-BNRG2A1",
+  "brand": "STMicroelectronics",
+  "category": "蓝牙开发工具 - 802.15.1",
+  "description": "蓝牙开发工具 - 802.15.1 Bluetooth Low Energy expansion board based on the BLUENRG-M2SP module for STM32",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCKU15P-2FFVE1517I",
+  "brand": "AMD / Xilinx",
+  "category": "FPGA - 现场可编程门阵列",
+  "description": "FPGA - 现场可编程门阵列 XCKU15P-2FFVE1517I",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCVU33P-2FSVH2104E",
+  "brand": "AMD / Xilinx",
+  "category": "FPGA - 现场可编程门阵列",
+  "description": "FPGA - 现场可编程门阵列 XCVU33P-2FSVH2104E",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "XO57CRECNA14M7456",
+  "brand": "Vishay",
+  "category": "IC",
+  "description": "XO57CRECNA14M7456",
+  "pkg": "SMD/SMT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Z0103MA2AL2",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 1.0 Amp 600 Volt",
+  "pkg": "Ammo Pack",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Z0103MN5AA4",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 1.0 Amp 600 Volt",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Z0107MA1AA2",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 600 Volt 0.8 Amp",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Z0109MA1AA2",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 1.0 Amp 600 Volt",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Z0109NN5AA4",
+  "brand": "STMicroelectronics",
+  "category": "双向可控硅",
+  "description": "双向可控硅 1.0 Amp 800 Volt",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ZM4746A-GS08",
+  "brand": "Vishay Semiconductors",
+  "category": "稳压二极管",
+  "description": "稳压二极管 18 Volt 1 Watt 5%",
+  "pkg": "DO-213AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL006YU256I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 176 I/O 256UBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL016YF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 340 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL016YM164C6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 87 I/O 164MBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL016YM164I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 87 I/O 164MBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL040YF484C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 325 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL040YF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 325 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL040YU484A7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 325 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL040YU484C6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 325 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL055YU484C6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 321 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL055YU484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 321 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL080YF484C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 289 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL080YF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 289 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL080YF780C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 423 I/O 780FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CL080YU484C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 289 I/O 484UBGA",
+  "pkg": "484-UBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX085YF672E6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 212 I/O 672FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX085YU484I5G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 208 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX105YF672E6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 236 I/O 672FBGA",
+  "pkg": "672-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX105YF780I6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 284 I/O 780FBGA",
+  "pkg": "780-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX150YF672E5G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 236 I/O 672FBGA",
+  "pkg": "672-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10CX150YU484E5G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 188 I/O 484UBGA",
+  "pkg": "484-BFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M02DCV36C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 27 I/O 36WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M02SCE144C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M04SAM153I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 112 I/O 153MBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M04SCM153C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 112 I/O 153MBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M08DCF256I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M08DCU324I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 246 I/O 324UBGA",
+  "pkg": "324-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M08DCV81I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 56 I/O 81WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M08DFV81I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 56 I/O 81WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M08SAM153C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 112 I/O 153MBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DAF256I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DAU324I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 246 I/O 324UBGA",
+  "pkg": "324-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DCF256C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DCF256I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DCF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 320 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DCU324I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 246 I/O 324UBGA",
+  "pkg": "324-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCE144A7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCE144C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCE144I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCU169A7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 169UBGA",
+  "pkg": "169-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCU169C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 169UBGA",
+  "pkg": "169-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCU169I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 169UBGA",
+  "pkg": "169-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SCU169I7P",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 169UBGA",
+  "pkg": "169-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M25DAF484A7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M25DAF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M25SAE144I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M25SCE144C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M40DAF256C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DAF256C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DAF256I6G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DAF484C7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "FPGA MAX10 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DAF484C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DAF484I7P",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DCF484C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50DCF484I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 360 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50SAE144C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50SAE144I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50SCE144A7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50SCE144C8G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M50SCE144I7G",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA2F17C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 128 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA2U15I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 176 I/O 324UBGA",
+  "pkg": "324-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA4F17C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 128 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA4F17I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 128 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA5U19C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEBA7F23C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 240 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA2F23C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA2F23I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA2U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA4U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA5F23I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 240 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CEFA5U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGTFD5C5U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC3B6U15I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 144 I/O 324UBGA",
+  "pkg": "324-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC4C6F23I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 240 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC4C6U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC5C6F23C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 240 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC5C6U19I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 224 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5CGXFC7C7F23C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 240 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3CW100BM16AE6S",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "FPGA SOC AGILEX3 HPS 100K 896BGA",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P030-1QNG48",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 34 I/O 48QFN",
+  "pkg": "48-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P030-VQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 77 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P060-VQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 71 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FG144M",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 97 I/O 144FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FGG144I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 97 I/O 144FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FGG256",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FGG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P1000-FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P125-TQG144",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P125-TQG144I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P125-VQ100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 71 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P125-VQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 71 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-FG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 157 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-VQ100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-VQ100M",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-VQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-VQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P400-FG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 178 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P600-FG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P600-FGG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3PE600-FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 270 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3PN010-1QNG48I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 34 I/O 48QFN",
+  "pkg": "48-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3PN060-VQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 71 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3PN250-VQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A40MX04-PLG44",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 34 I/O 44PLCC",
+  "pkg": "LCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX09-PQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 83 I/O 100QFP",
+  "pkg": "100-BQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX16-VQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 83 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX16-VQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 83 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A54SX16A-TQG144I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 113 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A54SX32A-TQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 81 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGL030V5-VQ100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 77 I/O 100VQFP",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGL1000V2-FGG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGL125V5-CSG196",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 133 I/O 196CSP",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGL250V2-CSG196I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 143 I/O 196CSP",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGL600V2-FGG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 177 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGLN020V5-QNG68I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 49 I/O 68QFN",
+  "pkg": "68-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGLN250V2-CSG81",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 60 I/O 81CSP",
+  "pkg": "81-WFBGA, CSBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGLN250V2-CSG81I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 60 I/O 81CSP",
+  "pkg": "81-WFBGA, CSBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AGLN250V5-CSG81I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 60 I/O 81CSP",
+  "pkg": "81-WFBGA, CSBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APA150-TQG100",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 66 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APA150-TQG100I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 66 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C15AF256C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 152 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C20F484C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 315 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C20Q240C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 142 I/O 240QFP",
+  "pkg": "240-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C35F484C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 322 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C35F484I8",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 322 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C35F484I8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 322 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C35F672C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 475 I/O 672FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C5Q208C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 142 I/O 208QFP",
+  "pkg": "208-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C5T144C6N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 89 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C5T144C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 89 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C5T144C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 89 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C5T144I8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 89 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C8F256C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 182 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C8Q208C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 138 I/O 208QFP",
+  "pkg": "208-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C8Q208C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 138 I/O 208QFP",
+  "pkg": "208-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C8Q208I8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 138 I/O 208QFP",
+  "pkg": "208-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP2C8T144C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 85 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C10E144C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 94 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C10E144I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 94 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C10F256C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 182 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C10F256C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 182 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C10F256I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 182 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16E144C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 84 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16F256C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 168 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16F484C6N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 346 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16F484C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 346 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16F484I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 346 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C16U484C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 346 I/O 484UBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C25E144C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 82 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C25F256C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 156 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C25F256I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 156 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C25F324C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 215 I/O 324FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C25F324I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 215 I/O 324FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C40F324I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 195 I/O 324FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C40Q240C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 128 I/O 240QFP",
+  "pkg": "240-BFQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP3C5E144I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 94 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE10F17I8LN",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 179 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE15F17C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 165 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE15F17I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 165 I/O 256FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE15M8I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 89 I/O 164MBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE22E22C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 79 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE22E22I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 79 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE22E22I8LN",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 79 I/O 144EQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE22U14I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 153 I/O 256UBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE30F19A7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 193 I/O 324FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE30F23C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 328 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE55F23C6N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 324 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CE55F23C7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 324 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CGX15BF14I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 72 I/O 169FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CGX22CF19C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 150 I/O 324FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CGX30BF14C8N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 72 I/O 169FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CGX30CF19C6N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 150 I/O 324FBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EP4CGX30CF23I7N",
+  "brand": "ALTERA",
+  "category": "IC",
+  "description": "IC FPGA 290 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40HX1K-TQ144",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 96 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40HX4K-BG121",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 93 I/O 121CABGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40HX4K-TQ144",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 107 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40HX8K-BG121",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 93 I/O 121CABGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40LP1K-CB121",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 92 I/O 121CSBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40LP1K-QN84",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 67 I/O 84QFN",
+  "pkg": "84-VFQFN Dual Rows, Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40LP8K-CM121",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 93 I/O 121UCBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40UL1K-CM36AI",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 26 I/O 36UCBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE40UP3K-UWG30ITR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 21 I/O 30WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICE5LP4K-SG48ITR",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 39 I/O 48QFN",
+  "pkg": "48-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAMXO3LF-2100E-5BG256E",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA AEC-Q100 206 I/O 256BGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO1200C-3TN100C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 73 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO1200C-4MN132I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 101 I/O 132CSBGA",
+  "pkg": "132-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-1200HC-4MG132C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 104 I/O 132CSBGA",
+  "pkg": "132-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-1200HC-6TG100C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 79 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-1200HC-6TG144C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 107 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-1200ZE-1MG132I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 104 I/O 132CSBGA",
+  "pkg": "132-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-1200ZE-1TG100C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 79 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-2000ZE-1UWG49ITR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 40 I/O 49WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-256ZE-1SG32I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 21 I/O 32QFNS",
+  "pkg": "32-UFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-256ZE-3SG32C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 21 I/O 32QFNS",
+  "pkg": "32-UFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-4000HC-4QN84C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 68 I/O 84QFN",
+  "pkg": "84-VFQFN Dual Rows, Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2-7000HC-6TG144I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 114 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO2280C-3TN144C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 113 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO256C-3TN100I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 78 I/O 100TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3D-4300ZC-2SG72I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 58 I/O 72QFN",
+  "pkg": "72-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3D-4300ZC-3SG72I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 58 I/O 72QFN",
+  "pkg": "72-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3D-9400ZC-3BG400I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 335 I/O 400CABGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3L-1300E-5UWG36ITR",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 28 I/O 36WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3L-4300C-6BG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 206 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3L-4300E-5UWG81CTR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 63 I/O 81WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-1300E-5UWG36CTR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 28 I/O 36WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-2100E-5MG121C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 121CSFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-2100E-5MG256C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 206 I/O 256CSFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-2100E-5UWG49CTR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 38 I/O 49WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-2100E-5UWG49ITR1K",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 38 I/O 49WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-9400C-6BG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 206 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCMXO3LF-9400E-6MG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 206 I/O 256CSFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFCPNX-100-7BBG484A",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUSPRO-NX Q100 484BGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFCPNX-100-7CBG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUSPRO-NX 256WLP",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFCPNX-100-8BBG484I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUSPRO-NX 484BGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFCPNX-100-9ASG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUSPRO-NX 256WLP",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFD2NX-40-7BG256A",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUS-NX Q100 256BGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFD2NX-40-7MG121I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUS-NX 121BGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFD2NX-40-9BG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 192 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFD2NX-40-9MG121C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CERTUS-NX 121BGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-25F-6BG256C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 197 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-25F-7TG144C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA ECP5 24K LUT 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-45F-8TG144I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA ECP5 43K LUT 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-85F-8BG381C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 205 I/O 381CABGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-85F-8BG381I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 205 I/O 381CABGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFE5U-85F-8MG285I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 118 I/O 285CSFBGA",
+  "pkg": "285-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFMXO5-25-7BBG400I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "FPGA MACHXO5-NX W/FLASH 400BGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFXP2-17E-6FN484I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 358 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFXP2-30E-5FTN256C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 201 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFXP2-30E-5FTN256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 201 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LFXP2-8E-6FTN256C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 201 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIF-MD6000-6UMG64I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 29 I/O 64UCFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIF-MDF6000-6KMG80I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA MIPIDPHY BRDGFLASH 80BGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-17-7SG72C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 40 I/O 72QFN",
+  "pkg": "72-VFQFN Exposed Pad",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-17-7UWG72C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA CROSSLINK-NX 72WLCS",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-17-8UWG72C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 40 I/O 72WLCSP",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-17-8UWG72I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 40 I/O 72WLCSP",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-33-8USG84C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "FPGA XLNKNX 2.5G MIPIDPHY 84WLCS",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-33-8USG84I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "FPGA XLNKNX 2.5G MIPIDPHY 84WLCS",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-33U-8USG84I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "LATTICE CROSSLINK-NX EMBEDDED VI",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-33U-9CTG104C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "FPGA NX VISION USB3 AON 104CSP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-33U-9CTG104I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "FPGA NX VISION USB3 AON 104CSP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-40-7BG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 163 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-40-9BG256I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 163 I/O 256CABGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-40-9MG121C",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 72 I/O 121CSFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-40-9MG121I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 72 I/O 121CSFBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LIFCL-40-9MG289I",
+  "brand": "LATTICE SEMICONDUCTOR CORPORATION",
+  "category": "IC",
+  "description": "IC FPGA 180 I/O 289CSFBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL005-TQG144",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 84 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL005-VF256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 161 I/O 256FBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL005-VFG256",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 161 I/O 256FBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL005-VFG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 161 I/O 256FBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL010-VFG256I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 138 I/O 256FBGA",
+  "pkg": "256-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL010-VFG400I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 195 I/O 400VFBGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL025-FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL025-VFG400",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 195 I/O 400VFBGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL025-VFG400I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 195 I/O 400VFBGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL050-FG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL050-VFG400I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 207 I/O 400VFBGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL060-FCSG325I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 200 I/O 324CSBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL060-FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL060-VFG400I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 207 I/O 400VFBGA",
+  "pkg": "400-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL060T-1FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL090-FG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M2GL090-FGG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 267 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPF100T-FCSG325I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 325FPGA",
+  "pkg": "325-LFBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPF100T-FCVG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 284 I/O 484FBGA",
+  "pkg": "484-BFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPF100TC-FCG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "POLARFIRE CORE FPGA, 109KLES",
+  "pkg": "484-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPF200T-FCVG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 284 I/O 484FBGA",
+  "pkg": "484-BFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MPF300T-FCG484I",
+  "brand": "Microchip",
+  "category": "IC",
+  "description": "IC FPGA 244 I/O 484FCBGA",
+  "pkg": "484-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T120F324I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 324FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T120F484I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T120 256IO 484FBGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T120F576C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 278 I/O 576FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T13F169C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 73 I/O 169FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T13F169I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 73 I/O 169FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T13F256C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T13 195 IO 256FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T13F256I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T13 195 IO 256FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T13Q100F3I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA/CPLD TRION W/FLASH 100QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F169C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 73 I/O 169FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F169I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 73 I/O 169FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F256C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 195 IO 256FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F256C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 195 IO 256FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F256I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 195 IO 256FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20F324I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 130 IO 324FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20Q100F3C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA/CPLD TRION W/FLASH 100QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20Q100F3C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA/CPLD TRION W/FLASH 100QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20Q144C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 144QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20Q144C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 144QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20Q144I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T20 144QFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T20W80I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 33 I/O 80WLCSP",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T35F324I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T35 130 IO 324FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
  }
 ]
