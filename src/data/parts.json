@@ -51198,5 +51198,4005 @@
   "description": "IC FPGA TRION T35 130 IO 324FBGA",
   "pkg": "VFBGA",
   "lifecycle": ""
+ },
+ {
+  "pn": "T35F400C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T35 230 IO 400FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T35F400I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T35 230 IO 400FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55F324C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 130 I/O 324FBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55F484C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T55 256 IO 484FBGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T55F484C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T55 256 IO 484FBGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T85F484C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA 256 I/O 484FBGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T85F484I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T85 256 IO 484FBGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T8F49I2X",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T8 33 I/O 49FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T8F81I2X",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T8 55 I/O 81FBGA",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T8Q144C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T8 97 I/O 144LQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T8Q144C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T8 97 I/O 144LQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "T8Q144I4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "IC FPGA TRION T8 97 I/O 144LQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI180G400C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITANM 74HVIO 640DSP 400BGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI180J484C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 80GPIO 640DSP 484BGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI375N484I3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 16TX 370KLE 484BGA",
+  "pkg": "484-LFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI60F100S3F2I3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 61HSIO 3PLL 100BGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI60F100S3F2I3L",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 61HSIO 3PLL LP 100BGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI60F225I3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 140HSIO 4PLL 225BGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI60F256C4",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 140HSIO 4PLL 256BGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TI90J361C3",
+  "brand": "EFINIX, INC.",
+  "category": "IC",
+  "description": "FPGA TITAN 80GPIO 336DSP 361BGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XA7A100T-1CSG324Q",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XA7S50-1CSGA324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 250 I/O 324CSGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX100-3FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 326 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX150-2FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 338 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2CPG196I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 106 I/O 196CSBGA",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2CSG225C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 160 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2CSG225I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 160 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2CSG324C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 232 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 232 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-2FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX16-3FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-2FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 266 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-2FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-2FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-3CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 226 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-3FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 266 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25-3FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX25T-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 190 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX4-2CSG225C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 132 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX4-2TQG144C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX4-2TQG144I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45-2CSG324C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 218 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 218 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45-2FGG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 316 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45-3CSG324C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 218 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45-3CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 218 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45T-2FGG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 296 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45T-3FG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 296 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX45T-3FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 296 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-2FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 280 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-2FGG676C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 408 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-2FGG676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 408 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-3CSG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 328 I/O 484CSBGA",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-3FGG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 280 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75-3FGG676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 408 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX75T-3FGG676C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 348 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2CSG225I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 160 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 200 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 186 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2TQG144C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-2TQG144I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-3CSG225I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 160 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-3TQG144C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6SLX9-3TQG144I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 102 I/O 144TQFP",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-1CSG324C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-1FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-2FG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-2FGG676C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-3CSG324E",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A100T-3FTG256E",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A15T-1CPG236C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 106 I/O 238CSBGA",
+  "pkg": "238-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A15T-1FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 250 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A15T-2CSG325C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 150 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A15T-2FTG256I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A200T-1FBG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FCBGA",
+  "pkg": "484-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A200T-2FBG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FCBGA",
+  "pkg": "484-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A200T-2FFG1156C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 500 I/O 1156FCBGA",
+  "pkg": "1156-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A200T-2FFG1156I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 500 I/O 1156FCBGA",
+  "pkg": "1156-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A35T-1CPG236C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 106 I/O 238CSBGA",
+  "pkg": "238-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A35T-2CPG236C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 106 I/O 238CSBGA",
+  "pkg": "238-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A35T-2CSG325I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 150 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A35T-2FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A50T-1FTG256C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 170 I/O 256FTBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A50T-2CSG324C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A50T-2CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A50T-2FGG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 250 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A75T-1CSG324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A75T-2FGG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A75T-2FGG484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A75T-2FGG676C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7A75T-2FGG676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 676FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7K160T-2FFG676C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 400 I/O 676FCBGA",
+  "pkg": "676-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7K160T-2FFG676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 400 I/O 676FCBGA",
+  "pkg": "676-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7K70T-1FBG484C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 285 I/O 484FCBGA",
+  "pkg": "484-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7K70T-1FBG676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 300 I/O 676FCBGA",
+  "pkg": "676-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S15-1CSGA225I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S25-1CSGA324Q",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 150 I/O 324CSGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S25-2FTGB196I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 196CSBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S50-1FGA484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 250 I/O 484FBGA",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S50-2CSGA324I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 210 I/O 324CSBGA",
+  "pkg": "324-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S50-2FGGA484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 250 I/O 484FBGA",
+  "pkg": "484-BBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S50-2FTGB196C",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 196CSBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S50-L1FTGB196I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 196CSBGA",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC7S6-1CSGA225I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA 100 I/O 225CSBGA",
+  "pkg": "225-LFBGA, CSPBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCAU10P-2FFVB676I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA ARTIXUP 676BGA",
+  "pkg": "676-BBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCAU10P-2SBVB484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA ARTIXUP 484BGA",
+  "pkg": "484-BFBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCAU15P-1SBVB484I",
+  "brand": "AMD",
+  "category": "IC",
+  "description": "IC FPGA ARTIXUP 484BGA",
+  "pkg": "484-BFBGA, FCBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM321T5",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Amplifier",
+  "description": "LM321T5",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM258P8",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Amplifier",
+  "description": "LM258P8",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HA4558P8",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Amplifier",
+  "description": "HA4558P8",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358P8",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Amplifier",
+  "description": "LM358P8",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358",
+  "brand": "MSKSEMI(美森科)",
+  "category": "Amplifier",
+  "description": "增益带宽(GBP):1.2MHz VIO:5mV  LM358",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM321MF",
+  "brand": "UMW(友台半导体)",
+  "category": "Amplifier",
+  "description": "低功耗放大器",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358DR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "单电源双运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "行业标准双路运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2904DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "双通道运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM321MFX/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "低功耗单运算放大器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "四路运算放大器",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV9061IDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "适用于成本敏感型系统的10MHz、轨到轨输入输出（RRIO）CMOS运算放大器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM258DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "行业标准双路运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE5532DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "低噪声双运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358ADR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "行业标准双路运算放大器",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV358IDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "低电压轨到轨输出运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2904DR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "单电源双运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM358BIDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "行业标准双路运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6001T-I/OT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Amplifier",
+  "description": "1 MHz 低功耗运算放大器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6002T-I/SN",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Amplifier",
+  "description": "1 MHz 低功耗运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV9062IDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "适用于成本敏感型系统的10MHz、轨到轨输入输出（RRIO）CMOS运算放大器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2902DR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "单电源四路运算放大器",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV324IDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "低电压轨到轨输出运算放大器",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL331IDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "单通道差分比较器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV331IDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "通用低压比较器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "双通道差分比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM339DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "四路差分比较器",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV3201AIDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "40纳秒低功耗推挽输出比较器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393DR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "低失调电压双比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2903DR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "低失调电压双比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2903DR",
+  "brand": "UMW(友台半导体)",
+  "category": "Amplifier",
+  "description": "宽单电源范围比较器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM311DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "LM311DR",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV3501AIDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "TLV350x 4.5纳秒，轨到轨，高速比较器在微型封装中",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393ADR",
+  "brand": "UMW(友台半导体)",
+  "category": "Amplifier",
+  "description": "低功耗、低失调电压双路比较器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393",
+  "brand": "MSKSEMI(美森科)",
+  "category": "Amplifier",
+  "description": "单电源电压范围:2V~32V LM393",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM293DR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "双路差分比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393BIDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "双路比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM339PWR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "四路差分比较器",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM339",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "Amplifier",
+  "description": "四路差动比较器",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393A-SR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "Amplifier",
+  "description": "36V 低功耗双路差分比较器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM239DR(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "Amplifier",
+  "description": "LM239DR",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV331M5X",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "Amplifier",
+  "description": "通用型低压比较器",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM393DTR(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "Amplifier",
+  "description": "双路精密电压比较器，最大偏移电压 2.0mV，典型静态功耗 0.4mA",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMV331IDCKR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "通用低电压比较器",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2901YPT",
+  "brand": "ST(意法半导体)",
+  "category": "Amplifier",
+  "description": "低功耗四电压比较器",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV3201AIDCKR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "40纳秒低功耗推挽输出比较器",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV3502AIDR",
+  "brand": "TI(德州仪器)",
+  "category": "Amplifier",
+  "description": "TLV350x 4.5纳秒，轨到轨，高速比较器在微型封装中",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HR1117V-3.3",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "低压差线性稳压器，分固定电压输出和可调电压输出版本",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HR1117V-5.0",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "低压差线性稳压器，分固定电压输出和可调电压输出版本",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HR73L50V",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "低 dropout 线性稳压器，兼容低 ESR 陶瓷电容，具备短路保护和限流功能，低功耗",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HR78L33V",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "三端正电压调节器，具备限流和热关断功能，可替代齐纳二极管-电阻组合",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117-3.3",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 1A 12V",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "78L05",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 100mA 30V",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "78M05",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 1A 35V",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117-3.3S",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 1A 18V",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6206P332MR",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 250mA 8V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117-3.3V",
+  "brand": "MSKSEMI(美森科)",
+  "category": "Regulator",
+  "description": "3.3V 1A 15V",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7533-1",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 100mA 30V",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM317G",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "1.2V~37V 2.2A 40V",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC6219B332MR",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 300mA 7V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7550-1",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 100mA 30V",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CJ78M05",
+  "brand": "CJ(江苏长电/长晶)",
+  "category": "Regulator",
+  "description": "5V 500mA 35V",
+  "pkg": "TO-252-2L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLV75733PDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.3V 1A 5.5V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS7A2033PDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.3V 300mA 6V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CJ7805 3%",
+  "brand": "CJ(江苏长电/长晶)",
+  "category": "Regulator",
+  "description": "5V 1.5A 35V",
+  "pkg": "TO-252-2(DPAK)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7533S",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "3.3V 100mA 30V",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117-5.0",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 1A 12V",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPSPX3819M5-L-3-3",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "Regulator",
+  "description": "3.3V 500mA 20V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "78M12",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "12V 35V",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CV(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 1.2A 20V",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM1117IMPX-3.3/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.3V 800mA 15V",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7805CDT(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "5V 1.2A 35V",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADE9430ACPZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "高性能、多相电能和S类电源质量监控IC",
+  "pkg": "LFCSP-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CL7601",
+  "brand": "CHIPLINK(芯联)",
+  "category": "IC",
+  "description": "CMOS降压恒流LED驱动IC，具备PWM/PFM自动切换、低纹波、高效率、内置保护电路，适合移动设备电源",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ZS-IVCI-2A-3-RS485-S",
+  "brand": "ZS(中盛科技)",
+  "category": "IC",
+  "description": "ZS(中盛科技) 全隔离模拟量采集电压电流输入模块通道隔离5V10V30V/4-20mA转485",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RAA270000KFT#HA2",
+  "brand": "RENESAS(瑞萨)/IDT",
+  "category": "IC",
+  "description": "通用电源管理IC",
+  "pkg": "QFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SY8113B1ADC",
+  "brand": "Silergy(矽力杰)",
+  "category": "IC",
+  "description": "模拟IC产品，包括DC/DC、AC/DC、PMIC、LED照明、BMS等",
+  "pkg": "TSOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SY8121B1ABC",
+  "brand": "Silergy(矽力杰)",
+  "category": "IC",
+  "description": "模拟IC产品，包括DC/DC、AC/DC、PMIC、LED照明、BMS等",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SY83086ARHC",
+  "brand": "Silergy(矽力杰)",
+  "category": "IC",
+  "description": "模拟IC产品，包括DC/DC、AC/DC、PMIC、LED照明、BMS等",
+  "pkg": "QFN-16(2.5x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM5170QPHPRQ1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "LM5170-Q1多相双向电流控制器",
+  "pkg": "HTQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CDM10VD2XTSA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "0-10V调光解决方案",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BU4052BCFV-E2",
+  "brand": "ROHM(罗姆)",
+  "category": "IC",
+  "description": "通用CMOS逻辑IC，双4通道模拟多路复用器/解复用器",
+  "pkg": "SSOP-B16-4.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XD14053",
+  "brand": "XINLUDA(信路达)",
+  "category": "IC",
+  "description": "多路复用开关 IC",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DA14691-00000HQ2",
+  "brand": "RENESAS(瑞萨)/IDT",
+  "category": "IC",
+  "description": "带完整系统电源管理单元（PMU）的多核蓝牙5.2片上系统（SoC）系列",
+  "pkg": "VFBGA-86",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SGM48751YTS16G/TR",
+  "brand": "SGMICRO(圣邦微)",
+  "category": "IC",
+  "description": "8 1 CMOS模拟信号多路复用器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS65051QRSMRQ1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有2个降压转换器和4个低输入电压LDO的6通道电源管理IC",
+  "pkg": "VQFN-32-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HI1826JCQ",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "HI1826JCQ",
+  "pkg": "MQFP-32(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DRV5053VAQDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "双极霍尔效应传感器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS65053IRGERQ1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "降压型 2.5V~6V",
+  "pkg": "VQFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS650732TRSLRQ1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "TPS650732TRSLRQ1",
+  "pkg": "VQFN-48-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FP8013XR-G11",
+  "brand": "Advanced Analog Technology(类比)",
+  "category": "Amplifier",
+  "description": "3A零压差LED降压恒流驱动芯片",
+  "pkg": "SOP-8(EP)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AX8115A",
+  "brand": "Lingyang Micro(凌扬微)",
+  "category": "Amplifier",
+  "description": "降压恒流LED驱动芯片",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AX8501",
+  "brand": "Lingyang Micro(凌扬微)",
+  "category": "Amplifier",
+  "description": "多功能的LED降压恒流驱动芯片",
+  "pkg": "SOP-8L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBI6655GSB-B",
+  "brand": "MBI(台湾聚积)",
+  "category": "Amplifier",
+  "description": "1安培，高效率之降压式LED驱动芯片",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A6211GLJTR-T",
+  "brand": "ALLEGRO(美国埃戈罗)",
+  "category": "Amplifier",
+  "description": "输出2A 降压型驱动",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A6217KLJTR-T",
+  "brand": "ALLEGRO(美国埃戈罗)",
+  "category": "Amplifier",
+  "description": "输出3A 降压型驱动",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6115B",
+  "brand": "XDS(芯鼎盛)",
+  "category": "Amplifier",
+  "description": "输出5A PWM调光",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6410B",
+  "brand": "XDS(芯鼎盛)",
+  "category": "Amplifier",
+  "description": "输出2A PWM调光",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HI7001",
+  "brand": "Hichips(智芯)",
+  "category": "Amplifier",
+  "description": "DC恒流调光IC/内置 MOS",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8018",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "降压型LED恒流驱动器",
+  "pkg": "ESOP-8L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8525",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "内置MOS平均电流型LED降压恒流驱动器",
+  "pkg": "ESOP-8L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Hi7016",
+  "brand": "Hichips(智芯)",
+  "category": "Amplifier",
+  "description": "多功能平均电流型LED恒流驱动器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6128",
+  "brand": "XDS(芯鼎盛)",
+  "category": "Amplifier",
+  "description": "输出1A PWM调光",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "Hi2601B",
+  "brand": "Hichips(智芯)",
+  "category": "Amplifier",
+  "description": "DC-DC降压恒流驱动IC/常亮/内置MOS",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PT4115BGR",
+  "brand": "GMIC(绿微)",
+  "category": "Amplifier",
+  "description": "用于驱动LED的连续导通模式电感降压转换器，具有单引脚开/关和亮度控制、开路LED保护、高效率等特性",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8025AF",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "平均电流型LED降压恒流驱动器",
+  "pkg": "ESOP-8L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN3360GP05E",
+  "brand": "SI-EN(矽恩)",
+  "category": "Amplifier",
+  "description": "降压型驱动",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SY8745FCC",
+  "brand": "Silergy(矽力杰)",
+  "category": "Amplifier",
+  "description": "10-60V输入，500kHz白光LED驱动器",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8556N",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "外置MOS平均电流型LED降压恒流驱动器",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8816B",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "内置MOS平均电流型LED降压恒流驱动器",
+  "pkg": "ESOP-8L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6122",
+  "brand": "XDS(芯鼎盛)",
+  "category": "Amplifier",
+  "description": "输出2A PWM调光",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8308",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "内置MOS平均电流型LED降压恒流驱动器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT7202",
+  "brand": "MAXIC(美芯晟)",
+  "category": "Amplifier",
+  "description": "1.5A内置功率管LED恒流驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8756",
+  "brand": "TPOWER(天源)",
+  "category": "Amplifier",
+  "description": "外置MOS平均电流型LED降压恒流驱动器",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OC5038",
+  "brand": "OCX(欧创芯)",
+  "category": "Amplifier",
+  "description": "内置MOS开关降压型LED恒流驱动器",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OC5220",
+  "brand": "OCX(欧创芯)",
+  "category": "Amplifier",
+  "description": "多功能平均电流型LED恒流驱动器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OC5228",
+  "brand": "OCX(欧创芯)",
+  "category": "Amplifier",
+  "description": "多功能平均电流型LED恒流驱动器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT7201C+",
+  "brand": "MAXIC(美芯晟)",
+  "category": "Amplifier",
+  "description": "1A内置功率管LED恒流驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN3350IP05E-01",
+  "brand": "ISSI(北京矽成)",
+  "category": "Amplifier",
+  "description": "40V集成功率管LED驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCL31001MNITWG",
+  "brand": "onsemi(安森美)",
+  "category": "Amplifier",
+  "description": "全连接式LED驱动电源解决方案",
+  "pkg": "QFN-48-EP(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HE9009M6R",
+  "brand": "HEERMICR(赫尔半导体)",
+  "category": "Regulator",
+  "description": "电荷泵升压 Vin=2.7V~5.5V Vout=5V 250mA DC-DC电源芯片",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61500PWP",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "单芯片开关稳压器用于高亮度LED驱动",
+  "pkg": "HTSSOP-14-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HE9008M6R",
+  "brand": "HEERMICR(赫尔半导体)",
+  "category": "Regulator",
+  "description": "电荷泵升压 Vin=1.8V~5.0V Vout=3.3V 250mA DC-DC电源芯片",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SL4139",
+  "brand": "Slkor(萨科微)",
+  "category": "Regulator",
+  "description": "32V大电流白光LED驱动芯片",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT3966JUJ#TRPBF",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "I2C 可编程四通道单芯片升压发光二极管驱动器",
+  "pkg": "QFN-40-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT3966JUJ#PBF",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "I2C 可编程四通道单芯片升压发光二极管驱动器",
+  "pkg": "QFN-40-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT3966EUJ#TRPBF",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "I2C 可编程四通道单芯片升压发光二极管驱动器",
+  "pkg": "QFN-40-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AL3353S-13",
+  "brand": "DIODES(美台)",
+  "category": "Regulator",
+  "description": "高性能升压型LED控制器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6211",
+  "brand": "XDS(芯鼎盛)",
+  "category": "Regulator",
+  "description": "输出3A PWM调光 升压型驱动",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3019AKTR-G1",
+  "brand": "DIODES(美台)",
+  "category": "Regulator",
+  "description": "输出550mA 升压型驱动",
+  "pkg": "TSOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OC6801B",
+  "brand": "OCX(欧创芯)",
+  "category": "Regulator",
+  "description": "升压/升降压型DC-DC控制器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS63030EP",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "Regulator",
+  "description": "输出0.5A 模拟调光 升压型驱动",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MSAP3019AKTR-G1",
+  "brand": "MSKSEMI(美森科)",
+  "category": "Regulator",
+  "description": "固定频率恒定电流升压DC/DC控制器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS63030B6",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "Regulator",
+  "description": "输出0.5A 模拟调光 升压型驱动",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3602AKTR-G1",
+  "brand": "DIODES(美台)",
+  "category": "Regulator",
+  "description": "100mA 稳压电荷泵",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "OC6700B",
+  "brand": "OCX(欧创芯)",
+  "category": "Regulator",
+  "description": "内置60V功率MOS升压型LED恒流驱动器",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ME2212AM6G",
+  "brand": "MICRONE(南京微盟)",
+  "category": "Regulator",
+  "description": "升压型驱动",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MP3389EF-LF-Z",
+  "brand": "MPS(芯源)",
+  "category": "Regulator",
+  "description": "高效率小尺寸5V至28V输入电压范围的12串WLED平衡驱动器",
+  "pkg": "TSSOP-28-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ME2106F20P5G",
+  "brand": "MICRONE(南京微盟)",
+  "category": "Regulator",
+  "description": "1W升压型DC/DC白光LED驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV78702MW0AR2G",
+  "brand": "onsemi(安森美)",
+  "category": "Regulator",
+  "description": "用于汽车前照灯的多相升压式LED驱动器",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LN2115B025MR-G",
+  "brand": "natlinear(南麟)",
+  "category": "Regulator",
+  "description": "PWM 控制的 LED 驱动器",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ZXSC380FHTA",
+  "brand": "DIODES(美台)",
+  "category": "Regulator",
+  "description": "单节或多节 LED 驱动器解决方案",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT3966EUJ#PBF",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "I2C可编程四通道单片升压LED驱动器",
+  "pkg": "QFN-40-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ME2106F10P5G",
+  "brand": "MICRONE(南京微盟)",
+  "category": "Regulator",
+  "description": "线性LED恒流驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HV9911NG-G-M934",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Regulator",
+  "description": "具有高电流精度的开关模式LED驱动IC",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HS34063AP8",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "HS34063AP8",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS63020DSJR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "升降压型 3A 1.8V~5.5V",
+  "pkg": "VSON-14-EP(3x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS631000DRLR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "升降压型 2A 1.6V~5.5V",
+  "pkg": "SOT-583",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61040DBVR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "升压型 400mA 1.8V~6V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS63900DSKR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "升降压型 400mA 1.8V~5.5V",
+  "pkg": "WSON-10-EP(2.5x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431A",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "TL431A",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431B",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "TL431B",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431D",
+  "brand": "R+O(宏嘉诚)",
+  "category": "Regulator",
+  "description": "TL431D",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CJ431",
+  "brand": "CJ(江苏长电/长晶)",
+  "category": "Regulator",
+  "description": "并联 50ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR4525BRZ-R7",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "3V~15V 串联 950uA 2ppm/℃",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3033AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.35V~5.5V 串联 50uA 75ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "并联",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3012AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "1.8V~5.5V 串联 50uA 75ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF5025AIDR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.7V~18V 串联 1.2mA 8ppm/℃",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3030AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.05V~5.5V 串联 50uA 75ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3020AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.098V~5.5V 串联 50uA 75ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3040AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "4.097V~5.5V 串联 42uA 75ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3125AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.55V~5.5V 串联 135uA 20ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF5050AIDR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "5.2V~18V 串联 800uA 8ppm/℃",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431ACDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.495V~36V 并联",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL432 0.5%",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "并联 1.5uA",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR381ARTZ-REEL7",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "2.8V~18V 串联 140uA 25ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF2033AIDDCR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.32V~5.5V 串联 360uA 8ppm/℃",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431A-MS",
+  "brand": "MSKSEMI(美森科)",
+  "category": "Regulator",
+  "description": "2.5V~36V 并联 25ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ431AN-ATRE1",
+  "brand": "DIODES(美台)",
+  "category": "Regulator",
+  "description": "并联 20ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF5025AIDGKR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.7V~18V 串联 1.2mA 8ppm/℃",
+  "pkg": "VSSOP-8-0.65mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TL431BIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "2.5V~36V 并联",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040C25FTA-TP",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "Regulator",
+  "description": "并联 45uA 100ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3312AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "1.8V~5.5V 串联 8.5uA 30ppm/℃",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR3425ARJZ-R7",
+  "brand": "ADI(亚德诺)",
+  "category": "Regulator",
+  "description": "2.7V~5.5V 串联 100uA 8ppm/℃",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "REF3130AIDBZR",
+  "brand": "TI(德州仪器)",
+  "category": "Regulator",
+  "description": "3.05V~5.5V 串联 135uA 20ppm/℃",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2576C5-ADJ",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "LM2576C5-ADJ",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2576C5-5.0",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "LM2576C5-5.0",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2596HC5-ADJ",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "LM2596HC5-ADJ",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2576HC5-12",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "LM2576HC5-12",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MP4583GQVE-Z",
+  "brand": "MPS(芯源)",
+  "category": "IC",
+  "description": "降压型 3A 4.5V~100V",
+  "pkg": "QFN-19(3x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP4054",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "TP4054",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP4054H",
+  "brand": "R+O(宏嘉诚)",
+  "category": "IC",
+  "description": "TP4054H",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2596S-5.0(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "降压型 3A 7V~40V",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP4056",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "1A独立式线性锂离子电池充电器",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XL1509-5.0",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "降压型 2A 4.5V~40V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MP9931GR-Z",
+  "brand": "MPS(芯源)",
+  "category": "IC",
+  "description": "100V输入同步降压控制器",
+  "pkg": "QFN-23(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS5430DDAR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "降压型 3A 5.5V~36V",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2576HVS-5.0(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "降压型 3A 8V~60V",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ76952PFBR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于锂离子、锂聚合物和磷酸铁锂电池组的3节至16节串联高精度电池监控器和保护器",
+  "pkg": "TQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ4050RSMR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "1至4节锂电池组电量计和保护解决方案",
+  "pkg": "VQFN-32-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ40Z50RSMR-R1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "锂离子电池组管理器及保护电路",
+  "pkg": "VQFN-32-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IP5306",
+  "brand": "INJOINIC(英集芯)",
+  "category": "IC",
+  "description": "集成2.1A充电器和2.1A放电器的移动电源系统级芯片",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ27Z746YAHR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于单芯锂离子电池组的ImpedanceTrack技术电池电量监测计和保护解决方案",
+  "pkg": "DSBGA-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ79616PAPRQ1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "功能安全合规型汽车类16/14/12节串联电池监测器、平衡器和集成硬件保护器",
+  "pkg": "HTQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ40Z50RSMR-R2",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "1节、2节、3节和4节串联锂离子电池组管理器",
+  "pkg": "VQFN-32-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ7693003DBTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "电池监测系列产品，适用于锂离子和磷酸盐应用",
+  "pkg": "TSSOP-30",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DW01A",
+  "brand": "PUOLOP(迪浦)",
+  "category": "IC",
+  "description": "单节锂离子/锂聚合物电池保护IC",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ40Z80RSMR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "2 - 6节锂离子电池组管理器",
+  "pkg": "VQFN-32-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ76907RGRR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "2 至 7 串锂离子、锂聚合物、磷酸铁锂和钛酸锂电池组高精度电池监测器和保护器",
+  "pkg": "VQFN-20-EP(3.5x3.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ78350DBTR-R1A",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "CEDV 锂离子电量计和电池管理控制器",
+  "pkg": "TSSOP-30",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DW01",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "锂离子/锂聚合物电池保护IC",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ7692003PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "3 - 15 节电池监控器系列用于锂离子和磷酸盐应用",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ25570RGRR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于能量收集器供电应用的微功率升压充电器与降压转换器",
+  "pkg": "VQFN-20-EP(3.5x3.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP6683",
+  "brand": "ALLPOWER(铨力)",
+  "category": "IC",
+  "description": "单节锂离子和锂聚合物电池保护集成电路",
+  "pkg": "DFN-4-EP(1x1)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ29706DSER",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "电压和电流保护集成电路（适用于单节锂离子/锂聚合物电池）",
+  "pkg": "WSON-6(1.5x1.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ7790509PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "3 - 20节串联超低功耗电压、电流、温度和断线可堆叠锂离子电池保护器",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MP2797DFP-0000-T",
+  "brand": "MPS(芯源)",
+  "category": "IC",
+  "description": "7 至 16 节电池高精度电量监测与保护芯片",
+  "pkg": "TQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX17320G22+",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "2S - 4S ModelGauge m5 EZ燃油计量表，带保护器、内部自放电检测和SHA - 256认证",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DW01-A/J",
+  "brand": "FM(富满)",
+  "category": "IC",
+  "description": "锂电池保护IC",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ28Z610DRZR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "用于1-2节串联锂离子电池组的电量监测计和保护解决方案",
+  "pkg": "SON-12-EP(2.5x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ7694003DBTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "bq769x0 3系列至15系列电池监测家族用于锂离子和磷酸盐应用",
+  "pkg": "TSSOP-44-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ27742YZFR-G1",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单节锂离子电池电量监测计",
+  "pkg": "DSBGA-15",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DW01A-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "单节锂电池保护IC",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ7695204PFBR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于锂离子、锂聚合物和磷酸铁锂电池组的3节至16节串联高精度电池监控器和保护器",
+  "pkg": "TQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CAT811STBI-GT3-MS",
+  "brand": "MSKSEMI(美森科)",
+  "category": "IC",
+  "description": "通用电压检测器",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809S",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809T",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809R",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPAX809RS3",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5621BKSZ-REEL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "2.7 V 至 5.5 V，<100 uA，8/10/12 位 nanoDAC，SPI 接口，LFCSP 和 SC70 封装",
+  "pkg": "SOT-363-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809L",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SP3490EN-L/TR(ES)",
+  "brand": "ElecSuper(静芯)",
+  "category": "IC",
+  "description": "3.0~5.5V宽电压供电全双工RS422收发器；应用领域：工业自动化（PLC/DCS）、楼宇自动化（楼宇自控/智能家居）、电力系统(智能抄表/采集数据)、交通控制、安防监控（视频监控/门禁系统）、医疗设备、环境检测",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSP61CN2802MR",
+  "brand": "Siproin(上海矽朋)",
+  "category": "IC",
+  "description": "低功耗电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSP61CC2702MR",
+  "brand": "Siproin(上海矽朋)",
+  "category": "IC",
+  "description": "低功耗电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSP61CC3002MR",
+  "brand": "Siproin(上海矽朋)",
+  "category": "IC",
+  "description": "低功耗电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7044A-1",
+  "brand": "HOLTEK(合泰/盛群)",
+  "category": "IC",
+  "description": "TinyPower电压检测器",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809S-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "微处理器电压检测复位芯片",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS3897ADRYR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单通道、可调电压监控器",
+  "pkg": "SON-6(1x1.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMP811R-TD",
+  "brand": "TDSEMIC(拓电半导体)",
+  "category": "IC",
+  "description": "低电压复位检测器",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS3803-01DCKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "电压检测器",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SSP61CC2302MR",
+  "brand": "Siproin(上海矽朋)",
+  "category": "IC",
+  "description": "低功耗电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7050S",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "三端口低压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7050A-1",
+  "brand": "HOLTEK(合泰/盛群)",
+  "category": "IC",
+  "description": "TinyPower电压检测器",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPTCM809RVLB713",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "IC",
+  "description": "3引脚微处理器复位电路，无需外部组件，具备Vcc瞬态抗扰性，推挽低电平有效复位输出",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BD5230G-TR",
+  "brand": "ROHM(罗姆)",
+  "category": "IC",
+  "description": "高精度、低功耗、电容控制延时电压检测IC",
+  "pkg": "SSOP-5-1.6mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT7033S",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "低电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CAT811TTBI-GT3-MS",
+  "brand": "MSKSEMI(美森科)",
+  "category": "IC",
+  "description": "通用电压检测器",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACS37800KMACTR-030B3-I2C",
+  "brand": "ALLEGRO(美国埃戈罗)",
+  "category": "IC",
+  "description": "隔离式数字输出功率监测IC，具备过零检测、过流和过压标记功能",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT9523CT-30BF3",
+  "brand": "NOVOSENSE(纳芯微)",
+  "category": "IC",
+  "description": "250kHz，2.5kV隔离电压，SOP-8封装的全集成式霍尔线性电流传感器芯片",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APX809S05-29SA-7",
+  "brand": "DIODES(美台)",
+  "category": "IC",
+  "description": "3引脚微功率电压检测器",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3791",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "具有太阳能电池最大功率点跟踪功能的4A单节锂电池充电管理集成电路",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TC4056A.",
+  "brand": "FM(富满)",
+  "category": "IC",
+  "description": "单节锂离子电池充电管理芯片",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX5817",
+  "brand": "XDS(芯鼎盛)",
+  "category": "IC",
+  "description": "双节锂电池充电管理芯片，26V耐压，5V/9V适配器自动识别",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS4056HDA",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "IC",
+  "description": "输入高耐压1A线性锂电池充电管理芯片",
+  "pkg": "DFN-8(2x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP73831T-2ACI/OT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单节锂离子/锂聚合物充电管理控制器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP4056H-TD",
+  "brand": "TDSEMIC(拓电半导体)",
+  "category": "IC",
+  "description": "线性充电管理 1A 线性锂电池充电芯片",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP73831T-2DCI/OT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单节全集成锂离子/锂聚合物充电管理控制器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3765",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "4A多类型电池充电管理集成电路",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SLM6900",
+  "brand": "无锡松朗微",
+  "category": "IC",
+  "description": "A档 三节/四节锂电池充电管理IC",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP73832T-2ACI/OT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单节锂离子/锂聚合物充电管理控制器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ51013BRHLR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "高度集成的无线接收器Qi（WPC V1.1）兼容电源",
+  "pkg": "VQFN-20(4.5x3.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3722",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "具有太阳能电池最大功率点跟踪功能的5A多类型电池充电管理集成电路",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3763",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "4A三节锂电池充电管理集成电路",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ25611DRTWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单节锂电池和锂聚合物电池3A开关模式电池充电管理和系统电源路径管理器件",
+  "pkg": "WQFN-24(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP73871T-2CCI/ML",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "独立系统负载共享和锂离子/锂聚合物电池充电管理控制器",
+  "pkg": "QFN-20-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3163",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "可用太阳能板供电的锂电池充电管理芯片",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3795",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "具有太阳能电池最大功率点跟踪功能的多节电池充电管理集成电路",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS4056HEP",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "IC",
+  "description": "输入高耐压1A线性锂电池充电管理芯片",
+  "pkg": "ESOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3801",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "具有太阳能电池最大功率点跟踪功能的单节磷酸铁锂电池充电管理集成电路",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS5523",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "IC",
+  "description": "升压型3节锂电池充电管理器",
+  "pkg": "ESSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3165",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "可用太阳能板供电的锂电池充电管理芯片",
+  "pkg": "DFN-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SLM6300",
+  "brand": "无锡松朗微",
+  "category": "IC",
+  "description": "高耐压2.5A单节锂电池充电管理IC",
+  "pkg": "DFN-10-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP5000-QFN16",
+  "brand": "TOPPOWER(南京拓微)",
+  "category": "IC",
+  "description": "开关降压型锂电池充电管理芯片",
+  "pkg": "QFN-16-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP73831T-2ATI/OT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单节锂离子/锂聚合物充电管理控制器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX5818",
+  "brand": "XDS(芯鼎盛)",
+  "category": "IC",
+  "description": "双节和三节锂电池充电管理芯片，26V耐压，5V/9V电流自适应",
+  "pkg": "QFN-16(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3717",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "5A铅酸电池充电管理集成电路",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ25120AYFPR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于可穿戴设备和物联网的低高度集成式电池充电管理解决方案",
+  "pkg": "DSBGA-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CN3781",
+  "brand": "CONSONANCE(上海如韵)",
+  "category": "IC",
+  "description": "兼容USB接口4A单节锂电池充电管理",
+  "pkg": "SSOP-10-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS5522",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "IC",
+  "description": "升压型2节锂电池充电管理器",
+  "pkg": "ESSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ29700DSER",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单节锂离子和锂聚合物电池的经济型电压和电流保护集成电路",
+  "pkg": "WSON-6(1.5x1.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CAT809STBI-GT3-MS",
+  "brand": "MSKSEMI(美森科)",
+  "category": "IC",
+  "description": "电压检测芯片用于数字系统电源电压监控",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SY7200AABC",
+  "brand": "Silergy(矽力杰)",
+  "category": "IC",
+  "description": "30V高电流升压型LED驱动器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PT4115",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "30 V/1.2 A高调光比LED恒流驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3032KTR-G1",
+  "brand": "DIODES(美台)",
+  "category": "IC",
+  "description": "输出1.4A 升压型驱动",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AL8861Y-13",
+  "brand": "DIODES(美台)",
+  "category": "IC",
+  "description": "40V、1.5A降压型LED驱动器",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WS2811",
+  "brand": "worldsemi",
+  "category": "IC",
+  "description": "信号线，256级灰度，三通道，恒流LED驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SK9822",
+  "brand": "OPSCO(欧思科)",
+  "category": "IC",
+  "description": "PWM调光",
+  "pkg": "SMD-6P,5.5x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WS2814F",
+  "brand": "worldsemi",
+  "category": "IC",
+  "description": "单线256级灰度四通道恒流LED驱动IC",
+  "pkg": "FSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LN2401-TP",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "IC",
+  "description": "1A 降压型恒流、高效 LED 驱动器",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61165DRVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "高亮度白光LED驱动器",
+  "pkg": "WSON-6-EP(2x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BCR421UW6Q-7",
+  "brand": "DIODES(美台)",
+  "category": "IC",
+  "description": "输出350mA",
+  "pkg": "SOT-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HTM1650-TD",
+  "brand": "TDSEMIC(拓电半导体)",
+  "category": "IC",
+  "description": "带键盘扫描接口的LED驱动控制专用IC",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TX6121",
+  "brand": "XDS(芯鼎盛)",
+  "category": "IC",
+  "description": "PWM调光",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLC5973DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "3通道，12位，脉宽调制（PWM）恒定电流发光二极管（LED）驱动器，具有单线制接口 (EasySet)",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61165DBVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "高亮度白光LED驱动器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM3409HVMYX/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "LM3409, -Q1, LM3409HV, -Q1 P-FET 降压控制器，适用于高功率LED驱动器",
+  "pkg": "HVSSOP-10-EP-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WS2811F",
+  "brand": "worldsemi",
+  "category": "IC",
+  "description": "单线256级灰度三通道恒流LED驱动IC",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TP8005",
+  "brand": "TPOWER(天源)",
+  "category": "IC",
+  "description": "LED车灯IC",
+  "pkg": "SOT-89-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61169DCKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "采用PWM控制的38V高电流升压WLED驱动器",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RT9293BGJ6",
+  "brand": "RICHTEK(立锜)",
+  "category": "IC",
+  "description": "小封装、高性能、异步升压，适用于10 W LED驱动器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NSI45020AT1G",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "恒流调节器与LED驱动器",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NSI50010YT1G",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "恒流调节器与LED驱动器",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP5036RJVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "36/30通道12位PWM超低静态电流I²C RGB LED驱动器",
+  "pkg": "VQFN-46-EP(5x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS61500PWPR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具备多种调光方式的3A升压转换器，用于高亮度LED驱动器",
+  "pkg": "HTSSOP-14-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MP3202DJ-LF-Z",
+  "brand": "MPS(芯源)",
+  "category": "IC",
+  "description": "1.3A 固定频率白光 LED 驱动器",
+  "pkg": "TSOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BCR421UW6-7",
+  "brand": "DIODES(美台)",
+  "category": "IC",
+  "description": "采用SOT26封装的线性LED恒流调节器",
+  "pkg": "SOT-26",
+  "lifecycle": ""
+ },
+ {
+  "pn": "WS2811C",
+  "brand": "worldsemi",
+  "category": "IC",
+  "description": "信号线，256级灰度，三通道，恒流LED驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TM1650-SOP16-TA1809D",
+  "brand": "TM(天微)",
+  "category": "IC",
+  "description": "LED驱动控制专用电路",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LGS63042B5",
+  "brand": "Legend-Si(棱晶半导体)",
+  "category": "IC",
+  "description": "输出1A PWM调光 降压,升压型驱动",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2101STRPBF(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "IC",
+  "description": "半桥前级驱动 IC，可驱动 IGBT/N‑MOSFET，带欠压锁定与防交叉导通保护",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L6388ED013TR-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED020I12-F2",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单路 IGBT 驱动 IC",
+  "pkg": "DSO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DGD2304S8-13-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1EDI60N12AF",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道MOSFET栅极驱动IC",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "6EDL04I06PT-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-28-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2103STRPBF-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2304STRPBF-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2304STRPBF-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1EDI20I12MF",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道IGBT栅极驱动IC输出，带适用于IGBT的钳位型",
+  "pkg": "DSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LF2304NTR-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LN4201SF-G",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAN73901MX",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "高端和低端栅极驱动IC",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED020I12FA2",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单路 IGBT 驱动 IC",
+  "pkg": "DSO-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED3123MC12HXUMA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道5.7 kV(rms)隔离式栅极驱动器IC，带有源米勒钳位或独立输出",
+  "pkg": "DSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED3124MU12HXUMA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道5.7 kV（rms）隔离式栅极驱动器IC，带有源米勒钳位或独立输出",
+  "pkg": "DSO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAN7390MX",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "高电流、高端与低端栅极驱动IC",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "U2103S",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2183STRPBF-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS21834STRPBF-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TF21364M-TR",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "栅极驱动IC",
+  "pkg": "SOP-28-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED3321MC12NXUMA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道5.7kV(rms)隔离式栅极驱动IC，具备退饱和检测（DESAT）和软关断功能",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2007STRPBF",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "200-V 半桥栅极驱动器 IC，带 VCC 和 VBS 欠压锁定",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS20752LTRPBF",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "高端栅极驱动IC",
+  "pkg": "SOT-23-6L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED3491MC12MXUMA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道5.7 kV（有效值）隔离式栅极驱动IC，具备可调节的过饱和检测（DESAT）和软关断功能",
+  "pkg": "DSO-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAN7385MX",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "双通道高侧栅极驱动IC",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1ED3123MU12HXUMA1",
+  "brand": "Infineon(英飞凌)",
+  "category": "IC",
+  "description": "单通道5.7 kV (rms)隔离栅极驱动器IC，带有源米勒钳位或独立输出",
+  "pkg": "SOIC-8-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GT4426DTR",
+  "brand": "XBLW(芯伯乐)",
+  "category": "IC",
+  "description": "栅极驱动 IC，4.5‑25V 工作，2A 峰值输出，耐‑5V 负压，宽温带锁存保护，延时 40ns",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GT4427DTR",
+  "brand": "XBLW(芯伯乐)",
+  "category": "IC",
+  "description": "栅极驱动 IC，4.5‑25V 工作，2A 峰值输出，耐‑5V 负压，宽温带锁存保护，延时 40ns",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICP-20100",
+  "brand": "TDK InvenSense(应美盛)",
+  "category": "IC",
+  "description": "高精度、低功耗气压与温度传感IC",
+  "pkg": "LGA-10L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HX7219CDWRG",
+  "brand": "HGC(深圳汉芯)",
+  "category": "IC",
+  "description": "串行接口8位LED显示驱动IC",
+  "pkg": "SOIC-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9643AQCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单通道FXS解决方案",
+  "pkg": "QFN-36(4x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PEF32001VSV12",
+  "brand": "MaxLinear(迈凌)",
+  "category": "IC",
+  "description": "DXS101 用于CPE的电话芯片组",
+  "pkg": "QFN-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "JSM1302Z",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "串型实时时钟IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1302Z",
+  "brand": "Slkor(萨科微)",
+  "category": "IC",
+  "description": "串行实时时钟IC",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICP-10111",
+  "brand": "TDK InvenSense(应美盛)",
+  "category": "IC",
+  "description": "高精度、低功耗、防水型气压与温度传感IC",
+  "pkg": "LGA-8(2x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L9663-TR",
+  "brand": "ST(意法半导体)",
+  "category": "IC",
+  "description": "汽车PSl5收发器IC",
+  "pkg": "TQFP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ZL30253LDG1",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "3输入3输出任意到任意时钟乘法器和抖动衰减器IC",
+  "pkg": "QFN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PM4351-RGI",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "PMC COMET 综合 E1/T1/J1 收发器/帧生成器",
+  "pkg": "MQFP-80(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AiP1723SA32.TB",
+  "brand": "I-CORE(中微爱芯)",
+  "category": "IC",
+  "description": "带键盘扫描接口的LCD驱动控制专用电路，集成MCU数字接口等电路，与现有LED驱动IC指令集兼容，支持PWM背光驱动和SW普通输入扩展口",
+  "pkg": "SOP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICP-10100",
+  "brand": "TDK InvenSense(应美盛)",
+  "category": "IC",
+  "description": "高精度、低功耗、防水型气压与温度传感IC",
+  "pkg": "LGA-10(2x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ISL1557IRZ-T7",
+  "brand": "RENESAS(瑞萨)/IDT",
+  "category": "IC",
+  "description": "12V xDSL差分线路驱动器，具备增强输出保护",
+  "pkg": "QFN-16-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9622RQCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "Le9622 微控制器接口的订户线接口电路",
+  "pkg": "QFN-53(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AiP1722SA24.TB",
+  "brand": "I-CORE(中微爱芯)",
+  "category": "IC",
+  "description": "低功耗CMOS工艺的LCD驱动控制专用电路，集成多种电路，兼容LED驱动IC指令集，支持PWM背光驱动",
+  "pkg": "SOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9641PQC",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "Le9641 miSLIC 线路接口电路",
+  "pkg": "QFN-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XD4053",
+  "brand": "XINLUDA(信路达)",
+  "category": "IC",
+  "description": "多路复用开关 IC",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9622RQC",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单通道FXS解决方案",
+  "pkg": "QFN-53(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9642PQCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "双用户线路接口电路解决方案",
+  "pkg": "QFN-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HTC650E",
+  "brand": "HITENX(海速芯)",
+  "category": "IC",
+  "description": "带键盘扫描接口的LED驱动控制专用IC，集成多种电路，适用于机顶盒、家电等设备",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "82V2082PFG",
+  "brand": "RENESAS(瑞萨)/IDT",
+  "category": "IC",
+  "description": "82V2082PFG",
+  "pkg": "TQFP-80(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI32261-C-FM1R",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "单芯片双ProSLIC",
+  "pkg": "QFN-60-EP(8x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE58QL021BVCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "低电压用户线路音频处理电路",
+  "pkg": "TQFP-44(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9632RQCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "成本优化的双通道FXS解决方案的用户线接口电路",
+  "pkg": "VQFN-53(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LE9653AQCT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单通道FXS解决方案，具备引脚可选接口、高效开关调节器和全面测试软件的用户线接口电路",
+  "pkg": "VQFN-36(4x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PEF32002VTV12",
+  "brand": "MaxLinear(迈凌)",
+  "category": "IC",
+  "description": "下一代语音CPE解决方案，集成CMOS编解码器和高压SLIC，具备低功耗、高性能和宽频支持，适用于多种语音通信设备",
+  "pkg": "QFN-68",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XRT86VL30IV-F",
+  "brand": "MaxLinear(迈凌)",
+  "category": "IC",
+  "description": "单通道T1/E1/J1帧同步器/线路接口组合芯片",
+  "pkg": "LQFP-128(14x20)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XL252",
+  "brand": "XLSEMI(芯龙)",
+  "category": "IC",
+  "description": "40kPa数字IC输出表压传感器",
+  "pkg": "SOP-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FP355KR-G1",
+  "brand": "Advanced Analog Technology(类比)",
+  "category": "IC",
+  "description": "宽共模范围高端轨电流测量IC，适用于输入放大器和带发射极输出的NPN晶体管，可将轨电流信号转换为放大电压信号，增益可调",
+  "pkg": "SOT-23-5L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SI32178-B-FM1",
+  "brand": "SKYWORKS",
+  "category": "IC",
+  "description": "ProSLIC单芯片FXS解决方案（带FXO选项）",
+  "pkg": "QFN-42(5x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1050T/CM,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "4.75V~5.25V",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1042T/3/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1051T/3/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "高速CAN收发器",
+  "pkg": "SOIC-8-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1042T/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1044T/1Z",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "高速CAN收发器，带待机模式",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD230DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "3.3-V CAN 收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1040T/CM,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "4.75V~5.25V",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCA82C250T/YM,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "4.5V~5.5V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1043T/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD232DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "3.3-V CAN 收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1050T-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "TJA1050T",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1051TK/3/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "高速CAN收发器",
+  "pkg": "HVSON-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SIT3051TK",
+  "brand": "SIT(芯力特)",
+  "category": "IC",
+  "description": "SIT3051 3.3V供电、1Mbps、待机与远程唤醒、低电流CAN总线收发器",
+  "pkg": "DFN-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3051EKA+T",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "MAX3051 +3.3V, 1Mbps, 低电源电流 CAN 收发器",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD230DR-JSM",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "3.3V CAN总线收发器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ISO1044BDR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "隔离式CANFD收发器，支持经典CAN和CANFD，具备保护特性和宽温范围",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1057T/1Z",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "高速CAN收发器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1042TK/3/1J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "HVSON-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD251DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "SNx5HVD251 工业 CAN 总线收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD234DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "SN65HVD234 3.3-V CAN总线收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TD301MCANFD",
+  "brand": "YLPTEC(易川)",
+  "category": "IC",
+  "description": "CANFD小体积高速隔离收发模块",
+  "pkg": "DIP-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1044GT/3Z",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "具备待机模式的高速CAN收发器",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1044GTK/3Z",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "具备待机模式的高速CAN收发器",
+  "pkg": "HVSON-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1057GT/3J",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.75V~5.25V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CTM1051AMG",
+  "brand": "YLPTEC(易川)",
+  "category": "IC",
+  "description": "CANFD小体积高速隔离收发模块",
+  "pkg": "DIP-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN65HVD233DR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "SN65HVD233 3.3-V CAN总线收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCA82C251T/YM,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "4.5V~5.5V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1051TK/3,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "HVSON-8-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1051T/3,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "高速CAN收发器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1051T,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "5Mbps 4.5V~5.5V",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT232RL-REEL-S",
+  "brand": "JSMSEMI(杰盛微)",
+  "category": "IC",
+  "description": "USB转异步串行数据传输接口芯片",
+  "pkg": "SSOP-28",
+  "lifecycle": ""
  }
 ]
