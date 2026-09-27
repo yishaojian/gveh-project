@@ -55198,5 +55198,4005 @@
   "description": "USB转异步串行数据传输接口芯片",
   "pkg": "SSOP-28",
   "lifecycle": ""
+ },
+ {
+  "pn": "CP2102N-A02-GQFN28R",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "USB转UART桥接器",
+  "pkg": "QFN-28-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CP2102-GMR",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "单芯片USB转UART桥接器",
+  "pkg": "WQFN-28-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT232RL-REEL",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT232R USB UART 芯片",
+  "pkg": "SSOP-28-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CP2102N-A02-GQFN24R",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "USB转UART桥接器",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "USB3300-EZK-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "高速USB主机、设备或OTG PHY，带ULPI低引脚接口",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340C",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转串口芯片",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340N",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB2.0芯片CH340",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FE1.1S-BSOP28BCN",
+  "brand": "TERMINUS(汤铭科技)",
+  "category": "IC",
+  "description": "FE1.1s - USB 2.0高速4端口集线器控制器",
+  "pkg": "SSOP-28-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340E",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转串口芯片CH340",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GL823K-HCY04",
+  "brand": "GENESYS(创惟)",
+  "category": "IC",
+  "description": "USB 2.0 SD/MSPRO 卡读取控制器",
+  "pkg": "SSOP-16-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340G",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转串口芯片CH340",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340X",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转串口芯片",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FUSB302BMPX",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "可编程USB Type-C控制器带PD功能",
+  "pkg": "WFQFN-14(2.5x2.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH343P",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转高速串口芯片",
+  "pkg": "TQFN-16-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT2232HL-REEL",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT2232H迷你模块USB高速评估模块",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CP2102N-A02-GQFN20R",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "USB转UART桥接器",
+  "pkg": "QFN-20-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT4232HL-Reel",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT4232H 四通道高速USB转多用途UART/MPSSE IC",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CYUSB3014-BZXC",
+  "brand": "Infineon/CYPRESS(赛普拉斯)",
+  "category": "IC",
+  "description": "EZ-USB? FX3: 超高速USB控制器",
+  "pkg": "FBGA-121",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340K",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转串口芯片CH340",
+  "pkg": "ESSOP-10-150mil-1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CP2108-B03-GMR",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "USB转四路UART桥接控制器",
+  "pkg": "QFN-64-EP(9x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT232HL-REEL",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "单通道高速USB至多功能UART/FIFO IC",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "USB3320C-EZK-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "高度集成的全功能高速USB 2.0 ULPI收发器",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT234XD-R",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT234XD USB到基本UART IC",
+  "pkg": "DFN-12(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CP2104-F03-GMR",
+  "brand": "SKYWORKS/SILICON LABS(芯科)",
+  "category": "IC",
+  "description": "USB转UART桥接芯片 单片USB到UART桥接控制器",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH348Q",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB转8串口芯片CH348",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CYUSB3014-BZXI",
+  "brand": "Infineon/CYPRESS(赛普拉斯)",
+  "category": "IC",
+  "description": "超高速USB控制器",
+  "pkg": "BGA-121",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT230XQ-R",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT230X USB到基本UART IC",
+  "pkg": "QFN-16-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT232RNL-REEL",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "USB UART接口",
+  "pkg": "SSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT230XS-R",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "FT230X (USB到基本UART IC)",
+  "pkg": "SSOP-16-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RTL8201F-VB-CG",
+  "brand": "REALTEK(瑞昱)",
+  "category": "IC",
+  "description": "单端口/单芯片10/100Mbps以太网PHY收发器带自动MDIX",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SR8201F",
+  "brand": "CoreChips(和芯润德)",
+  "category": "IC",
+  "description": "MII/RMII,100M以太网PHY收发芯片",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DM9161AEP",
+  "brand": "DAVICOM(联杰国际)",
+  "category": "IC",
+  "description": "10/100Mbps快速以太网物理层单芯片收发器",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TJA1101BHN/0Z",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "用于汽车以太网的100BASE-T1物理层芯片",
+  "pkg": "HVQFN-36(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RTL8201CP-VD-LF",
+  "brand": "REALTEK(瑞昱)",
+  "category": "IC",
+  "description": "单芯片/单端口10/100M快速以太网PHYceiver",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH182H1",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "工业级百兆以太网PHY芯片，MII和RMII接口，支持10/100M自动协商、Auto-MDIX、自动识别正负信号线、WOL网络唤醒，内置50欧阻抗匹配电阻及晶体振荡器所需电容，支持1.8V、2.5V、3.3V接口电压。",
+  "pkg": "QFN-32(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADIN1100CCPZ-R7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "ADIN1100 10BASE-T1L PHY 芯片",
+  "pkg": "LFCSP-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH182H2",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "工业级百兆以太网PHY芯片，MII和RMII接口，支持10/100M自动协商、Auto-MDIX、自动识别正负信号线、WOL网络唤醒，内置50欧阻抗匹配电阻及晶体振荡器所需电容，支持1.8V、2.5V、3.3V接口电压。",
+  "pkg": "QFN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8091RNDIA-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "支持RMII和EEE的10BASE-T/100BASE-TX物理层芯片",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8721B-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "单芯片100BASE-TX/100BASE-FX/10BASE-T物理层收发器，具有混合信号设计，支持多种模式和自动协商",
+  "pkg": "BSSOP-48-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH182H7",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "工业级百兆以太网PHY芯片，MII和RMII接口，支持10/100M自动协商、Auto-MDIX、自动识别正负信号线、WOL网络唤醒，内置50欧阻抗匹配电阻及晶体振荡器所需电容，支持1.8V、2.5V、3.3V接口电压。",
+  "pkg": "QFN-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88Q1010-B0-NYA2A000",
+  "brand": "MARVELL(迈威)",
+  "category": "IC",
+  "description": "符合IEEE 802.3bw标准的100Mbps汽车以太网物理层（PHY）芯片",
+  "pkg": "QFN-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADIN1100BCPZ-R7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "ADIN1100 10BASE-T1L PHY 芯片",
+  "pkg": "LFCSP-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADIN1100CCPZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "ADIN1100 10BASE-T1L PHY 芯片",
+  "pkg": "LFCSP-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADIN1100BCPZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "ADIN1100 10BASE-T1L PHY 芯片",
+  "pkg": "LFCSP-40-WQ(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAN83C185-JT",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "高性能单芯片低功耗10/100以太网物理层收发器 (PHY)",
+  "pkg": "TQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88Q1010-B0-NYA2A000-P123",
+  "brand": "MARVELL(迈威)",
+  "category": "IC",
+  "description": "符合IEEE 802.3bw标准的100Mbps汽车以太网物理层（PHY）芯片",
+  "pkg": "QFN-40(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAN8720A-CP-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "小型RMIl 10/100以太网收发器，支持HP Auto-MDIX",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAN8720AI-CP-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "小尺寸RMII 10/100以太网收发器，支持HP Auto-MDIX",
+  "pkg": "QFN-24-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAN8720AI-CP-TR-ABC",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "小尺寸RMII 10/100以太网收发器，支持HP Auto-MDIX",
+  "pkg": "SQFN-24(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8081MNXIA-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "KSZ8081MNX/RNB 10BASE-T/100BASE-TX 物理层收发器",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8081RNBIA-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "KSZ8081MNX/RNB 10BASE-T/100BASE-TX 物理层收发器",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH9121T",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "网络串口透传芯片",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8863RLLI-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "集成3端口10/100管理交换机带PHY",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ9031RNXIC-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "KSZ9031RNX 千兆以太网收发器",
+  "pkg": "QFN-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LAN8710A-EZC-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "小型MI/RMII 10/100以太网收发器，支持HP Auto-MDIX和flexPWR技术",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RTL8367N-VB-CG",
+  "brand": "REALTEK(瑞昱)",
+  "category": "IC",
+  "description": "单芯片5端口10/100/1000M交换控制器",
+  "pkg": "MQFN-88-EP(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AQR113C-B1-C",
+  "brand": "MARVELL(迈威)",
+  "category": "IC",
+  "description": "10GBASE-T/5GBASE-T/2.5GBASE-T/1000BASE-T/100BASE-TX/10BASE-Te以太网物理层芯片",
+  "pkg": "BGA-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ8081MNXCA",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "KSZ8081MNX/RNB 10BASE-T/100BASE-TX 物理层收发器",
+  "pkg": "QFN-32-EP(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "KSZ9031RNXCC-TR",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "千兆以太网收发器，带RGMII接口",
+  "pkg": "QFN-48-EP(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XD74LS181",
+  "brand": "XINLUDA(信路达)",
+  "category": "IC",
+  "description": "算术逻辑单元",
+  "pkg": "DIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IS66WVH16M8ALL-166B1LI",
+  "brand": "ISSI(北京矽成)",
+  "category": "IC",
+  "description": "PSRAM（伪-SRAM）-存储器-IC-128Mb",
+  "pkg": "TFBGA-24(6x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX12005ETM+T",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "卫星IF开关IC",
+  "pkg": "TQFN-48-EP(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74F381PC",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4位算术逻辑单元",
+  "pkg": "PDIP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "9340PC",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4位算术逻辑单元（带先行进位）",
+  "pkg": "PDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "9341PC",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4位算术逻辑单元",
+  "pkg": "PDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74S183N",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "SN74S183N",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DM93S41N",
+  "brand": "onsemi(安森美)",
+  "category": "IC",
+  "description": "4位算术逻辑单元",
+  "pkg": "PDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SNJ54LS181J",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "SNJ54LS181J",
+  "pkg": "CDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IS66WVH16M8BLL-100B1LI",
+  "brand": "ISSI(北京矽成)",
+  "category": "IC",
+  "description": "PSRAM（伪-SRAM）-存储器-IC-128Mb",
+  "pkg": "TFBGA-24(6x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NTE74181",
+  "brand": "NTE Electronics",
+  "category": "IC",
+  "description": "TTL算术逻辑单元/函数发生器",
+  "pkg": "PDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NTE4032B",
+  "brand": "NTE Electronics",
+  "category": "IC",
+  "description": "CMOS 三重串行逻辑加法器",
+  "pkg": "PDIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1813KG1-TE3",
+  "brand": "Nisshinbo",
+  "category": "IC",
+  "description": "低控制电压、低功耗、高隔离度的GaAsMMIC双刀双掷射频开关",
+  "pkg": "DFN-6(1.6x1.6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ULN2003A",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "达林顿阵列驱动IC",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EG27324",
+  "brand": "EG(屹晶微)",
+  "category": "IC",
+  "description": "带SD功能双路驱动芯片",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74AUP1G34DBVR(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "逻辑IC",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ULN2003APWR(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "达林顿阵列驱动IC",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLP2362(TPLE(T",
+  "brand": "TOSHIBA(东芝)",
+  "category": "IC",
+  "description": "红外LED与光电IC耦合的高速光耦合器，内置法拉第屏蔽，采用SO6封装",
+  "pkg": "SO-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HEF4007UBT,653",
+  "brand": "Nexperia(安世)",
+  "category": "IC",
+  "description": "双互补对和逆变器",
+  "pkg": "SO-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT8631AT",
+  "brand": "NOVOSENSE(纳芯微)",
+  "category": "IC",
+  "description": "全极霍尔效应开关IC",
+  "pkg": "SOT-23-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLP350(F)",
+  "brand": "TOSHIBA(东芝)",
+  "category": "IC",
+  "description": "光电耦合器（GaAs红外LED与光电IC）",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLP2745(D4-TP,E",
+  "brand": "TOSHIBA(东芝)",
+  "category": "IC",
+  "description": "光耦合器GaAtAs红外LED与光电IC",
+  "pkg": "SO-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT245RL-REEL",
+  "brand": "FTDI(飞特帝亚)",
+  "category": "IC",
+  "description": "USB到并行FIFO接口 FT245R USB FIFO IC 版本2.12",
+  "pkg": "SSOP-28-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7S04M5X",
+  "brand": "TECH PUBLIC(台舟)",
+  "category": "IC",
+  "description": "CMOS反相器IC",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ULN2003AIPWR(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "达林顿阵列驱动IC",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0102DCUR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24Mbps 2位双向电平转换器",
+  "pkg": "VSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC1T45DBVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单比特双电源总线收发器，带可配置电压转换和三态输出",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0104EPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4位双向电压电平转换器",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXB0104RUTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "100Mbps 4位双向电平转换器",
+  "pkg": "UQFN-12(1.7x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC4245APWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "三态输出，八路总线收发器及3.3V至5V电平转换器",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXB0108PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "100Mbps 8位双向电平转换器",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0108ERGYR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "60Mbps 8位双向电平转换器",
+  "pkg": "VQFN-20-EP(3.7x4.7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC1T45DCKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单比特双电源总线收发器，具备可配置电压转换和三态输出功能",
+  "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC8T245PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有可配置电压转换功能和三态输出的8位双电源总线收发器",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RS0102YH8",
+  "brand": "RUNIC(润石)",
+  "category": "IC",
+  "description": "电平转换芯片",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXB0104PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "100Mbps 4位双向电平转换器",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCA9306DCTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "双路双向IC总线和SMBus电压电平转换器",
+  "pkg": "SM-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0102DCTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24Mbps 2位双向电平转换器",
+  "pkg": "SSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74AVC4T774RSVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4位双向电平转换器",
+  "pkg": "UQFN-16(1.8x2.6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LSF0108PWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于开漏和推挽应用的多通道双向多电压电平转换器",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LSF0204GU12X",
+  "brand": "Nexperia(安世)",
+  "category": "IC",
+  "description": "开漏/推挽输出，4位双向多电压电平转换器",
+  "pkg": "XQFN-12(1.7x2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74ALVC164245DGGR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "带三态输出的16位电平转换收发器",
+  "pkg": "TSSOP-48-6.2mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0102DQMR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24Mbps 2位双向电平转换器",
+  "pkg": "X2-SON-8(1.2x1.8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXB0102DCUR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "100Mbps 2位双向电平转换器",
+  "pkg": "VSSOP-8-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXB0108RGYR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "100Mbps 8位双向电平转换器",
+  "pkg": "VQFN-20-EP(3.5x4.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NXB0104PWJ",
+  "brand": "Nexperia(安世)",
+  "category": "IC",
+  "description": "100Mbps 2位双向电平转换器",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCA9306DCUR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "2位双向电平转换器",
+  "pkg": "VSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0102DQER",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24Mbps 2位双向电平转换器",
+  "pkg": "X2-SON-8(1x1.4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1T45GW,125",
+  "brand": "Nexperia(安世)",
+  "category": "IC",
+  "description": "420Mbps 1位双向电平转换器",
+  "pkg": "SC-88",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SN74LVC2T45DCTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "双位双电源总线收发器，带可配置电压转换和三态输出",
+  "pkg": "SM8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CD4504BPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "6位单向电平转换器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXS0104ERGYR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "适用于开漏和推挽应用的4位双向电压电平转换器",
+  "pkg": "VQFN-14-EP(3.5x3.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TXU0202DCUR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "带施密特触发器输入和三态输出的双位固定方向电压电平转换器",
+  "pkg": "VSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM8S003F3P6TR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列8位MCU，具有8 KB Flash、16 MHz CPU和集成EEPROM",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F030F4P6TR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流ARM Cortex-M0超值系列MCU，具有16 KB Flash和48 MHz CPU",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32G031G8U6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流Arm Cortex-M0+ MCU，具有64 KB Flash存储器、8 KB RAM、64 MHz CPU、2x USART、定时器、ADC和通信接口，1.7-3.6V",
+  "pkg": "UFQFPN-28(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F030C8T6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流ARM Cortex-M0超值系列MCU，具有64 KB Flash和48 MHz CPU",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32G030F6P6TR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列Arm Cortex-M0+ MCU，具有32 KB Flash存储器、8 KB RAM、64 MHz CPU、2x USART、定时器、ADC和通信接口，2-3.6V",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32G030C8T6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列Arm Cortex-M0+ MCU，具有64 KB Flash存储器、8 KB RAM、64 MHz CPU、2x USART、定时器、ADC和通信接口，2-3.6V",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F103CBT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流增强型ARM Cortex-M3 MCU，具有128 KB Flash、72 MHz CPU、电机控制、USB和CAN",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F103RCT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流增强型ARM Cortex-M3 MCU，具有256 KB Flash、72 MHz CPU、电机控制、USB和CAN",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F407VET6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "带DSP和FPU的高性能基础系列ARM Cortex-M4 MCU，具有512 KB Flash、168 MHz CPU、ART加速器、以太网和FSMC",
+  "pkg": "LQFP-100(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM8S003F3U6TR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列8位MCU，具有8 KB Flash、16 MHz CPU和集成EEPROM",
+  "pkg": "UFQFPN-20(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32G070CBT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列Arm Cortex-M0+ MCU，具有128 KB Flash存储器、36 KB RAM、64 MHz CPU、4x USART、定时器、ADC和通信接口，2-3.6V",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32G070RBT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流超值系列Arm Cortex-M0+ MCU，具有128 KB Flash存储器、36 KB RAM、64 MHz CPU、4x USART、定时器、ADC和通信接口，2-3.6V",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S9KEAZ128AMLH",
+  "brand": "NXP(恩智浦)",
+  "category": "MCU",
+  "description": "基于ARM Cortex-M0+内核的微控制器，具有丰富外设和存储器",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F405RGT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "带DSP和FPU的高性能基础系列ARM Cortex-M4 MCU，具有1 MB Flash、168 MHz CPU和ART加速器",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCIMX6Y2CVM08AB",
+  "brand": "NXP(恩智浦)",
+  "category": "MCU",
+  "description": "i.MX 6ULL 工业产品应用处理器",
+  "pkg": "MAPBGA-289(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STC8H1K08-36I-TSSOP20",
+  "brand": "STC",
+  "category": "MCU",
+  "description": "宽电压/高速/高可靠/低功耗/强抗静电/较强抗干扰的新一代 8051 单片机",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RP2040",
+  "brand": "Raspberry Pi(树莓派)",
+  "category": "MCU",
+  "description": "SC0914(13)",
+  "pkg": "LQFN-56(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32L051C8T6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "基于 ARM Cortex-M0+ 的超低功耗 32 位 MCU，高达 64 KB Flash、8 KB SRAM、2 KB EEPROM、ADC",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F030K6T6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流ARM Cortex-M0超值系列MCU，具有32 KB Flash和48 MHz CPU",
+  "pkg": "LQFP-32(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F103RET6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流增强型ARM Cortex-M3 MCU，具有512 KB Flash、72 MHz CPU、电机控制、USB和CAN",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STC8G1K08A-36I-SOP8",
+  "brand": "STC",
+  "category": "MCU",
+  "description": "8051单片机",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GD32E230C8T6",
+  "brand": "GigaDevice(兆易创新)",
+  "category": "MCU",
+  "description": "ARM Cortex-M23 32位微控制器（MCU）",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM8L051F3P6TR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "超低功耗8位MCU，具有8 KB Flash、16 MHz CPU和集成EEPROM",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM8S903K3T6CTR",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流专用系列8位MCU，具有8 KB Flash、16 MHz CPU和集成EEPROM",
+  "pkg": "LQFP-32(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F030R8T6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "主流ARM Cortex-M0超值系列MCU，具有64 KB Flash和48 MHz CPU",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32L151C8T6A",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "超低功耗平台，丰富模拟外设",
+  "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F401RCT6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "带DSP和FPU的高性能基本型系列ARM Cortex-M4 MCU，具有256 KB Flash、84 MHz CPU和ART加速器",
+  "pkg": "LQFP-64(10x10)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "STM32F411CEU6",
+  "brand": "ST(意法半导体)",
+  "category": "MCU",
+  "description": "带DSP和FPU的高性能基本型系列ARM Cortex-M4 MCU，具有512 KB Flash、100 MHz CPU和ART加速器",
+  "pkg": "UFQFPN-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24C02S(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "Memory",
+  "description": "串行 EEPROM，CMOS 工艺，2 线接口，多封装，适配低压低功耗应用",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C256C-SSHL-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I2C（两线制）的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C02C-SSHM-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I²C（两线制）的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C02",
+  "brand": "IDCHIP(英锐芯)",
+  "category": "Memory",
+  "description": "24C02 2Kbit电可擦除PROM",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C64D-SSHM-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I2C（两线制）的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C512C-SSHD-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I²C（两线制）的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BL24C256A-PARC",
+  "brand": "BL(上海贝岭)",
+  "category": "Memory",
+  "description": "256Kbits EEPROM，支持I2C协议，具有硬件写保护功能",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BL24C512A-PARC",
+  "brand": "BL(上海贝岭)",
+  "category": "Memory",
+  "description": "512Kbits电可擦除可编程只读存储器",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CAT24C256WI-GT3",
+  "brand": "onsemi(安森美)",
+  "category": "Memory",
+  "description": "256 kb I2C CM0S串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24C02BN(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "Memory",
+  "description": "串行 EEPROM，CMOS 工艺，2 线接口，多封装，适配低压低功耗应用",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD24C02",
+  "brand": "IDCHIP(英锐芯)",
+  "category": "Memory",
+  "description": "2线I2C电可擦除EPROM256x8(2K bits)",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C16C-SSHM-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I²C（两线制）的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BL24C256A-NTRC",
+  "brand": "BL(上海贝岭)",
+  "category": "Memory",
+  "description": "256Kbits EEPROM",
+  "pkg": "UDFN-8L-EP(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CAT24C08WI-GT3",
+  "brand": "onsemi(安森美)",
+  "category": "Memory",
+  "description": "1-Kb至16-Kb I2C CMOS串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C128C-SSHM-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "兼容I2C的128 Kbit串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C16",
+  "brand": "IDCHIP(英锐芯)",
+  "category": "Memory",
+  "description": "16KbitI2C总线电可擦除PROM",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C128CDR140",
+  "brand": "GMIC(绿微)",
+  "category": "Memory",
+  "description": "EEPROM",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C04C-SSHM-T",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "支持I²C接口的串行EEPROM",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C02CM5/TR",
+  "brand": "HGSEMI(华冠)",
+  "category": "Memory",
+  "description": "2K位I2C兼容串行EEPROM",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24C32BN(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "Memory",
+  "description": "串行 EEPROM，CMOS 工艺，1.8‑5.5V，2 线接口适配低压低功耗应用",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF04SVOG20C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "平台闪存系统内可编程配置PROM",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF32PVOG48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "平台闪存系统内可编程配置PROM",
+  "pkg": "TSOPI-48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EPCQ128ASI16N",
+  "brand": "Intel/Altera",
+  "category": "Memory",
+  "description": "EPCQ-A 系列配置器件",
+  "pkg": "SOIC-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF16PVOG48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "- 系统内可编程配置PROM，采用低功耗先进CMOS NOR闪存工艺，支持串行或并行FPGA配置接口，具备设计版本技术和数据解压缩功能",
+  "pkg": "TSOPI-48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF08PVOG48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "平台闪存系统内可编程配置PROM",
+  "pkg": "TFSOP-48-18.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF32PFSG48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "- XCF32PFSG48C",
+  "pkg": "CSP-48(8x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17F040-30JU",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "AT17F040 30JU",
+  "pkg": "PLCC-20(9x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17F040-30CU",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "AT17F040 30CU",
+  "pkg": "LAP-8(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17F16A-30JU",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "Memory",
+  "description": "AT17F16A 30JU",
+  "pkg": "PLCC-20(9x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF08PFS48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "- XCF08PFS48C",
+  "pkg": "CSP-48(8x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XC18V01SO20C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "系统内可编程配置PROM",
+  "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XCF32PFS48C",
+  "brand": "AMD/XILINX(赛灵思)",
+  "category": "Memory",
+  "description": "- XCF32PFS48C",
+  "pkg": "CSP-48(8x9)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CSNP1GCR01-AOW",
+  "brand": "CS(创世)",
+  "category": "Memory",
+  "description": "CSGen2 SDNAND 1Gb SLC 擦写寿命长 工业级",
+  "pkg": "LGA-8(6x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XT61M1G8C2TM-B8BEA",
+  "brand": "XTX(芯天下)",
+  "category": "Memory",
+  "description": "1Gb NAND 闪存 + 1Gb 低功耗 DDR2 SDRAM",
+  "pkg": "BGA-162(10.5x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XT61M4G8D2TA-B8BEA",
+  "brand": "XTX(芯天下)",
+  "category": "Memory",
+  "description": "4G NAND (8bit ECC;x8) +2G LP DDR2 (x32)",
+  "pkg": "BGA-162(8x10.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XT61M2G8D2TA-B8BEA",
+  "brand": "XTX(芯天下)",
+  "category": "Memory",
+  "description": "2G NAND (8bit ECC;x8) +2G LP DDR2 (x32)",
+  "pkg": "BGA-162(8x10.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "THGBMJG6C1LBAU7",
+  "brand": "KIOXIA(铠侠)",
+  "category": "Memory",
+  "description": "通用闪存存储（UFS）和e-MMC",
+  "pkg": "FBGA-153(11.5x13)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S71KL256SC0BHB000",
+  "brand": "Infineon/CYPRESS(赛普拉斯)",
+  "category": "Memory",
+  "description": "HyperFlash和HyperRAM多芯片封装1.8V/3V",
+  "pkg": "VBGA-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT29C2G24MAAAAKAMD-5 IT",
+  "brand": "micron(美光)",
+  "category": "Memory",
+  "description": "152球NAND闪存和移动低功耗双倍数据速率同步动态随机存取存储器堆叠封装",
+  "pkg": "VFBGA-130",
+  "lifecycle": ""
+ },
+ {
+  "pn": "F70ME0101D-RDWA",
+  "brand": "FORESEE(江波龙)",
+  "category": "Memory",
+  "description": "NMCP 1+11Gbit+1Gbit",
+  "pkg": "BGA-162",
+  "lifecycle": ""
+ },
+ {
+  "pn": "XT61M2G8C2TM-B8BEA",
+  "brand": "XTX(芯天下)",
+  "category": "Memory",
+  "description": "XT61M2G8C2TM-B8BEA",
+  "pkg": "BGA-162(10.5x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CY7C68033-56LTXC",
+  "brand": "Infineon/CYPRESS(赛普拉斯)",
+  "category": "Memory",
+  "description": "通信接口:GPIF NAND FLASH-USB 3V~3.6V",
+  "pkg": "VQFN-56-EP(8x8)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT29C4G48MAYBBAKS-48 IT TR",
+  "brand": "micron(美光)",
+  "category": "Memory",
+  "description": "4Gb:x8 NAND Flash与2Gb:x32 LPDDR MCP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MT29C2G24MAAAAKAKD-5 IT",
+  "brand": "micron(美光)",
+  "category": "Memory",
+  "description": "MT29C2G24MAAAAKAKD-5 IT",
+  "pkg": "TFBGA-137",
+  "lifecycle": ""
+ },
+ {
+  "pn": "W25Q128JVSIQ",
+  "brand": "Winbond(华邦)",
+  "category": "Memory",
+  "description": "编带 支持双路/四路SPI接口的3V、128Mbit 串行闪存",
+  "pkg": "SOIC-8-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "W25Q32JVSSIQ",
+  "brand": "Winbond(华邦)",
+  "category": "Memory",
+  "description": "支持双线、四线SPI接口的3V、32Mbit 串行SPI闪存",
+  "pkg": "SOIC-8-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563T/5,518",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "MSL=2 实时时钟/日历",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563TS/5,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "实时时钟/日历",
+  "pkg": "TSSOP-8-3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1302Z+T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "带涓流充电的时钟芯片",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1302ZN+T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "带涓流充电的时钟芯片",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RX8025T-UB",
+  "brand": "EPSON(爱普生)",
+  "category": "IC",
+  "description": "I²C总线接口实时时钟模块",
+  "pkg": "SOP-14-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "X1B000242000100",
+  "brand": "EPSON(爱普生)",
+  "category": "IC",
+  "description": "RX8010SJ",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS3231MZ+TRL",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "高精度RTC集成MEMS谐振器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1307ZN+T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "64 x 8，串行，I2C 实时时钟",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BM8563ESA",
+  "brand": "GATEMODE(捷茂微)",
+  "category": "IC",
+  "description": "I²C实时时钟/日历",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS3231SN#T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "超高精度、I²C接口、集成RTC/TCXO/晶体",
+  "pkg": "SOIC-16-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BM8563EMA",
+  "brand": "GATEMODE(捷茂微)",
+  "category": "IC",
+  "description": "I²C实时时钟/日历",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563TS(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "实时时钟",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RX8025T-UC",
+  "brand": "EPSON(爱普生)",
+  "category": "IC",
+  "description": "内置32.768kHz-DTCXO的高稳定性I²C总线接口实时时钟模块",
+  "pkg": "SOP-14-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1339U-33+T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "I2C串行实时时钟",
+  "pkg": "uSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563T(UMW)",
+  "brand": "UMW(友台半导体)",
+  "category": "IC",
+  "description": "实时时钟",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563DTR(XBLW)",
+  "brand": "XBLW(芯伯乐)",
+  "category": "IC",
+  "description": "I2C 接口 RTC 日历芯片，带世纪标志，最大静态电流 6uA",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8523T/1,118",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "实时时钟（RTC）和日历",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "YSN8130E",
+  "brand": "YXC(扬兴晶振)",
+  "category": "IC",
+  "description": "YSN8130E 1.6V~5.5V ±25ppm I2C -40~85℃ 32.768KHZ",
+  "pkg": "LGA-6(2.5x3.2)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "YSN8025TS 32.768KHZ",
+  "brand": "YXC(扬兴晶振)",
+  "category": "IC",
+  "description": "YSN8025TS 32.768KHZ ±5PPM -40~85℃ 工作电流：2.6 µA(TYP)",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM1302",
+  "brand": "GATEMODE(捷茂微)",
+  "category": "IC",
+  "description": "RTC实时时钟芯片",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF85263ATL/AX",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "微型实时时钟/日历，具备报警功能、电池切换、时间戳输入和I²C总线",
+  "pkg": "DFN-10-EP(2.6x2.6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF8563",
+  "brand": "IDCHIP(英锐芯)",
+  "category": "IC",
+  "description": "I²C实时时钟/日历芯片",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "YSN8010SJ",
+  "brand": "YXC(扬兴晶振)",
+  "category": "IC",
+  "description": "YSN8010SJ 1.6V~5.5V I2C -40~85℃ (±50PPM) 32.768KHZ",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "PCF85063ATT/AJ",
+  "brand": "NXP(恩智浦)",
+  "category": "IC",
+  "description": "微型实时时钟/日历，带报警功能和I²C总线",
+  "pkg": "TSSOP-8-3mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1302Z+T",
+  "brand": "HGC(深圳汉芯)",
+  "category": "IC",
+  "description": "具有涓细电流充电能力的低功耗实时时钟芯片",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ISL1208IB8Z-TK",
+  "brand": "RENESAS(瑞萨)/IDT",
+  "category": "IC",
+  "description": "低功耗带电池备份SRAM的实时时钟",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS1337S+T&R",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "I2C 串行实时时钟",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "RV-4162-C7-32.768KHZ-20PPM-TA-QC",
+  "brand": "Micro Crystal(瑞士微晶)",
+  "category": "IC",
+  "description": "带I2C总线的实时时钟模块",
+  "pkg": "SMD3215-8P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DS12C887+",
+  "brand": "ADI(亚德诺)/MAXIM(美信)",
+  "category": "IC",
+  "description": "实时时钟 (RTC) 芯片",
+  "pkg": "EDIP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1115IDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有内部基准、振荡器和可编程比较器且兼容 I2C 的ADS111x、超小型、低功耗 860SPS、16位ADC",
+  "pkg": "VSSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1110A0IDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位模拟到数字转换器 带板载参考源",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1220IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具备集成特性的24位模数转换器（ADC）",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3421A0T-E/CH",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "18位模数转换器，带I²C接口和板载基准",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7793BRUZ-REEL",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "3通道、低噪声、低功耗、24位Σ-Δ型ADC，内置片内仪表放大器和基准电压源",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7124-8BCPZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "8通道 19.2kHz 24位ADC SPI接口",
+  "pkg": "LFCSP-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1256IDBR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4或8通道 30kHz 24位ADC SPI接口",
+  "pkg": "SSOP-28-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7799BRUZ-REEL",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "三通道、低噪声、低功耗、16/24位Σ-Δ型ADC，内置仪表放大器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7689BCPZRL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "16 位 8 通道 250 kSPS PulSAR ADC",
+  "pkg": "LFCSP-20(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7192BRUZ-REEL",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "内置PGA的4.8 kHz、超低噪声、24位∑-∆型ADC",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7616BSTZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "16通道DAS，内置16位、双极性输入、双路同步采样ADC",
+  "pkg": "LQFP-80(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1220IRVAR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4通道、2kSPS、低功耗、24位ADC集成PGA和基准",
+  "pkg": "VQFN-16-EP(3.5x3.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC128S102CIMTX/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "ADC128S102 8通道，500 kSPS至1 Msps，12位A/D转换器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7124-8BCPZ-RL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "8通道 19.2kHz 24位ADC SPI接口",
+  "pkg": "LFCSP-32(5x5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7124-4BRUZ-RL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "4-通道低噪声低功耗24位Σ-Δ ADC带PGA和参考源",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HX711",
+  "brand": "AVIA(海芯科技)",
+  "category": "IC",
+  "description": "用于称重秤的24bit 模数转换器（ADC）",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1100A0IDBVR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "自校准16位模数转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1015IDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "超小型、低功耗、支持I2C接口、带内部基准源、振荡器和可编程比较器的12bit ADC",
+  "pkg": "VSSOP-10-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS131M02IRUKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24 位、32kSPS、2 通道同步采样 ADC",
+  "pkg": "WQFN-20(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1118IDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "兼容SPI的16位模数转换器",
+  "pkg": "VSSOP-10-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1232IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "用于桥式传感器的24bit 模数转换器",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8866IDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "ADS8866 16位，100-kSPS，串行接口，微功耗，微型，单端输入，SAR模拟到数字转换器",
+  "pkg": "VSSOP-10-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1247IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24位模拟到数字转换器用于温度传感器",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1255IDBR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "超低噪声24位模数转换器",
+  "pkg": "SSOP-20-208mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8688IDBTR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有双极性输入范围的单电源、16bit 、500 kSPS、4通道和8通道SAR（SAR）ADC",
+  "pkg": "TSSOP-38-4.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7175-2BRUZ-RL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "24位、250 kSPS Σ-Δ型ADC",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1230IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "用于桥式传感器的20位模数转换器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TLA2528IRTER",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "小型8通道12位ADC，具有I²C接口及GPIO",
+  "pkg": "WQFN-16-EP(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1120IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "4通道、2kSPS、低功耗、16位ADC，具有集成PGA和基准",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS1248IPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "24位模拟到数字转换器用于温度传感器",
+  "pkg": "TSSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4725A0T-E/CH",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "12位带EEPROM存储器的数模转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC7311IDCKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "2-V至5.5-V、80-uA、8位、10位和12位、低功耗、单通道、SC70封装数模转换器",
+  "pkg": "SOT-363-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4728-E/UN",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "12位四通道带EEPROM存储器的数模转换器",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5422BREZ-REEL",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "单通道、16位、电流源和电压输出DAC，HART连接",
+  "pkg": "HTSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8562SDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "双路16、14、12位低功耗缓冲电压输出DAC，带2.5V、4PPM/°C内部基准",
+  "pkg": "VSSOP-10-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5421BREZ-REEL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "16位、串行输入、环路供电、4MA至20MA DAC",
+  "pkg": "HTSSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4728T-E/UN",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "12位四通道带EEPROM的数模转换器",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4822-E/SN",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "8/10/12位双电压输出数模转换器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8830IDR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位、超低功耗、电压输出数模转换器",
+  "pkg": "SO-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5420AREZ-REEL7",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "12/16位，串行输入，4 mA至20 mA，电流源DAC，HART连接性",
+  "pkg": "TSSOP-24-EP-175mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8811IBDGKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位串行输入乘法数模转换器",
+  "pkg": "VSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5791BRUZ",
+  "brand": "ADI(亚德诺)",
+  "category": "IC",
+  "description": "1 ppm, 20位，±1 LSB INL，电压输出DAC",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPC112S1-VR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "IC",
+  "description": "单通道16/14/12位低功耗高性能DAC",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT8312ARTZ",
+  "brand": "HTCSEMI(海天芯)",
+  "category": "IC",
+  "description": "低功耗、轨到轨输出、12位串行输入数模转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8551IDGKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位、超低毛刺、电压输出数模转换器",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC128S085CIMTX/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "12位微功耗八通道数模转换器，具备轨到轨输出",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8830ICDR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位、超低功耗、电压输出数模转换器",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC81416RHAR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有内部基准电压的 DACx1416 16 通道 16 位、14 位和 12 位高电压输出 DAC",
+  "pkg": "WQFN-40-EP(6x6)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4716A0T-E/CH",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "8/10/12位带EEPROM和I²C接口的电压输出数模转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4726A0T-E/CH",
+  "brand": "MICROCHIP(美国微芯)",
+  "category": "IC",
+  "description": "8/10/12位带EEPROM和I²C接口的电压输出数模转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8551IADGKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "DAC8551 16位，超低毛刺，电压输出数模转换器",
+  "pkg": "VSSOP-8-0.65mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC161S997RGHR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "DAC161S997 16位 SPI可编程数模转换器，适用于4-20 mA回路",
+  "pkg": "QFN-16-EP(4x4)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8552IDGKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "16位、双通道、电压输出数模转换器",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8568IAPWR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "12/14/16位，八通道，超低毛刺，电压输出，带2.5V 2ppm/°C内部基准的数模转换器",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC0808LCMX/NOPB",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "DAC0808 8位D/A转换器",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPC116S1-VR",
+  "brand": "3PEAK(思瑞浦)",
+  "category": "IC",
+  "description": "单通道16/14/12位低功耗高性能DAC",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC7512N/3K",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "低功耗，轨到轨输出，12位串行输入数模转换器",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC8411IDCKR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "2-V至5.5-V、单通道数模转换器",
+  "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DAC80501MDGSR",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "具有精密内部基准的DACx0501位电压输出DAC",
+  "pkg": "VSSOP-10-0.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117",
+  "brand": "UMW(友台半导体)",
+  "category": "Regulator",
+  "description": "1A 低压差线性稳压器 LDO 3.3V/5V 固定及可调版本（通用型号）",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232",
+  "brand": "Analog Devices / Maxim Integrated",
+  "category": "RS-232接口集成电路",
+  "description": "RS-232 收发器 3.0V~5.5V 低功耗 250kbps（通用型号）",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "TPS5430",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "降压型开关稳压器 3A 5.5V~36V 输入（通用型号）",
+  "pkg": "SOIC-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148",
+  "brand": "Vishay Semiconductors",
+  "category": "小信号开关二极管",
+  "description": "小信号快速开关二极管 100V 300mA 直插（通用型号）",
+  "pkg": "DO-35",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555",
+  "brand": "TI(德州仪器)",
+  "category": "IC",
+  "description": "单路 555 时基定时器 IC（通用型号）",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CH340",
+  "brand": "WCH(南京沁恒)",
+  "category": "IC",
+  "description": "USB 转串口芯片 CH340 系列（通用型号）",
+  "pkg": "SOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "SS34",
+  "brand": "Vishay Semiconductors",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基整流二极管 3A 40V（通用型号）",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "S8050",
+  "brand": "TE Connectivity / Measurement Specialties",
+  "category": "加速传感器模块",
+  "description": "加速传感器模块 ACCELEROMETER 500G TO5 PKG",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESP32",
+  "brand": "Espressif(乐鑫)",
+  "category": "IC",
+  "description": "ESP32 系列 Wi-Fi/蓝牙 SoC（通用型号）",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0000021L0603",
+  "brand": "INTEL",
+  "category": "",
+  "description": "0000021L0603",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01000054Z",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "15A 250V 夹型",
+  "pkg": "插件,P=5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01020071H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "01020071H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01050003H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "600V 15A",
+  "pkg": "插件,P=8.26mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01110005MR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "保险丝座",
+  "pkg": "插件,P=5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01220090H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "01220090H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01250003H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "30A 夹型",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01500274Z",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "350V 10A",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01530007Z",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "15A 32V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154001.DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154001DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154001DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154002DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154002DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154004DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154004DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154005.DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154007DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "015401.5DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "1.5A 125V",
+  "pkg": "SMD,10.62×3.81mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154062DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154250DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V贴片式保险丝（含保险丝座）",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154375DR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154375DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "375mA 125V",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154500DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0.5A 125V",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0154750DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V",
+  "pkg": "SMD,9.7x5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0157001DRT",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "125V",
+  "pkg": "SMD,6.5x3.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01C1002JF",
+  "brand": "BCC",
+  "category": "",
+  "description": "01C1002JF",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01C1002SFC3",
+  "brand": "BCC",
+  "category": "",
+  "description": "01C1002SFC3",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01C3001SFC3",
+  "brand": "BCC",
+  "category": "",
+  "description": "01C3001SFC3",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01M1002FF",
+  "brand": "BCC",
+  "category": "",
+  "description": "01M1002FF",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "01M1002SFC3",
+  "brand": "BCC",
+  "category": "",
+  "description": "01M1002SFC3",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02013A101JAT2A",
+  "brand": "AVX",
+  "category": "",
+  "description": "100pF ±5% 25V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02013A120JAT2A",
+  "brand": "KYOCERA",
+  "category": "",
+  "description": "12pF ±5% 25V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02016D104KAT2A",
+  "brand": "AVX",
+  "category": "",
+  "description": "100nF ±10% 6.3V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0201B102K250CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "",
+  "description": "1nF ±10% 25V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0201X104K6R3CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "",
+  "description": "100nF ±10% 6.3V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0201YC102KAT2A",
+  "brand": "AVX",
+  "category": "",
+  "description": "1nF ±10% 16V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0201YC121KAT2A",
+  "brand": "AVX",
+  "category": "",
+  "description": "120pF ±10% 16V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0201ZD103KAT2A",
+  "brand": "AVX",
+  "category": "",
+  "description": "10nF ±10% 10V",
+  "pkg": "0201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0202003.HXG",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "SMD,9.5x6.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0209002MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "350V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0209003MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "350V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213001MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213001TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213002.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213016MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "021301.6MXEP",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021302.5MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021302.5TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213500TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0213630MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215001.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215001.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215001MRET1P",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215002.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215002.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215004.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215005.M",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215005.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215005.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215005HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "慢速熔断 250V 5A",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215008MRET1P",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215008MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021501.6MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215010.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215010.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215010.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215010MRET5P",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215012.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215016.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "插件式保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215016MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "插件式保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215016MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021502.5MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021502.5MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215020.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215020MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021506.3H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "021506.3H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021506.3MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021506.3MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215063MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215063MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215063TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02153.15H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02153.15MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02153.15MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215315MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215315TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215630TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0215800HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216.250MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216001HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216001MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216004HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216004MRET1P",
+  "brand": "LITTELF",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216004MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216005TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216008HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216008MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216010HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216016MXP",
+  "brand": "LITTLEFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216063MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.6xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216063TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216125MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0.125A 250V 快断",
+  "pkg": "插件,D5.6xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216125MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216250HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216315HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216315MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.6xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216315TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0216500TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217.050TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217.063MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.6xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217.315MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217.500MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217001-M",
+  "brand": "LTF",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217001.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0217001.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217002.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217005.HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217005.TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217005MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217005TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217008.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217008.HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217008.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "8A 250V",
+  "pkg": "插件,D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021701.6HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217010.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217010.HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217010HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021702.5H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "021702.5H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217063MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D6xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217063TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217080MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217125TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217200MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217200TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217315MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0217630MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.050M",
+  "brand": "LTF",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.080HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.200HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.200MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.500H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0218.500H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218.500MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218001.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0218001.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218001.M",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218001.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218001HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218002.M",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218002.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218002HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218004.M",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218004MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218005.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218008.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "8A 250V",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218008HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "8A 250V",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218008MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021801.6HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021801.6MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218010.H",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "10A 250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218010.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218015.HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218015.MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "插件,D5.5xL21.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218015.MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218015HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218015TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021802.5MXBP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "021802.5MXBP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021802.5MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218032MRET1P",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D6xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218050MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "021806.3M",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218063MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218080TXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "0218.080TXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218100MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218160MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02183.15HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218315MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218500HXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218500MXP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218630MXEP",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "250V",
+  "pkg": "插件,D5.8xL22.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0218630MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0219002MXAP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0219005.MXABP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0219125MXAP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0219500MXAP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02200011MRT1P",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0224001.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0224005.DRT1UP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0225002HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0225003HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0225007.MXUP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0225007.MXUP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0225375MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0225750HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0229001.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0229001.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0229001.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0229001.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0229005.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0229005.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0229007.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0229007.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "022902.5HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230001.DRT1W",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0230001.DRT1W",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230001.HXW",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0230001.HXW",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230002MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "插件,D4.5xL14.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230003.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "插件,D4.5xL14.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230007MXP",
+  "brand": "LITTELF",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "插件,D4.5xL14.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0230500DRT1P",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D4.5xL14.5mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0232002MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0233125MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0234006MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0234008.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0235003.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0235006.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02351.25HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239.500MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239.800HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239005MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239016MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239315MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239400HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239500MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D5.2xL20mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0239800HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
  }
 ]
