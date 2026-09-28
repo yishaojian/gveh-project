@@ -59198,5 +59198,4005 @@
   "description": "250V",
   "pkg": "-",
   "lifecycle": ""
+ },
+ {
+  "pn": "0242.100UAT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "100mA 250V",
+  "pkg": "插件,D3.3xL8.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.062MXL",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.250NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.500M",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251.500M",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.500MRT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251.500MRT1",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.500MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251.750MRT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251.750MRT1",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251001.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "快断 125V 1A",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251002-MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251002.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251003.MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251003.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251003MAT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251004.MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251004.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251004MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251004NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251005.NAT1L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "125V轴向引线保险丝",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251005.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V 5A 快断",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251005NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V 5A 快断",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251007.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "025101.5MRT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "025101.5MRT1",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251010.MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251010MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015.M",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251015.M",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015.MRT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251015.MRT1",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015.NRT1",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0251015.NRT1",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015.NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V轴向引线保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015MXL",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251015NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "025103.5NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02511.25NRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "插件式保险丝",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251375MAT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0251630MRT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "快断 125V 630mA",
+  "pkg": "插件,D2.8xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257002PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0257002.PXPV",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257003L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0257003.L",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257004.PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0257004.PXPV",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257005.PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257020.PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257030.PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257040.PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0257040L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0257040.L",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "025707.5PXPV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259001T",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0259001.T",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259003T",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0259003.T",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259005T",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0259005.T",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259125M",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0259.125M",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259375T",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "封装式安全保险丝用于危险场所",
+  "pkg": "插件,13x8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0259375TX913",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0259.375TX913",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0263003.M",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0263003.M",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0263003HAT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D3.9xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0263125HAT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D3.9xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0263500HAT1L",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D3.9xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R100B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "10Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R100B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "10Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R101B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "100Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R101B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "100Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R102B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "1kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R102B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "1kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R103B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "10kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R103B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "10kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R250B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "25Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R250B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "25Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R251B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "250Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R251B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "250Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R253B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "25kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R253B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "25kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R500B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "50Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R500B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "50Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R501B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "500Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R501B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "500Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R502B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "5kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R502B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "5kΩ ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R5A0B1A1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "5Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "026TB32R5A0B1B1",
+  "brand": "CTS ELECTROCOMPONENTS",
+  "category": "可调电阻/电位器",
+  "description": "5Ω ±20%",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0272500V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0272.500V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0273004.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件,P=2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0273500V",
+  "brand": "LITTLE FUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0275020MRT1L",
+  "brand": "LITTLEFUSE",
+  "category": "汽车保险丝",
+  "description": "32V径向引线保险丝",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0277007M",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0277007.M",
+  "pkg": "插件,D2.4xL7.1mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0278.010V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0278.400V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0278002V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0278250V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0278400V",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "125V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02810005H",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "125V 5A 保险丝座",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287001L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287003.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287003PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287004.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287005.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287005PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287010.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287010PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287015.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287020.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287020PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287025.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287025H",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287030.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287040.PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0287040PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "028707.5PXCN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297002.L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297002.WXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297003L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297004.WXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297005L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297010.LXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0297010.LXN",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297010H",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297010WXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297015WXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297020.WXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297020U",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0297025L",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02980900TXN",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "02980900TXN",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02981001ZXT",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "大电流保险丝座，适用于电池和交流发电机连接，提供超高电流保护，可连接多个保险丝座形成多保险丝模块",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0298100ZXEH",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0298150ZXEH",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "螺栓安装",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0298225.ZXEH",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "螺栓安装",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0298250TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0298250ZXEH",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "螺栓安装",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299020TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299030TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "0299030.TXN",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299030ZXNV",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V刀片式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299040TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299060TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0299080TXN",
+  "brand": "LITTELFUSE",
+  "category": "汽车保险丝",
+  "description": "32V螺栓式保险丝",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02C0500JF",
+  "brand": "BCC",
+  "category": "NTC热敏电阻",
+  "description": "02C0500JF",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02C3000FF",
+  "brand": "VISHAY",
+  "category": "NTC热敏电阻",
+  "description": "02C3000FF",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "02P-LEBSS-TFLFSN",
+  "brand": "JAPAN SOLDERLESS TERMINAL",
+  "category": "线对板针座",
+  "description": "1x2P 间距:4mm 立贴",
+  "pkg": "SMD,P=4mm,卧贴",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0305100H",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0305.100H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0305500H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "277V 500mA",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0305750H",
+  "brand": "LITTELFUSE",
+  "category": "熔断器/电流保护器",
+  "description": "0305.750H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312.100HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312001.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0312001.HXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312001.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0312001.HXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312001HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0312001.HXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312002.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312002HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312003.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312003.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312003HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312004.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312004.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312005.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312005HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312006.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312006HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312007.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312007H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312008.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312008HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312015.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312125HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0312500MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313001MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313002.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313003HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313004HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313005MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313007.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313008MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "031301.2HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "031301.5H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "031301.5H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313010.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313010MX250P",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313015HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313016HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "031302.5HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313020HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313025HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313030HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "32V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313125HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03132.25HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "03132.25HXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313500HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313500MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "玻璃管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313750HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0313800HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314003.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0314003.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314003.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314005HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314006.M",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314010.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314010HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314012MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314015.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0314015.H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314015HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314015MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314020.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314025HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0314030.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0315003HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0315008.H",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0315008.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.4mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324010HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324012.M",
+  "brand": "LTF",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324015HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0324015.HXP",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324015MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324020.MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324025.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0324030.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "停产 陶瓷管保险丝",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0325015HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0325015MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0325020HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0325030.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "插件,D7xL32.7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326002HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326005HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "5A 250V",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326007.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326008HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326010.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.35xL31.75mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326012HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326015MXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "陶瓷管保险丝",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326020HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "D6.4xL31.8mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326025.HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326025HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326100HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "0326.100HXP",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0326700HXP",
+  "brand": "LITTELFUSE",
+  "category": "一次性保险丝",
+  "description": "250V",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03420006T",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "03420006T",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03420048H",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "03420048H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03450621H",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "03450621H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03455LS1H",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "三件套 03455LS1H",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03540921ZXBL",
+  "brand": "LITTELFUSE",
+  "category": "保险丝座(盒)",
+  "description": "03540921ZXBL",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03EC0673",
+  "brand": "KNSCHA",
+  "category": "直插铝电解电容",
+  "description": "100uF ±20% 35V",
+  "pkg": "插件,D6xL7mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03P2J",
+  "brand": "NEC",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "03P2J-AZ",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "03P2M",
+  "brand": "NEC",
+  "category": "晶闸管(可控硅)/模块",
+  "description": "03P2M",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023A101JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±5% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023A180JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "18pF ±5% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023A220JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "22pF ±5% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023A470JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "47pF ±5% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C101KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C103KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C104KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C222KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C472KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C562KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "5.6nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04023C682KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "6.8nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A100CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 10pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A100DAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.5pF 10pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A100JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A100KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A101JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A101KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A120JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "12pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A150JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "15pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A151JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "150pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A180FAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "18pF ±1% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A180JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "18pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A181JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "180pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A1R0CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 1pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A1R5CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 1.5pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A220JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "22pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A221JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A270JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "27pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A2R2CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 2.2pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A330JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "33pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A470JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "47pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A4R7CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 4.7pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A560JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "56pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A5R6CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 5.6pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A680JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "68pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A6R8CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 6.8pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A820FAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "82pF ±1% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025A8R2CAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 8.2pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C101KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C102JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C102KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C103KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C152KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "1.5nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C221KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C222KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C331KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "330pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C332KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "3.3nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C471JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "470pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C471KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "470pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C472KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C562KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "5.6nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04025C681KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "680pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04026D104KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 6.3V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "04026D224KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "220nF ±10% 6.3V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402AF-271XJLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "0402AF-271XJLW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B101K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B102J160CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B102K500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B102K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B103J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B103K160CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B103K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B104J160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B104K100",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B104K500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B122K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "1.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B123K160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "12nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B152K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "1.5nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B182K100CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "1.8nF ±10% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B202K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B221J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B221K500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B221K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B222J250CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±5% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B222K160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B222K500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B222K500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B222K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B224K6R3NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "220nF ±10% 6.3V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B272K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "2.7nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B331J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "330pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B331K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "330pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B332K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "3.3nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B391K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "390pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B392K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "3.9nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B471K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "470pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B472K250",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B472K500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B472K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B472M500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "4.7nF ±20% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B473K160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "47nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B473K250CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "47nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B561K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "560pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B562K250CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "5.6nF ±10% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B681K500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "680pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B681K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "680pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B682K160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "6.8nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B682K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "6.8nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B821K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "820pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B822J500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "8.2nF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402B822K500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "8.2nF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG100J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "10pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG101J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG1R0C500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 1pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG220J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "22pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG270J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "27pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG330J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "33pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG470J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "47pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG560J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "56pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG680J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "68pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CG820J500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "82pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CS-10NXGLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "0402CS-10NXGLW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CS-15NXJLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "0402CS-15NXJLW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402CS-8N2XJLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "0402CS-8N2XJLW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402F103Z500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF -20%~+80% 50V 停产",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402F104Z160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "停产 100nF -20%~+80% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402F104Z250CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF -20%~+80% 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402F223Z500NT",
+  "brand": "FENGHUA",
+  "category": "贴片电容(MLCC)",
+  "description": "22nF -20%~+80% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402F474Z100CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "470nF -20%~+80% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402HP-15NXGLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "0402HP-15NXGLW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402HP-4N7XGLW",
+  "brand": "COILCRAFT",
+  "category": "贴片电感",
+  "description": "4.7nH ±2%",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N0R1B500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.1pF 0.1pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N0R5C500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 0.5pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N100F500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "10pF ±1% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N101J500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N102G500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±2% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N151J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "150pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N181J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "180pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N220F500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "22pF ±1% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N221J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N221K500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "220pF ±10% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N271F500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "270pF ±1% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N271J500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "270pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N2R2C250CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 2.2pF 25V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N2R7C500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 2.7pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N300J500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "30pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N331G500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "330pF ±2% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N3R9C500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 3.9pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N560G500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "56pF ±2% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N560J500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "56pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N681J500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "680pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N681J500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "680pF ±5% 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N8R0C500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 8pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N8R2C500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.25pF 8.2pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402N8R2D500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "±0.5pF 8.2pF 50V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402SFF050F/24-2",
+  "brand": "TE",
+  "category": "一次性保险丝",
+  "description": "0402SFF050F/24-2",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402SFF200F/24-2",
+  "brand": "RAYCHEM",
+  "category": "一次性保险丝",
+  "description": "0402SFF200F/24-2",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402WGF0000TCE",
+  "brand": "MULTICOMP",
+  "category": "贴片电阻",
+  "description": "厚膜电阻 0Ω ±1% 62.5mW",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402X104J160CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402X104K100CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402X104K160CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402X393K160CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "39nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YA101JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100pF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC102KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "1nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC103JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC103KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC103MAT2A",
+  "brand": "KYOCERA",
+  "category": "贴片电容(MLCC)",
+  "description": "10nF ±20% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC222KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "2.2nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC223JAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "22nF ±5% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YC223KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "22nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YD104KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YD473KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "47nF ±10% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402YG104ZAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF -20%~+80% 16V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402ZD104KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "100nF ±10% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0402ZD105KAT2A",
+  "brand": "AVX",
+  "category": "贴片电容(MLCC)",
+  "description": "1uF ±10% 10V",
+  "pkg": "0402",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0603C0G3R3B050P07B37930-K5030-B360",
+  "brand": "S+M",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0805C0G101100P07B37940-K1101-J60",
+  "brand": "EPC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0805C0G470J100P07B37940-K1470-J60",
+  "brand": "EPC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0805Z5U334M025E07B37942-J334-M62",
+  "brand": "EPC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "086210-014010800A",
+  "brand": "KYC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向 85.5V 10.9A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向 85.5V 10.9A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向 85.5V 10.9A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE100A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100A-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "单向TVS 85.5V截止 峰值浪涌电流：10.9A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 85.5V截止 峰值脉冲电流：178A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 85.5V截止 峰值脉冲电流：178A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA-E3/4",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 88.5V截止 峰值脉冲电流：11.1A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE100CA-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "1.5KE100CA-T",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE100CA/4",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 88.5V截止 峰值脉冲电流：11.1A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10A",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "TVS 8.55V截止 104.8A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 8.55V截止 104.8A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE10A-E3/51",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE10A-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 8.55V截止 103A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10CA",
+  "brand": "LITTLE",
+  "category": "",
+  "description": "双向TVS 8.6V截止 峰值脉冲电流：103A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 8.55V截止 峰值脉冲电流：104.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10CA-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE10CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE10CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE10CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 8.55V截止 峰值脉冲电流：104.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE110A-E3",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "停产 1.5KE110A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE110A-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 94V截止 10A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE110A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE110A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE110CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE110CA",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE110CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE110CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE11A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 9.4V截止 96.2A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE11A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE11A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE120A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 102V截止 峰值浪涌电流：9.1A",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE120A-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5KE120A-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE120A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 102V截止 9.1A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE120CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向 102V 9.1A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE120CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE120CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A-E3/54",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5KE12A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "单向TVS 10.2V截止 90A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE12ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE12CA",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12CA-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向 10.2V 89.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE12CA-E3/51",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE12CA-E3/54",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE12CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE130A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 105V截止 峰值浪涌电流：8.4A@10/1000us",
+  "pkg": "DO-201AD(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE130A-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 111V截止 8.4A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE130A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE130A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE130CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE130CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE130CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE130CA-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13A-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 11.1V截止 峰值脉冲电流：83.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13A-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 11.1V截止 峰值脉冲电流：83.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE13ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13CA",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 11.1V截止 峰值脉冲电流：83.5A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 11.1V截止 峰值脉冲电流：83.5A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE13CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE13CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15",
+  "brand": "GENERALINSTRUMENT",
+  "category": "",
+  "description": "TVS 12.8V截止 70.8A峰值脉冲",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 128V截止 峰值浪涌电流：38A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150A-E3",
+  "brand": "GSI",
+  "category": "",
+  "description": "停产 1.5KE150A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE150A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE150A-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 128V截止 峰值脉冲电流：7.25A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "轴向引线TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具有玻璃钝化芯片、快速响应时间、出色钳位能力等特点",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE150CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 128V截止 峰值浪涌电流：7.2A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 12.8V截止 峰值脉冲电流：71.7A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 12.8V截止 70.8A峰值脉冲",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15A-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 12.8V截止 峰值脉冲电流：71.7A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE15A-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE15A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15CA",
+  "brand": "LITTLE",
+  "category": "",
+  "description": "双向TVS 12.8V截止 峰值脉冲电流：71A@8/20us 368A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 12.8V截止 70.8A峰值脉冲",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE15CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE15CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 12.8V截止 峰值浪涌电流：70.8A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE160A",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "单向TVS 136V截止 峰值脉冲电流：6.9A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE160A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 136V截止 峰值脉冲电流：6.9A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE160A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 136V截止 峰值脉冲电流：6.9A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE160A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE160A-E3/51",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE160A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE160A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16A",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 13.6V截止 峰值脉冲电流：67A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE16A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 13.6V截止 67A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE16AG",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16ARL4",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE16ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE16ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 13.6V截止 66.7A峰值脉冲",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 13.6V截止 66.7A峰值脉冲",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 13.6V截止 峰值脉冲电流：67.6A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE16CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 13.6V截止 峰值浪涌电流：66.7A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 154V截止 峰值脉冲电流：6.1A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE180A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE180A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180A-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "单向TVS 154V截止 峰值浪涌电流：6.1A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 154V截止 6.1A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180AG",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE180AG",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "反向截止电压(Vrwm) 154 击穿电压(V) 171",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE180CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE180CA-E3/51",
+  "pkg": "DO-201AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 15.3V截止 峰值脉冲电流：308A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 15.3V截止 59.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE18A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18A-E3/54",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE18A-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 15.3V截止 59.52A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE18ARL4G",
+  "pkg": "插件",
+  "lifecycle": ""
  }
 ]
