@@ -63198,5 +63198,4005 @@
   "description": "1.5KE18ARL4G",
   "pkg": "插件",
   "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18CA",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 15.3V截止 峰值脉冲电流：60.3A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18CA-E3",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向 15.3V 59.5A@10/1000us",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18CA-E3/54",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向 15.3V 59.5A@10/1000us",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 双向TVS 15.3V截止 59.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE18CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 15.3V截止 峰值脉冲电流：60.3A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 171V截止 峰值浪涌电流：1A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200A-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE200A-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200A-E3/54",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 171V截止 峰值浪涌电流：5.5A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 171V截止 峰值浪涌电流：5.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200AG",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 171V截止 5.47A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "瞬态电压抑制器，用于保护敏感电子设备免受雷电和其他瞬态电压事件影响，具有快速响应时间、低增量浪涌电阻、无卤且符合RoHS标准等特点",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200CA-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 171V截止 5.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE200CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE200CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 171V截止 峰值浪涌电流：5.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20A",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向TVS 17.1V截止 峰值脉冲电流：54.9A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 17.1V截止 峰值脉冲电流：54.9A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 17.1V截止 峰值脉冲电流：54.9A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE20A-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE20AG",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE20ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "双向TVS 17.1V截止 峰值脉冲电流：54.15A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE20CA-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE20CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220A",
+  "brand": "FSC",
+  "category": "",
+  "description": "单向TVS 185V截止 峰值脉冲电流：4.6A",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE220A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220A-E3/54",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向TVS 185V截止 峰值浪涌电流：4.6A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值脉冲电流：4.6A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA-E3",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值浪涌电流：4.6A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值脉冲电流：4.57A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值脉冲电流：4.6A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE220CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值浪涌电流：4.6A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE220CA/1",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 185V截止 峰值脉冲电流：4.57A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22A",
+  "brand": "ST",
+  "category": "",
+  "description": "TVS 18.8V截止 峰值脉冲电流：49A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE22A-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE22A-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE22A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具有低漏电流、玻璃钝化结、低电感、出色的钳位能力、快速响应时间等特点",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具有低漏电流、玻璃钝化结、低电感、出色的钳位能力、快速响应时间等特点",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE22CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "玻璃钝化芯片结瞬态电压抑制器，具备单双向可选、高脉冲功率、出色钳位能力、快速响应时间和低浪涌电阻等特性",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE22CARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE22CARL4",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24A",
+  "brand": "FSC",
+  "category": "",
+  "description": "单向TVS 20.5V截止 峰值浪涌电流：1A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 20.5V截止 峰值浪涌电流：1A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 20.5V截止 峰值脉冲电流：45.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE24A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24A-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "单向TVS 20.5V截止 峰值浪涌电流：45.2A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24AG",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE24A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 20.5V截止 峰值脉冲电流：45.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 24V截止 峰值脉冲电流：746A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA-E3/4",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 24V截止 峰值脉冲电流：746A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE24CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE24CA-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "双向TVS 20.5V截止 峰值浪涌电流：45.8A@10/1000us",
+  "pkg": "DO-201AD(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 24V截止 峰值脉冲电流：746A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE24CARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE24CARL4",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 214V截止 峰值脉冲电流：4.36A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE250A-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 214V截止 峰值浪涌电流：4.4A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE250A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向 214V 4.4A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向 214V 4.4A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE250CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 双向TVS 214V截止 峰值脉冲电流：5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 23.1V截止 峰值浪涌电流：40.5A",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 23.1V截止 峰值脉冲电流：40.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27A-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE27A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 23.1V截止 40A峰值脉冲",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "双向TVS 23.1V截止 峰值脉冲电流：40.5A",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 23.1V截止 峰值脉冲电流：40.5A",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 23.1V截止 峰值脉冲电流：40.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE27CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 23.1V截止 峰值浪涌电流：40A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE27CA/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 23.1V截止 峰值脉冲电流：40.5A",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300A",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 256V截止 峰值浪涌电流：5A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 256V截止 峰值脉冲电流：3.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 256V截止 峰值脉冲电流：3.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE300A-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 TVS 256V截止 5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300CA",
+  "brand": "ST",
+  "category": "",
+  "description": "具有出色钳位能力、低漏电流和电容、高浪涌能力的瞬态电压抑制器",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "具有出色钳位能力、低漏电流和电容、高浪涌能力的瞬态电压抑制器",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE300CA-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "最大耗散功率(W) 1500 最大抵消电压(V) 256",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30A",
+  "brand": "FAGOR",
+  "category": "",
+  "description": "单向TVS 25.6V截止 峰值脉冲电流：36.7A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 25.6V截止 峰值脉冲电流：36.7A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30A-E3/54",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向 25.6V 36.2A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 25.6V截止 36.23A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30ARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 25.6V截止 36A峰值脉冲",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 25.6V截止 36A峰值脉冲",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "双向TVS 25.6V截止 峰值脉冲电流：36.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30CA-E3/1",
+  "brand": "GSI",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 25.6V截止 峰值脉冲电流：36.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE30CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 25.6V截止 峰值脉冲电流：36.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值浪涌电流：32.82A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A-4103",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值浪涌电流：32.82A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A-B",
+  "brand": "DIODES",
+  "category": "",
+  "description": "单向TVS 28.2V截止 33.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值浪涌电流：32.82A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 28.2V截止 33.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值浪涌电流：32.8A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 28.2V截止 32.82A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33ARL4",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE33ARL4G",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 28.2V截止 峰值脉冲电流：33A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE33CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 28.2V截止 峰值浪涌电流：32.8A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE33CARL",
+  "brand": "ST",
+  "category": "",
+  "description": "TVS 28.2V截止 169A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE350A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 299V截止 峰值脉冲电流：4A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE350CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "双向TVS 300V截止 4.2A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE350CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 299.3V截止 峰值脉冲电流：3.11A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE350CA-E3/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 300V截止 4.2A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE350CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE350CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36A",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "TVS 30.8V截止 峰值脉冲电流：30A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 30.8V截止 峰值浪涌电流：30.1A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36A/1",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 30.8V截止 峰值脉冲电流：30A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 30.8V截止 30.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 30.8V截止 30.06A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36ARL4",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE36ARL4G",
+  "pkg": "DO-201AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE36ARL4G",
+  "pkg": "DO-201AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 30.8V截止 峰值浪涌电流：30.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE36CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 30.8V截止 峰值浪涌电流：30.1A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CA/1",
+  "brand": "GS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE36CARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE36CARL4",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 33.3V截止 峰值脉冲电流：143A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 33.3V截止 峰值脉冲电流：27.83A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 33.3V截止 28.2A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE39A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 33.3V截止 28A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 33.3V截止 峰值浪涌电流：28A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 33.3V截止 峰值脉冲电流：28.2A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE39CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 33.3V截止 峰值浪涌电流：27.8A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 342V截止 峰值脉冲电流：14A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400A-E3",
+  "brand": "GSI",
+  "category": "",
+  "description": "停产 1.5KE400A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE400A-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 342V截止 峰值脉冲电流：2.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 342V截止 峰值脉冲电流：2.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 342V截止 峰值脉冲电流：2.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 342V截止 峰值脉冲电流：2.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE400CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 342V截止 峰值脉冲电流：2.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE43A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE43A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43A-E3/54",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE43A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43A/1",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE43A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43A/4",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5KE43A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 36.8V截止 25.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA",
+  "brand": "FSC",
+  "category": "",
+  "description": "双向TVS 36.8V截止 峰值脉冲电流：25.6A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 36.8V截止 峰值脉冲电流：25.6A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE43CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA-E3/54",
+  "brand": "GSI",
+  "category": "",
+  "description": "双向TVS 36.8V截止 峰值浪涌电流：25.3A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 双向TVS 36.8V截止 25.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA/1",
+  "brand": "GS",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具备低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特性",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 36.8V截止 峰值脉冲电流：25.6A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE43CAT/R",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "停产 双向TVS 36.8V截止 25.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440A",
+  "brand": "SEMIKRON",
+  "category": "",
+  "description": "单向 376V 2.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向 376V 2.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 376V截止 峰值浪涌电流：2.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 376V截止 峰值脉冲电流：13A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向 376V 2.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE440CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向 376V 2.5A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 40.2V截止 峰值脉冲电流：23.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 40.2V截止 峰值浪涌电流：23.1A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE47AG",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47ARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE47ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47ARL4G",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "1.5KE47ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 40.2V截止 峰值浪涌电流：23.1A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 TVS 40.2V截止 23.2A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE47CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 40.2V截止 24A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51A",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向TVS 51V截止 峰值浪涌电流：21.4A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51A-E3",
+  "brand": "GSI",
+  "category": "",
+  "description": "停产 1.5KE51A-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE51A-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE51A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51A/4",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5KE51A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE51ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51CA-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE51CA-E3/51",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5KE51CA-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51CA-E3/73",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE51CA-E3/73",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE51CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 双向TVS 43.6V截止 峰值脉冲电流：21.4A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE530A",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "单向TVS 451V截止 2.1A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 47.8V截止 峰值脉冲电流：19.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56ARL",
+  "brand": "ST",
+  "category": "",
+  "description": "1.5KE56ARL4G",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56ARL4",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE56ARL4G",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE56ARL4G",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "工规TVS 保护器件 防静电 响应速度快 双向TVS 47.8V截止 峰值脉冲电流：19.7A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56CA-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE56CA-E3/51",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE56CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE56CA-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值脉冲电流：144.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A-E3/1",
+  "brand": "VISHAY",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "轴向瞬态电压抑制器，具有低漏电流、玻璃钝化结、低电感、出色的钳位能力、快速响应时间等特点",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值脉冲电流：144.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A-E3/51",
+  "brand": "GSS",
+  "category": "",
+  "description": "停产 1.5KE6.8A-E3/51",
+  "pkg": "DO-201AA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值浪涌电流：143A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值脉冲电流：144.8A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 5.8V截止 142.86A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE6.8ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8CA",
+  "brand": "LITTLE",
+  "category": "",
+  "description": "轴向瞬态电压抑制器，具有低漏电流、玻璃钝化结、低电感、出色的钳位能力、快速响应时间等特点",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6.8CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 5.8V截止 峰值浪涌电流：143A",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 53V截止 峰值浪涌电流：90A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 53V截止 峰值浪涌电流：90A@8/20us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE62A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE62A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62A-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 单向TVS 53V截止 17.7A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62AG",
+  "brand": "ON",
+  "category": "",
+  "description": "TVS 53V截止 17.65A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62ARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 53V截止 17.7A峰值脉冲",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62ARL4G",
+  "brand": "FSC",
+  "category": "",
+  "description": "TVS 53V截止 17.7A峰值脉冲",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "双向TVS 53V截止 峰值脉冲电流：17.65A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 53V截止 峰值脉冲电流：17.9A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62CA-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE62CA-E3/51",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE62CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 TVS 53V截止 17.7A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 58.1V截止 峰值脉冲电流：16.3A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 58.1V截止 16.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68A-T-S-NT",
+  "brand": "RECTRON",
+  "category": "",
+  "description": "单向TVS 58.1V截止 16.3A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 58.1V截止 16.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE68A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68C",
+  "brand": "SEMIKRON",
+  "category": "",
+  "description": "双向TVS 58.1V截止 峰值脉冲电流：16.3A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68CA",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "双向TVS 58.1V截止 峰值脉冲电流：16.3A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68CA-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 58.1V截止 峰值脉冲电流：16.3A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 58.1V截止 峰值脉冲电流：16.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE68CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 58.1V截止 峰值脉冲电流：16.5A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6V8A",
+  "brand": "ST",
+  "category": "",
+  "description": "单向TVS 5.8V截止 746A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6V8CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 5.8V截止 746A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE6V8CARL",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 5.8V截止 746A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5A",
+  "brand": "LITTLE",
+  "category": "",
+  "description": "TVS 6.4V截止 139A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 6.4V截止 139A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE7.5A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 6.4V截止 139A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA",
+  "brand": "LITTLE",
+  "category": "",
+  "description": "双向TVS 6.4V截止 峰值脉冲电流：132A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 6.4V截止 峰值脉冲电流：132A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA-E3/4",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "TVS 6.4V截止 139A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA-E3/54",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5KE7.5CA-E3/54",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 6.4V截止 峰值脉冲电流：132A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "TVS 6.4V截止 139A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7.5CARL4",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE7.5CARL4",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75A",
+  "brand": "TAIWAN SEMICONDUCTOR MANF.",
+  "category": "",
+  "description": "单向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE75A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75A/4",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75CA",
+  "brand": "CRYDOM",
+  "category": "",
+  "description": "双向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201(DO-201AE)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "双向TVS 64.1V截止 峰值脉冲电流：14.8A@10/1000us",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE75CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE75CA-E3/54",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7V5A",
+  "brand": "ST",
+  "category": "",
+  "description": "停产 TVS 6.4V截止 132A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE7V5CA",
+  "brand": "ST",
+  "category": "",
+  "description": "TVS 6.4V截止 690A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE8.2A-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 7.02V截止 124A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE8.2A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE8.2A-E3/54",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE8.2AG",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE8.2A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE8.2CA-E3/4",
+  "brand": "GSS",
+  "category": "",
+  "description": "TVS 7.02V截止 130A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE8.2CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 7.02V截止 峰值浪涌电流：124A@10/1000us",
+  "pkg": "DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82A",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE82A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82A-B",
+  "brand": "DIODES",
+  "category": "",
+  "description": "单向TVS 70.1V截止 13.5A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "1.5KE82A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82A-E3/51",
+  "brand": "GS",
+  "category": "",
+  "description": "停产 1.5KE82A-E3/51",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82A-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5KE82A-E3/54",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82AG",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5KE82A-G",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82ARL",
+  "brand": "ST",
+  "category": "",
+  "description": "1.5KE82ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82ARL4",
+  "brand": "MOT",
+  "category": "",
+  "description": "1.5KE82ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE82ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE82CA",
+  "brand": "ST",
+  "category": "",
+  "description": "双向TVS 70.1V截止 峰值脉冲电流：13.27A",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE9.1CA",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "双向TVS 7.78V截止 113.4A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE9.1CA-E3/1",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 7.78V截止 113.4A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE9.1CA/4",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 7.78V截止 113.4A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91A",
+  "brand": "FAGOR",
+  "category": "",
+  "description": "单向TVS 77.8V截止",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91A-E3/1",
+  "brand": "GSS",
+  "category": "",
+  "description": "单向TVS 77.8V截止",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91ARL4G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5KE91ARL4G",
+  "pkg": "DO-201AD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91CA",
+  "brand": "DC",
+  "category": "",
+  "description": "双向TVS 77.8V截止 峰值脉冲电流：12A@10/1000us",
+  "pkg": "DO-27(DO-201)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91CA-E3/54",
+  "brand": "GS",
+  "category": "",
+  "description": "玻璃钝化芯片结瞬态电压抑制器，具备单双向可选、高脉冲功率、出色钳位能力、快速响应时间和低浪涌电阻等特性",
+  "pkg": "DO-201AA(DO-27)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE91CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 TVS 77.8V截止 12A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5KE9V1CA-T",
+  "brand": "DIODES",
+  "category": "",
+  "description": "停产 双向TVS 7.78V截止 112A峰值脉冲",
+  "pkg": "DO-201",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC100A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC100A-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC10A",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC10A",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC10AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC10AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC120CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC120CA-E3/57T",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC12A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 10.2V截止 峰值浪涌电流：91A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC13A",
+  "brand": "ON",
+  "category": "",
+  "description": "双向TVS 11.1V截止 峰值浪涌电流：83.5A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC150CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 128V截止 峰值浪涌电流：7.2A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC15A",
+  "brand": "ON",
+  "category": "",
+  "description": "用于保护敏感电子设备免受电压瞬变影响的表面贴装TVS二极管，具备单向和双向特性、玻璃钝化芯片、出色的钳位能力等",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC15A-E3/9AT",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5SMC15A-E3/9AT",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC15CA-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 12.8V截止 峰值浪涌电流：70.8A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC160A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC160A-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC16A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制器，适用于优化电路板空间，具有低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特点",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC16CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC16CA-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC18A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 15.3V截止 峰值脉冲电流：60.3A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC200CA",
+  "brand": "FAGOR",
+  "category": "",
+  "description": "表面贴装TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具备单向和双向类型，玻璃钝化芯片结，出色的钳位能力",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC20A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC20A/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC20CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "1.5SMC20CA",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC220A/57T",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向TVS 185V截止 峰值浪涌电流：4.6A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC220CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC220CA-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC22A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 18.8V截止 峰值浪涌电流：49.7A",
+  "pkg": "SMCG",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC22AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC22AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC22AT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC22AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC22CA-E3/57T",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5SMC22CA-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC24A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC24CAT/R",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "双向TVS 20.5V截止 峰值浪涌电流：45.8A",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC250A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC250A-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC27A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具备单向和双向类型，玻璃钝化芯片结，出色的钳位能力",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC27CA-E3/9AT",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC27CA-E3/9AT",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC30A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制器，适用于优化电路板空间，具有低泄漏、玻璃钝化结、低电感、出色钳位能力、快速响应时间等特点",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC30A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "单向TVS 25.6V截止 峰值浪涌电流：36.2A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC30AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC30AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC30AT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC30AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值脉冲电流：33.3A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33A-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 28.2V截止 峰值浪涌电流：32.8A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33AHE3/57T",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5SMC33AHE3/57T",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC33AT3G",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33AT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC33AT3G",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "双向TVS 28.2V截止 峰值浪涌电流：33.3A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33CA-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 28.2V截止 峰值浪涌电流：32.8A",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC33CAHE3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "双向TVS 28.2V截止 峰值浪涌电流：32.8A",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 30.8V截止 峰值脉冲电流：30.5A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36A-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "单向TVS 30V截止 峰值浪涌电流：30.1A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36AT/R",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "单向TVS 30.8V截止 峰值浪涌电流：30.5A",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "双向TVS 30.8V截止 峰值浪涌电流：30.5A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36CA-E3/9AT",
+  "brand": "GSI",
+  "category": "",
+  "description": "1.5SMC36CA-E3/9AT",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC36CAT/R",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "1.5SMC36CA/TR7",
+  "pkg": "DO-214AB(SMC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC39A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 33.3V截止 峰值浪涌电流：28.2A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC39CA-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC39CA-E3/57T",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC43A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC43CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "双向TVS 36.8V截止 峰值浪涌电流：25.3A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC440A-M3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC440A-M3/57T",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC47A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 40.2V截止 峰值浪涌电流：23.5A",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC51A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC540CA",
+  "brand": "BOURNS",
+  "category": "",
+  "description": "双向TVS 486V截止 2A峰值脉冲",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC56A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC56CA/51",
+  "brand": "GSI",
+  "category": "",
+  "description": "表面贴装TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具备单向和双向类型，玻璃钝化芯片结，出色的钳位能力",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC56CA/57T",
+  "brand": "GSI",
+  "category": "",
+  "description": "表面贴装TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具备单向和双向类型，玻璃钝化芯片结，出色的钳位能力",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC6.8A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值浪涌电流：144.8A",
+  "pkg": "DO-214AB(SMC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC6.8A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "单向TVS 5.8V截止 峰值浪涌电流：143A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC62A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC62AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC62AT3G",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC62CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC62CA-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC68A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC68A-E3/57T",
+  "brand": "GSI",
+  "category": "",
+  "description": "单向TVS 68.1V截止 峰值浪涌电流：16.3A@10/1000us",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC68CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC68CA-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC7.5A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 6.4V截止 峰值浪涌电流：132.74A@10/1000us",
+  "pkg": "DO-214AB(SMC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC7.5AT/R",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "适用于表面贴装应用的瞬态电压抑制器，具有低外形封装、内置应力消除、玻璃钝化结、低电感和出色的钳位能力等特点",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC7.5AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC7.5AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC7.5CA-E3/57T",
+  "brand": "GS",
+  "category": "",
+  "description": "1.5SMC7.5CA-E3/57T",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC75A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 64.1V截止 峰值浪涌电流：14.8A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC8.2A",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC8.2A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC8.2AT3G",
+  "brand": "FSC",
+  "category": "",
+  "description": "1.5SMC82AT3G",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC82A",
+  "brand": "ON",
+  "category": "",
+  "description": "表面贴装TVS二极管，用于保护敏感电子设备免受电压瞬变影响，具备单向和双向类型，玻璃钝化芯片结，出色的钳位能力",
+  "pkg": "DO-214AB(SMCJ)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC82A-E3/57T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "1.5SMC82A-E3/57T",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC82AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC82AT3G",
+  "pkg": "SMC(DO-214AB)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC82CA",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC82CA/57",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "表面贴装瞬态电压抑制二极管，适用于表面贴装应用，低剖面封装，适合自动贴装，有单向和双向可选，响应速度快，钳位能力出色",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC9.1A",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC9.1A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC91A",
+  "brand": "ON",
+  "category": "",
+  "description": "单向TVS 77.8V截止 峰值脉冲电流：12.2A",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC91AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC91AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMC91AT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "1.5SMC91AT3G",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMCJ15C",
+  "brand": "PROTEKDEVICES",
+  "category": "",
+  "description": "1.5SMCJ15C",
+  "pkg": "DO-214AB(SMC)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1.5SMCJ48AR100001",
+  "brand": "PANJIT",
+  "category": "",
+  "description": "单向TVS 48V截止 峰值浪涌电流：19.4A@10/1000us",
+  "pkg": "DO-214AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "100-0004-22/BSP-15",
+  "brand": "EQUATOR",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "100-0004-22/BSP-15A",
+  "brand": "EQUATOR",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10192F",
+  "brand": "SIG",
+  "category": "",
+  "description": "安赛瑞 电线理线管(10套装)灰色 Φ28mm×2m 配理线夹 办公桌理线管 办公电脑束线器10192",
+  "pkg": "-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "108CKS050M",
+  "brand": "ILLINOIS CAPACITOR",
+  "category": "",
+  "description": "108CKS050M",
+  "pkg": "插件",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10BQ040NLTR95-9873",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M04SCU169C8G",
+  "brand": "INTEL",
+  "category": "",
+  "description": "MAX 10 FPGA 设备",
+  "pkg": "UBGA-169",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16DCF256C7G",
+  "brand": "INTEL",
+  "category": "",
+  "description": "10M16DCF256C7G",
+  "pkg": "FBGA-256",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M16SAU169I7G",
+  "brand": "ALTERA",
+  "category": "",
+  "description": "MAX 10 FPGA 设备",
+  "pkg": "UBGA-169",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10M40DCF672C8G",
+  "brand": "ALTERA",
+  "category": "",
+  "description": "10M40DCF672C8G",
+  "pkg": "FBGA-672",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1649406-4SRUUH-SS-112DM4-000",
+  "brand": "TYO",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1689T72RMF151R-DB",
+  "brand": "AGILENT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "208LFBGABAMACHAR-300UM",
+  "brand": "QUALCOMM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215CACAKA26FGRV530XT",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215CADAKA24FGRV53",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215CADAKA24FGRV530",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215FADAKA12FGRV515",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215FAEAKA12FGRV51",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215FAEAKA12FGRV515",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "215FAEAKA13FGRV515",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "216DP8AVA12PHKL103",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "21M01-IIA8-RX1283",
+  "brand": "SYNIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "21M01-IIA8-TX1002",
+  "brand": "SYNIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2840-894-512-160-4-I747023",
+  "brand": "ALC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "29EE010-120-4C-PH",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "29SF040-55-4I-NHE",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1015L-GR-T92-B",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC1815L-GR-T92-B",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3356-T1B-A-R24",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3356-T1B-A-R25",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD1616AG-G-AB3-R",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2U3837K33QDBVRG4Q1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "4610X-104-221/331",
+  "brand": "BOURNS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "48010TORAB38KY-DB",
+  "brand": "AGILENT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "49SC106G025M0ADFT",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5046FTA1493-44MA10C",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "5962-0151801QYCA54SX32A-CQ208B",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "CQFP-208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "64324C1-G2BP7JFDA",
+  "brand": "LSILOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABT162245ADGG51",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16245DGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC164245DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16245ADGGR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16501DGGRG4",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16841DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16952DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCHS162830AGR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162241DGG51",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162241DL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162244DL118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162245DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162245DL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16241DGG512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16245DGG112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162821DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162823DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162823DL512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16543DGG112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16823DGG112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G32GW/DG125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCBH164245ZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCH16245DGG112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCH20T245DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCM162834DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV16211CGRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV16211DGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV1G125GV125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV1G125GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162240ATPACT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162374CTPACT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162823CTPVCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162827ATPACT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162H501CTPACT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC125APW/S9991",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC14APW/S99911",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC162244ADGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC162245ADGG11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16244ADGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16245ADGG112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16245ADGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16373ADGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16374ADGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G07GW/DG125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH162245ADGG1",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH162373ADL11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH16244ADGG51",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH16244ADL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH16245ADL118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH322245AEC51",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH32245AEC557",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCHR16245AZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCHR32245AZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT162244BDL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT162245BDGG51",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT162245BDL118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT16244BDGG512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74SSTUB32864AZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74SSTUB32865AZJBR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA160",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74SSTUB32868AZRHR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA176",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E1545MA0-LKJ2C000",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E6021-A1-RCJ-C000",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E8036-NN2C-P123",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E8036-NNC1-P123",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88F6281-A1-BIA2C100",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88PG8226A1-NFE1C000-T",
+  "brand": "MARVE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88W8010-B6-NNB1C000",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88W8060-A3-NNR1C000",
+  "brand": "MARVE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN84",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88W8618-D1-BBS1C000",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88X2080-BBU-C1PES",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A4S12D40FTP-G51080/",
+  "brand": "ZENTEL",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A5S30A-CO-RH1120/",
+  "brand": "AMBARELLA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A71X05QFI/Q1123+3000/",
+  "brand": "AMICCON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT1150IKS-3.3-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT1154IAS-1.0-T1",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT1154IAS-1.0-TI",
+  "brand": "AATI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT2430AISX-T112+1000/",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3110IGU-4.5-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT163",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3110IGU-5.0-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3169IFO10+1500/",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3200IGY-2.5-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3200IQY-2.85-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3200IQY-3.0-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3215IGV-2.5-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3215IGV-2.9-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3215IGV-3.6-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3215IJS-3.0-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3216IGV-1.2-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3220IQY-1.8-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3220IQY-2.3-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3220IQY-2.5-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3220IQY-3.0-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3220IQY-3.5-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3236IGV-2.7-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3236IGV-2.8-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3236IGV-3.0-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3237BIGU-2.8-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3237BIGU-2.85-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3237IGU-3.3-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3238IGU-1.85-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3510IGV-4.38-C-C-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3520IGY-2.63-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3520IGY-3.08-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3520IGY-3.08-50-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3520IGY-4.63-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3522IGY-2.20-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3522IGY-2.45-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3522IGY-4.38-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3522IGY-4.65-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3524IGY-4.63-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3526ICX-2.93-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3526ICX-3.08-200-T1",
+  "brand": "AATI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3526ICX-4.63-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3527ICX-2.93-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3527ICX-4.38-200-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
  }
 ]
