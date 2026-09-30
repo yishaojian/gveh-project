@@ -66072,6 +66072,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "208LFBGABAMACHAR",
+  "brand": "QUALCOMM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "208LFBGABAMACHAR-300UM",
   "brand": "QUALCOMM",
   "category": "",
@@ -66160,6 +66168,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "24AA025E48T-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA025E48T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC128T-I/STA37",
+  "brand": "MCH",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2705-01-01000000",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "2840-894-512-160-4-I747023",
   "brand": "ALC",
   "category": "",
@@ -66176,11 +66216,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "29EE020150-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "29F400TC-90PF-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "29LV800BA-90PFTN",
+  "brand": "MAL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "29SF040-55-4I-NHE",
   "brand": "SST",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1012L-Y-TF3-T",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F-3",
   "lifecycle": ""
  },
  {
@@ -66192,11 +66264,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SA1020-YTE6.F.M",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1213-YTE12LZC",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB649AL-C-T60-K",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-126-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SB649AL-C-T9N-B",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92NL-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC1623-T1B-A-L6",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC1623-T1B-A-L7",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SC1815L-GR-T92-B",
   "brand": "UTC",
   "category": "",
   "description": "",
   "pkg": "TO-92-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC2712G-G-AE3-R",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -66216,6 +66344,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SC4226-T1-A-R25",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT353",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SD1616AG-G-AB3-R",
   "brand": "UTC",
   "category": "",
@@ -66224,11 +66360,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SD1624G-S-AB3-R",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SD669AL-D-T9N-B",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92NL-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK3070-92STR-HS",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2T28-33QDBVRG4Q1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "2U3837K33QDBVRG4Q1",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "37VF040-90-3C-PH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "39SF020-70-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "39SF020-90-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "39SF020-90-4C-PH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "39VF512-70-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-32",
   "lifecycle": ""
  },
  {
@@ -66245,6 +66453,22 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "49LF004-33-4C-NH",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC60",
+  "lifecycle": ""
+ },
+ {
+  "pn": "49LF004A33-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-32",
   "lifecycle": ""
  },
  {
@@ -66272,11 +66496,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "6282-01-01000000",
+  "brand": "MMI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "62S16256TU-70LLT",
+  "brand": "ISSI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "64324C1-G2BP7JFDA",
   "brand": "LSILOGIC",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "6PAIC23BIPWRG4Q1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "6PAIC3104IRHBRQ1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
   "lifecycle": ""
  },
  {
@@ -66288,11 +66544,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ABT16245BDL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AHCT1G125GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AHCT1G126GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVC16245DGG118",
   "brand": "NXP",
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC162834ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC162836ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66304,11 +66600,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVC164245GRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC164245ZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCF162835APA",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16244ZRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVCH16245ADGGR",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16245DGGR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16245ZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16245ZRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH162827DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16373ZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -66336,11 +66704,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVCH32244ZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH32245ZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH32374ZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH32501ZKFR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA114",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH32973ZKER",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVCHS162830AGR",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "TSSOP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCHT16835DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCM162835DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66392,11 +66816,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVT16241DL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVT16245DGG112",
   "brand": "NXP",
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16245DL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16245DL118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT16260DL512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
   "lifecycle": ""
  },
  {
@@ -66424,6 +66880,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVT1632344DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVT16543DGG112",
   "brand": "NXP",
   "category": "",
@@ -66440,11 +66904,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVT16823DL512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G0832GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G3208GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
   "pn": "74AUP1G32GW/DG125",
   "brand": "NXP",
   "category": "",
   "description": "",
   "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCB164245ZRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
   "lifecycle": ""
  },
  {
@@ -66480,6 +66976,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "74CB3Q3257DBQRE4",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBT1G384DBVRG4",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "74CBTLV16211CGRDR",
   "brand": "TI",
   "category": "",
@@ -66509,6 +67021,22 @@
   "category": "",
   "description": "",
   "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV3253DS118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74CBTLV3257PW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66549,6 +67077,30 @@
   "category": "",
   "description": "",
   "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT16543ATPACT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT166245ATPV8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC4053NPHINOPB",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
   "lifecycle": ""
  },
  {
@@ -66608,7 +67160,23 @@
   "lifecycle": ""
  },
  {
+  "pn": "74LVC16245ADL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
   "pn": "74LVC16373ADGG118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC16373ADL112",
   "brand": "NXP",
   "category": "",
   "description": "",
@@ -66626,6 +67194,30 @@
  {
   "pn": "74LVC1G07GW/DG125",
   "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G3157GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G3157GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH162244ADGG",
+  "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
@@ -66736,6 +67328,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "74LVT16244BDL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVTH162245ZRDR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVTH162373ZQLR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVTH16244ADGGR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74SSTUB32864AZKER",
   "brand": "TI",
   "category": "",
@@ -66752,11 +67376,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "74SSTUB32865ZJBR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA160",
+  "lifecycle": ""
+ },
+ {
   "pn": "74SSTUB32868AZRHR",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "BGA176",
+  "lifecycle": ""
+ },
+ {
+  "pn": "81F641642D-102FN",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E1240-TAH2-AOP",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -66848,6 +67496,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "A54SX32A-1CQ208B",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "CQFP-208",
+  "lifecycle": ""
+ },
+ {
   "pn": "A5S30A-CO-RH1120/",
   "brand": "AMBARELLA",
   "category": "",
@@ -66861,6 +67517,14 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A80387DX-25SX106",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
   "lifecycle": ""
  },
  {
@@ -67197,6 +67861,3342 @@
   "category": "",
   "description": "",
   "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3528ICX-2.63-200T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3528ICX-2.93-200T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3560IGY-2.2-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT3562IGY-2.30-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT4618IGV-0.5-1-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACA3216M4-060-TL",
+  "brand": "TDK",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACA3216M4-300-TL",
+  "brand": "TDK",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACM4532-6012P-T001",
+  "brand": "TDK",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1580ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1580BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1582ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1582BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1583BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1584ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1584BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD1585ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD22105ARZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD2S83APZAD2S83APZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5060ARJZ-1REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5060BRJZ-1REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5061BRJZ-2REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5160BRJZ10-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5160BRJZ10-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5160BRJZ100-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5160BRJZ50-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5162BRMZ100-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5165BUJZ100-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5227BUJZ10-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5245BRJZ100-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5254BRUZ10-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5263BRUZ20-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5300BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5301BRMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5301BRTZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5304ARMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5311BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5315ARMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5320BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5398BCBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5398BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5450YUJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5451YUJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5452YUJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5453YRMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5453YUJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5620ARJZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5625BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5627RBCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5640BRJZ-1REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5645RBCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5660ARJZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5660ARJZ-2500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5662BRJZ-1REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5662BRJZ-2REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5664BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5665BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5680BRJZ-2REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5725ARSZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5725ARSZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5725BRSZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5726YRSZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5821ABCBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA9",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5821BCBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA9",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5962-8863002VA",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7148ACPZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7170BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7262BSTZ-5-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7277AUJZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7414ARTZ-0500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7414ARTZ-1REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7415ARTZ-0500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7415ARTZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7457BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7466BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7468BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7475ARMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7476ARTZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7477ARTZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7478ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7680BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7814ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7877ACBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7879-1ACBZ-500500/",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7912AUJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7924BRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7938BSUZ-6REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7940BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7991YRJZ-0500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7991YRJZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7995YRJZ-0500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7995YRJZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7997BRUZ-1REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7999YRJZ-1500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8018ARUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8031ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8033AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8293G160ARJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8293G160BRJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8370AREZ-RL711+1000/",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8506ACBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8508ACBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8541AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8605ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8617WARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4691-4ACPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4850-1YCPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4850-2YCPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4851-1YRJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4851-4YRUZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4853-3YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4855-3YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4858-3ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4859-3ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4927-2YCPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4932-2YCPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4937-1YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4937-2YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4938-2ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4939-1YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4941-1YCPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4960-1ACPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADAU1401YSTZ-RL11+2K/",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC0804S030TS/C11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08060CIMTX/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC0808S125HW/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC0808S250HW/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081000CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08100CIMTC/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081500CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081C021CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081C021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081C027CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081S021CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081S051CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081S101CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC081S101CISD/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC082S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC082S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC082S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC084S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC084S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC084S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08831IMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08832IWM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC088S022CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08B200CIVS/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08D1000CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08D1020CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08D1500CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08D500CIYB/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC08L060CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1002S020HL/C11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1003S050TS/C11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1005S060TS/C11",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC10065CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1006S055H/C155",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1006S070H/C155",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC10154CIWM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101C021CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101C021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101C027CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101S021CISD/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101S051CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC101S101CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC102S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC102S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC102S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC10321CIVT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC10464CIWM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC104S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC104S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC104S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC108S022CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC12020CIVY/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC12030CIWM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1206S040H/C155",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1206S055H/C155",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1206S070H/C155",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1207S080HW/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC12130CIN/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121C021CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121C021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121C027CIMK/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121S021CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121S021CISD/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121S051CISD/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121S101CIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC121S625CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC122S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC122S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC122S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC122S625CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC122S655CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC124S021CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC124S051CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC124S101CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC128S022CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC128S052CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC128S102CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC12C170CISQ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC12V170CISQ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1413D125HN/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFN56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC141S625CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC141S626CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC14C080CISQE/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1610S125HN/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFN40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1613D125HN/C15",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFN56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC161S626CIMM/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC78H90CIMT/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP341YRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP370AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP600BKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP600BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP604BKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP608BKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCMP609BRMZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCS7476AIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCS7477AIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCS7478AIMF/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADCS7478AIMFE/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADE7751ARSZRL1500/",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADF0404/1825002-5",
+  "brand": "ACS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADF4113BRUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADF4360-8BCPZRL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "CSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG1219BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3231BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3233BRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3300BRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3304BCBZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3304BCBZ3000/",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG3308BCPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG465BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG601BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG602BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG608BRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG619BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG633YRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG701LBRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG702LBRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG709BRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG711BRADG711BR",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG719BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG751ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG752BRTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG787BCBZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG819BRTZ-500RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1085AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1086AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1087AKSZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1170-1AUJZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1170-2AUJZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1171-1AUJZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1171-2AUJZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1172-1AUJZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1175-1ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1175-3ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1176-2ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1178-2ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1191-2ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1818-10ART-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM1818-10ARTZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM202JRNZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM213EARSZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM232AARNZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM2682EBRIZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM2687EBRIZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM3202ARNZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM3251EARWZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM3311EARU-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM3315EARUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM4073TWRJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6315-26D4ARTZR7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6710EARJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6710LARJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6820ARJZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6996FCX-AD-R-1",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM6996MX-AC-T-1",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM809TART-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM811RARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM8828ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM8829ARTZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP121-ACBZ188R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-2.7-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-2.85-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-2.9-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP122AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-2.7-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-2.85-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-2.9-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP124ARHZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP130AUJZ-0.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP130AUJZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP130AUJZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP130AUJZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150ACBZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150ACBZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150ACBZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150ACBZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150AUJZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP150AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-2.1-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-2.75-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-2.85-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151ACBZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151AUJZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151AUJZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151AUJZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151AUJZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP151AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-2.7-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-2.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP160AUJZ-4.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP162AUJZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP162AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP162AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP162AUJZ-4.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1706ARDZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1706ARDZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1706ARDZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1707ARDZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1707ARDZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP170AUJZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1710AUJZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1710AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1710AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1711AUJZ-0.75R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1711AUJZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1711AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1712AUJZ-1.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1712AUJZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1712AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1712AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1713AUJZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-0.75R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-0.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-0.85R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-0.9-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-0.95R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.05R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.1-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.15R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1714AUJZ-3.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1715ARMZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1715ARMZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1715ARMZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1715ARMZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-0.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-1.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-1.1-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-1.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1716ARMZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1720ARMZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1720ARMZ-5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-1.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-1.26-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP172ACBZ-2.1-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-0.75R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-1.0-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-1.1-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-1.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1740ACPZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1874ARQZ-0.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1875ARQZ-0.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP1877ACPZ1500/1203+",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP2138ACBZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP2138ACBZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP2139ACBZ-1.2-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP2139ACBZ-1.8-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP2147ACBZ-110-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP220ACBZ-1812R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP220ACBZ-1827R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP220ACBZ-26235R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP220ACBZ-2623R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP220ACBZ-2818R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3162JRZ-REEL7",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3178JRZ-REEL7",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3180JRUZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3181JRUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3300ARTZ-3.3RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3300ARTZ-5REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3309ARTZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3330ART-2.85-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3330ARTZ-2.5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3330ARTZ-2.85R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3330ARTZ3.3-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3331ARTZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3333ARMZ-5-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3334ACPZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3335ACPZ-3.3-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3335ARM-5-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP8",
   "lifecycle": ""
  }
 ]
