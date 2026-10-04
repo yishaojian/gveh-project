@@ -18905,11 +18905,11 @@
  },
  {
   "pn": "IRL620PBF",
-  "brand": "Vishay Semiconductors",
+  "brand": "Vishay / Siliconix",
   "category": "MOSFET",
-  "description": "MOSFET  IRF6",
+  "description": "MOSFET TO220  200V  5.2A N-CH MOSFET",
   "pkg": "TO-220-3",
-  "lifecycle": "Obsolete"
+  "lifecycle": "End of Life"
  },
  {
   "pn": "IRL640PBF",
@@ -23818,8 +23818,8 @@
  {
   "pn": "OM8SEP4256Q-A01",
   "brand": "Kingston",
-  "category": "IC",
-  "description": "OM8SEP4256Q-A01",
+  "category": "固态硬盘 - SSD",
+  "description": "固态硬盘 - SSD Industrial SSD M.2 PCIe 2280 256GB TLC 0 C to 70 C",
   "pkg": "",
   "lifecycle": ""
  },
@@ -23827,7 +23827,7 @@
   "pn": "OM8P0S3128Q-A0",
   "brand": "Kingston",
   "category": "固态硬盘 - SSD",
-  "description": "固态硬盘 - SSD M.2 2280 128GB SATA3 SSD",
+  "description": "固态硬盘 - SSD Industrial SSD M.2 2280 128GB TLC SATA3 0 C to 70 C",
   "pkg": "",
   "lifecycle": ""
  },
@@ -28195,7 +28195,7 @@
   "pn": "OMSP0S3128Q-00",
   "brand": "Kingston",
   "category": "固态硬盘 - SSD",
-  "description": "固态硬盘 - SSD mSATA 128GB SATA3 SSD",
+  "description": "固态硬盘 - SSD Industrial SSD mSATA 128GB TLC SATA3 0 C to 70 C",
   "pkg": "",
   "lifecycle": ""
  },
@@ -34385,11 +34385,11 @@
  },
  {
   "pn": "SQ2319ADS-T1GE3",
-  "brand": "Vishay Semiconductors",
+  "brand": "Vishay / Siliconix",
   "category": "MOSFET",
-  "description": "MOSFET P Ch -40Vds 20Vgs AEC-Q101 Qualified",
+  "description": "MOSFET P-CHANNEL 40V (D-S)",
   "pkg": "",
-  "lifecycle": "Obsolete"
+  "lifecycle": "End of Life"
  },
  {
   "pn": "SQ2361AEES-T1GE3",
@@ -34523,7 +34523,7 @@
   "pn": "SQ4840EY-T1GE3",
   "brand": "Vishay / Siliconix",
   "category": "MOSFET",
-  "description": "MOSFET  SQ48",
+  "description": "MOSFET 40V 10A 1.56W AEC-Q101 Qualified",
   "pkg": "",
   "lifecycle": "Obsolete"
  },
@@ -34589,7 +34589,7 @@
   "category": "MOSFET",
   "description": "MOSFET 20V 7.8A 13.6W AEC-Q101 Qualified",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "SQA413CEJW-T1GE3",
@@ -34621,7 +34621,7 @@
   "category": "MOSFET",
   "description": "MOSFET 30V Vds; +/-12V Vgs PowerPAK SC-70-6L",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "SQA470EJ-T1GE3",
@@ -34629,7 +34629,7 @@
   "category": "MOSFET",
   "description": "MOSFET 30V PowerPAK SC-70 AEC-Q101 Qualified",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "SQA602CEJW-T1GE3",
@@ -34757,7 +34757,7 @@
   "category": "MOSFET",
   "description": "MOSFET N Ch 40Vds 20Vgs AEC-Q101 Qualified",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "SQJ459EP-T1GE3",
@@ -45787,7 +45787,7 @@
   "pn": "VS-150K40A",
   "brand": "Vishay Semiconductors",
   "category": "整流器",
-  "description": "整流器 400 Volt 150 Amp",
+  "description": "整流器 Diodes - DO-8/30 BRAZ AL-e3",
   "pkg": "",
   "lifecycle": "Obsolete"
  },
@@ -83197,6 +83197,4006 @@
   "category": "",
   "description": "",
   "pkg": "QFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EPM9560ARC208-10",
+  "brand": "ALTERA",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EPM9560RI208-20W",
+  "brand": "AITERA",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD0505-M0500091",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD5V0S2U-06E6327",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EVAL-AD2S1210EDZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TO-DIGITAL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EX128-FTQ100XJ88",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "EZ1587CT-1.5/M/T",
+  "brand": "SEM",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "F1255-80031HSE#112585",
+  "brand": "HP",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "F1865-80030HSE#25507-03",
+  "brand": "HP",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "F5EB-942M50-B28C-Z",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAGB1301CE-10-TF",
+  "brand": "STANLEY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAGB1301CE-14-TF",
+  "brand": "STANLEY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FAGB1301CE-24-TF",
+  "brand": "STANLEY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FASTESTKEYBOARDBIOS",
+  "brand": "JKY",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FASTESTKEYBOARDBIOSV3.0",
+  "brand": "JKY",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FBM11-322513-600T",
+  "brand": "KGC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FFB20UP20DN-F085",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FGA15N120ANTDTUF109",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3PN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FGH75T65SHD-F155",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FGY160T65SPD-F085",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FLI30602H-AC240/09+",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FPF2280BUCX-F130",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP-12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FQP4N90C/6N80C/3N80C",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FQPF6N80C5L0380R",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FQPF7N80CF6N80C5N60C",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FRGB1312CE-10-TF",
+  "brand": "STANLEY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FRGB1312CE-12-TF",
+  "brand": "STANLEY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FT7B557CANP315BP",
+  "brand": "NPLABS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FTS125-COO-010.0M",
+  "brand": "CONNOR-WINFIELD",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FTS125-CTV-010.0M",
+  "brand": "CONNOR-WINFIELD",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FV80503200SL27J/2.8V",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "G-CSP2200B1-YV10-LDY",
+  "brand": "AGERE",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "G6KG-1G9600-Y4PC-Z",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GAL20RA10B-20LJI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GAL20V8AS-12HC1J",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GAL20V8AS-15QC3J",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GC101A/B1A4924451-0015",
+  "brand": "HL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GF-G07400-B-N-A3",
+  "brand": "NVIDIA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GK-12/FR-2042-27T",
+  "brand": "CHINA",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GK-24/FR-2042-27T",
+  "brand": "CHINA",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GL603USB-A-3D2P-DII",
+  "brand": "GLI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM5221-LF-BC-FLATRON",
+  "brand": "GENESIS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM71VS65163CLT-5",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM76C256CLLFW-55W",
+  "brand": "HYD",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM76C256CLLFW-70",
+  "brand": "HYD",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GM76C256CLLFW55W",
+  "brand": "LGS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GMF05LC-HS3-GS08",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GPDS250A-001D-QL233",
+  "brand": "SUNPLUS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRF6401-FK20BGT0924+2500/",
+  "brand": "GCT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM42-6B223K100PT",
+  "brand": "MUR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GS7966-424-002BB",
+  "brand": "CONEXANT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GU1-878070-001F088",
+  "brand": "SSDI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GXM-233BP2.5V85C",
+  "brand": "CYRIX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HC20K600FC672NAA",
+  "brand": "ALT",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD44801SD03TCT1049",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD6417300BLZ120V",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD6432258WA61FAI",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD6432345K06FAUD",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD6432345K09FAUD",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD64F2134AVFA10V",
+  "brand": "RER",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD64F2328VTE25APV",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD64F3397FBL17V04+",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD64F7145F50VSH2",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74ALVC1G04VS-E",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74HC4066RPEL-Q",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP1-1",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74HC540RPVEL-Q",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP3-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LS09FPEL-E-Q",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP2-1",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LV123ATELL-E",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP-1",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LV244ATELL-Q",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LVCZ244AT-EW",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HFA15TB6099-2010",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HFA15TB60R99-2017",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HFA16PB12099-0045",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HFA30PA60C99-2007",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HI1-0547B7017-001",
+  "brand": "HARRAS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HIP1012ACB-TS2495",
+  "brand": "INTERSIL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HM621664HBLJP-20",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HM62256ALFPI-12T",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HM628128ALFP-7DC94",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HN29V128AOABPFAO",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HN29V256AOBBP-30",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HN5264165FLTT-A60",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HN58X2432FPIBZ-Q",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS3477C.B0-998694",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS3487C.B0-998692",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS6001C.A0-998960",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS6002C.A0-998950",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS6003C.A0-998952",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS6004C.A0-998954",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HPCS6005C.A0-998956",
+  "brand": "CORTINA SYSTEMS INC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HSHM-H110A4-5CP1-TG30",
+  "brand": "3M",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HSHM-S110A4-5AP1-TG30",
+  "brand": "3M",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HT101A/B1A4924451-0015",
+  "brand": "HL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HTTP//WWW.TI.COM/LIT/PDF/SLOS681",
+  "brand": "DRV632PW",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HX8232-B020PD400",
+  "brand": "HIMAX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HX8347-D000PD300",
+  "brand": "HIMAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY51V18164BJC-60",
+  "brand": "KOREA",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V1616100TC-7",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V161610FTP-H",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V281620ETP-6/H",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V561620CLT-H",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V561620CTP-H",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V561620FTP-H-C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V641620ETP-7",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V641620ETP-7-C",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V641620FTP-7-C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V641620HGLT-HI",
+  "brand": "HNNIX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY57V658020BTC-10S",
+  "brand": "HYUNDAI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DS283222BF-33",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DU121622CFP-J",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DU121622CLTP-J-C",
+  "brand": "HUNIX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DU283222AF-36",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DU283222AQ-50",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5DU561622FTP-4-C",
+  "brand": "HUNIX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS121621CFP-2",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS121621CFP-25",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS121621CFP-S6",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS121621CFP-Y5",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS1G1631CFP-S6C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS1G1631CFP-Y5C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS1G831CFP-Y5C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS561621AFP-25",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS561621AFP-33",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5PS561621BFP-25",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5RS573225BFP-11",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY5S5B2CLFP-6E-C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "BGA-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY62UF16201ALLF-851",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY62V8100BLLG-70",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HY62WT08081E-DG70C",
+  "brand": "HY",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18H512321AF-12",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T1G800BF-3S",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T256161AF-28",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T256800AF-5",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T512160AF-5",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T512800AF37",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T512800BF-2.5",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18T512800BF-3S",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA60",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB18TC512160BF-3.7",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB25D128323C-3.3",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB25D256160BT-5",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB25D256800CF-6",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB3118705BSJ-60",
+  "brand": "SIEMENS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB39L256160AC-7.5",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYB5118165BSJ-60",
+  "brand": "SIEMENS",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYCOUEEOAF2-3S60E",
+  "brand": "HYNIX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYI39S128800FE-7",
+  "brand": "QIMONDA",
+  "category": "",
+  "description": "",
+  "pkg": "SOP54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM025161LG5D-60",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM025161NG5D-6H",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM025161NG5D-70",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM025171NG5D-60",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM025171NG5D-70",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM25403GCX-3JC80C2",
+  "brand": "AMCC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP-160",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM25PPC405EP-3GB266C",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM25PPC405GP-3BE200C",
+  "brand": "IBM POWER PC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM25PPC405GP-3DE200C",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM39STB02500LFA05CA135/",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IBM39STB02500PBA05CA",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IC62LV12816LL-70T",
+  "brand": "ISSI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICM7218CIJIR5254",
+  "brand": "INTERSIL",
+  "category": "",
+  "description": "",
+  "pkg": "CDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS7152AMI-11LFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS83026BGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS83026BMI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS83054AGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS83908AGI-02LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS840002AG-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS840002AGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS843002AG-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS843021AGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS843252AG-45LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS844002AGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS844003BGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS844003EGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS844008BYI-15LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS844021BG-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS85211AMI-03LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS85211BMI-03LN",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS85314AGI-11LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS85314BGI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS85314BMI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS87332AMI-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS87339AGI-11LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS874001AGI-02LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS874001AGI-05LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS874003AG-02LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS874003AGI-02LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9161A-01CW16LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9173B-01CS08LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9250BF-19T-IBO",
+  "brand": "ICS",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS954305DKLF100",
+  "brand": "ICS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS98ULPA877AHLF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS98ULPA877AKILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9DB202CK-01LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9EMS9633BKILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9EPRS525AGILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9ERS3125BKILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9ERS3165BGILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9ERS3165BKILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9FG1200DG-1LFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9FG1900BK-1LFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP72",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9LPRS325CKLFT",
+  "brand": "ICS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9LPRS436CGILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9LPRS501SGLFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9LPRS525AGILF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9UMS9610CKLFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9UMS9633BFILFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ICS9UMS9633BKILFT",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT2309NZ-1HPGGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT23S05-1HDCGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT23S05E-1HDCGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT23S09E-1HDCGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805APYG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805APYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805APYGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805APYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805APYI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805AQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805AQGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805ASOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805ASOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805DPYGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805DQGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805EPYGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805EQGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805PYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805PYGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT49FCT3805SOGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V19EE604NDGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V19EE901NLGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V49EE502NLGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V49EE504NLGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V49EE704NDGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V49EE901NLGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT5V49EE904NLGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT70V3599S166BFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "FBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT70V9269S12PRFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71024S12TYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71024S15TYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71024S20TYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71256SA15YGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71256SA20YGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71256SA25TPGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V016SA10PHG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA10Y5186423M01",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA10YGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA12TYG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA12YGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA15TYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V124SA15YGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V256SA15YG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V35761S200PFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT71V3577S75PFG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V2105L10PFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V2111L15PFGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V2113L10PFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V211L15PFGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V245L-15PFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V36100L15PFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V36110L10PF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V36110L15PFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V36110L6PFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V36110L7-5BBI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA144",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V3640L7-5PFGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT72V3690L7-5PFI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC162244PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC162245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC16244APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC16245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC164245PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC164245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVC164245PVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH162244PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH162245PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH162245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH162373PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH16244PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH16245PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH16260PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH16721PA",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH32244BFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCH32245BFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74ALVCHR162245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV16211PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV16245PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3125PGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3244PGG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3251QG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3253PGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3253QG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3257PGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3257QG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74CBTLV3384PGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT157CTQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162244ATPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162244ATPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162244ATPVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162244CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162245ATPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162245ATPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162245CTPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162245TPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162373CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162374ATPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162374ATPVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16237ATPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16244ATPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16244ATPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16244CTPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16244CTPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16244TPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245ATPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245ATPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245ATPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245CTPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245CTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245CTPVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245ETPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245ETPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16245TPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162501ATPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162511CTPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162823CTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162823CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162952BTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT162H245CTPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163244APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163244CPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163244CPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163245APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163245APV",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163245CPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163245CPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163245CPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163373APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163373APV",
+  "brand": "ICS",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP-48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163373CPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT163373CPH",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16337APV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16373CTPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16373CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16374CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPA",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT164245TPVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16501CTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT166244CTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT16952CTPVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT2244ATQG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT2245ATQG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT2245ATSOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT2245CTQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT244ATSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT244ATSOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT245ATPGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT245ATPGG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT245ATSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT245CTQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3244APGG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3244APGG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3244APYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3244AQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3244ASOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3245APGG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3245AQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT38072DCGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT38074DCGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT38075DCGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807APYG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807APYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807APYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807AQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807ASOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807DPYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807EPYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807EQGI",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807PYG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807PYGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT3807QGI8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT521ATSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT543ATSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT543CTQG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT543CTSOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT573CTSOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT574ATSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT621ATSOG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT807BTSOG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT88915TT100PY",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT88915TT133J",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74FCT88915TT55J",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC162245APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC162245APVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC162445APV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16244APA",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16244APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16244APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16245APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16245APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16245APVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16373APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16374APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC16827APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVC244APGG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH162244APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH162245APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH162373APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH162373APVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH162374APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16244APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16245APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16245APV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16245APVG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16374APVG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCH16543APAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74LVCHR162245APAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74SSTU32864CBFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74SSTUBF32866BBFG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA96",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74SSTUBF32868ABKG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA176",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT74SSTUBF32869ABKG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA150",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT79RC32H434-400BCG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT79RV4650-180DP",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT9173B-01CS08LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT9173B-15CS08LF",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDT92HP61B7X5NLG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS32X2384Q1G8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS32XVH2245Q2G",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS32XVH245Q2G8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS34XVH2245Q3G",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS34XVH245Q3G8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16210PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16211PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16212PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16233PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16233PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16244PAG8",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS3VH16861PAG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTQS5917T-100TQG",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IDTSTAC9750XXTAEC1X",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABER1R0M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616ABER2R2M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZER1R0M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZER2R2M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZER4R7M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZERR10M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP1616BZERR22M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER100M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZER2R2M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2020BZERR47M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR10M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP2525CZERR82M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232CZER2R2M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP3232DZER6R8M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER101M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER1R8M11",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD/SMT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP4040DZER4R7M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHLP5050CEERR82M01",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IHY20N120R3H20R1203280/",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A3-256/1287SAC-10SA1",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A3-32-10VC-12I",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A3-32/327JC-10JI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC/44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A3-3210VC-12VI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A5-128/64-10VC-12VI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A5-32/32-10JC-7JI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A5-32/32-5JC-7JI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A5-32/32-7JC-7JI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IM4A5-64/32-10JC-7JI",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "INT6400CKZINT1400CQZ",
+  "brand": "ATHEROS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IP4085CX4/LF/P135",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "CSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IP4283CZ10-TT118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IP4352CX24/LF135",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IPD60R2K1CEAUMA1",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IR2157STR98-0146",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF3205/540N/9530N",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF640N-00594-2065",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7324D1R94-3274",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7353D2TR94-3378",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7379TR94-3356",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7702TR94-3324",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF7750TR94-3335",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9410TR94-3298",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF9630STRR94-4004",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFD9120/100V/1A",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI840G-10594-3157",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI840G-LF3894-5733",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI9630G94-5595",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI9Z24G85-0032",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFI9Z34G94-3221",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIB5N65A-3894-3185",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIB5N65A94-3185",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFIBE30G-LF3394-5741",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFP450-LF2094-5598",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPC50-LF44G2142HEX",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPE40-LF2094-5783",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFPF50FE94-5796",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR12N25DPBFEOL",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR24N15DTRLPBF",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR3504TRPBFEOL",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFR9024N94-4931",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252AA/DPAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFZ48-03394-2728",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
   "lifecycle": ""
  }
 ]
