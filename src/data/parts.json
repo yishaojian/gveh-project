@@ -66056,6 +66056,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "11AA02E48T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "11AA02E48T-I/TT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1206J0500104MXT",
+  "brand": "SYF",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "125-ZCHP-250-01",
+  "brand": "ZOWIE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "1649406-4SRUUH-SS-112DM4-000",
   "brand": "TYO",
   "category": "",
@@ -66064,11 +66096,59 @@
   "lifecycle": ""
  },
  {
+  "pn": "1654T-VGH30T-D8",
+  "brand": "LUCENT",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1688T48-PLG191R",
+  "brand": "LUCENT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "1689T72RMF151R-DB",
   "brand": "AGILENT",
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "16CTQ080STRLPBF",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "16CTQ100STRLPBF",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "195D106X9035Z2T",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1P1G3157QDBVRQ1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
   "lifecycle": ""
  },
  {
@@ -66152,6 +66232,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "216QP4DBVA12PHS",
+  "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "21M01-IIA8-RX1283",
   "brand": "SYNIC",
   "category": "",
@@ -66165,6 +66253,46 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024T-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA025E48-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -66184,8 +66312,136 @@
   "lifecycle": ""
  },
  {
+  "pn": "24AA02E48T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA512T-I/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24C02N-10SU-2.7",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24FC512T-I/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "24LC128T-I/STA37",
   "brand": "MCH",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC512T-E/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC512T-I/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25AA02E48T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25AA040AXT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25AA640AXT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC040AXT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC040AXT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC080BT-I/MSG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC320AXT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC320AXT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC640AXT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "25LC640AXT-I/ST",
+  "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
@@ -66205,6 +66461,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "29E010-90-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -66280,6 +66544,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SA608NF-NPA-AT",
+  "brand": "SANYO",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA812-T1B-A-M6",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA812-T1B-A-M7",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SB649AL-C-T60-K",
   "brand": "UTC",
   "category": "",
@@ -66293,6 +66581,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-92NL-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC1621B2/B3/B4",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -66320,6 +66616,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SC2655-YTE6.FM",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SC2712G-G-AE3-R",
   "brand": "UTC",
   "category": "",
@@ -66341,6 +66645,30 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3518-Z-T1-AZ",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT263-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC3583-T1B-R34",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC4155A-T11-1R",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT263-3",
   "lifecycle": ""
  },
  {
@@ -66376,11 +66704,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SD882L-P-T60-K",
+  "brand": "UTC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-126-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SK3070-92STR-HS",
   "brand": "HIT",
   "category": "",
   "description": "",
   "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2T03G15QDCKRG4Q",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
   "lifecycle": ""
  },
  {
@@ -66400,11 +66744,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "32CTQ03095-5260",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
   "pn": "37VF040-90-3C-PH",
   "brand": "SST",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "39SF01090-4C-NH",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-32",
   "lifecycle": ""
  },
  {
@@ -66437,6 +66797,14 @@
   "category": "",
   "description": "",
   "pkg": "PLCC-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "42CTQ030STRRPBF",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
   "lifecycle": ""
  },
  {
@@ -66520,6 +66888,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "6805-N160WT-87A",
+  "brand": "WELTREND",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "6PAIC23BIPWRG4Q1",
   "brand": "TI",
   "category": "",
@@ -66536,6 +66912,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ABT162245ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ABT162245ADGG51",
   "brand": "NXP",
   "category": "",
@@ -66544,11 +66928,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ABT16245BDL/G",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ABT16245BDL112",
   "brand": "NXP",
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABT16273DL112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABTH16240ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABTH16373BDGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABTH16374BDGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABTH16823ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ABTH16827ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AHC1G126GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AHCT1G00GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -66584,11 +67040,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVC162835DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVC162836ADGG",
   "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16334ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC164245DGG",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -66613,6 +67093,46 @@
   "category": "",
   "description": "",
   "pkg": "BGA56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16834ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16834ADGV",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16835ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16835ADGV",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVC16836ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66680,6 +67200,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVCH16501DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVCH16501DGGRG4",
   "brand": "TI",
   "category": "",
@@ -66688,8 +67216,72 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVCH16540DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16600DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16646DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16652DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16823DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16827DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16832DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVCH16841DGG11",
   "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVCH16952DGG",
+  "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
@@ -66808,6 +67400,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVT162344DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVT16241DGG512",
   "brand": "NXP",
   "category": "",
@@ -66856,6 +67456,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74ALVT162821DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74ALVT162821DGG11",
   "brand": "NXP",
   "category": "",
@@ -66877,6 +67485,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP56",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74ALVT162827DGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66920,6 +67536,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "74AUP1G125GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G126GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G126GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G157GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G157GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G158GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
   "pn": "74AUP1G3208GM115",
   "brand": "NXP",
   "category": "",
@@ -66933,6 +67597,62 @@
   "category": "",
   "description": "",
   "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G374GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G885GM125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1G885GT115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1GU04GM115",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SON6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP1GU04GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AUP2GU04GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVC8T245PW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
   "lifecycle": ""
  },
  {
@@ -66962,6 +67682,14 @@
  {
   "pn": "74AVCH20T245DGG11",
   "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74AVCM162834DGG",
+  "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
@@ -67008,6 +67736,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74CBTLV16211DGV",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74CBTLV1G125GV125",
   "brand": "NXP",
   "category": "",
@@ -67048,11 +67784,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "74FCT162245ATPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP/48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162344CTPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74FCT162374CTPACT",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74FCT162501ATPV",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
   "lifecycle": ""
  },
  {
@@ -67096,8 +67856,72 @@
   "lifecycle": ""
  },
  {
+  "pn": "74FCT16952CTPAC",
+  "brand": "CY",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74HC4053NPHINOPB",
   "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC595NTINO-PB",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HCT1G125GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HCT2G125DP125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HCT4046ADB112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HCT9046APW112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LCXR162245MTX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LS47NTINOPBE4",
+  "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "DIP16",
@@ -67200,6 +68024,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "74LVC1G125GV125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G125GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G157GV125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP6",
+  "lifecycle": ""
+ },
+ {
   "pn": "74LVC1G3157GM115",
   "brand": "NXP",
   "category": "",
@@ -67213,6 +68061,70 @@
   "category": "",
   "description": "",
   "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1G384GV125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-753",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1GU04GW125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC1GX04GV125",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC2245APW112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC2245APW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC4245ADB112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC4245APW112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVC4245APW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
   "lifecycle": ""
  },
  {
@@ -67240,6 +68152,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "74LVCH16244ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74LVCH16244ADGG51",
   "brand": "NXP",
   "category": "",
@@ -67261,6 +68181,38 @@
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH16373ADGG",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH244APW112",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH244APW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVCH245APW118",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
   "lifecycle": ""
  },
  {
@@ -67296,8 +68248,24 @@
   "lifecycle": ""
  },
  {
+  "pn": "74LVCXZ2245MTCX",
+  "brand": "FAI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "74LVT162244BDL112",
   "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT162245BDGG",
+  "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "SSOP",
@@ -67317,6 +68285,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74LVT162245MTDX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -67392,11 +68368,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "74VCX162244MTDX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP48",
+  "lifecycle": ""
+ },
+ {
   "pn": "81F641642D-102FN",
   "brand": "FUJI",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "82551QML227SD59",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -67424,6 +68416,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "88E6095-TAH110+",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88E6218RA1-LKJ2",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "88E8036-NN2C-P123",
   "brand": "MARVELL",
   "category": "",
@@ -67437,6 +68445,14 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "88F5281-DO-C500",
+  "brand": "MARWELL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -67480,11 +68496,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "88X2080-BBU-C1P",
+  "brand": "MARVELL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "88X2080-BBU-C1PES",
   "brand": "MARVELL",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "99PL128JCOBAWUB",
+  "brand": "SPANSION",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A1-14PA-2.54DSA",
+  "brand": "HRS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3PN250-VQG100I",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
   "lifecycle": ""
  },
  {
@@ -67501,6 +68549,14 @@
   "category": "",
   "description": "",
   "pkg": "CQFP-208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A54SX32A-CQ256B",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "CQFP-256",
   "lifecycle": ""
  },
  {
@@ -67557,6 +68613,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT2603INJ-1-T1",
+  "brand": "ANALOGIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
   "lifecycle": ""
  },
  {
@@ -67904,6 +68968,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AAT4626IAS-I-TI",
+  "brand": "AATI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AC104QFBROADCOM",
+  "brand": "BROADCOM",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ACA3216M4-060-TL",
   "brand": "TDK",
   "category": "",
@@ -68032,6 +69112,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD51/025Z-1REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5160BRJZ10-REEL",
   "brand": "ADI",
   "category": "",
@@ -68049,6 +69137,14 @@
  },
  {
   "pn": "AD5160BRJZ100-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5160BRJZ5-RL7",
   "brand": "ADI",
   "category": "",
   "description": "",
@@ -68088,11 +69184,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5245BRJZ10-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5245BRJZ100-RL7",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5245BRJZ5-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5247BKSZ5-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5252BRUZ1-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -68144,6 +69272,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5310BRTZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5311BRTZ-REEL7",
   "brand": "ADI",
   "category": "",
@@ -68165,6 +69301,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5332BRU-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -68229,6 +69373,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5624RBCPZ-5R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
   "lifecycle": ""
  },
  {
@@ -68392,6 +69544,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD7191BRUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD7262BSTZ-5-RL7",
   "brand": "ADI",
   "category": "",
@@ -68405,6 +69565,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7376ARUZ10-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
   "lifecycle": ""
  },
  {
@@ -68496,11 +69664,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD7478WARTZ-RL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD7680BRJZ-REEL7",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7708BRUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -68533,6 +69717,22 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7918BRUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7921ARM-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -68608,6 +69808,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8009JRT-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8018ARUZ-REEL7",
   "brand": "ADI",
   "category": "",
@@ -68632,6 +69840,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8041ARZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8073JRZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8092ARZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8293G160ARJZ-R7",
   "brand": "ADI",
   "category": "",
@@ -68645,6 +69877,22 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8315ARM-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8346ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -68664,11 +69912,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8506ARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8508ACBZ-REEL7",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "QFN14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8510ARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8512ARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -68680,11 +69952,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8552ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8561ARZ-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8564ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8567ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8594ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8605ARTZ-REEL7",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8606ARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8607ARMZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8608ARUZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -92848,6 +94184,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040CIM3-10.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040CIM3-10.0/NOPB",
   "brand": "NSC",
   "category": "",
@@ -92885,6 +94229,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040CIM3X-8.2",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -93000,6 +94352,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040DIM3X-4.1",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040DIZ-10.0/NOPB",
   "brand": "NSC",
   "category": "",
@@ -93045,6 +94405,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040EIM3X-2.5",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -95197,6 +96565,2638 @@
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10503EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10503TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10503TZX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10504EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10504TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10505EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10505TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ10505TZX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12001EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12001TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12001TZX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12002EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12002TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12002TZX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12003EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ12003TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14201EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14201HTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14201TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14202EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14202TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14202TZX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14203EXTTZ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LMZ14203TZ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-PMOD-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2950ACZ-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2950CDT-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2951ACM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2951ACMM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2951CM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2951CMM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2952AIM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2960IM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2960IM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2966IMM-1833/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2966IMM-2828/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2966IMM-3325/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2966IMM-5050/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2966IMMX-3325/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2967ITP-1833/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2975AIMM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2975AIMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2975IMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2980AIM5X-4.7/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981AIM5-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981AIM5-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981AIM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981AIM5-3.6/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981IM5-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981IM5-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2981IM5-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2982AIM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2982IM5-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2982IM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2983AIM5-1.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2983AIM5-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2983IM5-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-2.7/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-2.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-2.9/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-3.1/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-3.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-3.6/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-3.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5-6.1/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5X-1.8/NOPB",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5X-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5X-2.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5X-3.3/NOPB",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AIM5X-3.6/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985AITP-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-2.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-2.7/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-2.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-3.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-3.6/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-4.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-4.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5X-2.5/NOPB",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2985IM5X-2.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986AIM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986AIM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986AIM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986AIMM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986AIMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986IM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986IMM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986IMM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2986IMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2987IM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2987IM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2987IM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2987IMM-3.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2988AIM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2988IM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AILD-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AILD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AILD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIM-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIM-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIMM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIMM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989AIMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989ILD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989ILD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IM-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IMM-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IMM-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2989IMM-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AILD-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AILD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AILD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AIM5-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AIM5-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AIM5-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992AIM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992ILD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992ILD-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992ILD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992ILD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992IM5-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992IM5-3.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP2992IM5-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3470IM5-2.63/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3470IM5-4.38/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3470IM5X-2.63/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3470IM5X-4.38",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38500ASD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38500ATJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38500SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38500TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38500TS-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38501ATJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38501TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38502ASD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38502ATJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38502SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38502TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38502TSX-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38503ATJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38503TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38503TS-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38511MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38511TJ-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38511TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38511TS-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38512MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38512TJ-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38512TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38512TS-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38513S-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38513T-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38513TJ-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852EMP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ET-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ET-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3852ET-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ET-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ET-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3853ET-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855EMP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855EMP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855EMP-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ES-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ET-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ET-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3855ET-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ES-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ET-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ET-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3856ET-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690DT-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690DT-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690DT-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690DT-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690SD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690SD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690SD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38690SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691DT-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691DT-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691DT-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691DT-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691SD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691SD-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691SD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691SD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38691SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692MP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692MP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692MP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692MP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692MP-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692SD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692SD-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692SD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692SD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38692SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693MP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693MP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693MP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693MP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693MP-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693SD-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693SD-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693SD-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693SD-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38693SD-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3871EMP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3871EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3871EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3871ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3871ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872EMP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872EMP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3872ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3873ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3873ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3873ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874EMP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874EMP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874EMP-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3874ES-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875EMP-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875EMP-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875EMP-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875EMP-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875EMP-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875ES-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3875ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ES-2.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ES-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ES-5.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ES-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3876ET-3.3/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3878MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3879MR-1.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3879MR-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3879SD-1.0/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3879SD-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3881ES-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3881ES-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3881ES-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3882EMR-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3882EMR-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3882EMR-1.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3882ES-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3882ES-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3883ES-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38841MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38841S-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38841S-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38841T-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38841T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38842MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38842S-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38842T-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38842T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38842T-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38843S-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38843S-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38843T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38843T-1.5/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38851MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38851S-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38852MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38852S-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38853MR-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38853S-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38853T-ADJ/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38855S-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38855S-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38855T-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38855T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38856S-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38856T-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38856T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38858S-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38858S-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38858T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38859S-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38859S-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38859T-0.8/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP38859T-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3891EMR-1.2/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  }
 ]
