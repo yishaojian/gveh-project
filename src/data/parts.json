@@ -3514,9 +3514,9 @@
  {
   "pn": "BRT12-H",
   "brand": "Vishay Semiconductors",
-  "category": "三极与 SCR 输出光电耦合器",
-  "description": "三极与 SCR 输出光电耦合器",
-  "pkg": "",
+  "category": "晶体管输出光耦",
+  "description": "停产 光耦合器，光控三端双向可控硅输出，非过零型",
+  "pkg": "DIP-6",
   "lifecycle": ""
  },
  {
@@ -13906,17 +13906,17 @@
  {
   "pn": "ES1DHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1.0 Amp 200 Volt 30 Amp IFSM",
-  "pkg": "",
+  "category": "快恢复/高效率二极管",
+  "description": "耐压:200V 电流:1A 反向恢复时间：15ns",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
   "pn": "ES1DHE3A/I",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1.0 Amp 200 Volt 30 Amp IFSM",
-  "pkg": "",
+  "category": "快恢复/高效率二极管",
+  "description": "耐压:200V 电流:1A 反向恢复时间：25ns",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -13930,9 +13930,9 @@
  {
   "pn": "ES2DHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 2A,200V,20ns SMB, UF Rect, SMD",
-  "pkg": "",
+  "category": "快恢复/高效率二极管",
+  "description": "耐压:200V 电流:2A 反向恢复时间：30ns",
+  "pkg": "DO-214AA(SMB)",
   "lifecycle": ""
  },
  {
@@ -13946,9 +13946,9 @@
  {
   "pn": "ES3DHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 200 Volt 3.0A 20ns Glass Passivated",
-  "pkg": "",
+  "category": "开关二极管",
+  "description": "200V 3A",
+  "pkg": "DO-214AB(SMC)",
   "lifecycle": ""
  },
  {
@@ -21626,9 +21626,9 @@
  {
   "pn": "L78L08ABZTR",
   "brand": "STMicroelectronics",
-  "category": "线性稳压器",
-  "description": "线性稳压器 8.0V 0.1A Positive",
-  "pkg": "TO-92",
+  "category": "线性稳压器(LDO)",
+  "description": "8V 100mA 30V",
+  "pkg": "TO-92-2.54mm",
   "lifecycle": ""
  },
  {
@@ -28274,9 +28274,9 @@
  {
   "pn": "MSS1P5HM3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 1A 50V SM Schottky Rect",
-  "pkg": "",
+  "category": "肖特基二极管",
+  "description": "电压:50V 电流:1A",
+  "pkg": "MicroSMP",
   "lifecycle": ""
  },
  {
@@ -28290,9 +28290,9 @@
  {
   "pn": "MSS1P6HM3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 1A 60V SM Schottky Rect",
-  "pkg": "",
+  "category": "肖特基二极管",
+  "description": "电压:60V 电流:1A",
+  "pkg": "MicroSMP(DO-219AD)",
   "lifecycle": ""
  },
  {
@@ -28306,9 +28306,9 @@
  {
   "pn": "MT29F2G01ABAGDWB-ITG",
   "brand": "Micron",
-  "category": "NAND闪存",
-  "description": "NAND闪存 SLC 2Gbit 1 8/8 UPDFN 1 IT",
-  "pkg": "DFN",
+  "category": "NAND FLASH",
+  "description": "2Gb、3.3V、x1/x2/x4接口：SPI NAND闪存",
+  "pkg": "U-PDFN-8(6x8)",
   "lifecycle": ""
  },
  {
@@ -28770,9 +28770,9 @@
  {
   "pn": "PESD1CAN215",
   "brand": "Nexperia",
-  "category": "ESD保护二极管/TVS二极管",
-  "description": "ESD保护二极管/TVS二极管 PESD1CAN/SOT23/TO-236AB",
-  "pkg": "SOT23",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "双向ESD 24V截止 峰值脉冲电流：3A@8/20us",
+  "pkg": "SOT-23",
   "lifecycle": "Not Recommended for New Designs"
  },
  {
@@ -30547,8 +30547,8 @@
   "pn": "RLZTE-1139B",
   "brand": "ROHM Semiconductor",
   "category": "稳压二极管",
-  "description": "稳压二极管 DIODE ZENER 36.275V 500MW",
-  "pkg": "",
+  "description": "RLZ-TE-1139B",
+  "pkg": "LL-34",
   "lifecycle": "Obsolete"
  },
  {
@@ -31290,9 +31290,9 @@
  {
   "pn": "S1GHE3A/I",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1A 400V 40A@8.3ms Single Die Auto",
-  "pkg": "",
+  "category": "通用二极管",
+  "description": "400V 1A",
+  "pkg": "DO-214AC",
   "lifecycle": ""
  },
  {
@@ -31306,17 +31306,17 @@
  {
   "pn": "S1JHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1A 600V 40A@8.3ms Single Die Auto",
-  "pkg": "",
+  "category": "通用二极管",
+  "description": "600V 1A",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
   "pn": "S1JHE3A/I",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1A 600V 40A@8.3ms Single Die Auto",
-  "pkg": "",
+  "category": "通用二极管",
+  "description": "600V 1A",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -31346,9 +31346,9 @@
  {
   "pn": "S2GHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1.5A, 400V, SMB GPP, STD, SM RECT",
-  "pkg": "",
+  "category": "通用二极管",
+  "description": "400V 1.5A",
+  "pkg": "SMB(DO-214AA)",
   "lifecycle": ""
  },
  {
@@ -33458,9 +33458,9 @@
  {
   "pn": "SMBJ28CAHE3B/H",
   "brand": "Vishay Semiconductors",
-  "category": "ESD保护二极管/TVS二极管",
-  "description": "ESD保护二极管/TVS二极管 600W,28V 5%,BIDIR,SMB TVS",
-  "pkg": "",
+  "category": "静电和浪涌保护(TVS/ESD)",
+  "description": "28V 13.2A@10/1000us",
+  "pkg": "DO-214AA(SMB)",
   "lifecycle": ""
  },
  {
@@ -34099,8 +34099,8 @@
   "pn": "SML4746AHE3A/I",
   "brand": "Vishay Semiconductors",
   "category": "稳压二极管",
-  "description": "稳压二极管 18V Zener SMA (DO-214AC)",
-  "pkg": "",
+  "description": "SML4746AHE3_A/I",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -34298,529 +34298,529 @@
  {
   "pn": "SQ1421EDH-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 60V (D-S) -/+20V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:1.6A",
+  "pkg": "SC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ1431EH-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 30V 3A 3W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个P沟道 耐压:30V 电流:3A",
+  "pkg": "SOT-363",
   "lifecycle": ""
  },
  {
   "pn": "SQ1470AEH-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 30V Vds +/-12V Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V 电流:1.7A",
+  "pkg": "SC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ1539EH-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 30Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "N沟道和P沟道，30 V（D-S），175 °C MOSFET",
+  "pkg": "SOT-363",
   "lifecycle": ""
  },
  {
   "pn": "SQ1563AEH-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 20Vds 8Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "N和P沟道20V(D-S) 175°C MOSFET",
+  "pkg": "SOT-363-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ1912AEEH-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 20Vds 12Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "2个N沟道 耐压:20V 电流:800mA",
+  "pkg": "SOT-363-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ1912EH-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 20V Vds 0.8A Id AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "2个N沟道 耐压:20V 电流:0.8A",
+  "pkg": "SC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ1922EEH-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 20V Vds Dual N-Ch AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "2个N沟道 耐压:20V 电流:0.84A",
+  "pkg": "SOT-363",
   "lifecycle": ""
  },
  {
   "pn": "SQ2301ES-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-Channel 20V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:20V 电流:3.9A",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
   "pn": "SQ2309ES-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 60V (D-S)",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个P沟道 耐压:60V 电流:1.7A",
   "pkg": "SOT-23",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQ2318AES-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N-Channel 40V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:8A 停产",
+  "pkg": "SOT-23",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "SQ2319ADS-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 40V (D-S)",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:40V 电流:4.6A",
+  "pkg": "SOT-23",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQ2361AEES-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET -60V Vds +/-20V Vgs AEC-Q101 Qualified",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:2.8A",
   "pkg": "SOT-23-3",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "SQ2389ES-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 40V (D-S)",
-  "pkg": "SOT-23-3",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:40V 电流:4.1A",
+  "pkg": "SOT-23",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQ3419AEEV-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET -40V Vds TSOP-6 AEC-Q101 Qualified",
-  "pkg": "SOP-6",
+  "category": "场效应管(MOSFET)",
+  "description": "耐压:40V 电流:6.9A",
+  "pkg": "TSOP-6",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQ3427EV-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -60Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "耐压:60V 电流:5.3A",
+  "pkg": "TSOP-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ3460EV-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 20V 8A 3.6W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQ3460EV-T1_GE3",
+  "pkg": "TSOP-6-1.5mm",
   "lifecycle": ""
  },
  {
   "pn": "SQ3495EV-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 30-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:30V 电流:8A",
+  "pkg": "TSOP-6",
   "lifecycle": ""
  },
  {
   "pn": "SQ4005EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -12Vds 8Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:12V 电流:15A",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4064EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 60Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:60V 电流:12A",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4153EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -12Vds 8Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:12V 电流:25A",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4182EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 30Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V 电流:32A",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4401CEY-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 40-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级P沟道，40 V（D-S），175 °C MOSFET",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4401EY-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 40V 17.3A 7.14W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个P沟道 耐压:40V 电流:17.3A",
+  "pkg": "SO-8",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQ4435EY-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-Channel 30V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个P沟道 耐压:30V 电流:15A",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4470EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 60V 16A 7.1W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:60V 电流:16A",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4483BEEY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET P-Channel 30V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个P沟道 耐压:30V 电流:22A",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4483EY-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -30Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:30V 电流:22A",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4840EY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 40V 10A 1.56W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "停产 1个N沟道 耐压:40V 电流:20.7A",
+  "pkg": "SOIC-8",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "SQ4917CEY-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET DUAL P-CHANNEL 60-V (D-S) 175C MOSFE",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级双P沟道60 V（D-S）、175 °C MOSFET",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ4946CEY-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET DUAL N-CHANNEL 60-V (D-S) 175C MOSFE",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "2个N沟道 耐压:60V 电流:7A",
+  "pkg": "SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQ7415AEN-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET  SQ74",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:16A 停产",
+  "pkg": "PowerPAK1212-8",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "SQA401CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级MOSFET 1个P沟道 耐压:20V 电流:3.75A",
+  "pkg": "PowerPAK-SC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQA401EEJ-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET -20V Vds; +/-8V Vgs PowerPAK SC-70-6L",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQA401EEJ-T1_GE3",
+  "pkg": "PowerPAKSC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQA407CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:20V 电流:9A",
+  "pkg": "SC-70W-6L",
   "lifecycle": ""
  },
  {
   "pn": "SQA410CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 20v 7.8amp AEC-Q101",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:20V 电流:7.8A",
+  "pkg": "PowerPAK-SC-70-6-Dual",
   "lifecycle": ""
  },
  {
   "pn": "SQA410EJ-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 20V 7.8A 13.6W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:20V 电流:7.8A",
+  "pkg": "SC-70-6L",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQA413CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 20-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:20V 电流:7.5A",
+  "pkg": "SC-70-6(SOT-363)",
   "lifecycle": ""
  },
  {
   "pn": "SQA446CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 20-V (D-S) 175C AEC-Q101",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:20V 电流:9A",
+  "pkg": "PowerPAK-SC-70W-6",
   "lifecycle": ""
  },
  {
   "pn": "SQA470CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 30-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级MOSFET 1个N沟道 耐压:30V 电流:2.25A",
+  "pkg": "PowerPAK-SC-70-6",
   "lifecycle": ""
  },
  {
   "pn": "SQA470EEJ-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 30V Vds; +/-12V Vgs PowerPAK SC-70-6L",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级MOSFET 1个N沟道 耐压:30V 电流:2.25A",
+  "pkg": "PowerPAK-SC-70-6",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQA470EJ-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 30V PowerPAK SC-70 AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V 电流:2.25A",
+  "pkg": "SC-70-6L",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQA602CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:80V 电流:5.63A",
+  "pkg": "-",
   "lifecycle": ""
  },
  {
   "pn": "SQA604CEJW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:80V 电流:5.63A",
+  "pkg": "SC-70W-6L",
   "lifecycle": ""
  },
  {
   "pn": "SQD25N06-22LGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 60V 25A 62W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:60V 电流:25A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQD40020ELGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 40-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:100A",
+  "pkg": "TO-252AA",
   "lifecycle": ""
  },
  {
   "pn": "SQD40052ELGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 40-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:30A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQD40N10-25GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET  SQD7",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:100V 电流:40A",
+  "pkg": "TO-252AA",
   "lifecycle": ""
  },
  {
   "pn": "SQD40P10-40LGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET -100V -30A 136W AEC-Q101 Qualified",
-  "pkg": "TO-252-3",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:100V 电流:38A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQD50N04-4M5LGE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET  SQD1",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:50A",
+  "pkg": "TO-252",
   "lifecycle": "Obsolete"
  },
  {
   "pn": "SQD50N04-5M6GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-Channel 40V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:50A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQD50N06-09LGE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 60V 50A 136W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:60V 电流:50A",
+  "pkg": "TO-252(DPAK)",
   "lifecycle": ""
  },
  {
   "pn": "SQD50N10-8M9LGE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 100V 50A 45watt AEC-Q101 Qualified",
-  "pkg": "TO-252-3",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:100V 电流:50A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQD50P06-15LGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 60V 50A 136W AEC-Q101 Qualified",
-  "pkg": "TO-252-3",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:50A",
+  "pkg": "TO-252",
   "lifecycle": ""
  },
  {
   "pn": "SQJ403BEEP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -30Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJ403BEEP-T1_GE3",
+  "pkg": "PowerPAKSO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQJ411EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET -12V Vds -60A Id AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJ411EP-T1_GE3",
+  "pkg": "PowerPAKSO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQJ444EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-Ch 40V Vds AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:60A",
+  "pkg": "PowerPAK-SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQJ446EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 40Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJ446EP-T1_GE3",
+  "pkg": "PowerPAK-SO-8L",
   "lifecycle": "End of Life"
  },
  {
   "pn": "SQJ459EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -60Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:52A",
+  "pkg": "PowerPAKSO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQJ474EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N Ch 100Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车用N沟道MOSFET，采用TrenchFET功率MOSFET技术，通过AEC - Q101认证，100% Rg和UIS测试，符合RoHS标准且无卤",
+  "pkg": "PowerPAK-SO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQJ479EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P Ch -80Vds 20Vgs AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:80V 电流:32A",
+  "pkg": "PowerPAKSO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQJ868EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET Dual N-Ch 40V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:40V 电流:58A",
+  "pkg": "PowerPAKSO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQJ940EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 40V 15A AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJ940EP-T1_GE3",
+  "pkg": "PowerPAK-SO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQJ980AEP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET Dual N-Channel 75V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJ980AEP-T1_GE3",
+  "pkg": "PowerPAK-SO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQJ992EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET Dual N-Channel 60V AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "2个N沟道 耐压:60V 电流:15A",
+  "pkg": "-",
   "lifecycle": ""
  },
  {
   "pn": "SQJA04EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 60V Vds PowerPAK AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJA04EP-T1_GE3",
+  "pkg": "PowerPAK-SO-8L",
   "lifecycle": ""
  },
  {
@@ -34834,81 +34834,81 @@
  {
   "pn": "SQJA42EP-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET Nch 40V Vds 20V Vgs PowerPAK SO-8L",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "SQJA42EP-T1_GE3",
+  "pkg": "PowerPAKSO-8",
   "lifecycle": ""
  },
  {
   "pn": "SQJB90EP-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET Dual N-Ch 80V Vds AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "80V 30A",
+  "pkg": "PowerPAK-SO-8L",
   "lifecycle": ""
  },
  {
   "pn": "SQM120P06-07LGE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 60 V 120A 375 W AEC-Q101 Qualified",
-  "pkg": "TO-263-3",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:60V 电流:120A",
+  "pkg": "TO-263",
   "lifecycle": ""
  },
  {
   "pn": "SQS180ENW-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "N沟道 80V 72A",
+  "pkg": "PowerPAK1212-8SLW",
   "lifecycle": ""
  },
  {
   "pn": "SQS182ELNW-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "N沟道 80V 45A",
+  "pkg": "PowerPAK1212-8SLW",
   "lifecycle": ""
  },
  {
   "pn": "SQS405CENW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET P-CHANNEL 12-V (D-S) 175C AEC-Q101",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车级P沟道MOSFET,电流:-16A,耐压:-12V",
+  "pkg": "PowerPAK1212-8",
   "lifecycle": ""
  },
  {
   "pn": "SQS411ENW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET -40V Vds 20V Vgs POWERPAK 1212-8W",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个P沟道 耐压:40V 电流:16A",
+  "pkg": "PowerPAK1212-8W",
   "lifecycle": ""
  },
  {
   "pn": "SQS420EN-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET 20V 8A 18W AEC-Q101 Qualified",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:20V 电流:8A",
+  "pkg": "PowerPAK1212-8",
   "lifecycle": ""
  },
  {
   "pn": "SQS482ENW-T1GE3",
   "brand": "Vishay / Siliconix",
-  "category": "MOSFET",
-  "description": "MOSFET 30V Vds -/+20V Vgs PowerPAK 1212-8W",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "1个N沟道 耐压:30V",
+  "pkg": "PowerPAK1212-8",
   "lifecycle": ""
  },
  {
   "pn": "SQSA84CENW-T1GE3",
   "brand": "Vishay Semiconductors",
-  "category": "MOSFET",
-  "description": "MOSFET N-CHANNEL 80-V (D-S) 175C MOSFET",
-  "pkg": "",
+  "category": "场效应管(MOSFET)",
+  "description": "汽车用N沟道MOSFET，采用PowerPAk 1212-8W封装，TrenchFET功率MOSFET，符合AEC-Q101标准",
+  "pkg": "PowerPAK1212-8W",
   "lifecycle": ""
  },
  {
@@ -35018,9 +35018,9 @@
  {
   "pn": "SS26SHE3B/H",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 60V Sctky Bar Rectfr SMA (DO-214AC)",
-  "pkg": "",
+  "category": "肖特基二极管",
+  "description": "电压:60V 电流:2A",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -35090,8 +35090,8 @@
  {
   "pn": "SS5P10HM3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "肖特基二极管与整流器",
-  "description": "肖特基二极管与整流器 5A 100V SM Schottky Rect",
+  "category": "肖特基二极管",
+  "description": "电压:100V 电流:5A",
   "pkg": "TO-277A",
   "lifecycle": ""
  },
@@ -42042,9 +42042,9 @@
  {
   "pn": "TCRT1010S",
   "brand": "Vishay",
-  "category": "IC",
-  "description": "TCRT1010S",
-  "pkg": "",
+  "category": "反射式光电开关",
+  "description": "带晶体管输出的反射式光学传感器",
+  "pkg": "弯插,7x6.1mm",
   "lifecycle": ""
  },
  {
@@ -44875,7 +44875,7 @@
   "pn": "UMH2NTN",
   "brand": "ROHM Semiconductor",
   "category": "数字晶体管",
-  "description": "数字晶体管 DUAL NPN 50V 30MA",
+  "description": "通用双数字晶体管",
   "pkg": "SOT-363",
   "lifecycle": ""
  },
@@ -45002,9 +45002,9 @@
  {
   "pn": "US1JHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 600 Volt 1.0A 75ns 30 Amp IFSM",
-  "pkg": "",
+  "category": "快恢复/高效率二极管",
+  "description": "耐压:600V 电流:1A 反向恢复时间：75ns",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -45026,9 +45026,9 @@
  {
   "pn": "US1MHE3A/H",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 1000 Volt 1.0A 75ns 30 Amp IFSM",
-  "pkg": "",
+  "category": "快恢复/高效率二极管",
+  "description": "耐压:1kV 电流:1A 反向恢复时间：75ns",
+  "pkg": "SMA(DO-214AC)",
   "lifecycle": ""
  },
  {
@@ -45754,9 +45754,9 @@
  {
   "pn": "VS-12F40",
   "brand": "Vishay Semiconductors",
-  "category": "整流器",
-  "description": "整流器 400 Volt 12 Amp",
-  "pkg": "",
+  "category": "通用二极管",
+  "description": "（4件套）",
+  "pkg": "DO-203AA",
   "lifecycle": ""
  },
  {
@@ -66136,6 +66136,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "17-21SURC/S530-A3/TR8",
+  "brand": "EVERLIGHT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "17-21SYGC/S530-E2/TR8",
+  "brand": "EVERLIGHT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "195D106X9035Z2T",
   "brand": "VISHAY",
   "category": "",
@@ -66853,6 +66869,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "592D108X96R3R2T20H",
+  "brand": "VISHAY SPRAGUE",
+  "category": "",
+  "description": "",
+  "pkg": "2812",
   "lifecycle": ""
  },
  {
@@ -70149,6 +70173,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4851-4WYRUZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
   "lifecycle": ""
  },
  {
@@ -82464,6 +82496,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "CGA2B3X7R1H104KT0Y0F",
+  "brand": "TDK",
+  "category": "",
+  "description": "",
+  "pkg": "SMD0402",
+  "lifecycle": ""
+ },
+ {
   "pn": "CIS8204-388BGA-C",
   "brand": "CICADA",
   "category": "",
@@ -83005,6 +83045,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CRCW12066R80FKEA",
+  "brand": "VISHAY DALE",
+  "category": "",
+  "description": "",
+  "pkg": "SMD2",
   "lifecycle": ""
  },
  {
@@ -91637,6 +91685,30 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM31CR61E226KE15L",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD1206",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM31CR61H106KA12L",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GRM32ER61C476KE15L",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -116464,6 +116536,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LT3580EMS8E#TRPBF",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "LT3580IMS8E#PBF",
   "brand": "LT",
   "category": "",
@@ -119117,86 +119197,6 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2055HMS8#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2055HVCMS8#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2170CUKG-12#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2170IUKG-12#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2170IUKG-14#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2171CUKG-14#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2171IUKG-12#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2171IUKG-14#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2172CUKG-12#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
-  "lifecycle": ""
- },
- {
-  "pn": "LTC2172CUKG-14#PBF",
-  "brand": "LT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN52",
   "lifecycle": ""
  }
 ]
