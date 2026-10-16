@@ -62344,6 +62344,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "0603CS-15NXJBC",
+  "brand": "CCI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "0805C0G101100P07B37940-K1101-J60",
   "brand": "EPC",
   "category": "",
@@ -62373,6 +62381,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "09F3351-A27723",
+  "brand": "IBM",
+  "category": "",
+  "description": "",
+  "pkg": "DIP64",
   "lifecycle": ""
  },
  {
@@ -66024,6 +66040,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "10BQ040TR",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "1812",
+  "lifecycle": ""
+ },
+ {
+  "pn": "10BQ060TR",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "DO214B",
+  "lifecycle": ""
+ },
+ {
   "pn": "10M04SCU169C8G",
   "brand": "INTEL",
   "category": "",
@@ -66648,6 +66680,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "1206L380SLTHYR",
+  "brand": "LITTELFUSE",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "125-ZCHP-250-01",
   "brand": "ZOWIE",
   "category": "",
@@ -66720,6 +66760,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "1808HA820KAT1A",
+  "brand": "AVX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "195D106X9035Z2T",
   "brand": "VISHAY",
   "category": "钽电容",
@@ -66728,11 +66776,291 @@
   "lifecycle": ""
  },
  {
+  "pn": "1AB-13177-ACAA",
+  "brand": "ALCATEL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4002",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4007",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148W-7-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148WS",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4148WT",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N4745A-TAP",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "DO-41",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5401",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5408",
+  "brand": "HY ELECTRONIC CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "DIP/DO-27",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5819",
+  "brand": "LESHAN RADIO COMPANY, LTD",
+  "category": "",
+  "description": "",
+  "pkg": "DO-214AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N5819HW-7-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1N914",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "DO-35",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1P1G125QDCKRQ1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1P1G126QDBVRQ1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "1P1G3157QDBVRQ1",
   "brand": "TI",
   "category": "模拟开关/多路复用器",
   "description": "SN74LVC1G3157-Q1单刀双掷模拟开关",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1PS59SB10",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1PS59SB14",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT346",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1PS88SB48",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMA33CAT3",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "1808",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMA5919BT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMA5922BT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMB13AT3",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "1812",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMB5920BT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SMB75CAT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DO-214A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS187",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS193",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS302",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS311",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS319",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS321",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS344",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SS388",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOD523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SV229",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "O805",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SV304",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "1SV307",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-323",
   "lifecycle": ""
  },
  {
@@ -66808,6 +67136,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "215W3200BFA12F",
+  "brand": "TAIWAN",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "216DP8AVA12PHKL103",
   "brand": "ATI",
   "category": "",
@@ -66818,6 +67154,14 @@
  {
   "pn": "216QP4DBVA12PHS",
   "brand": "ATI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "216T9NCBGA13FH",
+  "brand": "ALI",
   "category": "",
   "description": "",
   "pkg": "BGA",
@@ -66837,6 +67181,62 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LC1024T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LC1024T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LC1024T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LC1024T-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV1024-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -66872,6 +67272,86 @@
   "lifecycle": ""
  },
  {
+  "pn": "23LCV512T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV512T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV512T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "23LCV512T-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA014HT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA014HT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA014HT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA024HT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA024HT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA024HT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "24AA025E48-I/SN",
   "brand": "MIC",
   "category": "EEPROM",
@@ -66896,11 +67376,59 @@
   "lifecycle": ""
  },
  {
+  "pn": "24AA02E48-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "24AA02E48T-I/SN",
   "brand": "MIC",
   "category": "EEPROM",
   "description": "24AA02E48T-I/SN",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA1025T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA1026T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA32AFT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA32AFT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24AA32AFT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -66920,6 +67448,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "24C512C2CSI2.7",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24FC1025T-I/SM",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24FC1025T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24FC1026T-I/SM",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "24FC512T-I/ST14",
   "brand": "MIC",
   "category": "EEPROM",
@@ -66928,11 +67488,555 @@
   "lifecycle": ""
  },
  {
+  "pn": "24LC014HT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC014HT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC014HT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC014HT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC014HT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC014HT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC01BHT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC024HT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02B-I/P",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC02BHT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC04BHT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC08BHT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1025T-E/SM",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1025T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1025T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1026T-E/SM",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1026T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC1026T-I/SM",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC128T-E/MNY",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC128T-I/SMG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "24LC128T-I/STA37",
   "brand": "MCH",
   "category": "EEPROM",
   "description": "128K I²C 串行 EEPROM",
   "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC16BHT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC256T-I/SNG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC32AFT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC512-E/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "24LC512-I/ST14",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -67096,6 +68200,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "2N2907A",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2N3055",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2N5459",
+  "brand": "FS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2N5484",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2PD601AQ",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SA1012L-Y-TF3-T",
   "brand": "UTC",
   "category": "",
@@ -67120,11 +68264,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SA1204-Y",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SA1213-YTE12LZC",
   "brand": "TOS",
   "category": "三极管(BJT)",
   "description": "PNP 电流:2A 电压:50V",
   "pkg": "SC-62",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA1734",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SA2056",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -67216,6 +68384,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SC2713-GR",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SC3356-T1B-A-R24",
   "brand": "NEC",
   "category": "",
@@ -67264,6 +68440,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SC4738-Y",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-423",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5010-T1",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SC5085",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO323",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SD1616AG-G-AB3-R",
   "brand": "UTC",
   "category": "三极管(BJT)",
@@ -67296,11 +68496,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "2SJ106-BL",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK209-GR",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK2615",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
   "pn": "2SK3070-92STR-HS",
   "brand": "HIT",
   "category": "",
   "description": "",
   "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "2SK879-GR",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT323",
   "lifecycle": ""
  },
  {
@@ -67381,6 +68613,14 @@
   "category": "",
   "description": "",
   "pkg": "PLCC-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "3SK293",
+  "brand": "TOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT343",
   "lifecycle": ""
  },
  {
@@ -68456,6 +69696,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "74HC08D",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC138PW",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC14D",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC245D",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-20W",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC32D",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "74HC4053NPHINOPB",
   "brand": "PHI",
   "category": "",
@@ -68469,6 +69749,22 @@
   "category": "",
   "description": "",
   "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC595PW",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "74HC74D",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -69117,6 +70413,14 @@
   "category": "排针",
   "description": "间距:2.54mm 直插",
   "pkg": "插件,P=2.54mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3988SEVTR-T",
+  "brand": "ALLEGRO",
+  "category": "",
+  "description": "",
+  "pkg": "QFN36",
   "lifecycle": ""
  },
  {
@@ -70112,6 +71416,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD584KH",
+  "brand": "Analog Devices",
+  "category": "参考电压",
+  "description": "参考电压 PROGRAMMABLE V REF.",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
+  "pn": "AD584LH",
+  "brand": "Texas Instruments",
+  "category": "总线收发器",
+  "description": "总线收发器 Tri-State ABT 16-Bit A 595-SNLVTH16245AD A 595-SNLVTH16245ADLR",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5962-8863002VA",
   "brand": "ADI",
   "category": "",
@@ -70424,6 +71744,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8032ARZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8033AKSZ-REEL7",
   "brand": "ADI",
   "category": "",
@@ -70485,6 +71813,14 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD835AR",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -70709,6 +72045,22 @@
   "category": "",
   "description": "",
   "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9212ABCPZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LFCSP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9219ABCPZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LFCSP48",
   "lifecycle": ""
  },
  {
@@ -71968,6 +73320,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADG734BRUZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADG751ARTZ-REEL7",
   "brand": "ADI",
   "category": "",
@@ -71997,6 +73357,22 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG888YRUZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADL5561ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LFCSP-16",
   "lifecycle": ""
  },
  {
@@ -73920,6 +75296,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADS7888SDCKR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADSP-21065LCCA-240.",
   "brand": "ADI",
   "category": "",
@@ -74840,6 +76224,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AMC1301DWVR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMC1311DWVR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AMC2596-ADJDDFT",
   "brand": "ADDTEK(91)",
   "category": "",
@@ -74992,6 +76392,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AMS1117-ADJ",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT223",
+  "lifecycle": ""
+ },
+ {
   "pn": "AN8196HSE#A1147LT",
   "brand": "MAT",
   "category": "",
@@ -75008,11 +76416,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AON7408L",
+  "brand": "AOS",
+  "category": "",
+  "description": "",
+  "pkg": "DFN3*3-8L",
+  "lifecycle": ""
+ },
+ {
   "pn": "AON7408L5000/12+",
   "brand": "AOS",
   "category": "",
   "description": "",
   "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E33L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT223",
   "lifecycle": ""
  },
  {
@@ -75224,6 +76648,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP4310AMTR-G1",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP6015-18M10G-13",
   "brand": "DIODES",
   "category": "",
@@ -75293,6 +76725,14 @@
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APX811-31UG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
   "lifecycle": ""
  },
  {
@@ -75480,6 +76920,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AS358MTR-G1",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AS4LC256K32SO-150QC",
   "brand": "ALLIANCE",
   "category": "",
@@ -75541,6 +76989,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT-31033-TR1",
+  "brand": "HEWLETTPACKARD",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -75693,6 +77149,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C04",
+  "brand": "ATM",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -77568,6 +79032,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT91SAM9260-CU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT91SAM9G45-CU10+1260/",
   "brand": "AT",
   "category": "",
@@ -78264,6 +79736,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AUR9707AGD",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
   "pn": "AZ1086H-3.3TRE1",
   "brand": "BCD",
   "category": "",
@@ -78325,6 +79805,22 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B120-13-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B160-13-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
   "lifecycle": ""
  },
  {
@@ -78624,11 +80120,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "BA15FP-E2",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-252",
+  "lifecycle": ""
+ },
+ {
   "pn": "BA3121F-E22500/",
   "brand": "ROHM",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA4558F-E2",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -78677,6 +80189,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAR64-05W",
+  "brand": "KEXIN SEMICONDUCTOR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-323",
   "lifecycle": ""
  },
  {
@@ -78765,6 +80285,46 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT46W-7-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOD123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT46WJ",
+  "brand": "NEXPERIA",
+  "category": "",
+  "description": "",
+  "pkg": "SOD323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT54-7-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BAT760-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -79064,6 +80624,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "BCP69-16",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
   "pn": "BD00KA5WFP-E2CT",
   "brand": "ROHM",
   "category": "",
@@ -79240,6 +80808,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "BF245A",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BF422",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
   "pn": "BGW200EG/01P23E1",
   "brand": "PHI",
   "category": "",
@@ -79248,8 +80832,64 @@
   "lifecycle": ""
  },
  {
+  "pn": "BLM03AX601SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM15AX102SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM15EG221SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM15HG601SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM18AG221SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM18HG601SN1D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "BLM21B221SBPTM00",
   "brand": "MRT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BLM21PG221SN1D",
+  "brand": "MURATA",
   "category": "",
   "description": "",
   "pkg": "SMD",
@@ -79357,6 +80997,14 @@
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BQ24073RGTR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
   "lifecycle": ""
  },
  {
@@ -81392,6 +83040,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "BTA12-800CW3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
   "pn": "BTB10-600BRGEOL",
   "brand": "ST",
   "category": "",
@@ -81413,6 +83069,54 @@
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD37G",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD37M",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD57V",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD77A",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD77D",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BYD77G",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-87",
   "lifecycle": ""
  },
  {
@@ -81448,7 +83152,39 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZT52-C6V2S",
+  "brand": "LI-SIONTECHNOLOGYINC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZT52C39S-7-F",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX284-C2V7",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-110",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84-B6V2933671120215",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84-C10",
   "brand": "PHI",
   "category": "",
   "description": "",
@@ -81720,6 +83456,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZX84C10",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84C11-V-GS08",
   "brand": "VISHAY",
   "category": "",
@@ -81730,6 +83474,14 @@
  {
   "pn": "BZX84C12-V-GS08",
   "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C12LT1G",
+  "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOT-23",
@@ -81752,6 +83504,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZX84C15V",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C16LT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84C20-V-GS08",
   "brand": "VISHAY",
   "category": "",
@@ -81768,8 +83536,24 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZX84C2V4",
+  "brand": "NEXPERIA",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84C2V4-V-GS08",
   "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C30",
+  "brand": "FSC",
   "category": "",
   "description": "",
   "pkg": "SOT-23",
@@ -81808,6 +83592,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZX84C3V3",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84C3V6-V-GS08",
   "brand": "VISHAY",
   "category": "",
@@ -81818,6 +83610,14 @@
  {
   "pn": "BZX84C3V9-V-GS08",
   "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C47",
+  "brand": "PHI",
   "category": "",
   "description": "",
   "pkg": "SOT-23",
@@ -81840,11 +83640,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "BZX84C4V7",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "BZX84C51-V-GS08",
   "brand": "VISHAY",
   "category": "",
   "description": "",
   "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C5V1LT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
   "lifecycle": ""
  },
  {
@@ -81866,6 +83682,14 @@
  {
   "pn": "BZX84C68-V-GS08",
   "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BZX84C6V2LT1G",
+  "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOT-23",
@@ -81976,11 +83800,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "C8051F020-GQR",
+  "brand": "SILICON LABS",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "C8051F021-GQR",
+  "brand": "SILICON LABS",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "C8051F310-GQR",
+  "brand": "SILICON LAS",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "C8051F500-IQ",
+  "brand": "SILICON LABS",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP48",
+  "lifecycle": ""
+ },
+ {
   "pn": "C82586-SZ468/JD",
   "brand": "INTEL",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CA3140EZ",
+  "brand": "INTERSIL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
   "lifecycle": ""
  },
  {
@@ -82928,6 +84792,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "CD4053BE",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "CD4053BMJ/883QS",
   "brand": "NSC",
   "category": "",
@@ -83093,6 +84965,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CEM9435A",
+  "brand": "CET",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -83573,6 +85453,22 @@
   "category": "",
   "description": "",
   "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CPC1008NTR",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "CPC1718J",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "ISOPLUS-264",
   "lifecycle": ""
  },
  {
@@ -87688,6 +89584,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "DCP010512BP-U",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "DCV011515DP-U/700",
   "brand": "TI",
   "category": "",
@@ -87928,11 +89832,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "DM0365R",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "DM2-5707SR-DC16",
   "brand": "COTCO",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DMC2400UV-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT563",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DMN2016UTS-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -87960,6 +89888,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "DPG60C300HB",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
   "pn": "DR36569KCE12DQC",
   "brand": "DSP",
   "category": "",
@@ -87981,6 +89917,22 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DRC3114Y0L",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-723",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DRC9114T0L",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT523",
   "lifecycle": ""
  },
  {
@@ -88549,6 +90501,22 @@
   "category": "",
   "description": "",
   "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSEC30-06A",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO247-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSEI60-02A",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247AD",
   "lifecycle": ""
  },
  {
@@ -89712,6 +91680,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "DSS2X61-0045A",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-227",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSSK30-018A",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSSK60-0045A",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DSSK80-006B",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
+  "lifecycle": ""
+ },
+ {
+  "pn": "DT1042-04SO-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "DTC114ECAHZGT116",
   "brand": "ROHM",
   "category": "",
@@ -90856,6 +92864,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "EPH5R0020",
+  "brand": "Vishay / Huntington",
+  "category": "线绕电阻器 - 透孔",
+  "description": "线绕电阻器 - 透孔 FSWL2A-A1E-NI 50 5% E01 e3",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
   "pn": "EPM1270GF256C4N",
   "brand": "ALTERA",
   "category": "",
@@ -91768,6 +93784,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "ESD5Z12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOD523",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD9L3.3ST5G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD9L5.0ST5G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD9R3.3ST5G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD9X3.3ST5G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ESD9X5.0ST5G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "ETC5064D/C013TR",
   "brand": "ST",
   "category": "",
@@ -91864,6 +93928,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "FAN7842MX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "FASTESTKEYBOARDBIOS",
   "brand": "JKY",
   "category": "",
@@ -91885,6 +93957,94 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB047N10",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB075N15A",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB150N10",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB2532",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB2572",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB2614",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDB3502",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDD86102LZ",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDD86252",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDS8884",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FDS89161LZ",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -91933,6 +94093,14 @@
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "FM25V02-GTR",
+  "brand": "RAMTRON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -92016,6 +94184,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "FSDH321",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "FT7B557CANP315BP",
   "brand": "NPLABS",
   "category": "",
@@ -92061,6 +94237,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GAL16V8-25LNC",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP20",
   "lifecycle": ""
  },
  {
@@ -92181,6 +94365,14 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "GL34D",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "LL34",
   "lifecycle": ""
  },
  {
@@ -92448,6 +94640,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "HCF4071BEY",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "HCF4093BMTR/1JB",
   "brand": "ST",
   "category": "",
@@ -92704,6 +94904,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "HD74LV1G02ACME",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "TO23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LV1G08AVSE",
+  "brand": "HIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HD74LV1G86ACME",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "HD74LV244ATELL-Q",
   "brand": "HIT",
   "category": "",
@@ -92773,6 +94997,30 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HEF40106BP",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HEF4066BP",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "DIP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HEF4093BT",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -93621,6 +95869,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP54",
+  "lifecycle": ""
+ },
+ {
+  "pn": "HYM2596T-ADJ",
+  "brand": "HYM",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
   "lifecycle": ""
  },
  {
@@ -97216,6 +99472,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "IMP560ESA",
+  "brand": "IMP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMP813LEPA",
+  "brand": "IMP",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IMP813LESA-T",
+  "brand": "IMP",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "INA2134UA/2K5E4",
   "brand": "TI",
   "category": "",
@@ -97320,6 +99600,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "IR2104STRPBF",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "IR2157STR98-0146",
   "brand": "IR",
   "category": "",
@@ -97365,6 +99653,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRF5800TRPBF",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
   "lifecycle": ""
  },
  {
@@ -97432,6 +99728,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "IRFBE30PBF",
+  "brand": "IR-VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
   "pn": "IRFBF30L94-4939",
   "brand": "IR",
   "category": "",
@@ -97445,6 +99749,14 @@
   "category": "",
   "description": "",
   "pkg": "DIP4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRFH5301TRPBF",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "DFN5X6",
   "lifecycle": ""
  },
  {
@@ -97829,6 +100141,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-262",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IRS2101STRPBF",
+  "brand": "IR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -99280,6 +101600,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ISP1504ABS",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "ISP1521BE/CP2148",
   "brand": "PHI",
   "category": "",
@@ -99637,6 +101965,46 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IXDD609SI",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IXDN602PI",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IXDN602SIA",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IXGK120N120A3",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-264",
+  "lifecycle": ""
+ },
+ {
+  "pn": "IXYH82N120C3",
+  "brand": "IXYS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-247",
   "lifecycle": ""
  },
  {
@@ -100192,6 +102560,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "KIA78L05",
+  "brand": "KEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
   "pn": "KIA78L05F-RTF/P",
   "brand": "KEC",
   "category": "",
@@ -100501,6 +102877,30 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7806CV",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7809CV",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "L7810CV",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
   "lifecycle": ""
  },
  {
@@ -101085,6 +103485,14 @@
   "category": "",
   "description": "",
   "pkg": "SSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LCC120STR",
+  "brand": "CLARE",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -101744,6 +104152,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM1117IMPX-3.3",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT223",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM1117IMPX-3.3V",
   "brand": "NSC",
   "category": "",
@@ -101792,6 +104208,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM117K/883",
+  "brand": "Texas Instruments",
+  "category": "线性稳压器",
+  "description": "线性稳压器 Military Grade 1.5A Adjustable Output Linear Regulator / LDO 2-TO -55 to 125",
+  "pkg": "",
+  "lifecycle": "Restricted Availability"
+ },
+ {
   "pn": "LM1246DKE/NA/NOPB",
   "brand": "NSC",
   "category": "",
@@ -101805,6 +104229,22 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM12CLK",
+  "brand": "Bulgin",
+  "category": "按钮开关 - 工业",
+  "description": "按钮开关 - 工业 MP22 Series, SPDT, Latching, RGB Ring Illuminated, Cathode Common RGB, 12V, AL alloy Black, IP65",
+  "pkg": "",
+  "lifecycle": "New Product"
+ },
+ {
+  "pn": "LM140K-5.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
   "lifecycle": ""
  },
  {
@@ -103616,6 +106056,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM2901AVQPWRQ1",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM2901VQPWRG4Q1",
   "brand": "TI",
   "category": "",
@@ -103629,6 +106077,14 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM2902MX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -104016,6 +106472,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM317MDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM320LZ-12/NOPB",
   "brand": "NSC",
   "category": "",
@@ -104053,6 +106517,22 @@
   "category": "",
   "description": "",
   "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324MX",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM324PWR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -105024,11 +107504,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040AIM3-2.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040AIM3-2.0/NOPB",
   "brand": "NSC",
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040AIM3-2.1",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
   "lifecycle": ""
  },
  {
@@ -105120,6 +107616,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040BIM3-2.1",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040BIM3-2.1+T",
   "brand": "MAX",
   "category": "",
@@ -105133,6 +107637,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040BIM3-3.0",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
   "lifecycle": ""
  },
  {
@@ -105216,8 +107728,32 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040CIM3-2.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040CIM3-2.1",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040CIM3-2.5+T",
   "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040CIM3-3.0",
+  "brand": "NSC",
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
@@ -105233,6 +107769,14 @@
  },
  {
   "pn": "LM4040CIM3-4.1/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040CIM3-8.2",
   "brand": "NSC",
   "category": "",
   "description": "",
@@ -105304,6 +107848,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040DEM3-2.5",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23/3",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040DEM3-2.5/NOPB",
   "brand": "NSC",
   "category": "",
@@ -105344,11 +107896,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040DIM3-2.1",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040DIM3-2.5+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040DIM3-3.0",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
   "lifecycle": ""
  },
  {
@@ -105373,6 +107941,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4040DIM7-5.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -105424,6 +108000,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LM4040EIM3-2.5",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "LM4040EIM3X-2.5",
   "brand": "NSC",
   "category": "",
@@ -105458,6 +108042,14 @@
  {
   "pn": "LM4041BIM3-1.2+T",
   "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM4041CEM3-1.2",
+  "brand": "NSC",
   "category": "",
   "description": "",
   "pkg": "SOT23-3",
@@ -107077,6 +109669,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LM6172IMX/NOPB",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -109088,6 +111688,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LP2985AIM5-4.0",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "LP2985AIM5-5.0/NOPB",
   "brand": "NSC",
   "category": "",
@@ -109709,6 +112317,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3470M5X-4.38",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -111389,6 +114005,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LP3961EMPX-2.5",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
@@ -113320,6 +115944,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LQW15AN33NG00D",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "LR-D613S54000/07+",
   "brand": "KYOCERA",
   "category": "",
@@ -113373,6 +116005,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LSM6DSLTR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "LGA14",
   "lifecycle": ""
  },
  {
@@ -113736,6 +116376,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LT1084IT",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "ZIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "LT1085CM-3.3#PBF",
   "brand": "LT",
   "category": "",
@@ -113845,6 +116493,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT1117CST-2.85",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
@@ -114560,6 +117216,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LT1460HCS3-2.5",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "LT1460HCS3-3#TRMPBF",
   "brand": "LT",
   "category": "",
@@ -114653,6 +117317,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT1461CIS8-3.3",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -115576,6 +118248,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LT1767EMS8-3.3",
+  "brand": "LTC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "LT1767EMS8-3.3#PBF",
   "brand": "LT",
   "category": "",
@@ -115941,6 +118621,14 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LT1962EMS8-3.3",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP8",
   "lifecycle": ""
  },
  {
@@ -118352,6 +121040,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTC1326IS8-2.5",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTC1329CS8-10#PBF",
   "brand": "LT",
   "category": "",
@@ -118688,11 +121384,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTC1503CS8-1.8",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTC1503CS8-1.8#PBF",
   "brand": "LT",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTC1503IS8-1.8",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -118925,6 +121637,14 @@
   "category": "",
   "description": "",
   "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTC1643AL-1CGN",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -119168,6 +121888,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTC1728ES5-1.8",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTC1728ES5-3.3#PBF",
   "brand": "LT",
   "category": "",
@@ -119221,6 +121949,14 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTC1731ES8-4.2",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -119413,6 +122149,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTC1844ES5-2.5",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -123296,6 +126040,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTC2921CGN-3.3",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTC2927CDDB#TRMPBF",
   "brand": "LT",
   "category": "",
@@ -124040,6 +126792,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTC3531ES6-3.3",
+  "brand": "LT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTC3542EDC#TRMPBF",
   "brand": "LT",
   "category": "",
@@ -124613,6 +127373,14 @@
   "category": "",
   "description": "",
   "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTC4002ES8-8.4",
+  "brand": "LI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -127400,6 +130168,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTV-354T",
+  "brand": "LITEON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTV-354T-A",
+  "brand": "LITE-ON SEMICONDUCTOR CORP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTV-814",
+  "brand": "LITEON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "LTV-816S-TA1-D",
+  "brand": "LITEON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-4P",
+  "lifecycle": ""
+ },
+ {
   "pn": "LV25810PEB-6156H",
   "brand": "ON",
   "category": "",
@@ -127536,6 +130336,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "M24256-BFMC6TG",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "UFDFPN-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "M24256-BWMN6TP2500/",
   "brand": "ST",
   "category": "",
@@ -127549,6 +130357,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M25P32-VMF6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M25P64-VMF6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
   "lifecycle": ""
  },
  {
@@ -129200,6 +132024,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MA6Z71800L",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAALSS0033TR-3000",
   "brand": "M",
   "category": "",
@@ -129213,6 +132045,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAC97A6",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -129288,6 +132128,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1489EEPD",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX15004AAUE/V+T",
   "brand": "MAX",
   "category": "",
@@ -129352,6 +132200,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1771ESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1818EUT33#TG16",
   "brand": "MAX",
   "category": "",
@@ -129368,6 +132224,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1904EAI",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1922ESA-C71073",
   "brand": "MAX",
   "category": "",
@@ -129381,6 +132245,30 @@
   "category": "",
   "description": "",
   "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX202CPE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX232ACSE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX232CSE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -129440,6 +132328,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX3232CUE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232EPE",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232ESE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX3233ECPP+G36",
   "brand": "MAX",
   "category": "",
@@ -129472,6 +132384,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX3488ESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4020ESD",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX4544EUTC30499",
   "brand": "MAX",
   "category": "",
@@ -129480,7 +132408,31 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX485ESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX485ESA+T2500/",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX487ESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX489ESD+T",
   "brand": "MAX",
   "category": "",
   "description": "",
@@ -130000,6 +132952,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6443US26L+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6467US16D3+T",
   "brand": "MAX",
   "category": "",
@@ -130320,6 +133280,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX690AEPA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX691ACSE",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6957ATL0746+",
   "brand": "MAX",
   "category": "",
@@ -130336,11 +133312,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX708TCSA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX7375AXR425+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX770CSA",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX809JEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
   "lifecycle": ""
  },
  {
@@ -130392,11 +133392,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX8877EUK33-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8878EUK25-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8878EUK33-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX890LESA-TG974",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX942ESA",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -131197,6 +134229,974 @@
   "category": "",
   "description": "",
   "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87L4880LGA-G-ERE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87Q1061BGL-G-ERE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87S1131PFF-G-BNDE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87S2010-003PMC-G-BWD-C",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88101APFV-G-BND-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88151APNF-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88152APNF-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88155PFT-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88344PFV-G-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88347PFV-G-BND-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88351PF-G-BND-JN-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88501PF-G-1039M-BND-S",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88505HPF-G-1031M-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88543PF-G-267M-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88572PF-G-223M",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88P551H-201PF",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89068PF-G-111-BND-JN",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89083LGA-G-114-ERE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89097LGA-G-174-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89097PFV-G-170-ERE1SOP",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89637RPF-G-299-BDN",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89647PF-G-133-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89793BPF-G-144A-BND-S",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89F538-101PFM-G",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89F538-101PMC-GE",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90096P-G-192-SH",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-143-BND-EF",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-148-BND-EF",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-169-EFE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G144-BNDER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098ARF-G-170GEFE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90099PFV-G-121-BND-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP/20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90613APF-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F387SPMT-GSE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F574APMT-GE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F583CAPFV-GE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F882PMC-GSE1",
+  "brand": "FIJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91154PFV-G-108-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91305PMC-G-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP176",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91392BGL2-GE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB93191PMC-GS-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F347RSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348HSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348RSBPMC-GSE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348RSBPQCR-GS1132+",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F356RSBPMC-GSE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F386RSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F918DSBPMC-GS-ERE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF104RPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF106NPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF106RPMC-GE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF504RPMC-GE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF506RPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51214-607-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51654-6041-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51754-604-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51754-6051-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCG46533-144PFV-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCG46713-148PMT-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCU32110APF-G-109-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM27C1000A-10Z",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29DL800TA90PFTN-SFKE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F002B-90PD-FK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F033C-90PTN",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F040C-70PD",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F040C-90PD-SFK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F400TC-70PF",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F400TC-90PF-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV004T12PNSXR",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SON",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV160BE-70NC",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV160TE-90M",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800BA-90PF-SFK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800BE-70PFTN",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800TA-90",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29PL160BD-75",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM81F643242B-10FN",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR10100CT",
+  "brand": "TSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR10100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR1560CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT",
+  "brand": "V-CHIP",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT-M3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20H200CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR30H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR30H45CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR745",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10100-E3/8W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10H60-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10H60HE3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB1545CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB20100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB20100CT-E3/8W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB2060CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB30H45CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB30H60CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF10H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF1560CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20100CT",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20H150CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRS130T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBT3904DW1T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100ES6111FAR2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEL37DWR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC145483R2CT-ND",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC1489ANSN75189AN",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC2875A-02JBL2875A",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269DTRK-5.0",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33275D-5.0R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33275ST-5.0T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33761SNT1-25",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34114P/MC34014P",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BC375UAEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374CAEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374T1AEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374T1EFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC54LS74A/BCAJC",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8037V4M67E",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68030CRP25C1F91C",
+  "brand": "PGA",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68030RC33B09C74N",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332GCPV16B1",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  }
 ]
