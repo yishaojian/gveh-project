@@ -75745,10 +75745,10 @@
  },
  {
   "pn": "88E1512-A0-NNP2C000",
-  "brand": "MARVELL",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Marvell",
+  "category": "以太网 IC",
+  "description": "以太网 IC Single-port EEE Gigabit Ethernet PHY with RGMII; SGMII with auto-media detect in 56-pin QFN package",
+  "pkg": "QFN",
   "lifecycle": ""
  },
  {
@@ -77361,11 +77361,11 @@
  },
  {
   "pn": "AD574AJDZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "模数转换器 - ADC",
+  "description": "模数转换器 - ADC IC, MONO 12-BIT A/D CONV",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD5821ABCBZ-REEL7",
@@ -77409,35 +77409,35 @@
  },
  {
   "pn": "AD620ARZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "仪表放大器",
+  "description": "仪表放大器 IC,LOW COST IN AMP IC",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "AD622ARZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "仪表放大器",
+  "description": "仪表放大器 SOIC LOW COST INSTRUMENTATION AMPLIFIER",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
   "pn": "AD623ARMZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "仪表放大器",
+  "description": "仪表放大器 uSOIC SINGLE SUPPLY RAIL-RAIL L/C IN AMP",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
   "pn": "AD628ARZ-R7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
-  "lifecycle": ""
+  "brand": "Analog Devices",
+  "category": "差分放大器",
+  "description": "差分放大器 SOIC Hi CM Vltg Gain Prog Diff Amp",
+  "pkg": "SOIC",
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD648SQSCRATCH",
@@ -77481,19 +77481,19 @@
  },
  {
   "pn": "AD680JRZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "参考电压",
+  "description": "参考电压 2.5V REFERENCE IC",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "AD712JRZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "精密放大器",
+  "description": "精密放大器 HIGH SPEED DUAL BIFET AMP",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD7148ACPZ-1500RL7",
@@ -77641,10 +77641,10 @@
  },
  {
   "pn": "AD7476ARTZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "模数转换器 - ADC",
+  "description": "模数转换器 - ADC 12-BIT ADC IN SOT I.C.",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -77673,11 +77673,11 @@
  },
  {
   "pn": "AD7512DITQ/883B",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC IC DI CMOS Protected",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Obsolete"
  },
  {
   "pn": "AD7680BRJZ-REEL7",
@@ -77937,11 +77937,11 @@
  },
  {
   "pn": "AD8066ARMZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
-  "lifecycle": ""
+  "brand": "Analog Devices",
+  "category": "运算放大器 - 运放",
+  "description": "运算放大器 - 运放 miniSOIC Dual Hi Perf Hi Speed FET Amp",
+  "pkg": "SOIC",
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD8073JRZ-REEL",
@@ -77969,17 +77969,17 @@
  },
  {
   "pn": "AD8099ARDZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "高速运算放大器",
+  "description": "高速运算放大器 Ultra Low Noise & Dist. High Speed OpAmp",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "AD811ANZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "视频放大器",
+  "description": "视频放大器 HIGH SPEED VIDEO OP AMP",
   "pkg": "",
   "lifecycle": ""
  },
@@ -77993,11 +77993,11 @@
  },
  {
   "pn": "AD812ARZ-REEL",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "视频放大器",
+  "description": "视频放大器 DUAL LO PWR I-FDBK OP AMP",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD8132ARMZ-ADI",
@@ -78009,10 +78009,10 @@
  },
  {
   "pn": "AD8132ARZ-R7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "差分放大器",
+  "description": "差分放大器 SOIC Lo-Cost Hi-Spd Differential Amp",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -78049,9 +78049,9 @@
  },
  {
   "pn": "AD8277ARZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "差分放大器",
+  "description": "差分放大器 DualDifferenceAmpLowPwrG1",
   "pkg": "",
   "lifecycle": ""
  },
@@ -78081,10 +78081,10 @@
  },
  {
   "pn": "AD8313ARMZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "射频检测器",
+  "description": "射频检测器 uSOIC 0.1 TO 2.4GHz Power Detector",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -78097,19 +78097,19 @@
  },
  {
   "pn": "AD8343ARUZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
+  "brand": "Analog Devices",
+  "category": "射频混频器",
+  "description": "射频混频器 TSSOP 800-2500MHz High IP3 Active Mixer",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
   "pn": "AD8345AREZ-RL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
-  "pkg": "",
-  "lifecycle": ""
+  "brand": "Analog Devices",
+  "category": "调制器 / 解调器",
+  "description": "调制器 / 解调器 HTSSOP 300-1000MHz Quadrature Modulator",
+  "pkg": "SOP",
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD8346ARUZ-REEL",
@@ -78617,11 +78617,11 @@
  },
  {
   "pn": "AD9788BSVZRL",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "数模转换器- DAC",
+  "description": "数模转换器- DAC Dual 16B, 1 GSPS D-A Converter",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "AD9884A-KS-140",
@@ -78641,9 +78641,9 @@
  },
  {
   "pn": "AD9910BSVZ-REEL",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "数据采集ADC/DAC – 专业",
+  "description": "数据采集ADC/DAC – 专业 1GSPS 14-bit DDS w/ parallel input port",
   "pkg": "",
   "lifecycle": ""
  },
@@ -79785,11 +79785,11 @@
  },
  {
   "pn": "ADF7020-1BCPZ",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "射频收发器",
+  "description": "射频收发器 35-650 MHz ASK/FSK Transceive",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Restricted Availability"
  },
  {
   "pn": "ADG1219BRJZ-REEL7",
@@ -80001,9 +80001,9 @@
  },
  {
   "pn": "ADG723BRMZ-REEL7",
-  "brand": "ADI",
-  "category": "",
-  "description": "",
+  "brand": "Analog Devices",
+  "category": "模拟开关 IC",
+  "description": "模拟开关 IC LOW VOLTAGE DUAL SPST",
   "pkg": "",
   "lifecycle": ""
  },
@@ -91097,11 +91097,11 @@
  },
  {
   "pn": "BC57E687C-GITB-E4",
-  "brand": "AT",
+  "brand": "RF360",
   "category": "",
   "description": "",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "Not Recommended for New Designs"
  },
  {
   "pn": "BC807-16W-E6327",
@@ -100505,9 +100505,9 @@
  },
  {
   "pn": "CY62157EV30LL-45BVXI",
-  "brand": "CY",
-  "category": "",
-  "description": "",
+  "brand": "Infineon Technologies",
+  "category": "静态随机存取存储器",
+  "description": "静态随机存取存储器 8Mb 3V 45ns 512K x 16 LP 静态随机存取存储器",
   "pkg": "",
   "lifecycle": ""
  },
@@ -100537,9 +100537,9 @@
  },
  {
   "pn": "CY62167EV30LL-45BVXIT",
-  "brand": "CY",
-  "category": "",
-  "description": "",
+  "brand": "Infineon Technologies",
+  "category": "静态随机存取存储器",
+  "description": "静态随机存取存储器 16Mb 3V 45ns 1M x 16 LP 静态随机存取存储器",
   "pkg": "",
   "lifecycle": ""
  },
@@ -171197,6 +171197,4006 @@
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87Q1061BGL-G-ERE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87S1131PFF-G-BNDE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB87S2010-003PMC-G-BWD-C",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88101APFV-G-BND-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88151APNF-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88152APNF-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88155PFT-G-100-JNE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88344PFV-G-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88347PFV-G-BND-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88351PF-G-BND-JN-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88501PF-G-1039M-BND-S",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88505HPF-G-1031M-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88543PF-G-267M-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88572PF-G-223M",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB88P551H-201PF",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89068PF-G-111-BND-JN",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89083LGA-G-114-ERE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89097LGA-G-174-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89097PFV-G-170-ERE1SOP",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89637RPF-G-299-BDN",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89647PF-G-133-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89793BPF-G-144A-BND-S",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89F538-101PFM-G",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB89F538-101PMC-GE",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90096P-G-192-SH",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-143-BND-EF",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-148-BND-EF",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G-169-EFE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098APF-G144-BNDER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90098ARF-G-170GEFE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90099PFV-G-121-BND-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP/20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90613APF-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F387SPMT-GSE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F549GPFV-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F574APMT-GE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F583CAPFV-GE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90F882PMC-GSE1",
+  "brand": "FIJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB90P767HPFV-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91154PFV-G-108-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91305PMC-G-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP176",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB91392BGL2-GE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB93191PMC-GS-BNDE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F347RSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348HSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348RSBPMC-GSE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F348RSBPQCR-GS1132+",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F356RSBPMC-GSE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F386RSBPMC-GSE2",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB96F918DSBPMC-GS-ERE2",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF104RPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF106NPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF106RPMC-GE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF504RPMC-GE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB9BF506RPMC-G-JNE1",
+  "brand": "FUJITSU SEMICONDUCTOR AMERICA",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51214-607-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51654-6041-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51754-604-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCE51754-6051-2FV-G-BND",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCG46533-144PFV-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCG46713-148PMT-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCU32110APF-G-109-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM27C1000-20Z",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM27C1000A-10Z",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM27C128P-25P",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29DL800TA90PFTN-SFKE1",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F002B-90PD-FK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F002TC-90",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F033C-90PTN",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F040C-70PD",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F040C-90PD-SFK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F400TC-70PF",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F400TC-90PF-ER",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29F800TA-70",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV004T12PNSXR",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SON",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV160BE-70NC",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV160TE-90M",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800BA-90PF-SFK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800BE-70PFTN",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29LV800TA-90",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM29PL160BD-75",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM81F643242B-10FN",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR0520LT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR0530T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR0540T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOD-123",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR10100CT",
+  "brand": "TSC",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR10100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR10100G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR1045G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR1060G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR1100RLG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DO-41",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR1560CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT",
+  "brand": "V-CHIP",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20100CT-M3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR20H200CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR30H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR30H45CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220AB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBR745",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRA130LT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRA140T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRA160T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRA210LT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRA340T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10100-E3/8W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB1060-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10H60-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB10H60HE3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB1545CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB1560CT15.0",
+  "brand": "GENERA",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB20100CT-E3/4W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB20100CT-E3/8W",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB2060CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB30H45CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRB30H60CT-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF10H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF1560CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20100CT",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20H100CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20H150CT-E3/45",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRM130LT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "POWERMITE-2",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRS130T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMB",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRS3100T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBT3904DW1T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100EL1648DTR",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100ES60T22EJ",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100ES6111FAR2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEL32DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEL37DWR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEP11DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14067BDWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14071BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14081BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14106BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC145483R2CT-ND",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC146818AP/ACP",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC1489ANSN75189AN",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC2875A-02JBL2875A",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33033DWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33072DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33202DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269DR2-3.3",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269DTRK-3.3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DPAK",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269DTRK-5.0",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33274ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "FLP-14(SOIC-14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33275D-5.0R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33275DT-5.0G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33275ST-5.0T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33463H-30KT1",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33464N-30ATR",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33465N-32ATR",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33761SNT1-25",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34063",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34072DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC34114P/MC34014P",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BC375UAEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BC375UEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374CAEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374T1AEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374T1EFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC54LS74A/BCAJC",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8014VFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8037V4M67E",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8323VFBE",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68010L10/L12",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68030CRP25C1F91C",
+  "brand": "PGA",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68030RC33B09C74N",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68230P80C/OR",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68302CPV16VC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332GCPV16B1",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68661PB21GK9",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68711E20CFNE2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68908GZ16CFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68908GZ8CFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68908GZ8CFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68908GZ8CFJER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68C908BD48IB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP42",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68CK331CAG16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EC030FE25C",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "CQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EC030RP25B",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EC040FE33A",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "CQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EC040RC25A",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN302AG25BT",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN302PV25B",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN360EM33K",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN360EM33L",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN360RC25K",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EN360RC33K",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EZ328PU160",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EZ328PU16V",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EZ328VF20V",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC000EI16R2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC000FN16R2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC000IEI16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC05L11FU1",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11A1MFNE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11A1MFNER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11E0CFN2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11E1CFB2",
+  "brand": "MC",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11E1CFN2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11E1CFN3",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11E1CFNE2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11F1CFN3",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11F1CFN4R2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC11F1VFN4",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC16Z1CPV16",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC16Z1VEH16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705B16CFN",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705B5CFN",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705BD1AP",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705BD9B1",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C4ACFB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C8ACFB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C8ACP",
+  "brand": "MC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C9ACFN",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705F32PU",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705J1ACP",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705JP7CDW",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705KJ1CP",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705L16FU",
+  "brand": "MC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705L5FUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705P6CDW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP---28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705PL4BDW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711D3CFNE2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711D3VFNE2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E20CFN3",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E9CFN2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E9CFNE2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E9CFNE3",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E9CFU2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711E9VFN2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711G5CFN",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711K4CFN4",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711K4CFU4",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC711P2CFN4",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC811E9CFN2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP16CFAE",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP16CFB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP32CB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP32CFB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP64CB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908AP8CB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GR4CFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GT16CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GT16FB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GT8CB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GT8CFB",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GZ60CFJ",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908GZ60VFU",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908J8-8FB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JB8ADW",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JB8JDW",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JB8JPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JK3CDW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JK3ECPE",
+  "brand": "FREE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL3ECDWE",
+  "brand": "FREE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL3ECPE",
+  "brand": "FREE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL8CDW",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL8CFA",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL8CSP",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908JL8CSPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908LB8MPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908LJ12CFB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908LK24CFQ",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP-",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908MR8CDW",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908MR8CFA",
+  "brand": "FREESCAL",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QT1CPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QT1VPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QT2CDW",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QT2CPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QT2MPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY1CPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY1MDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY1VDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY1VPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY2CDT",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY2CDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY2CPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY2MDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4ACPE",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4CDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4CDW",
+  "brand": "FREESCAL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4CP",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4CPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4MDTE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4MPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4VDTE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908QY4VPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC908SR12CB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HRC908JK3CDW",
+  "brand": "MTOROLA",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HRC98JK3ECDW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HRC98JL3ECDW",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HSC705C8ACFB",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LC302AF16CT",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LC302AF20CT",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LC302AF25CT",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LC302PU16VCT",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LK331CPV27",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68LK332ACAG16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68MH360CEM25L",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68S711E9CFNE2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68SEC000AA16R2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68SEC000PB16",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68SZ328VH66SR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68SZ328VH66V",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68VZ328PV33V",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC705B16NCFNER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC705X32MFUE4R",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74AC573DWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74ACT541DWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC08ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC157ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC1G00DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC1G04DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC1G08DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC1G08DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC1G32DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC244ADWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC273ADWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC373ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4046ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4050DTR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051ADRT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051ADTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051ADTR2G2500/",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4052ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4053ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4053ADWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4053DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4094ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4538AFEL",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4852ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC541ADWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC573ADWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC574ADTR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC589ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC595ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC74ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT240ADWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT244ADTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT244ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT245ADW",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT245ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT273ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT4851ADT",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT574ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX16373DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX244DTEL",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX244DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX244DWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX257DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX374DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX541DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX138DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX245DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX4053DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX574DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVXC3245DWR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VCXH245MNR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G00DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G02DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G04DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G05DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G07DFT1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-353/SC-70/SC-88A",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G07DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G08DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G08DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G32DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G32DTT1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G50DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G50DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1G66DTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC1GT125DT1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC244DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC373DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC374DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC4051DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC4052DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC4053DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC50DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC541DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHCT244ADWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHCT541ADTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHCT574ADTR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7805ACD2TR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7805CTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7815BTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L05ABDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78M05ABDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78M05ACDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78M15CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7906CTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7912CTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC79M05BDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC79M12CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC79M15CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC7VHC1G08DFT1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC88915TFN70R2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AB32CFUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AS32AMFNE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AS60ACFNE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AS60AMFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AS60AVFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AZ32AMFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AZ32AVFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AZ60ACFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AZ60AVFUR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908EY16ACFJE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908EY16AMFJE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908EY16AVFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GP32CFBER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GP32CFBR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR16ACFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR32ACFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR32ACFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR48ACFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR60ACFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JL16CFJER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QY4ACDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908SR12MFAER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC912D60ACPVE8",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP112",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC912DG128ACPVE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP112",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC912DG128ACPVER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9JB16FA-1L98J",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA1CSCR",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC128CFGE11+800/",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC16CFGE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC32CFGER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC32CPUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC32MPUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC60CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC60CFGER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC60CFUESCS8AC60EACFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW16CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW16CFGER1034+1500/",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW16CPUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW16MFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW32CPUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW32MFGE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW48CFUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW48CPUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW60CFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW60CFUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW60MFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW60MFUER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW60VFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DN16ACLC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV32AMLH",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV60ACLC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ128CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ16ACLC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ16AMLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ32ACLC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ60ACLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GB32ACFUE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GB60CFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16ACBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16ACFBER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16ACFCE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16ACFDE",
+  "brand": "FREESCLE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16AMFCE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT16CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT32ACFDE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT32CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT32CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT60ACFBER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT60ACFDER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT60CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT8ACFBE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GT8ACFBER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08MP16VLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QE128CLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QE128CLK",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG44CDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG4CDTE/MQG4",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG84CDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG8CDTER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG8CFFER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12A128CFUE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12A256BCPV",
+  "brand": "FREESICAL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12A512CPVE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP112",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12B256MPVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C128CFUE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C128MPBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C128VFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32CFAE25",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32CFUE25",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32CPBE25",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32MFU25",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32MFUE25",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32MPB25",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C32VFAE16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C96CFUER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12DB128CPV",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12DB128CPVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12DG128BCPV",
+  "brand": "MOTO",
+  "category": "",
+  "description": "",
+  "pkg": "QFP112",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12DG128CPV",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12DG128CPVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  }
 ]
