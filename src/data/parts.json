@@ -73,11 +73,11 @@
  },
  {
   "pn": "1BUGJS",
-  "brand": "",
-  "category": "IC",
-  "description": "1BUGJS",
+  "brand": "Vishay / Vitramon",
+  "category": "多层陶瓷电容器MLCC - SMD/SMT",
+  "description": "多层陶瓷电容器MLCC - SMD/SMT",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "New Product"
  },
  {
   "pn": "1EDN7511B",
@@ -1553,9 +1553,9 @@
  },
  {
   "pn": "505075XZD325",
-  "brand": "",
-  "category": "IC",
-  "description": "505075XZD325",
+  "brand": "Kingbright",
+  "category": "单色LED",
+  "description": "单色LED Red Water Clear 625nm 25mcd",
   "pkg": "",
   "lifecycle": ""
  },
@@ -2169,9 +2169,9 @@
  },
  {
   "pn": "BARNNERJS",
-  "brand": "",
-  "category": "IC",
-  "description": "BARNNERJS",
+  "brand": "MH Connectors",
+  "category": "D-Sub工具与硬件",
+  "description": "D-Sub工具与硬件 TURNED JACK SCREW - M2.6 THREAD",
   "pkg": "",
   "lifecycle": ""
  },
@@ -2865,9 +2865,9 @@
  },
  {
   "pn": "BD63281EFV-E2",
-  "brand": "ROHM",
-  "category": "IC",
-  "description": "BD63281EFV-E2",
+  "brand": "ROHM Semiconductor",
+  "category": "马达/运动/点火控制器和驱动器",
+  "description": "马达/运动/点火控制器和驱动器 H-BRIDGE 36V max 1 Chan 1.0A 1.5ohm",
   "pkg": "",
   "lifecycle": ""
  },
@@ -13849,9 +13849,9 @@
  },
  {
   "pn": "EMMC04G-W627-X01U",
-  "brand": "",
-  "category": "IC",
-  "description": "EMMC04G-W627-X01U",
+  "brand": "Kingston",
+  "category": "eMMC",
+  "description": "eMMC  eMMC  5.1 (HS400) 153B 4GB -25c to 85c",
   "pkg": "",
   "lifecycle": ""
  },
@@ -31457,11 +31457,11 @@
  },
  {
   "pn": "SEO100SITEMAP",
-  "brand": "",
-  "category": "IC",
-  "description": "SEO100SITEMAP",
+  "brand": "e-peas",
+  "category": "电源管理IC开发工具",
+  "description": "电源管理IC开发工具 电源管理IC开发工具 2AAEM15820J001 Energy Harvesting Evaluation Board (AEM15820 - Ultra Efficient Hybrid Boost Energy Manager)",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "New Product"
  },
  {
   "pn": "SFH1690AT",
@@ -64440,6 +64440,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "0603N301G500CT",
+  "brand": "WALSIN TECHNOLOGIES",
+  "category": "贴片电容(MLCC)",
+  "description": "300pF ±2% 50V",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
+  "pn": "0603N330F500",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "33pF ±1% 50V",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
   "pn": "0805C0G101100P07B37940-K1101-J60",
   "brand": "EPC",
   "category": "",
@@ -72258,65 +72274,65 @@
  {
   "pn": "24LC256-I/STG",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC256-I/STG",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "24LC256T-E/MF",
+  "pkg": "TDFN-8-EP(2x3)",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "256Kbit I²C串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-E/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "256K I²C串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "低功耗CMOS技术的256-Kbit I²C串行EEPROM，支持宽电压范围、多设备级联和64字节页写",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC256T-I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "256K I²C串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC256T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "256K I²C 互补金属氧化物半导体（CMOS）串行电可擦可编程只读存储器（EEPROM）",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -72330,57 +72346,57 @@
  {
   "pn": "24LC256T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "低功耗CMOS技术的256-Kbit I²C串行EEPROM，支持宽电压范围、多设备级联和64字节页写",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "24LC32AF-E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "32Kbit电可擦除PROM，具备2线串行接口，低电压设计，适用于低功耗应用，支持页面写入，多设备级联",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC32AF-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "24LC32AF I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "24LC32AF I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AF-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC32AF-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72442,49 +72458,49 @@
  {
   "pn": "24LC32AT-E/MC",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN",
+  "category": "EEPROM",
+  "description": "32-Kbit I²C串行EEPROM，低功耗CMOS技术，支持32字节页写入，具备硬件写保护和ESD保护",
+  "pkg": "DFN-8-EP(2x3)",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AT-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "24LC32AT-E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AT-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "32 Kbit I²C串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AT-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "32Kbit I2C接口串行EEPROM，支持低功耗应用，工业级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AT-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "32K I²C 串行 EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC32AT-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "32-Kbit I²C串行EEPROM，低功耗CMOS技术，支持32字节页写入，具备硬件写保护和ESD保护",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72506,25 +72522,25 @@
  {
   "pn": "24LC512T-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "512KbitI²C串行EEPROM，适用于低功耗应用，具有100万次擦写寿命和超过200年的数据保留能力",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "24LC512T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "512K I²C串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC512T-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC512T-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72538,17 +72554,17 @@
  {
   "pn": "24LC512T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "512Kbit I2C 串行 EEPROM",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "24LC512T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "512K I²C串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72562,81 +72578,81 @@
  {
   "pn": "24LC515T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "512KbitI²C CMOS串行EEPROM",
+  "pkg": "SOIC-8-208mil",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "64Kbit I2C串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-E/OT",
   "brand": "MIC",
-  "category": "",
-  "description": "",
+  "category": "EEPROM",
+  "description": "24LC64FT-E/OT",
   "pkg": "SOT-23-5",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "64Kbit I2C串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC64FT-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "24LC64FT-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "64K I²C串行EEPROM，带四分之一阵列写保护",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64FT-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LC64FT-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LC64XT-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "64 Kbit I2C串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "24LCS21A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "1K 2.5V 双模式 I2C 串行 EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -72666,33 +72682,33 @@
  {
   "pn": "24LCS52T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "2Kbit I2C串行EEPROM，带软件写保护",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "24LCS52T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "24LCS52T I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA010A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "1Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA010A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA010A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72730,25 +72746,25 @@
  {
   "pn": "25AA020A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25AA020A I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA020A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "2K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA020A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA020A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72802,25 +72818,25 @@
  {
   "pn": "25AA040A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "4K SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA040A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "4K位SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA040A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA040A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72882,17 +72898,17 @@
  {
   "pn": "25AA040T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "4Kbit SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA040X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "4KbitSPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72906,25 +72922,25 @@
  {
   "pn": "25AA080A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25AA080A-I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -72954,17 +72970,17 @@
  {
   "pn": "25AA080B-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25AA080B-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080B-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "8K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -72978,9 +72994,9 @@
  {
   "pn": "25AA080B-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73010,25 +73026,25 @@
  {
   "pn": "25AA080C-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25AA080C-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080C-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25AA080C-I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080C-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA080C I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73058,25 +73074,25 @@
  {
   "pn": "25AA080D-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25AA080D-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080D-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25AA080D I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA080D-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA080D-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73106,25 +73122,25 @@
  {
   "pn": "25AA080T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8KbitSPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA1024-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "1 Mbit SPI总线串行EEPROM",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25AA1024-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "1Mbit SPI总线串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
@@ -73146,41 +73162,41 @@
  {
   "pn": "25AA128T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "25AA128T I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25AA128T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25AA128T-I/SM",
+  "pkg": "SOIC-8-208mil",
   "lifecycle": ""
  },
  {
   "pn": "25AA128T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25AA128T I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA128T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "128K SPI接口串行EEPROM，低功耗CMOS技术",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA128X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA128X-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73194,25 +73210,25 @@
  {
   "pn": "25AA160A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25AA160A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73242,25 +73258,25 @@
  {
   "pn": "25AA160B-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25AA160B I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160B-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "16K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160B-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM，低功耗CMOS技术，1.8V~5.5V供电，32字节页大小，工业级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73290,25 +73306,25 @@
  {
   "pn": "25AA160C-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "16 Kbit SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160C-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，工业级，SOIC封装",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160C-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "16-Kbit SPI总线串行EEPROM，采用低功耗CMOS技术，具备自定时擦除和写入周期、块写保护、内置写保护、顺序读取等功能，高可靠性，支持多种封装",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73346,17 +73362,17 @@
  {
   "pn": "25AA160D-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，支持1.8V至5.5V工作电压，适用于工业和扩展温度范围",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA160D-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA160D-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73386,41 +73402,41 @@
  {
   "pn": "25AA160T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25AA160T-I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA256T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "25AA256T I/MF",
+  "pkg": "DFN-8-S(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25AA256T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25AA256T-I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA256T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "256Kbit SPI串行EEPROM，工业级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA256X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA256X-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73434,25 +73450,25 @@
  {
   "pn": "25AA320A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA320A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA320A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73490,9 +73506,9 @@
  {
   "pn": "25AA320T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "32KbitSPI串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -73514,49 +73530,49 @@
  {
   "pn": "25AA512T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25AA512T-I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25AA512T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "512 Kbit SPI总线串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25AA512T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "512 Kbit SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA640A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25AA640A-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA640A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "64K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA640A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25AA640A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73602,17 +73618,17 @@
  {
   "pn": "25AA640T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "64Kbit SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25AA640X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "64Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73626,57 +73642,57 @@
  {
   "pn": "25C040XT-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25C040XT I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "1Kbit SPI接口串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC010A E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC010A-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "1Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25LC010A I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC010A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC010A-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -73762,41 +73778,41 @@
  {
   "pn": "25LC020A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "2Kbit 串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC020A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC020A-E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC020A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC020A-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC020A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25LC020A-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC020A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25LC020A I/SN",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -73874,33 +73890,33 @@
  {
   "pn": "25LC040A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "4Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC040A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC040A-E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC040A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC040A-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC040A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25LC040A I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -74002,17 +74018,17 @@
  {
   "pn": "25LC040T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "4K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC040X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "4KbitSPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74026,49 +74042,49 @@
  {
   "pn": "25LC080A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI接口串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25LC080A I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC080A I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74122,41 +74138,41 @@
  {
   "pn": "25LC080B-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25LC080B-E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080B-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "8K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080B-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080B-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC080B-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080B-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -74218,41 +74234,41 @@
  {
   "pn": "25LC080C-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC080C-E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080C-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080C-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC080C-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080C-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC080C-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080C-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "25LC080C-I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -74306,49 +74322,49 @@
  {
   "pn": "25LC080D-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080D-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8Kbit SPI串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080D-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25LC080D-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080D-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC080D-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080D-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC080D I/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC080D-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC080D-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74402,41 +74418,41 @@
  {
   "pn": "25LC080T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "8Kbit SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC1024-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO-92-3",
+  "category": "EEPROM",
+  "description": "1 Mbit SPI总线串行EEPROM",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC1024-E/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "1 Mbit SPI总线串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC1024-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "25LC1024 I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC1024-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "1 Mbit SPI总线串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
@@ -74474,73 +74490,73 @@
  {
   "pn": "25LC128T-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25LC128T-E/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-E/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC128T E/SM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "128K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC128T E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "25LC128T I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25LC128T-I/SM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC128T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "128K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC128X-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC128X-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC128X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC128X-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74562,41 +74578,41 @@
  {
   "pn": "25LC160A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM，低功耗CMOS技术，2.5V~5.5V供电，16字节页大小，汽车级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC160A-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -74658,57 +74674,57 @@
  {
   "pn": "25LC160B-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "16K SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "16K SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-I/PG",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "16K SPI总线串行EEPROM",
+  "pkg": "PDIP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160B-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC160B I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74762,49 +74778,49 @@
  {
   "pn": "25LC160C-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，支持2.5V至5.5V工作电压，适用于扩展温度范围",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160C-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC160C-E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160C-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC160C-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160C-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC160C-I/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160C-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，支持2.5V至5.5V工作电压，适用于工业温度范围",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160C-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC160C-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74858,49 +74874,49 @@
  {
   "pn": "25LC160D-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，低功耗，宽电压范围",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160D-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC160D-E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160D-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC160D-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160D-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM，适用于工业温度范围",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160D-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "8K - 256K SPI串行EEPROM高温系列",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC160D-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "16Kbit SPI串行EEPROM，支持2.5V至5.5V工作电压，适用于工业和扩展温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -74954,17 +74970,17 @@
  {
   "pn": "25LC160T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "16Kbit SPI接口串行EEPROM，支持100万次擦写寿命和200年数据保持",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC256T-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "256Kbit SPI接口串行EEPROM",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
@@ -74978,57 +74994,57 @@
  {
   "pn": "25LC256T-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC256T-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC256T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-S",
+  "category": "EEPROM",
+  "description": "25LC256T I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC256T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "256K SPI总线串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC256T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "256K SPI总线串行EEPROM",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC256T-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "256Kbit SPI串行EEPROM，工业级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC256X-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "256Kbit SPI串行EEPROM，扩展级温度范围",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC256X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC256X-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -75042,49 +75058,49 @@
  {
   "pn": "25LC320A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "EEPROM",
+  "description": "25LC320A E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320A-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC320A-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320A-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "SPI串行EEPROM，支持字节和页面级写入操作，具备块写保护和内置写保护功能，高可靠性",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "32K SPI总线串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -75170,17 +75186,17 @@
  {
   "pn": "25LC320T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25LC320T-E/SN",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC320X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC320X-I/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -75194,73 +75210,73 @@
  {
   "pn": "25LC512T-E/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC512T-E/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC512T-E/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "512 Kbit SPI串行EEPROM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC512T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "512 Kbit SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC512T-I/MF",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "25LC512T-I/MF",
+  "pkg": "DFN-8-EP(5x6)",
   "lifecycle": ""
  },
  {
   "pn": "25LC512T-I/SM",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "25LC512T I/SM",
+  "pkg": "SOIJ-8-5.28mm",
   "lifecycle": ""
  },
  {
   "pn": "25LC640A-E/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "25LC640A E/MS",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC640A-E/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "25LC640A-E/ST",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC640A-I/MS",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "64K SPI总线串行EEPROM",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC640A-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "64K SPI总线串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -75354,17 +75370,17 @@
  {
   "pn": "25LC640T-E/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "64Kbit SPI接口串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
   "pn": "25LC640T-I/SN",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "EEPROM",
+  "description": "64K SPI总线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -75378,9 +75394,9 @@
  {
   "pn": "25LC640X-I/ST",
   "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "64Kbit SPI接口串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -75730,17 +75746,17 @@
  {
   "pn": "2SA1514KT146S",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-346",
+  "category": "三极管(BJT)",
+  "description": "2SA1514KT146S",
+  "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
   "pn": "2SA1577-T106R",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT263-3",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:500mA 电压:32V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
@@ -75826,17 +75842,17 @@
  {
   "pn": "2SB1132-T100Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT223-3",
+  "category": "三极管(BJT)",
+  "description": "2SB1132T100Q",
+  "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
   "pn": "2SB1424-T100Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-89",
+  "category": "三极管(BJT)",
+  "description": "PNP 电流:3A 电压:20V",
+  "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
@@ -75986,9 +76002,9 @@
  {
   "pn": "2SC4081-T106R",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:150mA 电压:50V",
+  "pkg": "SC-70(SOT-323)",
   "lifecycle": ""
  },
  {
@@ -76074,9 +76090,9 @@
  {
   "pn": "2SCR552P5T100",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-89-3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:3A 电压:30V",
+  "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
@@ -76090,9 +76106,9 @@
  {
   "pn": "2SD1484KT146Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-346",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:500mA 电压:50V",
+  "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
@@ -76114,17 +76130,17 @@
  {
   "pn": "2SD1664-T100Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT223-3",
+  "category": "三极管(BJT)",
+  "description": "2SD1664T100Q",
+  "pkg": "SC-62",
   "lifecycle": ""
  },
  {
   "pn": "2SD1757KT146Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-346",
+  "category": "三极管(BJT)",
+  "description": "2SD1757KT146Q",
+  "pkg": "TO-236-3(SOT-23-3)",
   "lifecycle": ""
  },
  {
@@ -76138,41 +76154,41 @@
  {
   "pn": "2SD1767-T100R",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT223-3",
+  "category": "三极管(BJT)",
+  "description": "2SD1767T100R",
+  "pkg": "TO-243AA",
   "lifecycle": ""
  },
  {
   "pn": "2SD1802S-TL-E",
   "brand": "ON",
-  "category": "",
-  "description": "",
+  "category": "三极管(BJT)",
+  "description": "2SD1802S-TL-E",
   "pkg": "TO-252-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD1802T-TL-E",
   "brand": "ON",
-  "category": "",
-  "description": "",
+  "category": "三极管(BJT)",
+  "description": "NPN 3A 50V",
   "pkg": "TO-252-3",
   "lifecycle": ""
  },
  {
   "pn": "2SD2114KT146W",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-346",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:0.5A 电压:20V",
+  "pkg": "SC-59",
   "lifecycle": ""
  },
  {
   "pn": "2SD2391-T100Q",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOT223-3",
+  "category": "三极管(BJT)",
+  "description": "NPN 电流:2A 电压:60V",
+  "pkg": "SOT-89",
   "lifecycle": ""
  },
  {
@@ -76506,9 +76522,9 @@
  {
   "pn": "4116R-1-121LF",
   "brand": "BOURNS",
-  "category": "",
-  "description": "",
-  "pkg": "DIP-16",
+  "category": "排阻",
+  "description": "120Ω ±2%",
+  "pkg": "DIP-16-2.54mm",
   "lifecycle": ""
  },
  {
@@ -76650,25 +76666,25 @@
  {
   "pn": "5M160ZT100C5N",
   "brand": "ALTERA",
-  "category": "",
-  "description": "",
-  "pkg": "TQFP",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "5M160ZT100C5N",
+  "pkg": "TQFP-100(14x14)",
   "lifecycle": ""
  },
  {
   "pn": "5M240ZT100C5N",
   "brand": "ALTERA",
-  "category": "",
-  "description": "",
-  "pkg": "TQFP",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "MAX V 器件的直流和开关特性",
+  "pkg": "TQFP-100(14x14)",
   "lifecycle": ""
  },
  {
   "pn": "5M570ZF256C5N",
   "brand": "ALTERA",
-  "category": "",
-  "description": "",
-  "pkg": "FBGA",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "MAX V 器件的直流和开关特性",
+  "pkg": "FBGA-256",
   "lifecycle": ""
  },
  {
@@ -76754,9 +76770,9 @@
  {
   "pn": "72V3660L7-5PF",
   "brand": "IDT",
-  "category": "",
-  "description": "",
-  "pkg": "LQFP128",
+  "category": "FIFO存储器",
+  "description": "72V3660L7-5PFGI",
+  "pkg": "TQFP-128(14x20)",
   "lifecycle": ""
  },
  {
@@ -76778,9 +76794,9 @@
  {
   "pn": "74ABT126DB118",
   "brand": "NXP",
-  "category": "",
-  "description": "",
-  "pkg": "SSOP14",
+  "category": "缓冲器/驱动器/收发器",
+  "description": "74ABT126DB,118",
+  "pkg": "SSOP-14-208mil",
   "lifecycle": ""
  },
  {
@@ -83672,11 +83688,163 @@
   "lifecycle": ""
  },
  {
+  "pn": "93LC86AT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86AT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86BT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86C-I/SNG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-I/MC",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "93LC86CT-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "99PL128JCOBAWUB",
   "brand": "SPANSION",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A0T460IRF3205",
+  "brand": "AOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
   "lifecycle": ""
  },
  {
@@ -83688,6 +83856,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "A1010B-1PL68C",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-68",
+  "lifecycle": ""
+ },
+ {
   "pn": "A1013",
   "brand": "CJ",
   "category": "三极管(BJT)",
@@ -83696,11 +83872,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "A10V10B-PL68C",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A1225XL-PL84C",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-84",
+  "lifecycle": ""
+ },
+ {
   "pn": "A1240XL-1PL84C",
   "brand": "ACTEL",
   "category": "",
   "description": "",
   "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A1240XL-PL84C",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC84",
   "lifecycle": ""
  },
  {
@@ -83760,6 +83960,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "A3P060-FGG144",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA144",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P125-PQG208",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A3P250-FGG144",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "A3P250-FGG256I",
   "brand": "ACTEL",
   "category": "可编程逻辑器件(CPLD/FPGA)",
@@ -83768,11 +83992,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "A3PN010-QNG48",
+  "brand": "MICROSEMI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "A3PN250-VQG100I",
   "brand": "MICROSEMI",
   "category": "可编程逻辑器件(CPLD/FPGA)",
   "description": "Flash技术的FPGA，具备低功耗、即时启动、可重编程、安全特性及多种功能",
   "pkg": "VQFP-100(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A40MX02-FPL68",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-68",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A40MX04-FPL68",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-68",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A40MX04-FPL84",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-84",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX09-FPL84",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-84",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX09-PL84I",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX16-FPL84",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-84",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A42MX24-PQ160",
+  "brand": "ACTE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -83841,6 +84129,22 @@
  },
  {
   "pn": "A80387DX-25SX106",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A80486DX4-100",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "A80487SXSZ494",
   "brand": "INTEL",
   "category": "",
   "description": "",
@@ -84232,6 +84536,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AAT4608IGV-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
   "pn": "AAT4618IGV-0.5-1-T1",
   "brand": "ATG",
   "category": "",
@@ -84240,11 +84552,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "AAT4625IHS-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AAT4626IAS-I-TI",
   "brand": "AATI",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT7126IAS-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AAT9055INY-T1",
+  "brand": "ATG",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ABA-52563-TR1",
+  "brand": "AGI",
+  "category": "",
+  "description": "",
+  "pkg": "TO23",
   "lifecycle": ""
  },
  {
@@ -84344,11 +84688,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "ACPL-214-500E",
+  "brand": "AVAGO",
+  "category": "",
+  "description": "",
+  "pkg": "SOP4",
+  "lifecycle": ""
+ },
+ {
   "pn": "ACPL-M71T-000E",
   "brand": "AVAGO",
   "category": "逻辑输出光耦",
   "description": "ACPL-M71T-000E",
   "pkg": "SOIC-5-175mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACPM-7812-TR1",
+  "brand": "AGILENT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACPM-7863-TR1",
+  "brand": "AVAGO",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ACS712ELC-05B",
+  "brand": "ALLEGRO",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -84560,11 +84936,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5162BRMZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5162BRMZ100-RL7",
   "brand": "ADI",
   "category": "数字电位器",
   "description": "256位、双通道、SPI数字电位计",
   "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5162BRMZ2.5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
   "lifecycle": ""
  },
  {
@@ -84584,11 +84976,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5231BRUZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5243BRMZ10-RL7",
   "brand": "ADI",
   "category": "数字电位器",
   "description": "双通道，256位置，I2C兼容数字电位器",
   "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5243BRMZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5243BRMZ2.5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
   "lifecycle": ""
  },
  {
@@ -84632,6 +85048,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5248BRMZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5248BRMZ2.5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5252BRUZ1-RL7",
   "brand": "ADI",
   "category": "数字电位器",
@@ -84648,11 +85080,59 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5254BRUZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5259BRMZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5262BRUZ200",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5263BRUZ20-REEL7",
   "brand": "ADI",
   "category": "数字电位器",
   "description": "四通道、15 V、256位数字电位计，提供引脚可选的SPI/I2C",
   "pkg": "TSSOP-24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5263BRUZ200",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5270BRMZ-50",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5272BRMZ-20",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
   "lifecycle": ""
  },
  {
@@ -84669,6 +85149,14 @@
   "category": "数字电位器",
   "description": "单通道1024位分辨率数字电位计",
   "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5293BRUZ-50",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
   "lifecycle": ""
  },
  {
@@ -84824,11 +85312,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5623RBRMZ-5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5624RBCPZ-5R2",
   "brand": "ADI",
   "category": "数模转换芯片DAC",
   "description": "四通道、12位nanoDAC®，内置5 ppm/°C片内基准电压源",
   "pkg": "LFCSP-10(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5624RBRMZ-3",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
   "lifecycle": ""
  },
  {
@@ -84840,6 +85344,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5625RBRUZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5627RBCPZ-REEL7",
   "brand": "ADI",
   "category": "数模转换芯片DAC",
@@ -84848,11 +85360,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5627RBRMZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5627RBRMZ-2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5629RARUZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5629RBRUZ-2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5640BRJZ-1REEL7",
   "brand": "ADI",
   "category": "数模转换芯片DAC",
   "description": "单通道、14位nanoDAC®转换器，内置5 ppm/°C片内基准电压源，采用Sot-23封装",
   "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5643RBRMZ-3",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5643RBRMZ-5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5644RBRMZ-3",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5644RBRMZ-5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
   "lifecycle": ""
  },
  {
@@ -84896,6 +85472,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5663RBRMZ-5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5664BCPZ-REEL7",
   "brand": "ADI",
   "category": "数模转换芯片DAC",
@@ -84904,11 +85488,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD5664RBRMZ-3",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5665BCPZ-REEL7",
   "brand": "ADI",
   "category": "数模转换芯片DAC",
   "description": "四通道12/14/16bitnanoDAC，内置5 ppm/℃片上基准源，I²C",
   "pkg": "LFCSP-10(3x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5665RBRUZ-2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5667RBRMZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5669RARUZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD5669RBRUZ-2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
   "lifecycle": ""
  },
  {
@@ -84992,11 +85616,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD586ARZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD587KRZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD5962-8863002VA",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD620ARZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -85008,11 +85656,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD622AR-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD622ARZ",
   "brand": "Analog Devices",
   "category": "仪表放大器",
   "description": "低成本仪表放大器",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD623AR-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -85069,6 +85733,30 @@
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD6644ASTZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP52",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD6645ASVZ-80",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD670JP-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC20",
   "lifecycle": ""
  },
  {
@@ -85152,6 +85840,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD7376ARWZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD7414ARTZ-0500RL7",
   "brand": "ADI",
   "category": "温度传感器",
@@ -85181,6 +85877,14 @@
   "category": "温度传感器",
   "description": "数字输出温度传感器",
   "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7453BRTZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
   "lifecycle": ""
  },
  {
@@ -85272,11 +85976,43 @@
   "lifecycle": "Obsolete"
  },
  {
+  "pn": "AD7524TQ/883B",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7528JR-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD7680BRJZ-REEL7",
   "brand": "ADI",
   "category": "模数转换芯片ADC",
   "description": "16位ADC，6引脚SOT-23封装",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7686CCPZRL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7690BCPZRL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
   "lifecycle": ""
  },
  {
@@ -85381,6 +86117,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD7980ARMZRL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
   "lifecycle": ""
  },
  {
@@ -85520,6 +86264,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8051AR-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8061ART-REE7",
   "brand": "ADI",
   "category": "",
@@ -85640,11 +86392,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8146ACPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8148ACPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8184ARZ",
   "brand": "ADI",
   "category": "模拟开关/多路复用器",
   "description": "700 MHz、5 mA、缓冲式、4:1视频多路复用器",
   "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8214ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8223ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8224ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8227ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8231ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8253ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8260ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
   "lifecycle": ""
  },
  {
@@ -85656,11 +86480,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8271BRMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8276ARMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8277ARZ",
   "brand": "Analog Devices",
   "category": "差分运放",
   "description": "低功耗宽电源范围低成本单位增益差分放大器",
   "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8278BRMZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -85677,6 +86525,14 @@
   "category": "仪表放大器",
   "description": "低成本、零漂移仪表放大器，内置滤波器，具有固定增益G = 160",
   "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD829JR-REEL7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -85701,6 +86557,30 @@
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8317ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8336ACPZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8337BCPZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
   "lifecycle": ""
  },
  {
@@ -85760,11 +86640,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8403ARUZ100",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8468WBKSZ-R7",
   "brand": "ADI",
   "category": "比较器",
   "description": "轨到轨、快速、低功耗 2.5 V 至 5.5 V 单电源 TTL/CMOS 比较器",
   "pkg": "SC-70-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8505ARJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
   "lifecycle": ""
  },
  {
@@ -85805,6 +86701,14 @@
   "category": "FET输入运放",
   "description": "精确、超低噪声、低输入偏置电流、宽频带JFET运算放大器",
   "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8515ARTZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -85936,6 +86840,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD8611ARMZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD8616ARZ-REEL7",
   "brand": "ADI",
   "category": "精密运放",
@@ -85989,6 +86901,14 @@
   "category": "运算放大器",
   "description": "低噪声、精密16V CMOS轨到轨输出运算放大器",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD8672ARMZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
   "lifecycle": ""
  },
  {
@@ -86064,6 +86984,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD9204BCPZ-20",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9204BCPZ-40",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD9212ABCPZ-65",
   "brand": "ADI",
   "category": "ADC/DAC-专用型",
@@ -86088,6 +87024,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD9235BRUZ-20",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD92388BST-100",
   "brand": "ADI",
   "category": "",
@@ -86096,11 +87040,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD9244BSTZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD9246BCPZ-125",
   "brand": "ADI",
   "category": "模数转换芯片ADC",
   "description": "14-Bit， 80 MSPS/105 MSPS/125 MSPS， 1.8 V模数转换器",
   "pkg": "LFCSP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9246BCPZ-80",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
   "lifecycle": ""
  },
  {
@@ -86125,6 +87085,46 @@
   "category": "",
   "description": "",
   "pkg": "CSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9265BCPZ-80",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9269BCPZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9271BSVZ-50",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9272BSVZ-40",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9272BSVZ-65",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP-EP",
   "lifecycle": ""
  },
  {
@@ -86184,6 +87184,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "AD9572ACPZPEC",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9609BCPZ-20",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9609BCPZ-40",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AD9609BCPZ-80",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD9639BCPZ-170",
   "brand": "ADI",
   "category": "模数转换芯片ADC",
@@ -86232,6 +87264,14 @@
   "lifecycle": "Restricted Availability"
  },
  {
+  "pn": "AD9847AKCPZAL",
+  "brand": "ADM",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "AD9884A-KS-140",
   "brand": "ADI",
   "category": "LCD驱动",
@@ -86253,6 +87293,38 @@
   "category": "数据采集ADC/DAC – 专业",
   "description": "数据采集ADC/DAC – 专业 1GSPS 14-bit DDS w/ parallel input port",
   "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4051-2ARMZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4417-3ARMZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4424-6ARUZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP38",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4430-1YKSZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -86293,6 +87365,14 @@
   "category": "运算放大器",
   "description": "低成本、高速、轨到轨输出运算放大器（四通道）",
   "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADA4851-4YRUZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -86680,6 +87760,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADC08B200CIVS",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADC08B200CIVS/NOPB",
   "brand": "NSC",
   "category": "模数转换芯片ADC",
@@ -86909,6 +87997,14 @@
   "category": "模数转换芯片ADC",
   "description": "8通道、采样率50ksps至200ksps的10bit ADC",
   "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC1175CIM-50",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -87208,11 +88304,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADC20013S3CTR",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADC78H90CIMT/NOPB",
   "brand": "NSC",
   "category": "模数转换芯片ADC",
   "description": "ADC78H90CIMT/NOPB",
   "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADC78H90CIMTX",
+  "brand": "NSC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -87344,11 +88456,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADDAC80DCBI-V",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADDS200-97101",
+  "brand": "SMC",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADE7751ARSZRL1500/",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADE7763ARSZRL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
   "lifecycle": ""
  },
  {
@@ -87362,6 +88498,14 @@
  {
   "pn": "ADF0404/1825002-5",
   "brand": "ACS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADF4113BCP-20",
+  "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "DIP",
@@ -87477,6 +88621,14 @@
   "category": "模拟开关/多路复用器",
   "description": "高性能模拟多路复用器",
   "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADG409BR-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -87816,6 +88968,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADM1275-2ARQZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM13305-4ARZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADM1818-10ART-RL7",
   "brand": "ADI",
   "category": "",
@@ -87944,6 +89112,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADM3491ARUZ-1",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADM4073TWRJZ-REEL7",
   "brand": "ADI",
   "category": "电流感应放大器",
@@ -88053,6 +89229,14 @@
   "category": "监控和复位芯片",
   "description": "3V电压监测微处理器监控电路",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADM707AR-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -88248,6 +89432,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP123AUJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP124ARHZ-1.8-R7",
   "brand": "ADI",
   "category": "线性稳压器(LDO)",
@@ -88309,6 +89501,14 @@
   "category": "线性稳压器(LDO)",
   "description": "3.3V 500mA 5.5V",
   "pkg": "TSSOP-8-EP-3.0mm",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP125ARHZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -88568,6 +89768,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP161AUJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP162AUJZ-2.5-R7",
   "brand": "ADI",
   "category": "线性稳压器(LDO)",
@@ -88597,6 +89805,14 @@
   "category": "线性稳压器(LDO)",
   "description": "4.2V 150mA 5.5V",
   "pkg": "TSOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP163AUJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
   "lifecycle": ""
  },
  {
@@ -88976,6 +90192,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP171AUJZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP1720ARMZ-3.3-R7",
   "brand": "ADI",
   "category": "线性稳压器(LDO)",
@@ -89136,6 +90360,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP190ACBZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP191ACBZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP194ACBZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP195ACBZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP197ACBZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP2138ACBZ-1.2-R7",
   "brand": "ADI",
   "category": "DC-DC电源芯片",
@@ -89229,6 +90493,14 @@
   "category": "",
   "description": "",
   "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3050ARZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -89632,6 +90904,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP3629ARZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP3630ARMZ-R7",
   "brand": "ADI",
   "category": "栅极驱动芯片",
@@ -89640,11 +90920,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADP3630ARZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADP3631ARMZ-R7",
   "brand": "ADI",
   "category": "栅极驱动芯片",
   "description": "高速、双通道、2 A MOSFET驱动器",
   "pkg": "MSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADP3631ARZ-R7",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -89856,6 +91152,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADR360AUJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR361AUJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR365AUJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADR366AUJZ-R2",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADR366WAUJZ-REEL7",
   "brand": "ADI",
   "category": "电压基准芯片",
@@ -90064,11 +91392,187 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADS5440MPFPEP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS5463MPFPEP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS54RF63IPFP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS5500MPAPEP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS58B18IRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS61B23IRHBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS61B29IRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62C15IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P22IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P23IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P24IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P25IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P29IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P42IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P43IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P44IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS62P49IRGCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADS6445MRGCTEP",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "QFN64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7816EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7816EC/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7818EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7822EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7822EC/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -90080,11 +91584,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADS7823EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADS7828EIPWRQ1",
   "brand": "TI",
   "category": "模数转换芯片ADC",
   "description": "带I2C接口的12位8通道采样模数转换器",
   "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7835EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -90096,11 +91616,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADS7844EB/2K5",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADS7846E/2K5G4",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7862YB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS7883SBDBVT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
   "lifecycle": ""
  },
  {
@@ -90112,11 +91656,227 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADS8318IBDRCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8319IBDGST",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8319IBDRCT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8320E/2K5+",
+  "brand": "BB",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8320EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8321EB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8322YB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8323YB/250",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8325IBDGKT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8326IBDGKT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8326IBDRBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SON",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8331IBRGET",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8344EB/2K5",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8371IBPFBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8380IBRHPT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8381IBPFBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8382IBRHPT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8402IBPFBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8410IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8413IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8422IBPFBT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8471IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8472IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8481IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADS8484IBRGZT",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADSP-21060LKB",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADSP-21065LCCA-240.",
   "brand": "ADI",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADSP-21065LKS",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -90205,6 +91965,14 @@
   "category": "数字信号处理器(DSP/DSC)",
   "description": "DSP数字信号处理器",
   "pkg": "BGA-576",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADSP2115KS-66",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -90317,6 +92085,14 @@
   "category": "温度传感器",
   "description": "ADT7490ARQZ-REEL",
   "pkg": "QSOP-24-150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADT75ARZ-REEL",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -90472,6 +92248,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADUM1301WSRWZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADUM1400ARWZ-RL",
   "brand": "ADI",
   "category": "数字隔离器",
@@ -90560,6 +92344,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ADUM5403WCRWZ",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "ADUM7234BRZ-RL7",
   "brand": "ADI",
   "category": "隔离式栅极驱动器",
@@ -90573,6 +92365,22 @@
   "category": "数模转换芯片DAC",
   "description": "三通道10bit高速视频DAC",
   "pkg": "LQFP-48(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADV7123KST-50",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADV7125KST250",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
   "lifecycle": ""
  },
  {
@@ -90597,6 +92405,22 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADV7623BSTZ-P",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ADV7842KBCZ-5",
+  "brand": "ADI",
+  "category": "",
+  "description": "",
+  "pkg": "LBGA",
   "lifecycle": ""
  },
  {
@@ -90648,11 +92472,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AF24BC08-SING",
+  "brand": "AFT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AF24BC16-SING",
+  "brand": "AFT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "AGFF-6300-AGB-AI",
   "brand": "——",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AH180-WG-7-26",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -90720,11 +92568,59 @@
   "lifecycle": ""
  },
  {
+  "pn": "AIC1526-0PSTR",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AIC1638-30CXAN30",
   "brand": "AIC",
   "category": "",
   "description": "",
   "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AIC1680-N20CU",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AIC1680-N22CU",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AIC1680-N24CU",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AIC1680-N30CU",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AIC1730-285CV",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
   "lifecycle": ""
  },
  {
@@ -90752,6 +92648,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "AIC1742-18ACV",
+  "brand": "AIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK3221MB24405",
+  "brand": "ANYKA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA1212",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK3222MB22405",
+  "brand": "ANYKA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA1212",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK3223MB24404",
+  "brand": "ANYKA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA1212",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK3224MB24403",
+  "brand": "ANYKA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA1212",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK3225MB24403",
+  "brand": "ANYKA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA1212",
+  "lifecycle": ""
+ },
+ {
   "pn": "AK404616A11H49-12003-500",
   "brand": "AKM",
   "category": "",
@@ -90768,11 +92712,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "AK4103AVFP-E2",
+  "brand": "AKM",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK4388AETP-E2",
+  "brand": "AKM SEMICONDUCTOR INC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK5358AETP-E2",
+  "brand": "AKM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK5358BETP-E2",
+  "brand": "AKM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "AK5371AVQ2000/0924+",
   "brand": "AKM",
   "category": "",
   "description": "",
   "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK5385BVSP-E2",
+  "brand": "AKM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AK5394AVSP-E2",
+  "brand": "AKM SEMICONDUCTOR INC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ALC883-VBI-GR",
+  "brand": "REALTEK",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -90789,6 +92789,14 @@
   "category": "",
   "description": "",
   "pkg": "QFP-150",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ALCSPIDIPFB2P",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -90816,6 +92824,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AM186CH-50KCW",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AM188EM-20KC/M",
   "brand": "AMD",
   "category": "",
@@ -90829,6 +92845,22 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM2334N-T1-PF",
+  "brand": "ANALOGPOWER",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM25LS2569PCB",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -90856,11 +92888,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "AM26LS32ACNSR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "AM26LS32AMDREP",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM26LV31EINSR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM26LV31EIPWR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -90977,6 +93033,22 @@
  },
  {
   "pn": "AM27C4096-120JC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM27C64-200DC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM27X010-45JC",
   "brand": "AMD",
   "category": "",
   "description": "",
@@ -91120,6 +93192,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AM29F010-90JC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM29F010-90PC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
   "pn": "AM29F010B-120JI/T",
   "brand": "AMD",
   "category": "",
@@ -91168,7 +93256,31 @@
   "lifecycle": ""
  },
  {
+  "pn": "AM29F016D-90E",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AM29F040-150JC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM29F040-90JC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM29F040-90JI",
   "brand": "AMD",
   "category": "",
   "description": "",
@@ -91512,6 +93624,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AM4902N-T1-PF",
+  "brand": "ANALOG POWER",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AM50-0006TR-3000",
   "brand": "M",
   "category": "",
@@ -91525,6 +93645,14 @@
   "category": "",
   "description": "",
   "pkg": "HSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AM79R79A-1JCT",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -91592,6 +93720,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AMD-K6/266AFR",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "AME8804AEEY-ADJ",
   "brand": "AME",
   "category": "",
@@ -91605,6 +93741,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AME8815AET330",
+  "brand": "AM",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -91728,11 +93872,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "AMPAL18P8ALJC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMPAL22V10AJC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1084CM-3.3",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1084CM-ADJ",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
   "pn": "AMS1117-ADJ",
   "brand": "AMS",
   "category": "线性稳压器(LDO)",
   "description": "1A 15V",
   "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117CD-ADJ",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AMS1117M3-3.3",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AN1358NS-P-E1",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -91920,6 +94120,166 @@
   "lifecycle": ""
  },
  {
+  "pn": "AOT416IRF540N",
+  "brand": "AOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AOT460IRF3205",
+  "brand": "AOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AOT8N50IRF840",
+  "brand": "AOS",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084D15L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084D18G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084D25G-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084D50G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084D50L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084K15L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084K18G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1084K50L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086D15L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086D18L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086D25L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086D33G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086D50L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086K15L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086K25L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086K33L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1086K50L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP1115AY18G-13",
   "brand": "DIODES",
   "category": "",
@@ -91960,11 +94320,179 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP1117D18G-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117D33G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117D33L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117D50G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E15G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E18G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E25G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E33G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP1117E33L-13",
   "brand": "DIODES",
   "category": "",
   "description": "",
   "pkg": "SOT223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117E50G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117K15L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117K25L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117K33L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117K50L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y15G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y15L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y18G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y18L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y25G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y33G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y33L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1117Y50G-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
   "lifecycle": ""
  },
  {
@@ -91984,10 +94512,50 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP1184K5-L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP1184T5-15L-U",
   "brand": "DIODES",
   "category": "线性稳压器(LDO)",
   "description": "1.5V 4A 12V",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1184T518L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1184T525L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1184T533L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1184T550L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
   "pkg": "TO-220-5",
   "lifecycle": ""
  },
@@ -92000,8 +94568,72 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP1186K5-L-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1186T515L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1186T518L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1186T525L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1186T533L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1186T550L-U",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP130-15YRL-13",
   "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP130-18YL-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP130-20YL-13",
+  "brand": "DIODES",
   "category": "",
   "description": "",
   "pkg": "SOT89",
@@ -92016,11 +94648,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP130-30YL-13",
+  "brand": "ZETEX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP130-30YRL-13",
   "brand": "ZETEX",
   "category": "线性稳压器(LDO)",
   "description": "3V 300mA 5.5V",
   "pkg": "SOT-89R-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP130-33YL-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
   "lifecycle": ""
  },
  {
@@ -92152,8 +94800,24 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP1506-K5L-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP1507-33D5L-13",
   "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1507-D5L-13",
+  "brand": "ZETEX",
   "category": "",
   "description": "",
   "pkg": "TO-252-6",
@@ -92197,6 +94861,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP1539SDPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -92264,6 +94936,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP2142AMPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2152AMPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2162AMPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2172AMPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2182AMPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP2202K-2.5TRE1",
   "brand": "BCD",
   "category": "线性稳压器(LDO)",
@@ -92276,6 +94988,14 @@
   "brand": "BCD",
   "category": "线性稳压器(LDO)",
   "description": "2.8V 13.2V",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2202K-3.0TR",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
   "pkg": "SOT-23-5",
   "lifecycle": ""
  },
@@ -92296,11 +95016,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP2202K-ADJTR",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2280-2FMG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP2281-3FMG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP3001S-ADJTRE1",
   "brand": "BCD",
   "category": "",
   "description": "",
   "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3001T-5.0E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3602AKTR-E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3605FNTR-E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP3843GMTR-E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -92360,6 +95136,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "AP7165-SPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7168-SPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7173-SPG-13",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "AP7215-33YG-13",
   "brand": "DIODES",
   "category": "线性稳压器(LDO)",
@@ -92373,6 +95173,22 @@
   "category": "线性稳压器(LDO)",
   "description": "停产 1.2V 600mA 5.5V",
   "pkg": "SOT-89-3L",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7311-18WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7311-33WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
@@ -92397,6 +95213,70 @@
   "category": "线性稳压器(LDO)",
   "description": "1.8V 150mA 6V",
   "pkg": "SOT23R",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-10WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-12WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-15WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-18WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-20WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-25WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-28WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AP7331-30WG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
@@ -92456,6 +95336,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "APA075-FTQ100",
+  "brand": "ACTEL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APC5331KAC-TR",
+  "brand": "ANPEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APDS-9003-021",
+  "brand": "AVAGO",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APDS-9700-020",
+  "brand": "AVAGO TECHNOLOGIES US INC.",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "APL5151-18BC-TR",
   "brand": "ANPEC",
   "category": "",
@@ -92480,11 +95392,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "APL5522KAC-TR",
+  "brand": "ANPEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "APL5913KAC-TRG",
   "brand": "ANPEC",
   "category": "线性稳压器(LDO)",
   "description": "停产 800mV~3.1V 4A 3.3V",
   "pkg": "SOP-8-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "APO19777ES567",
+  "brand": "INTERSIL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -92808,6 +95736,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "APX811-46UG-7",
+  "brand": "DIODES",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
   "pn": "APX823-23W5G-7",
   "brand": "DIODES",
   "category": "监控和复位芯片",
@@ -92960,6 +95896,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "APX9131AI-TRL",
+  "brand": "ANPEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "AR6102G-BM2D-R",
   "brand": "ATHEROS",
   "category": "",
@@ -92997,6 +95941,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS-11.0592-20",
+  "brand": "RALTRON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-TR",
   "lifecycle": ""
  },
  {
@@ -93648,6 +96600,126 @@
   "lifecycle": ""
  },
  {
+  "pn": "AS13985F-12-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-18-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-26-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-27-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-28-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-29-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-30-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985F-33-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-12-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-18-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-27-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-28-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-29-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-30-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS13985H-33-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "AS13986-1225-T",
   "brand": "AUSTRIAMICROSYSTEMS",
   "category": "",
@@ -93677,6 +96749,14 @@
   "category": "",
   "description": "",
   "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AS1909-C168-T",
+  "brand": "AUSTRIAMICROSYSTEMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -93768,6 +96848,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AS7C4096-12GI",
+  "brand": "AL",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
   "pn": "AS815ARB-24-REEL",
   "brand": "ADI",
   "category": "",
@@ -93792,6 +96880,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ASM811SEUSF-T",
+  "brand": "ASM",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
   "pn": "ASSR-1228-302E",
   "brand": "AVAGO",
   "category": "固态继电器(MOS输出)",
@@ -93813,6 +96909,14 @@
   "category": "固态继电器(MOS输出)",
   "description": "ASSR 322R 002E",
   "pkg": "SO-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT-119TR-3000",
+  "brand": "M",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
   "lifecycle": ""
  },
  {
@@ -93896,6 +97000,78 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT17LV65-10NC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17LV65-10NI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17LV65-10PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17LV65-10SC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT17LV65-10SI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT18F002-30XU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT18F010-30XU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT18F040-30XU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT18F080-30XU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT24C01A-10PU2.7",
   "brand": "AT",
   "category": "EEPROM",
@@ -93957,6 +97133,22 @@
   "category": "EEPROM",
   "description": "1Kbit 串行EEPROM",
   "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C01A-PC27",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C01B-TH-B",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -94040,6 +97232,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT24C02BN-1.8",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT24C02BN-10SU1.8",
   "brand": "AT",
   "category": "",
@@ -94053,6 +97253,14 @@
   "category": "EEPROM",
   "description": "兼容I²C（两线制）的串行EEPROM",
   "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C02C-SSHM",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -94093,6 +97301,14 @@
   "category": "EEPROM",
   "description": "串行电可擦除可编程只读存储器",
   "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C02PI2.7C",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -94253,6 +97469,14 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT24C1024B-PU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
   "lifecycle": ""
  },
  {
@@ -94824,6 +98048,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT24C64N-10SC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT24C64N-10SC-2.5",
   "brand": "ATL",
   "category": "EEPROM",
@@ -95064,6 +98296,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT25010N-10SC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT25011-0T1T-1",
   "brand": "AT",
   "category": "",
@@ -95253,6 +98493,14 @@
   "category": "EEPROM",
   "description": "低电压串行EEPROM，支持SPI接口，工业级温度范围",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT25080B-TH-B",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -95448,6 +98696,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT25512N-SH-T",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT25640AN-10SI-1.8",
   "brand": "AT",
   "category": "EEPROM",
@@ -95461,6 +98717,14 @@
   "category": "EEPROM",
   "description": "64Kb SPI串行EEPROM",
   "pkg": "UDFN-8(2x3)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT25640N-10SC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -95616,11 +98880,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT27C010-12PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C010-15PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C010-45PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C010-70PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C010-70PU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT27C010A-15JC",
   "brand": "AT",
   "category": "",
   "description": "",
   "pkg": "PLCC-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C020-15DI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C080-90PI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -95704,6 +99024,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT27C516-55JC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27C516-70JC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT27LV010-90JC",
   "brand": "AT",
   "category": "",
@@ -95744,8 +99080,24 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT27LV512A-JC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT27LV512R-20RC",
   "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT27LV52090XC",
+  "brand": "AT",
   "category": "",
   "description": "",
   "pkg": "SOP",
@@ -95773,6 +99125,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT28C256-15TU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -95848,6 +99208,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT29C010-12PC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT29C010A-70JU",
   "brand": "AT",
   "category": "",
@@ -95861,6 +99229,22 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT29C020-12JC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT29C020-90JI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -95881,6 +99265,30 @@
  },
  {
   "pn": "AT29C1024-90JC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT29C256-90TI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT29C512-70JI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT29C512-90JI",
   "brand": "AT",
   "category": "",
   "description": "",
@@ -96048,6 +99456,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT42QT1111-MU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN32",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT42QT2160-MMU",
   "brand": "AT",
   "category": "触摸芯片",
@@ -96093,6 +99509,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT45DB041N-SJ",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT45DB161D-SU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -96189,6 +99621,14 @@
   "category": "",
   "description": "",
   "pkg": "PLCC32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT49F020-90JC",
+  "brand": "AIMEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -96512,6 +99952,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT89C51ED2-IM",
+  "brand": "ATMENL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT89C51IC2-IL",
+  "brand": "AIMEL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT89C51RD2-SLSUM",
   "brand": "AT",
   "category": "单片机(MCU/MPU/SOC)",
@@ -96557,6 +100013,14 @@
   "category": "单片机(MCU/MPU/SOC)",
   "description": "AT89LP4052-20SU",
   "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT89LV51-12AI",
+  "brand": "ATAN",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -96629,6 +100093,14 @@
   "category": "单片机(MCU/MPU/SOC)",
   "description": "AT90USB1287 AU",
   "pkg": "LQFP-64(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AT90USB646-AU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP-64",
   "lifecycle": ""
  },
  {
@@ -96840,6 +100312,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AT93C46E-TH-B",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "AT93C46EN-SH-T",
   "brand": "AT",
   "category": "EEPROM",
@@ -97048,6 +100528,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATF-35376-TR1",
+  "brand": "AGILENT",
+  "category": "",
+  "description": "",
+  "pkg": "SMT-86",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF-54143-TR1",
+  "brand": "AVAGO",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATF-551M4-TR1G",
   "brand": "AVAGO",
   "category": "",
@@ -97088,11 +100584,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATF16V8B-10JC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF16V8B-15JC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATF16V8B-15PCS",
   "brand": "AT",
   "category": "",
   "description": "",
   "pkg": "DIP-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF16V8B-15PU",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF16V8B-15SU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF16V8B-25JC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -97141,6 +100677,22 @@
   "category": "可编程逻辑器件(CPLD/FPGA)",
   "description": "ATF16V8CZ 15SU",
   "pkg": "SOIC-20-300mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF20V8B-10PU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF20V8B-15PC",
+  "brand": "ATL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -97197,6 +100749,14 @@
   "category": "可编程逻辑器件(CPLD/FPGA)",
   "description": "ATF22V10C-10JU",
   "pkg": "PLCC-28(11.5x11.5)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATF22V10C-7JU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "LCC28",
   "lifecycle": ""
  },
  {
@@ -97384,11 +100944,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATMEGA323-4AI",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATMEGA3250V-8AU",
   "brand": "AT",
   "category": "单片机(MCU/MPU/SOC)",
   "description": "ATMEGA3250V-8AU",
   "pkg": "TQFP-100(14x14)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATMEGA325A-AU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
   "lifecycle": ""
  },
  {
@@ -97445,6 +101021,14 @@
   "category": "单片机(MCU/MPU/SOC)",
   "description": "ATMEGA48-15AT1",
   "pkg": "TQFP-32(7x7)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATMEGA48-15AZ",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
   "lifecycle": ""
  },
  {
@@ -97520,6 +101104,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATMEGA88-15AT",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATMEGA88-15AT1",
   "brand": "AT",
   "category": "",
@@ -97536,11 +101128,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATOP12H-1020T",
+  "brand": "ARLITECH",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATS648LSGTN-13",
   "brand": "ALLEGRO",
   "category": "",
   "description": "",
   "pkg": "DIP-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATSAM3N1CA-CU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATSAM3N4AA-AU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATSAM3N4CA-CU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "TFBGA",
   "lifecycle": ""
  },
  {
@@ -97568,6 +101192,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATTINY10-TS8R",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATTINY10-TSHR",
   "brand": "AT",
   "category": "单片机(MCU/MPU/SOC)",
@@ -97581,6 +101213,22 @@
   "category": "单片机(MCU/MPU/SOC)",
   "description": "高性能低功耗8位AVR微控制器",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY13-20SU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY13A-SSH",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -97632,6 +101280,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATTINY24A-SSN",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATTINY24V-10SSU",
   "brand": "AT",
   "category": "单片机(MCU/MPU/SOC)",
@@ -97640,7 +101296,23 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATTINY25-15ST",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATTINY25-15ST1",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY25-15SZ",
   "brand": "AT",
   "category": "",
   "description": "",
@@ -97653,6 +101325,14 @@
   "category": "单片机(MCU/MPU/SOC)",
   "description": "带系统内可编程闪存的8位AVR微控制器",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY25-20SU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -97704,11 +101384,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATTINY44A-SSU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATTINY44V-15SST",
   "brand": "AT",
   "category": "",
   "description": "",
   "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY45-15SZ",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY45-20PU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ATTINY45-20SU",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -97760,6 +101472,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATTINY85-15ST",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATTINY85-15ST1",
   "brand": "AT",
   "category": "",
@@ -97808,6 +101528,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "ATV5000L-35JC",
+  "brand": "AT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC68",
+  "lifecycle": ""
+ },
+ {
   "pn": "ATXMEGA128A1-AU",
   "brand": "AT",
   "category": "单片机(MCU/MPU/SOC)",
@@ -97840,6 +101568,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "AU1000-500MCC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "AU6375B33-MCL-NP",
   "brand": "ALCOR",
   "category": "",
@@ -97853,6 +101589,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AU9321B23-CEL",
+  "brand": "ALCOR",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AU9432D01-UXL",
+  "brand": "AU",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -97888,11 +101640,91 @@
   "lifecycle": ""
  },
  {
+  "pn": "AV9107-03CN14",
+  "brand": "AVAIEM",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AV9116-06CW24",
+  "brand": "AVA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AV9128-22CW20",
+  "brand": "SEM",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AV9128-25CW20",
+  "brand": "AVASEM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP/20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AVPROG5003-CG",
+  "brand": "TDK",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AWL6950RM21P8",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "AXA010A0A93-SR",
   "brand": "PRODUCT",
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ1084T-1.8E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ1085T-1.8E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ1085T-2.5E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ1086D-2.5E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-2",
   "lifecycle": ""
  },
  {
@@ -97932,6 +101764,14 @@
   "brand": "BCD",
   "category": "线性稳压器(LDO)",
   "description": "1.2V 1A 15V",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ1117H-1.5TR",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
   "pkg": "SOT-223",
   "lifecycle": ""
  },
@@ -97984,6 +101824,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "AZ431AR-ATRE1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ431BM-ATRE1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "AZ78M09DTR-E1",
+  "brand": "BCD",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-2",
+  "lifecycle": ""
+ },
+ {
   "pn": "AZC099-04S.R7G",
   "brand": "AMAZING",
   "category": "静电和浪涌保护(TVS/ESD)",
@@ -98016,6 +101880,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "B120-BA3103CC",
+  "brand": "PAR",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "B140-13-F",
   "brand": "DIODES",
   "category": "肖特基二极管",
@@ -98029,6 +101901,14 @@
   "category": "",
   "description": "",
   "pkg": "SMA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B2460QFPOJC-1",
+  "brand": "SAVAGE",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -98240,11 +102120,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "B57232-S259-M",
+  "brand": "S+M",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "B59701-A100-A62",
   "brand": "EPC",
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B65814N1008D1",
+  "brand": "EPC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -98320,6 +102216,78 @@
   "lifecycle": ""
  },
  {
+  "pn": "B78408B1107A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A1889A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A7694A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8065A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8066A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8246A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8247A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8251A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "B78476A8252A3",
+  "brand": "EPCOS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "B82442-H1103-K",
   "brand": "EPC",
   "category": "",
@@ -98349,6 +102317,38 @@
   "category": "",
   "description": "",
   "pkg": "SIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA10358F-E2CT",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA10358F-E2TR",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA10393F-E2CT",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "BA10393F-E2TR",
+  "brand": "ROHM",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
