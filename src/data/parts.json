@@ -122761,57 +122761,57 @@
  },
  {
   "pn": "DF11-2428SCF",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 FEMALE CONTACT TIN 24-28AWG REEL",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF11-4DS-2C",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 2MM RECEPT HOUSING 4P DUALROW CRIMP",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF13-20DS-1.25C",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 1.25MM RECEPT HSNG 20P DUAL ROW CRIMP",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF13-3P-1.25DSA",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 3P, 1.25mm Pitch, Single Row Pin Header, Straight through Hole",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF13-4S-1.25C",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 1.25MM RECEPT HSNG 4P SINGLE ROW CRIMP",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF13-5S-1.25C",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 1.25MM RECEPT HSNG 5P SINGLE ROW CRIMP",
   "pkg": "",
   "lifecycle": ""
  },
  {
   "pn": "DF19A-2830SCFA",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 FEM CONTACT GOLD REEL",
   "pkg": "",
   "lifecycle": ""
  },
@@ -122889,9 +122889,9 @@
  },
  {
   "pn": "DF57-2830SCF",
-  "brand": "HIROSE",
-  "category": "",
-  "description": "",
+  "brand": "Hirose Connector",
+  "category": "集管和线壳",
+  "description": "集管和线壳 FML CRIMP CNTCT/REEL AWG#28 to AWG#30",
   "pkg": "",
   "lifecycle": ""
  },
@@ -204864,6 +204864,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "M5118160B-60J",
+  "brand": "OKI",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5118165F-60J",
+  "brand": "OKI",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ-40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M514265C-60TK",
+  "brand": "OKI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M51943AML-600C",
   "brand": "MITSUBIS",
   "category": "",
@@ -204893,6 +204917,38 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5416126A-50J",
+  "brand": "OKI",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M54563FP-200D",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5484LITEKITE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "MODULE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M54995FP-30NB",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -205000,6 +205056,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "M5M418160BJ-7",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M418160DJ-6",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M44256BVP-7",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M44800CJ-7S",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M4C264AL-10",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "ZIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M51004BJ-25",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
   "pn": "M5M51008AFP-15VLL",
   "brand": "MIT",
   "category": "",
@@ -205048,11 +205152,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "M5M51008P-85L",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M5M51016BTP-70LLTT4E",
   "brand": "RENESAS",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M5187AP-45L",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP---22",
   "lifecycle": ""
  },
  {
@@ -205097,6 +205217,14 @@
  },
  {
   "pn": "M5M5256BFP-15L",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M5256BFP-70",
   "brand": "MIT",
   "category": "",
   "description": "",
@@ -205176,6 +205304,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "M5M5256FP-10L",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M5M5256FP-12L",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M5M5408AFP-85VLL-I",
   "brand": "MIT",
   "category": "",
@@ -205224,6 +205368,78 @@
   "lifecycle": ""
  },
  {
+  "pn": "M60043-0101FP",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M60088H-0404S",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M61040FP-D71Q",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M61266FP#R27G",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M62213FP#610C",
+  "brand": "RENEAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M62359FP-650D",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M62409FP-780C",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M628032-20PS1",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M63820KP-200D",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M65444-0002FP186739-002",
   "brand": "MIT",
   "category": "",
@@ -205245,6 +205461,14 @@
   "category": "",
   "description": "",
   "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M66004FP-200D",
+  "brand": "RENESAS",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
   "lifecycle": ""
  },
  {
@@ -205424,11 +205648,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "M68Z512-70NC1",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M69AR024BL-70ZB8",
   "brand": "ST",
   "category": "",
   "description": "",
   "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HC03RM13TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -205528,6 +205768,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "M74HC240HVM1R",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "M74HC244R1M13TR",
   "brand": "ST",
   "category": "",
@@ -205557,6 +205805,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HC27RM13TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -205616,6 +205872,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "M74HC4049BB1N",
+  "brand": "SGS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M74HC4060RM13TR",
   "brand": "ST",
   "category": "",
@@ -205653,6 +205917,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HC51RM13TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -205701,6 +205973,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HC86RM13TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -205760,6 +206040,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "M74HCT273M1TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "M74HCT373RM13TR",
   "brand": "ST",
   "category": "",
@@ -205808,11 +206096,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "M74HCT7007B1N",
+  "brand": "SGS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HCT7007B1R",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74HCT7259B1R",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "M74LCX16245DTR2G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M74LS32AP-51A",
+  "brand": "MIT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -205904,11 +206224,211 @@
   "lifecycle": ""
  },
  {
+  "pn": "M93C46-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93C76-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M93S66-WMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95010-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95010-RMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95010-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95020-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95020-RMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95020-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95040-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95040-RMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95040-WDW6TG",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95080-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95080-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95128-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95160-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95160-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95256-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95320-WMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "M95320-WMN6TP/P",
   "brand": "ST",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95512-RDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95512-RMN6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95512-WDW6TP",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "M95M01-RMW6TG",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MA02303GJ-R13",
+  "brand": "M",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP",
   "lifecycle": ""
  },
  {
@@ -205928,6 +206448,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MA4P275ST-287",
+  "brand": "MAC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT32",
+  "lifecycle": ""
+ },
+ {
   "pn": "MA4P275STR-287",
   "brand": "MA",
   "category": "",
@@ -205941,6 +206469,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MA4ST351-287T",
+  "brand": "AVNET",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23/3P/REEL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MA6X1H471MTDX",
+  "brand": "CWA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -206000,7 +206544,31 @@
   "lifecycle": ""
  },
  {
+  "pn": "MACH131SP-5YC",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MACH210-20JC-24JI",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MACH210A-10JC",
+  "brand": "AMD",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MACH210AQ15JC",
   "brand": "AMD",
   "category": "",
   "description": "",
@@ -206013,6 +206581,14 @@
   "category": "",
   "description": "",
   "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MACH211SP-7VC",
+  "brand": "LATTICE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -206048,6 +206624,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAS9122ASM3-T",
+  "brand": "MAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAS9123AST2-T",
+  "brand": "MAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAS9124AGB8-T",
+  "brand": "MAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23/5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAS9124AST2-T",
+  "brand": "MICRONAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAS9124AST8-T",
+  "brand": "MAS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MASD3507D-F10",
+  "brand": "IM",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MASWSS0060TR-3000",
   "brand": "M",
   "category": "",
@@ -206061,6 +206685,70 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX11110AUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX11115AUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX11116AUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX11600EKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX11601EKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1241BESA-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1249BEEE-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13003EEUE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
   "lifecycle": ""
  },
  {
@@ -206080,11 +206768,123 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX13080ECSD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13080EESD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13081ECSA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13082ECPA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13082ECSA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13082EEPA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13082EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13083EESD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13085ECSA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13086EEPD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13086EESD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13087EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13088EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX13089EASD+",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13101EETL+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN40",
   "lifecycle": ""
  },
  {
@@ -206120,6 +206920,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX13234EEUP+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX13325GUI/V+T",
   "brand": "MAX",
   "category": "",
@@ -206136,7 +206944,63 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX13410EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX13412EESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13432EESD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13442EASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13443EASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13444EASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13448EESD+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13485EESA+",
   "brand": "MAX",
   "category": "",
   "description": "",
@@ -206152,6 +207016,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX13486EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX13487EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX13487EESA+T",
   "brand": "MAX",
   "category": "",
@@ -206160,11 +207040,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX13488EESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1480EACPI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1480ECCPI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1480ECEPI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1487ECSA-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1489EEPD",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1490EBCPG+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15000BEUB+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15004AAUE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -206184,11 +207128,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX15005AAUE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15006AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15006BASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX15006CATT+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15007AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -206200,6 +207176,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX15007BASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX15007BATT+T",
   "brand": "MAX",
   "category": "",
@@ -206208,11 +207192,179 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX15012AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15012BASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15013AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15013CASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15018AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15018BASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15019AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15019BASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15028ATB+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15030ATB+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15034BAUI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15046AAEE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX15046BAEE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1535CETJ-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1544ETL+TS",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1575EVKIT+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1586AETM+F",
+  "brand": "MAMIX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1586AETM-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1595EUA50+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16052AUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16053AUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16054AZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
   "lifecycle": ""
  },
  {
@@ -206240,6 +207392,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX16801AEUA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16802BEUA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16803ATE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX16814UUP+TCJ3",
   "brand": "MAX",
   "category": "",
@@ -206248,11 +207424,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX16819ATT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16821CATI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16832AASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16832CASA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX16910CASA8/V+",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX16998AAUA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -206277,6 +207493,14 @@
   "category": "",
   "description": "",
   "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX17113ETL+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
   "lifecycle": ""
  },
  {
@@ -206312,11 +207536,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX17499AEUB+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX17500AEUB+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1771ESA+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1792EUA18+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1792EUA33+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -206336,11 +207592,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1793EUE25+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1793EUE33+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1806EUA08+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1806EUA25+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1806EUA33+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -206360,11 +207648,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1820XEBC-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX1837EUT50#TG16",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX1857EUA47+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -206408,6 +207712,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX1993ETG-TS",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX202CPE",
   "brand": "MAX",
   "category": "",
@@ -206448,6 +207760,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX203CPP+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX203CWP+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX203ECWP+G36",
   "brand": "MAX",
   "category": "",
@@ -206461,6 +207789,30 @@
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX203EPP+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX205CPG+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX225CWI+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -206552,11 +207904,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX235CPG+G36",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "PDIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX2659ELT+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3078EESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -206573,6 +207941,38 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3085EESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3098EAESE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3098EBCEE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3098EBCSE+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -206616,6 +208016,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX3207EAUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3221MDBREP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3222CDBRG4",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3222ECUP+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3223MDBREP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX3225EUP+",
   "brand": "MAX",
   "category": "",
@@ -206640,6 +208080,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX3232ECAE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232ECUP-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232EEAE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232EESE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX3232EIPWRQ1",
   "brand": "TI",
   "category": "",
@@ -206661,6 +208133,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232MDBREP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3232MPWREP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
   "lifecycle": ""
  },
  {
@@ -206704,6 +208192,102 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX3243EEAI+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3243EEAI-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3243MDBREP",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3245ECAI+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3245EEAI+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3355EEUD-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3378EEBC+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "BGA12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3385ECAP-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3391EEUD-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3480EACPI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3480EAEPI+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX3483EESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX3488ESA+T",
   "brand": "MAX",
   "category": "",
@@ -206728,7 +208312,71 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX4052AESE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4080FAUA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4080TASA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4173FEUT-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO23",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX4212EUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4250AAUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4372FEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4372HEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4372TEUK+T",
   "brand": "MAX",
   "category": "",
   "description": "",
@@ -206757,6 +208405,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4840AEXT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -206840,11 +208496,163 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX4895EETE+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX489ESD+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX4915AEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5048AATT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5054AATA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5078AATT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5091AATA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5091BATA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5161MEZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5161NEZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5360MEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5362LEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5362MEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5380LEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5381LEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5382LEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5382NEUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5434LEZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5936ACESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX5936LAESA+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -206856,11 +208664,99 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6006AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6006BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6007AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6007BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6008AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6008BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6008BEUR-T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6009AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6009BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6010AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6012AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6012BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -206912,6 +208808,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6021AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6021AEUR-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6023EBT12+T",
   "brand": "MAX",
   "category": "",
@@ -206925,6 +208837,30 @@
   "category": "",
   "description": "",
   "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6025AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6029ESA25+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6029ESA41+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -206973,6 +208909,22 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6030AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6030BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -207072,6 +209024,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6035ESA25+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6037AAUK25+T",
   "brand": "MAX",
   "category": "",
@@ -207096,6 +209056,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6041AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6041AEUR-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6043BAUT33#TG16",
   "brand": "MAX",
   "category": "",
@@ -207109,6 +209085,86 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6050AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6061AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6061BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6062AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6063AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6064AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6065BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6066AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6066BEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6067AEUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-3",
   "lifecycle": ""
  },
  {
@@ -207280,6 +209336,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6193CESA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6220ASA-2.5+",
   "brand": "MAX",
   "category": "",
@@ -207384,6 +209448,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6315US26D4",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-4",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6315US26D4+T",
   "brand": "MAX",
   "category": "",
@@ -207405,6 +209477,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6315US43D3",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-143",
   "lifecycle": ""
  },
  {
@@ -207544,11 +209624,115 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6326UR22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6326UR23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6326UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6326UR29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6326UR31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6327UR23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6327UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6327UR29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6328UR22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO236-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6328UR23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6328UR23-T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6328UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6328UR29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TO263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6328UR31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -207653,6 +209837,118 @@
   "category": "",
   "description": "",
   "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6340UK31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6348UR44+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6348UR46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6348XR46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6351TWUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6352SVUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6355LSUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6355LSUT-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6355SVUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6355SYUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6356LSUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6357LSUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6357SVUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6357SYUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
   "lifecycle": ""
  },
  {
@@ -207800,11 +210096,291 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6375UR23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6375UR29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6375UR31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6375XR31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6377UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6377XR31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6378UR44+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6390XS29D4",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6390XS29D4+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT-343",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6391KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6392KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6402BS22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK16+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK30-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6412UK46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6413UK29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6414UK22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6414UK29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6414UK31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6418UK16+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6418UK29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6418UK46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6419UK31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6420UK16+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6420UK29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6421US26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6422US22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6422US26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6423US26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT143",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6425UK22+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6427DHUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6427EIUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6427MRUR+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -207968,6 +210544,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6461XR16+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6461XR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6466XR46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6467US16D3+T",
   "brand": "MAX",
   "category": "",
@@ -208040,6 +210640,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6509CAUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6509HAUK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6509HAUK-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6510CAUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6510HAUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6510HAUT-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6513TT075+T",
   "brand": "MAX",
   "category": "",
@@ -208069,6 +210717,54 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6581ATG9A+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6625PMTT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6625RMTT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6626PMTT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6641AUB90+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6641AUB96+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
   "lifecycle": ""
  },
  {
@@ -208128,11 +210824,91 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6665ASA40+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6665ASA45+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6665ASA55+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6665ASA60+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6668AUA50+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6670AUB40+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6670AUB55+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6670AUB60+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6697UP34+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6705ARKA-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6713SEXS-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-4",
   "lifecycle": ""
  },
  {
@@ -208304,6 +211080,134 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6746KA16+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6746KA23+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6746KA26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6746KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6746KA31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6747KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6747KA31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6747KA46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6750KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6751KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6751KA31+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6751KA46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6752KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6752KA46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6753KA29+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6753KA46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6754UKTD3+T",
   "brand": "MAX",
   "category": "",
@@ -208408,6 +211312,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6808UR46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6809REUR-T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6834GXRD0+T",
   "brand": "MAX",
   "category": "",
@@ -208424,11 +211344,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX6844UKD3+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6845UKD3+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6863UK26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX6864UK23D3S+T",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6895AAZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX6898AAZT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
   "lifecycle": ""
  },
  {
@@ -208552,6 +211512,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX708TESA-TG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX7232CFIPL+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX7233BFIPL+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP40",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX7375AXR425+T",
   "brand": "MAX",
   "category": "",
@@ -208600,6 +211584,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX810SEUR-TW",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX811TEUS+T",
   "brand": "MAX",
   "category": "",
@@ -208608,7 +211600,55 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX846AEEE-TW",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8515AEXK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8515AEZK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX8530ETTP2+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8569AEUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8569BEUT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8631YETI+T",
   "brand": "MAX",
   "category": "",
   "description": "",
@@ -208637,6 +211677,14 @@
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8860EUA33+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
   "lifecycle": ""
  },
  {
@@ -208680,6 +211728,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX8869EUE-33",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8869EUE10+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8869EUE18+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8869EUE25+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX8869EUE25+T",
   "brand": "MAX",
   "category": "",
@@ -208693,6 +211773,22 @@
   "category": "",
   "description": "",
   "pkg": "SSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8869EUE33+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8869EUE50+",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP16",
   "lifecycle": ""
  },
  {
@@ -208741,6 +211837,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX8890ETCBBB",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -208872,6 +211976,54 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX9015AEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9016AEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9017AEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9017BEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9018AEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9018BEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX9123EUE",
   "brand": "MAX",
   "category": "",
@@ -208896,6 +212048,46 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX9502GELT+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9502GEXK+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9700BETB+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9700BEUB+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9700CETB+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX9722AETE+T",
   "brand": "MAX",
   "category": "",
@@ -208904,11 +212096,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "MAX9725CETC+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9736AETJ+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX98095EWG+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9813HEKA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAX9890BETA+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MAX9890BETA+TG075",
   "brand": "MAX",
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAXQ2000-RAX+",
+  "brand": "DAL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAXQ2000-RFX+",
+  "brand": "DAL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MAXQ3210-EMX+",
+  "brand": "DAL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -209061,6 +212317,14 @@
   "category": "",
   "description": "",
   "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB29DL32TF-70",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
   "lifecycle": ""
  },
  {
@@ -209352,6 +212616,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MB3883PV-G-ER",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "MB39A103PFT-G-BND-ER",
   "brand": "FUJITSU",
   "category": "",
@@ -209429,6 +212701,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB506PF-G-BND",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -209536,11 +212816,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MB71A38-25-SK",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MB811171622A-100FN",
   "brand": "FUJITSU",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB814260-60PT",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB81C1000-10P",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP18",
   "lifecycle": ""
  },
  {
@@ -209581,6 +212885,30 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB842190LPFQG",
+  "brand": "FUJI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB84256A-10LL",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB84256A-70LL",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
   "lifecycle": ""
  },
  {
@@ -209653,6 +212981,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB86065PB-GE1",
+  "brand": "FUJITSU",
+  "category": "",
+  "description": "",
+  "pkg": "BGA120",
   "lifecycle": ""
  },
  {
@@ -209949,6 +213285,14 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MB891302A-103",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "QFP100",
   "lifecycle": ""
  },
  {
@@ -210264,6 +213608,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MBCG46183-154",
+  "brand": "KYOCERA",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBCG46323-140",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MBCG46533-144PFV-G",
   "brand": "FUJ",
   "category": "",
@@ -210288,6 +213648,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MBL8089-2-C-G",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-40",
+  "lifecycle": ""
+ },
+ {
   "pn": "MBM27C1000-20Z",
   "brand": "FUJ",
   "category": "",
@@ -210301,6 +213669,14 @@
   "category": "",
   "description": "",
   "pkg": "DIP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBM27C128-20Z",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -210728,6 +214104,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MBRB750-E3/81",
+  "brand": "VISHAY",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263",
+  "lifecycle": ""
+ },
+ {
   "pn": "MBRF10H100CT-E3/45",
   "brand": "VISHAY",
   "category": "",
@@ -210757,6 +214141,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-220FP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MBRF20H100CTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220F",
   "lifecycle": ""
  },
  {
@@ -210800,11 +214192,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MBT1C44-35-SK",
+  "brand": "FUJ",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MBT3904DW1T1G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOT-323",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100E122FNR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100E210FNR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100E416FNR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -210816,6 +214240,38 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC100ELT24DR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100EPT23DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100EPT622FA",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100ES6014EJ",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC100ES60T22EJ",
   "brand": "IDT",
   "category": "",
@@ -210824,11 +214280,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC100ES6111AC",
+  "brand": "IDT",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC100ES6111FAR2",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100H601FNR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEL05DG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVEL16DG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -210841,6 +214329,14 @@
  },
  {
   "pn": "MC100LVEL37DWR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC100LVELT23D",
   "brand": "ON",
   "category": "",
   "description": "",
@@ -210888,6 +214384,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC14069UBDTEL",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC14071BDR2G",
   "brand": "ON",
   "category": "",
@@ -210909,6 +214413,30 @@
   "category": "",
   "description": "",
   "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC145225FTAR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14536BDWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14538BDWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
   "lifecycle": ""
  },
  {
@@ -210936,11 +214464,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC1488GD75188",
+  "brand": "GS",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC1489ANSN75189AN",
   "brand": "TI",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC14LC5540IDW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC28",
   "lifecycle": ""
  },
  {
@@ -210973,6 +214517,14 @@
   "category": "",
   "description": "",
   "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33064P-5RAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92-3",
   "lifecycle": ""
  },
  {
@@ -211032,6 +214584,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC33264D-4.75",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC33269DR2-3.3",
   "brand": "FSC",
   "category": "",
@@ -211053,6 +214613,22 @@
   "category": "",
   "description": "",
   "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269T-3.3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33269T-5.0G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO220",
   "lifecycle": ""
  },
  {
@@ -211112,6 +214688,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC33591FTAER2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33592FTAER2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC33594FTAER2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC33761SNT1-25",
   "brand": "MOT",
   "category": "",
@@ -211144,6 +214744,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC34063EBD-TR",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC34072DR2G",
   "brand": "ON",
   "category": "",
@@ -211157,6 +214765,22 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BC374DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BC375UAEF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -211176,6 +214800,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC44BS373CAEF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374CAEF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC44BS374CAEFR2",
   "brand": "FREESCALE",
   "category": "",
@@ -211185,6 +214825,14 @@
  },
  {
   "pn": "MC44BS374T1AEFR2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC44BS374T1EF",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -211224,11 +214872,115 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC56F8123VFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8135VFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8145VFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8323MFBE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC56F8323VFBE",
   "brand": "FSC",
   "category": "",
   "description": "",
   "pkg": "LQFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8335VFGE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8345MFGE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8346MFVE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP144",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8355VFGE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8356VFVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8365VFGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8366MFVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8367EVME",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "MODULE",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC56F8367MPYE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  },
  {
@@ -211264,7 +215016,79 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68302CEH16C",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68302CEH20C",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "MQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68302CFC20C",
+  "brand": "MOTO",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68302CFE16C",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68302CPV16VC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68328PV16VA",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332ACAG20",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332ACPV16",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332GCAG25",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP144",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68332GCPV16",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -211280,8 +215104,64 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68332GCPV20",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68334GCFC16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68336GCAB20",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68360EM25VL",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68661PB21GK9",
   "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68705P3S/CS",
+  "brand": "MC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68705P3SR3S",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68705S3S/CS",
+  "brand": "MC",
   "category": "",
   "description": "",
   "pkg": "DIP",
@@ -211344,6 +215224,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68EC020RP16",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68EC030FE25C",
   "brand": "FREESCALE",
   "category": "",
@@ -211369,6 +215257,14 @@
  },
  {
   "pn": "MC68EC040RC25A",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68EC060RC50",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -211448,6 +215344,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68HC0000P10",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC0000P16",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC000EI16",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68HC000EI16R2",
   "brand": "FREESCALE",
   "category": "",
@@ -211469,6 +215389,14 @@
   "category": "",
   "description": "",
   "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC000P12F",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -211576,6 +215504,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68HC24FN28S",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68HC705B16CFN",
   "brand": "MOT",
   "category": "",
@@ -211600,7 +215536,31 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC68HC705BD7B",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705BD7P",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC68HC705BD9B1",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705BDVB",
   "brand": "MOT",
   "category": "",
   "description": "",
@@ -211613,6 +215573,14 @@
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C8AB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
   "lifecycle": ""
  },
  {
@@ -211629,6 +215597,14 @@
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705C8FN",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -211693,6 +215669,22 @@
   "category": "",
   "description": "",
   "pkg": "SOP---28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705P9CP",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68HC705P9MP",
+  "brand": "MOTO",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -212258,6 +216250,14 @@
  {
   "pn": "MC68HSC705C8ACFB",
   "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC68L11K1FUE2",
+  "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "QFP",
