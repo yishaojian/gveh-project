@@ -64480,6 +64480,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "0603N331J500CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "330pF ±5% 50V",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
   "pn": "0805B104K500NT",
   "brand": "FENGHUA",
   "category": "贴片电容(MLCC)",
@@ -95074,33 +95082,33 @@
  {
   "pn": "AP1117E15G-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 1.5V 1A 18V",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "AP1117E18G-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 1.8V 1A 18V",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "AP1117E25G-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 2.5V 1A 18V",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "AP1117E33G-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 3.3V 1A 12V",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
@@ -95114,25 +95122,25 @@
  {
   "pn": "AP1117E50G-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 5V 1A 18V",
+  "pkg": "SOT-223",
   "lifecycle": ""
  },
  {
   "pn": "AP1117K15L-13",
   "brand": "ZETEX",
-  "category": "",
-  "description": "",
-  "pkg": "TO-3",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 1.5V 18V",
+  "pkg": "TO-263",
   "lifecycle": ""
  },
  {
   "pn": "AP1117K25L-13",
   "brand": "ZETEX",
-  "category": "",
-  "description": "",
-  "pkg": "TO-3",
+  "category": "线性稳压器(LDO)",
+  "description": "停产 2.5V 18V",
+  "pkg": "TO-263",
   "lifecycle": ""
  },
  {
@@ -95370,9 +95378,9 @@
  {
   "pn": "AP130-30YL-13",
   "brand": "ZETEX",
-  "category": "",
-  "description": "",
-  "pkg": "SOT89",
+  "category": "线性稳压器(LDO)",
+  "description": "3V 300mA 5.5V",
+  "pkg": "SOT-89-3",
   "lifecycle": ""
  },
  {
@@ -95538,9 +95546,9 @@
  {
   "pn": "AP1507-D5L-13",
   "brand": "ZETEX",
-  "category": "",
-  "description": "",
-  "pkg": "TO-252-6",
+  "category": "DC-DC电源芯片",
+  "description": "150KHz,3A PWM降压型DC/DC转换器",
+  "pkg": "-",
   "lifecycle": ""
  },
  {
@@ -95586,9 +95594,9 @@
  {
   "pn": "AP1539SDPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "DC-DC电源芯片",
+  "description": "停产 降压型 4A 3.6V~18V",
+  "pkg": "SOIC-8-EP",
   "lifecycle": ""
  },
  {
@@ -95658,41 +95666,41 @@
  {
   "pn": "AP2142AMPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "功率电子开关",
+  "description": "0.5A 双通道限流电源开关，带输出放电功能",
+  "pkg": "MSOP-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP2152AMPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "功率电子开关",
+  "description": "0.5A 双通道限流电源开关，带输出放电功能",
+  "pkg": "EMSOP-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP2162AMPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "功率电子开关",
+  "description": "1A 双通道限流带输出放电功能的电源开关",
+  "pkg": "MSOP-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP2172AMPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "功率电子开关",
+  "description": "1A 双通道限流带输出放电功能的电源开关",
+  "pkg": "MSOP-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP2182AMPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "功率电子开关",
+  "description": "1.5A 双路限流电源开关",
+  "pkg": "MSOP-8-EP",
   "lifecycle": ""
  },
  {
@@ -95714,8 +95722,8 @@
  {
   "pn": "AP2202K-3.0TR",
   "brand": "BCD",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "3V 150mA 13.2V",
   "pkg": "SOT-23-5",
   "lifecycle": ""
  },
@@ -95738,25 +95746,25 @@
  {
   "pn": "AP2202K-ADJTR",
   "brand": "BCD",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "2.3V~12.85V 150mA 13.2V",
   "pkg": "SOT-23-5",
   "lifecycle": ""
  },
  {
   "pn": "AP2280-2FMG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "DFN6",
+  "category": "功率电子开关",
+  "description": "单通道压摆率控制负载开关",
+  "pkg": "DFN2018-6-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP2281-3FMG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "DFN6",
+  "category": "功率电子开关",
+  "description": "单摆率控制负载开关",
+  "pkg": "UDFN2018-6",
   "lifecycle": ""
  },
  {
@@ -95778,9 +95786,9 @@
  {
   "pn": "AP3429AKTTR-G1",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
+  "category": "DC-DC电源芯片",
+  "description": "降压型 2A 2.7V~5.5V",
+  "pkg": "TSOT-25-5",
   "lifecycle": ""
  },
  {
@@ -95866,25 +95874,25 @@
  {
   "pn": "AP7165-SPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "线性稳压器(LDO)",
+  "description": "800mV~5V 600mA 5.5V",
+  "pkg": "SO-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP7168-SPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "线性稳压器(LDO)",
+  "description": "800mV~5V 1.2A 5.5V",
+  "pkg": "SO-8-EP",
   "lifecycle": ""
  },
  {
   "pn": "AP7173-SPG-13",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "线性稳压器(LDO)",
+  "description": "800mV~3.3V 1.5A 5.5V",
+  "pkg": "SO-8-EP",
   "lifecycle": ""
  },
  {
@@ -95906,17 +95914,17 @@
  {
   "pn": "AP7311-18WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "1.8V 150mA 6V",
   "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
   "pn": "AP7311-33WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-25",
+  "category": "线性稳压器(LDO)",
+  "description": "3.3V 150mA 6V",
+  "pkg": "SOT-25-5",
   "lifecycle": ""
  },
  {
@@ -95946,65 +95954,65 @@
  {
   "pn": "AP7331-10WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "1V 300mA 6V",
   "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-12WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-25",
+  "category": "线性稳压器(LDO)",
+  "description": "1.2V 300mA 6V",
+  "pkg": "SOT-25-5",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-15WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "1.5V 300mA 6V",
   "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-18WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT25",
+  "category": "线性稳压器(LDO)",
+  "description": "1.8V 300mA 6V",
+  "pkg": "SOT-25-5",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-20WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-25",
+  "category": "线性稳压器(LDO)",
+  "description": "2V 300mA 6V",
+  "pkg": "SOT-25-5",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-25WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "2.5V 300mA 6V",
   "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-28WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
+  "category": "线性稳压器(LDO)",
+  "description": "2.8V 300mA 6V",
   "pkg": "SOT-25",
   "lifecycle": ""
  },
  {
   "pn": "AP7331-30WG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-25",
+  "category": "线性稳压器(LDO)",
+  "description": "3V 300mA 6V",
+  "pkg": "SOT-25-5",
   "lifecycle": ""
  },
  {
@@ -96090,9 +96098,9 @@
  {
   "pn": "APDS-9700-020",
   "brand": "AVAGO TECHNOLOGIES US INC.",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
+  "category": "接近传感器",
+  "description": "APDS-9700-020",
+  "pkg": "QFN-8(2x2)",
   "lifecycle": ""
  },
  {
@@ -96138,9 +96146,9 @@
  {
   "pn": "APM4953",
   "brand": "APM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "场效应管(MOSFET)",
+  "description": "2个P沟道 耐压:30V 电流:5.8A",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -96474,9 +96482,9 @@
  {
   "pn": "APX811-46UG-7",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
+  "category": "监控和复位芯片",
+  "description": "4引脚带手动复位的微处理器监控器",
+  "pkg": "SOT-143",
   "lifecycle": ""
  },
  {
@@ -97770,9 +97778,9 @@
  {
   "pn": "AT17LV65-10SI",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP20",
+  "category": "FPGA配置用存储器",
+  "description": "AT17LV65 10SI",
+  "pkg": "SOIC-20-300mil",
   "lifecycle": ""
  },
  {
@@ -97810,9 +97818,9 @@
  {
   "pn": "AT24C01",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "EEPROM",
+  "description": "AT24C01",
+  "pkg": "DIP-8",
   "lifecycle": ""
  },
  {
@@ -97890,9 +97898,9 @@
  {
   "pn": "AT24C01B-TH-B",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "低电压串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -98002,9 +98010,9 @@
  {
   "pn": "AT24C02C-SSHM",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "EEPROM",
+  "description": "2Kbit 串行EEPROM，带硬件数据保护",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -98250,9 +98258,9 @@
  {
   "pn": "AT24C1024B-PU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "PDIP",
+  "category": "EEPROM",
+  "description": "1Mbit 串行EEPROM",
+  "pkg": "PDIP-8",
   "lifecycle": ""
  },
  {
@@ -98418,9 +98426,9 @@
  {
   "pn": "AT24C128N-10SI-2.7",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
+  "category": "EEPROM",
+  "description": "低压和标准电压运行的2线串行接口EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -98490,9 +98498,9 @@
  {
   "pn": "AT24C16BN-SH-T",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
+  "category": "EEPROM",
+  "description": "16Kbit 串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -98562,9 +98570,9 @@
  {
   "pn": "AT24C256BN-10SU-1.8",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
+  "category": "EEPROM",
+  "description": "AT24C256BN-10SU-1.8",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -98586,9 +98594,9 @@
  {
   "pn": "AT24C256N-10SU-2.7",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
+  "category": "EEPROM",
+  "description": "低/标准电压、两线串行接口EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -98618,9 +98626,9 @@
  {
   "pn": "AT24C32",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "EEPROM",
+  "description": "宽电压操作的串行EEPROM",
+  "pkg": "DIP-8",
   "lifecycle": ""
  },
  {
@@ -98650,9 +98658,9 @@
  {
   "pn": "AT24C32D-SSHM-T",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
+  "category": "EEPROM",
+  "description": "低压和标准电压操作的2线串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -98802,9 +98810,9 @@
  {
   "pn": "AT24C512N-10SU-2.7",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "EEPROM",
+  "description": "256Kbit 串行EEPROM，带硬件和软件数据保护 停产",
+  "pkg": "8-SOIC",
   "lifecycle": ""
  },
  {
@@ -98882,9 +98890,9 @@
  {
   "pn": "AT24C64N-10SC",
   "brand": "ATL",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
+  "category": "EEPROM",
+  "description": "低电压标准电压运行的2线串行接口EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -99130,9 +99138,9 @@
  {
   "pn": "AT25010N-10SC",
   "brand": "ATL",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
+  "category": "EEPROM",
+  "description": "SPI兼容、多电压操作的EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -99330,9 +99338,9 @@
  {
   "pn": "AT25080B-TH-B",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "SPI兼容低电压EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -99530,9 +99538,9 @@
  {
   "pn": "AT25512N-SH-T",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "512 Kbits串行EEPROM",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -99554,9 +99562,9 @@
  {
   "pn": "AT25640N-10SC",
   "brand": "ATL",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
+  "category": "EEPROM",
+  "description": "SPI兼容的EEPROM，支持多电压、高速时钟及数据保护",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -99714,41 +99722,41 @@
  {
   "pn": "AT27C010-12PC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "非易失性存储器(ROM)",
+  "description": "高速读取、低功耗、高可靠性OTP EPROM",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
   "pn": "AT27C010-15PC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "非易失性存储器(ROM)",
+  "description": "高速读取、低功耗、高可靠性OTP EPROM",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
   "pn": "AT27C010-45PC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "非易失性存储器(ROM)",
+  "description": "高速读取、低功耗、高可靠性OTP EPROM",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
   "pn": "AT27C010-70PC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "非易失性存储器(ROM)",
+  "description": "高速读取、低功耗、高可靠性OTP EPROM",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
   "pn": "AT27C010-70PU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "PLCC",
+  "category": "非易失性存储器(ROM)",
+  "description": "高速只读存储器",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
@@ -99770,9 +99778,9 @@
  {
   "pn": "AT27C080-90PI",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "非易失性存储器(ROM)",
+  "description": "8兆位紫外线可擦除可编程只读存储器",
+  "pkg": "PDIP-32",
   "lifecycle": ""
  },
  {
@@ -99858,9 +99866,9 @@
  {
   "pn": "AT27C516-55JC",
   "brand": "ATL",
-  "category": "",
-  "description": "",
-  "pkg": "PLCC",
+  "category": "非易失性存储器(ROM)",
+  "description": "低功耗高速OTP EPROM",
+  "pkg": "PLCC-44(16.6x16.6)",
   "lifecycle": ""
  },
  {
@@ -99930,9 +99938,9 @@
  {
   "pn": "AT27LV52090XC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "非易失性存储器(ROM)",
+  "description": "8位复用地址/输出OTP EPROM",
+  "pkg": "TSSOP-20",
   "lifecycle": ""
  },
  {
@@ -99962,9 +99970,9 @@
  {
   "pn": "AT28C256-15TU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "EEPROM",
+  "description": "AT28C256-15TU",
+  "pkg": "TSOP-28-8.0mm",
   "lifecycle": ""
  },
  {
@@ -100290,9 +100298,9 @@
  {
   "pn": "AT42QT1111-MU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "QFN32",
+  "category": "触摸芯片",
+  "description": "11键QTouch触摸传感器IC",
+  "pkg": "VQFN-32(5x5)",
   "lifecycle": ""
  },
  {
@@ -100930,9 +100938,9 @@
  {
   "pn": "AT90USB646-AU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "QFP-64",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "高性能、低功耗AVR 8位微控制器，采用先进RISC架构，具备非易失性程序和数据存储器，支持USB 2.0设备及OTG功能，拥有多种外设特性",
+  "pkg": "TQFP-64(14x14)",
   "lifecycle": ""
  },
  {
@@ -101058,25 +101066,25 @@
  {
   "pn": "AT93C46",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "EEPROM",
+  "description": "三线串行EEPROM 停产",
+  "pkg": "DIP-8",
   "lifecycle": ""
  },
  {
   "pn": "AT93C46-10PC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "EEPROM",
+  "description": "低电压和标准电压运行的3线串行接口EEPROM",
+  "pkg": "PDIP-8",
   "lifecycle": ""
  },
  {
   "pn": "AT93C46-10PI-1.8",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP-8",
+  "category": "EEPROM",
+  "description": "1024bit 串行EEPROM，低电压和标准电压操作",
+  "pkg": "PDIP-8",
   "lifecycle": ""
  },
  {
@@ -101170,9 +101178,9 @@
  {
   "pn": "AT93C46E-TH-B",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP",
+  "category": "EEPROM",
+  "description": "1Kbit 三线串行EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -101322,9 +101330,9 @@
  {
   "pn": "AT93C86-10TI-2.7",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "EEPROM",
+  "description": "3线串行接口16K EEPROM",
+  "pkg": "TSSOP-8",
   "lifecycle": ""
  },
  {
@@ -101450,9 +101458,9 @@
  {
   "pn": "ATF16V8B-10JC",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "PLCC",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "ATF16V8B-10JC",
+  "pkg": "PLCC-20(9x9)",
   "lifecycle": ""
  },
  {
@@ -101474,17 +101482,17 @@
  {
   "pn": "ATF16V8B-15PU",
   "brand": "ATL",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "高性能电可擦除可编程逻辑器件",
+  "pkg": "DIP-20",
   "lifecycle": ""
  },
  {
   "pn": "ATF16V8B-15SU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP20",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "ATF16V8B 15SU",
+  "pkg": "SOIC-20-300mil",
   "lifecycle": ""
  },
  {
@@ -101618,9 +101626,9 @@
  {
   "pn": "ATF22V10C-7JU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "LCC28",
+  "category": "可编程逻辑器件(CPLD/FPGA)",
+  "description": "ATF22V10C-7JU",
+  "pkg": "PLCC-28(11.5x11.5)",
   "lifecycle": ""
  },
  {
@@ -101826,9 +101834,9 @@
  {
   "pn": "ATMEGA325A-AU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TQFP",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "带系统内可编程闪存的8位微控制器",
+  "pkg": "TQFP-64(14x14)",
   "lifecycle": ""
  },
  {
@@ -101890,9 +101898,9 @@
  {
   "pn": "ATMEGA48-15AZ",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TQFP",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "ATMEGA48-15AZV",
+  "pkg": "LQFP-44(10x10)",
   "lifecycle": ""
  },
  {
@@ -102026,9 +102034,9 @@
  {
   "pn": "ATSAM3N4CA-CU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "TFBGA",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "ATSAM3N4CA-CU",
+  "pkg": "TFBGA-100",
   "lifecycle": ""
  },
  {
@@ -102058,8 +102066,8 @@
  {
   "pn": "ATTINY10-TS8R",
   "brand": "AT",
-  "category": "",
-  "description": "",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "带系统内可编程闪存的8位AVR微控制器",
   "pkg": "SOT-23-6",
   "lifecycle": ""
  },
@@ -102082,17 +102090,17 @@
  {
   "pn": "ATTINY13-20SU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "ATTINY13-20SU",
+  "pkg": "SOIC-8-208mil",
   "lifecycle": ""
  },
  {
   "pn": "ATTINY13A-SSH",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "ATTINY13A-SSH",
+  "pkg": "SOIC-8",
   "lifecycle": ""
  },
  {
@@ -102146,9 +102154,9 @@
  {
   "pn": "ATTINY24A-SSN",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP14",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "高性能低功耗AVR 8位微控制器",
+  "pkg": "SOIC-14",
   "lifecycle": ""
  },
  {
@@ -102194,9 +102202,9 @@
  {
   "pn": "ATTINY25-20SU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "低功耗CMOS 8位微控制器，基于AVR增强型RISC架构，具备多种外设功能和低功耗模式",
+  "pkg": "SOIC-8-208mil",
   "lifecycle": ""
  },
  {
@@ -102250,9 +102258,9 @@
  {
   "pn": "ATTINY44A-SSU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOP14",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "高性能低功耗AVR 8位微控制器",
+  "pkg": "SOIC-14",
   "lifecycle": ""
  },
  {
@@ -102274,17 +102282,17 @@
  {
   "pn": "ATTINY45-20PU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP8",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "带系统内可编程闪存的8位AVR微控制器",
+  "pkg": "DIP-8",
   "lifecycle": ""
  },
  {
   "pn": "ATTINY45-20SU",
   "brand": "AT",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
+  "category": "单片机(MCU/MPU/SOC)",
+  "description": "8位AVR微控制器，具备2/4/8K字节系统内可编程闪存",
+  "pkg": "SOIC-8-208mil",
   "lifecycle": ""
  },
  {
@@ -102634,9 +102642,9 @@
  {
   "pn": "AZ1117H-1.5TR",
   "brand": "BCD",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-223",
+  "category": "线性稳压器(LDO)",
+  "description": "1.5V 1A 15V",
+  "pkg": "SOT-223-4",
   "lifecycle": ""
  },
  {
@@ -102690,9 +102698,9 @@
  {
   "pn": "AZ431AR-ATRE1",
   "brand": "BCD",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-89",
+  "category": "电压基准芯片",
+  "description": "2.5V~36V 并联 20ppm/℃",
+  "pkg": "SOT-89-3",
   "lifecycle": ""
  },
  {
@@ -102986,9 +102994,9 @@
  {
   "pn": "B560C-13-F",
   "brand": "DIODES",
-  "category": "",
-  "description": "",
-  "pkg": "SMC",
+  "category": "肖特基二极管",
+  "description": "电压:60V 电流:5A",
+  "pkg": "SMC(DO-214AB)",
   "lifecycle": ""
  },
  {
@@ -103194,33 +103202,33 @@
  {
   "pn": "BA10358F-E2CT",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "运算放大器",
+  "description": "高增益低功耗运算放大器",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
   "pn": "BA10358F-E2TR",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "运算放大器",
+  "description": "高增益低功耗运算放大器",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
   "pn": "BA10393F-E2CT",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "比较器",
+  "description": "地感比较器",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
   "pn": "BA10393F-E2TR",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
+  "category": "比较器",
+  "description": "地感比较器",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -103242,17 +103250,17 @@
  {
   "pn": "BA2901FV-E2CT",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SSOP",
+  "category": "比较器",
+  "description": "通用且高可靠性电压比较器",
+  "pkg": "SSOP-B14",
   "lifecycle": ""
  },
  {
   "pn": "BA2901FV-E2TR",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SSOP",
+  "category": "比较器",
+  "description": "通用且高可靠性电压比较器",
+  "pkg": "SSOP-B14",
   "lifecycle": ""
  },
  {
@@ -103298,9 +103306,9 @@
  {
   "pn": "BA2903SFVM-TR",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
+  "category": "比较器",
+  "description": "BA2903SFVM-TR",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
@@ -103330,9 +103338,9 @@
  {
   "pn": "BA3123F-E2",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
+  "category": "音频功率放大器",
+  "description": "接地隔离放大器",
+  "pkg": "SOP-8",
   "lifecycle": ""
  },
  {
@@ -103394,9 +103402,9 @@
  {
   "pn": "BA4558RFVM-TR",
   "brand": "ROHM",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
+  "category": "运算放大器",
+  "description": "BA4558RFVM TR",
+  "pkg": "MSOP-8",
   "lifecycle": ""
  },
  {
@@ -216384,11 +216392,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC711D3CFNE2R",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC711E9CFNE2R",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74AC240DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74AC374DWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74AC573DWR2G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74AC574DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74ACT02DTR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74ACT132DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74ACT139DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74ACT153DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -216400,11 +216480,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74ACT541MR1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC000ADR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC08ADTR2G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC125AFL1",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC139AFR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -216472,11 +216584,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HC273ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC273ADWR2",
   "brand": "MOT",
   "category": "",
   "description": "",
   "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC32ADTR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -216488,8 +216616,48 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HC4002DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4040ADG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4046ADG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC4046ADR2G",
   "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4046ANG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4049FR2",
+  "brand": "MOT",
   "category": "",
   "description": "",
   "pkg": "SOP16",
@@ -216501,6 +216669,14 @@
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4051ADG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
   "lifecycle": ""
  },
  {
@@ -216528,6 +216704,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HC4051ADW",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC4051ADWG",
   "brand": "ON",
   "category": "",
@@ -216545,6 +216729,14 @@
  },
  {
   "pn": "MC74HC4052ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4053ADG",
   "brand": "ON",
   "category": "",
   "description": "",
@@ -216576,6 +216768,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HC4066DR2",
+  "brand": "PHI",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC4078FEL",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC4094ADTR2G",
   "brand": "ON",
   "category": "",
@@ -216600,6 +216808,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HC540ADWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HC541ADWR2G",
   "brand": "ON",
   "category": "",
@@ -216613,6 +216829,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HC573AFEL",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ-20",
   "lifecycle": ""
  },
  {
@@ -216648,6 +216872,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HCT00ADTR",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT138ANG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT240ADW",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HCT240ADWR2",
   "brand": "MOT",
   "category": "",
@@ -216669,6 +216917,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT244ANG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP20",
   "lifecycle": ""
  },
  {
@@ -216696,6 +216952,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74HCT32ADR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74HCT4851ADT",
   "brand": "MOT",
   "category": "",
@@ -216709,6 +216973,54 @@
   "category": "",
   "description": "",
   "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT740TR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74HCT74ADR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX02DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX08DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX138DR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX14DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -216736,6 +217048,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74LCX244DWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74LCX244DWR2G",
   "brand": "ON",
   "category": "",
@@ -216744,8 +217064,24 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74LCX245DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74LCX257DTR2G",
   "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LCX2952DT",
+  "brand": "MOT",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
@@ -216768,11 +217104,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74LVX00DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX08DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX125DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74LVX138DTR2",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX14DTR2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX244DTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
   "lifecycle": ""
  },
  {
@@ -216784,11 +217160,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74LVX4053DG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74LVX4053DR2G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74LVX4245DT",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP24",
   "lifecycle": ""
  },
  {
@@ -216813,6 +217205,22 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC125DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHC157MEL",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
   "lifecycle": ""
  },
  {
@@ -216992,7 +217400,31 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC74VHC595DR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHCT00ADT",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC74VHCT244ADWR2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC74VHCT244AM",
   "brand": "MOT",
   "category": "",
   "description": "",
@@ -217024,6 +217456,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC7805BD2TR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC7805CTG",
   "brand": "ON",
   "category": "",
@@ -217040,11 +217480,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC7815CD2TR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC78L05ABDR2G",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L05ABPRAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L05ABPREG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
   "lifecycle": ""
  },
  {
@@ -217056,7 +217520,39 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC78L05ACPRAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-92",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L05ACPRMG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L05ACPRPG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC78L08ACDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78L12ABDR2G",
   "brand": "ON",
   "category": "",
   "description": "",
@@ -217096,6 +217592,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC78M08CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC78M12CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC78M15CDTRKG",
   "brand": "ON",
   "category": "",
@@ -217128,6 +217640,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC79L15ABDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC79M05BDTRKG",
   "brand": "ON",
   "category": "",
@@ -217136,11 +217656,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC79M05CDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC79M12BDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC79M12CDTRKG",
   "brand": "ON",
   "category": "",
   "description": "",
   "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC79M15BDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3聽",
   "lifecycle": ""
  },
  {
@@ -217168,11 +217712,67 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC88916DW70R2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC88LV926DWR2",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC908AB32CFUER",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AB32VFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AP16CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AP32CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AP64CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AS32ACFN",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -217208,6 +217808,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC908AZ32ACFU",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC908AZ32AMFUE",
   "brand": "FREESCALE",
   "category": "",
@@ -217225,6 +217833,14 @@
  },
  {
   "pn": "MC908AZ60ACFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908AZ60AMFU",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -217264,6 +217880,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC908EY8ACFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908EY8AMFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908EY8AVFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC908GP32CFBER",
   "brand": "FSL",
   "category": "",
@@ -217281,6 +217921,14 @@
  },
  {
   "pn": "MC908GR16ACFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GR16MFAE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -217320,11 +217968,259 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC908GR60ACFR",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GT16CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GZ32CFJE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GZ32CFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GZ48CFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GZ60CFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908GZ60CFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JB12JDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JB16JDWE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JK1ECDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC908JL16CFJER",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JL16CSPE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SDIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JL3ECDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JL3ECFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908JL8CDWER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908KK3ECDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908KL3ECDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908KX2MDWER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908LD64IFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908LJ12CFBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908LJ24CFQE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908LJ24CPKE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908MR32CFUE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QB8CDWER",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QC16CDXE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QC16CDYE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QC16CDZE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QT1ACDWE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QT1ACFQE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QT2ACDWE",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QT2ACFQE",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908QY1ACDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
   "lifecycle": ""
  },
  {
@@ -217336,11 +218232,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC908QY4MDWER",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC908SR12MFAE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC908SR12MFAER",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC912D60ACFU8",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -217368,6 +218288,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9328MXLVH20",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9JB16FA-1L98J",
   "brand": "MOT",
   "category": "",
@@ -217376,11 +218304,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9RS08KA1CPC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA1CSC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9RS08KA1CSCR",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA2CDB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA2CPC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA2CSC",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA4CWG",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08KA4CWJ",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9RS08LA8CLF",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  },
  {
@@ -217448,6 +218440,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08AC8CFDE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AC8MFJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08AW16CFDE",
   "brand": "FREESCALE",
   "category": "",
@@ -217477,6 +218485,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08AW32CFU",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -217560,7 +218576,71 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08DN16CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DN16CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DN32CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DN60CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DN60CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV16CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08DV32AMLH",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV32CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV32CLF",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -217573,6 +218653,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DV60CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  },
  {
@@ -217600,11 +218688,51 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08DZ16CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ16CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08DZ32ACLC",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "LQFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ32CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ32CLF",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ48MLF",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
   "lifecycle": ""
  },
  {
@@ -217616,8 +218744,56 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08DZ60CLC",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08DZ60CLH",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08EL16CTL",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08EL32CTL",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP28",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08GB32ACFUE",
   "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GB32CFU",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08GB60CFU",
+  "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "LQFP",
@@ -217728,6 +218904,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08GT60CFB",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08GT60CFDE",
   "brand": "FREESCALE",
   "category": "",
@@ -217752,11 +218936,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08GW64CLK",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08JM32CLD",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08JM60CLD",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08JS16CWJ",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08LL16CGT",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08LL36CLK",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08MP16VLC",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "QFP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QA2CDNE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QA2CFQE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QA4CDNE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -217776,6 +219032,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08QE32CFT",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QE64CLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08QG44CDTE",
   "brand": "FREESCALE",
   "category": "",
@@ -217792,11 +219064,43 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S08QG4CFFE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG4CPAE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG4CPBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S08QG84CDTE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG8CDTE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
   "lifecycle": ""
  },
  {
@@ -217813,6 +219117,54 @@
   "category": "",
   "description": "",
   "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08QG8CFKE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08RD8CDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08RE16FGE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08RE16FJE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08RG60CFJ",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S08SL16CTL",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP28",
   "lifecycle": ""
  },
  {
@@ -217841,6 +219193,14 @@
  },
  {
   "pn": "MC9S12B256MPVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12B64VPVE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
@@ -217928,11 +219288,59 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12C64CFAE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C64CPBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C64MFAE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP48",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12C96CFUER",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12C96MPBE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12D32CFUE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12D64CPVE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
   "lifecycle": ""
  },
  {
@@ -218056,6 +219464,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12E128CPV",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12E128CPVE",
   "brand": "FSL",
   "category": "",
@@ -218096,6 +219512,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12E64CFUE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12E64CPVE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12GC128MFAE",
   "brand": "FREESCALE",
   "category": "",
@@ -218120,11 +219552,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12H128VFV",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12H128VPVE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12H258VFV",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -218144,6 +219592,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12NE64CPV",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12NE64CPVE",
   "brand": "FREESCALE",
   "category": "",
@@ -218152,11 +219608,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MC9S12NE64VTU",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MC9S12NE64VTUE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "TQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12UF32PBE",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
   "lifecycle": ""
  },
  {
@@ -218189,6 +219661,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MC9S12XD64CAA",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
   "lifecycle": ""
  },
  {
@@ -218272,11 +219752,211 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCF51CN128CGT",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFN48",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF51CN128CLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF51EM256CLL",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP100",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF51JM128VLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF51QE128CLH",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF51QE128CLK",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5206ECAB40",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5206ECFT40",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52100CAE66",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5213LCVM80",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52211CAE66",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52211CAE80",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52213CAE50",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52221CAE66",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52221CAF80",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52223CAF80",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52230CAF60",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52233CAL60",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF52234CAL60",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5249LAG120",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCF5272VM66R2J",
   "brand": "FSL",
   "category": "",
   "description": "",
   "pkg": "LBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5480CZP166",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5484CVR200",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5484CZP200",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA388",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCF5485CVR200",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA388",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCHC11F1CFNE2",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
   "lifecycle": ""
  },
  {
@@ -218325,6 +220005,14 @@
   "category": "",
   "description": "",
   "pkg": "LQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCHC908JK8MPE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
   "lifecycle": ""
  },
  {
@@ -218504,11 +220192,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCHLC908QY1PE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCHLC908QY2CPE",
   "brand": "FREESCALE",
   "category": "",
   "description": "",
   "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCIMX233DAG4B",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP128",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCIMX257CJM4A",
+  "brand": "FSL",
+  "category": "",
+  "description": "",
+  "pkg": "BGA400",
   "lifecycle": ""
  },
  {
@@ -218536,11 +220248,83 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCL908QY2CDTE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCL908QY2CDWE",
+  "brand": "FREESCALE",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM511000AP10",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP18",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM511000AP70",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "DIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM511000AZ10",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "ZIP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM6208CJ15R2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM6208CJ20R2",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOJ",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM62486AFN24",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCM62995AFN15R2",
   "brand": "MOT",
   "category": "",
   "description": "",
   "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCM69C232TQ20",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
   "lifecycle": ""
  },
  {
@@ -219560,6 +221344,62 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP1401T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1402T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1415T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1416T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP14700-E/MF",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP14E10-E/MF",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-S",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP14E11-E/MF",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-S",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP1525T-I/TT",
   "brand": "MIC",
   "category": "",
@@ -219573,6 +221413,14 @@
   "category": "",
   "description": "",
   "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1541T-I/TT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
   "lifecycle": ""
  },
  {
@@ -219648,6 +221496,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP1603T-180I",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP1603T-250I/OS",
   "brand": "MIC",
   "category": "",
@@ -219696,6 +221552,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP1630V-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP1630VT-E/MS",
   "brand": "MIC",
   "category": "",
@@ -219736,6 +221600,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP1631V-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP1631VHV-330E/SS",
   "brand": "MIC",
   "category": "",
@@ -219760,11 +221632,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP1640C-I/MC",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP1640CT-I/CHY",
   "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1640D-I/MC",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DFN8",
   "lifecycle": ""
  },
  {
@@ -219781,6 +221669,70 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1650R-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1650S-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1651R-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1651S-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1652R-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1652S-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1653R-E/UN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1653S-E/UN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP10",
   "lifecycle": ""
  },
  {
@@ -219917,6 +221869,14 @@
   "category": "",
   "description": "",
   "pkg": "TO-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP1702-1502E",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP23",
   "lifecycle": ""
  },
  {
@@ -222080,6 +224040,214 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP2122T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP2140A-I/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP18",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP2140A-I/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23008-E/ML",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23008-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23008-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23009-E/MG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23009-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23016-I/ML",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23016-I/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23016-I/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23017-E/ML",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23017-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23017-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23018-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23018-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S08-E/ML",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S08-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP18",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S08-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S09-E/MG",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S09-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP18",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S17-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S17-E/SP",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S17-E/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP23S18-E/SO",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP25020-I/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP2515-I/ST",
   "brand": "MIC",
   "category": "",
@@ -222088,11 +224256,27 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP2515T-I/ML",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP2515T-I/ST",
   "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3001T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
   "lifecycle": ""
  },
  {
@@ -222168,6 +224352,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP3201-CI/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3201-CI/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP3201T-CI/SN",
   "brand": "MIC",
   "category": "",
@@ -222176,11 +224376,75 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP3202-BI/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3202-CI/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3202-CI/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3204-BI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3204-CI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3204-CI/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP3204T-CI/SL",
   "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3208-BI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3208-CI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
   "lifecycle": ""
  },
  {
@@ -222221,6 +224485,70 @@
   "category": "",
   "description": "",
   "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3301-CI/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3301-CI/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3302-BI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3302-BI/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3302-CI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3302-CI/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3304-BI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3304-CI/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
   "lifecycle": ""
  },
  {
@@ -222341,6 +224669,30 @@
   "category": "",
   "description": "",
   "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3905A-I/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3905L-I/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP3906A-I/SS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP24",
   "lifecycle": ""
  },
  {
@@ -222648,6 +225000,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP41010-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP4131-103E/MS",
   "brand": "MIC",
   "category": "",
@@ -222909,6 +225269,38 @@
   "category": "",
   "description": "",
   "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP42010-I/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP42010-I/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP42050-I/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP42100-I/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
   "lifecycle": ""
  },
  {
@@ -224088,6 +226480,30 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP4921T-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4922T-E/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP4922T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP55-PRO-N-A1",
   "brand": "NVIDIA",
   "category": "",
@@ -224101,6 +226517,14 @@
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6001T-I/LT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -224144,6 +226568,78 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6021T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6041T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6041T-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6041T-I/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6042T-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6042T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6043T-I/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6043T-I/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6044T-I/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6051T-E/MNY",
   "brand": "MIC",
   "category": "",
@@ -224176,7 +226672,23 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6143T-E/CH",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6231RT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6231T-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
@@ -224208,7 +226720,23 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6241T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6271RT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6271T-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
@@ -224224,7 +226752,23 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6283T-E/CH",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-6",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6291RT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6291T-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
@@ -224248,6 +226792,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6541T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6541UT-E/OT",
   "brand": "MIC",
   "category": "",
@@ -224264,11 +226816,35 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6543T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6546RT-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6546T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6546T-I/LT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
   "lifecycle": ""
  },
  {
@@ -224288,6 +226864,22 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6561T-E/LT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6561T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6561UT-E/OT",
   "brand": "MIC",
   "category": "",
@@ -224297,6 +226889,22 @@
  },
  {
   "pn": "MCP6566RT-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6566T-E/LT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6566T-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
@@ -224352,11 +226960,115 @@
   "lifecycle": ""
  },
  {
+  "pn": "MCP6G01T-E/OT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
   "pn": "MCP6G01UT-E/OT",
   "brand": "MIC",
   "category": "",
   "description": "",
   "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L01T-E/LT",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L04T-E/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L04T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L71T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L72T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L74T-E/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L74T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L91T-E/MS",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L91T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L92T-E/SN",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L94T-E/SL",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MCP6L94T-E/ST",
+  "brand": "MIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP14",
   "lifecycle": ""
  },
  {
@@ -224485,2718 +227197,6 @@
   "category": "",
   "description": "",
   "pkg": "MSOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73834-FCI/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73837-FCI/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73837-FCI/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73837-NVI/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73837T-FCI/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73838-FCI/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-EP",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73838-NVI/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73838T-FCI/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73838T-FJI/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73841-420I/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73842-840I/UN",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73842T-840I/UN",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP-10",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73843-420I/MS",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73844-840I/MS",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73853T-I/ML",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN16",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73855T-I/MF",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN-EP",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73871-2CAI/ML",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN20",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP73871-2CCI/ML",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP809T-300I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP809T-450I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP809T-460I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO236-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP809T-475I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP809T-485I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO263-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-300I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-315I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-450I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-460I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-475I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP810T-485I/TT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9800A0T-M/OT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9800A0T-M/OTG",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9800A5T-M/OT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9802A5T-M/OT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98242-BE/ST",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98242T-BE/MC",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98242T-BE/MCA2",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98242T-BE/MNY",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98242T-CE/MC",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98243-BE/MC",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP98243-BE/ST",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9843T-BE/MC",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCP9843T-BE/MNY",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "DFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MCR908JK3ECDWE",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
-  "pkg": "SOP20",
-  "lifecycle": ""
- },
- {
-  "pn": "MCT06030C2202FP500",
-  "brand": "VISHAY",
-  "category": "",
-  "description": "",
-  "pkg": "SMD2",
-  "lifecycle": ""
- },
- {
-  "pn": "MCT277-X009-VIS",
-  "brand": "VHY",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
-  "lifecycle": ""
- },
- {
-  "pn": "MD4832-D512-V3Q18-X",
-  "brand": "M-SYSTEM",
-  "category": "",
-  "description": "",
-  "pkg": "BGA",
-  "lifecycle": ""
- },
- {
-  "pn": "MD81V64180SJ-5E",
-  "brand": "HYITECH",
-  "category": "",
-  "description": "",
-  "pkg": "SOJ",
-  "lifecycle": ""
- },
- {
-  "pn": "ME6118A33PG",
-  "brand": "MICRONE",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "ME6219C30M5G",
-  "brand": "ME",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MEA1608LC220T001",
-  "brand": "TDK",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
-  "lifecycle": ""
- },
- {
-  "pn": "MEA3216L50R0T002",
-  "brand": "TDK",
-  "category": "",
-  "description": "",
-  "pkg": "SMD",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0015UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0027UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0033UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0039UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0056UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.0082UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.014UF1K6VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.018UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.022UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.033UF1K6VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.047UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.051UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.056UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.068UF100VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.068UF63VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.082UF100VDCJ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.12UF63VDCZ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.15UF63VDCZ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MET/CAP0.1UF100VDCZ",
-  "brand": "MAT",
-  "category": "",
-  "description": "",
-  "pkg": "DIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MF5800DA-SF1333",
-  "brand": "MURATA",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MF5800LA-SF1333",
-  "brand": "MURATA",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MFC2000CX07202",
-  "brand": "ARM",
-  "category": "",
-  "description": "",
-  "pkg": "BGA",
-  "lifecycle": ""
- },
- {
-  "pn": "MFI341S19782500/",
-  "brand": "AVNET",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MFRC50001T/0FE",
-  "brand": "PHI",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MGA-43228-TR1G",
-  "brand": "AVAGO",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC1815-10UYTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC1815-20UYTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2004-0.5YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2004-0.8YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005-0.5YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005-0.8YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005-1.2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005A-1YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005A-1YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005A-2YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2005A-2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2009A-1YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2009A-2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2014-0.8YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2015-1.2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2016-1.2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2019A-1YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2019A-2YM6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2090-1YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2091-1YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2130-1YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN16",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2130-4YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN16",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2131-1YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN16",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2131-4YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2177-3.3YWMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP20",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2178-3.3YWM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP20",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-AAYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-DLYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-GJYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-GOYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-JGYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-MGYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-NSYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-OOYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-PMYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2211-PSYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2212-GPYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2212-KMYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2212-MPYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2212-SMYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-DKYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-GMYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-GPYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-JGYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-PSYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2214-SWYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2215-PPPYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN16",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2238-AAYMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN12",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2287-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2287C-15YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2289-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2291-15YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2291-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2292-15YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2292-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2293-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2293C-34YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2297-38YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2297-42YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN10",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2298-15YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN12",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2299-15YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN12",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC23050-4YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2555-0YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN24",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2560-1YWMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOIC",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2580A-1.0YTS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SSOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2585-1JYTSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP24",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2589R-1YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774L-25YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774L-31YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774L-44YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774L-46YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774N-22YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774N-28YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2774N-29YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2775-29YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2775-44YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2775-46YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2777-31YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2777-46YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2778-2YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2779H-1YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2845A-PGYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2845A-PPYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2845A-SCYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2846A-MFYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2846A-MGYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2846A-PGYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2846A-PPYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2846A-SCYMTTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN14",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150-3.3BT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29150BU-3.3",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29151-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29151-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29151-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29201-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29201-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29201-4.8WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29201-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29201-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2920A-3.3WSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2920A-5.0BS",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-223",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2920A-5.0WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2920A-5.0WSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2920A-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-3.3BT",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "ZIP",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-5.0BT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-5.0BU",
-  "brand": "MCI",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29300-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29301-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29301-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29301-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29301-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29310-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29371-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29371-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29371-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29371-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2937A-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2937A-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2937A-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2937A-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2940A-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2940A-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2940A-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2940A-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29500-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29500-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29501-3.3WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29501-5.0WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29501-5.0WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29502WUTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2951-02YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2951-03YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29510-3.3WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2954-03WSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC2954-08YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC29750-3.3WWT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-247-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3287-24YD6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3289-16YD6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3289-16YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3289-24YD6TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37100-1.5WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37100-1.8WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37100-2.5WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37100-3.3WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37101-2.5YM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37101-3.3YM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC37139-2.5YS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3775-1.5YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3775-1.8YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC38300HYHLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN28",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-1.8BS-TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT223",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-1.8WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-2.5WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-2.5WSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-3.3BS",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO23",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-3.3WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39100-5.0WS",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39101-2.5YM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39101-3.3YM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39101-5.0YM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39150-1.8WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39150-2.5WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39150-2.5WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39151-1.8WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39300-1.8WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39300-2.5BU",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39300-2.5WUTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39301-1.8WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39500-1.8WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39500-2.5WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO220-3",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39500-2.5WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39501-1.8WT",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-220-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC39501-2.5WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3975-1.8YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3975-3.3YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC3975-5.0YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC4575-5.0WUTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO-263-6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC4680-3.3YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC4680-5.0YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC47050-1.2YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN6",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC47100-08YMME",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC47100-1.2YMLTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "QFN8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC47100-10YMME",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "MSOP-EP",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC47100-12YMME",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC49150-1.2YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC49150-1.8YMM",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TSSOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC49500-1.2WU",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "TO263",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5200-5.0YSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5201-3.3YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5201-3.3YSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-2.6YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-2.8YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.0YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.3BM4",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143-4",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.3BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-23/5P/REEL",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.3YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.3YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.6BM4",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.6YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.6YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.8BM4",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-3.8YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-4.0BM4",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-4.0YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-4.7BM4",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-5.0YM4TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT143",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5203-5.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-2.5YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-2.7YM5",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-2.7YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-2.8YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-2.9YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.1YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.3BM5",
-  "brand": "LM",
-  "category": "",
-  "description": "",
-  "pkg": "SOP",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.3YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.6BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.6YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-3.8BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-4.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-4.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-5.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5205-5.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-2.5BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-2.5YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.2YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.3BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.3YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.6BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.6YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-3.8BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-4.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-4.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-5.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5206-5.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-1.8YM5",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-2.5YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.0BM5",
-  "brand": "MIC",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.3BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.3YM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.3YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.6BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-3.8BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-4.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-5.0BM5",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23/5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-5.0BM5-TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5207-5.0YM5TR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT23-5",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-2.5YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-2.5YSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-3.0BMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP-8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-3.3BMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-3.3YSTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOT",
-  "lifecycle": ""
- },
- {
-  "pn": "MIC5209-5.0YMTR",
-  "brand": "MICREL",
-  "category": "",
-  "description": "",
-  "pkg": "SOP8",
   "lifecycle": ""
  }
 ]
