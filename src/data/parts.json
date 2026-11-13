@@ -131361,9 +131361,9 @@
  },
  {
   "pn": "FCP11N60",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "MOSFET",
+  "description": "MOSFET 600V 11A N-CH",
   "pkg": "",
   "lifecycle": ""
  },
@@ -131649,9 +131649,9 @@
  },
  {
   "pn": "FGH40N60UFDTU",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V 40A Field Stop",
   "pkg": "",
   "lifecycle": ""
  },
@@ -131849,11 +131849,11 @@
  },
  {
   "pn": "FMS6363CSX",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "视频 IC",
+  "description": "视频 IC MSFG LoCst3Chnl6th HI DefVidFiltrDrivr",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "FMS6690MTC20X",
@@ -131961,11 +131961,11 @@
  },
  {
   "pn": "FQA62N25C",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "MOSFET",
+  "description": "MOSFET 250V N-Channel Adv Q-FET C-Series",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "FQA9N90C",
@@ -136113,11 +136113,11 @@
  },
  {
   "pn": "HGTG30N60A4D",
-  "brand": "FSC",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "绝缘栅双极晶体管(IGBT)",
+  "description": "绝缘栅双极晶体管(IGBT) 600V N-Channel IGBT SMPS Series",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "HHSM14318-20L/P",
@@ -146041,9 +146041,9 @@
  },
  {
   "pn": "IRFBC30A",
-  "brand": "VISHAY",
-  "category": "",
-  "description": "",
+  "brand": "Vishay / Siliconix",
+  "category": "MOSFET",
+  "description": "MOSFET TO220  600V  3.6A N-CH",
   "pkg": "",
   "lifecycle": ""
  },
@@ -146361,9 +146361,9 @@
  },
  {
   "pn": "IRFP460",
-  "brand": "VISHAY",
-  "category": "",
-  "description": "",
+  "brand": "Vishay Semiconductors",
+  "category": "MOSFET",
+  "description": "MOSFET TO247  500V   20A N-CH MOSFET",
   "pkg": "",
   "lifecycle": ""
  },
@@ -159705,9 +159705,9 @@
  },
  {
   "pn": "LM337SP",
-  "brand": "ST",
-  "category": "",
-  "description": "",
+  "brand": "STMicroelectronics",
+  "category": "线性稳压器",
+  "description": "线性稳压器 1.2-37V Adj Negative",
   "pkg": "",
   "lifecycle": ""
  },
@@ -167609,9 +167609,9 @@
  },
  {
   "pn": "LMV431AIM5X/NOPB",
-  "brand": "NSC",
-  "category": "",
-  "description": "",
+  "brand": "Texas Instruments",
+  "category": "参考电压",
+  "description": "参考电压 Lo-Vtg 1.24V Adj Pre c Shunt Reg A 926-L A 926-LMV431AIM5/NOPB",
   "pkg": "",
   "lifecycle": ""
  },
@@ -214201,9 +214201,9 @@
  },
  {
   "pn": "MBR20200CT",
-  "brand": "ON",
-  "category": "",
-  "description": "",
+  "brand": "Taiwan Semiconductor",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 20A, 200V, Schottky Rectifier",
   "pkg": "",
   "lifecycle": ""
  },
@@ -214441,11 +214441,11 @@
  },
  {
   "pn": "MBRF30L45CTG",
-  "brand": "ON",
-  "category": "",
-  "description": "",
+  "brand": "onsemi",
+  "category": "肖特基二极管与整流器",
+  "description": "肖特基二极管与整流器 30A45V TO220 FULL PAK SCH",
   "pkg": "",
-  "lifecycle": ""
+  "lifecycle": "End of Life"
  },
  {
   "pn": "MBRM130LT1G",
@@ -238905,9 +238905,9 @@
  },
  {
   "pn": "MUR3040PT",
-  "brand": "ON",
-  "category": "",
-  "description": "",
+  "brand": "Micro Commercial Components (MCC)",
+  "category": "整流器",
+  "description": "整流器 30A Super Fast Recovery 整流器",
   "pkg": "",
   "lifecycle": ""
  },
@@ -239197,6 +239197,4006 @@
   "category": "",
   "description": "",
   "pkg": "DIP40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C2048PC-90",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP40",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C256QC-15",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C4096DC-12",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP42",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C4096QC-12",
+  "brand": "XIC",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C512PC-12",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C512PC-15",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C512QC-12",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C512QC-55",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27C512QC-70",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX27L512TI-12",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX28F1000PPC-12C4",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "DIP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29F002BQC-90",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29F002QC-70",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29F002QC-90",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29F160MC-10",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29L3211MC-10",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LV004TTC-70",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LV040QC-70",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LV040QC-90",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LV320ATTC-90",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LV320TTC-90",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LW320ATXBI-70",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX29LW321TXBI-90",
+  "brand": "MXIC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MX66C1010TI-70",
+  "brand": "MX",
+  "category": "",
+  "description": "",
+  "pkg": "SOP44",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MXD1810UR41+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MXD1811UR44+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MXD1813XR46+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MXD1816UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MXD1818UR26+T",
+  "brand": "MAX",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MYLARCAP0.00047UF100VDCJ",
+  "brand": "JNH",
+  "category": "",
+  "description": "",
+  "pkg": "SIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MYLARCAP0.001UF100VDCJ",
+  "brand": "JNH",
+  "category": "",
+  "description": "",
+  "pkg": "SIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MYLARCAP0.0022UF100VDCJ",
+  "brand": "JNH",
+  "category": "",
+  "description": "",
+  "pkg": "SIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "MYLARCAP0.1UF100VDCK",
+  "brand": "WF",
+  "category": "",
+  "description": "",
+  "pkg": "SIP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N02L163WN1AB1-55I",
+  "brand": "PANASONIC",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N16T1630C2BZ-70I",
+  "brand": "SOLUTIONS",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N25S818HAS21I",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N27C210-200V10",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N28F001BX-B120",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N28F001BX-T150",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N28F001BXT-150",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N2DS12Q16BS-5T",
+  "brand": "ELIXIR",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N345256SOA-55",
+  "brand": "NNK",
+  "category": "",
+  "description": "",
+  "pkg": "SOP28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N345256SOA-55L",
+  "brand": "NKK",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N7100890FTCGMD",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N760042CFLC061",
+  "brand": "MOTOROL",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N80C188XL-20OLD",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC-68",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N82586-10SZ470",
+  "brand": "INFINEON",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N87C257-150V10",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "N92H0013.00-#9",
+  "brand": "ASE",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NAND01GR3B2CZA6E",
+  "brand": "NUMONYX",
+  "category": "",
+  "description": "",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NAND256W3A2AZA6E",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "VFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NAND512F3U0AZB1E",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "TFBGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NANOSMDC150F-2",
+  "brand": "TYO",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NB2305AI1DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NB3N2304NZDTG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NB3N51032DTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NB680GD-Z",
+  "brand": "MPS",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBA012LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBA015LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBA017LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBA018LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBA019LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBB017LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDBB018LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDPA017LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXDPA018LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXHBA017LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXHBA019LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXMBA024LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA007LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA010LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA019LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA020LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA021LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA022LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA023LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA024LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA024LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA025LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA025LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA031LN1TAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA031LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA045LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NBXSBA046LNHTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "CLCC6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SP125P5X",
+  "brand": "onsemi",
+  "category": "缓冲器和线路驱动器",
+  "description": "缓冲器和线路驱动器 Buffer 3-STATE Output",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SV00P5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ00P5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ04M5X",
+  "brand": "onsemi",
+  "category": "变换器",
+  "description": "变换器 UHS Inverter",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ05P5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SC-70-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ14P5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ19L6X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ74L8X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZ86M5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7SZU04P5X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-353",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7WZ04P6X",
+  "brand": "FS",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7WZ14EP6X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-363",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NC7WZ16P6X",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SC-70-6(SOT-363)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCH-RSL10-101WC51-ABG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP-51",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCL30060BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCN8024RDWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-28",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1013ST100T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1014AP065G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1014ST100T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1015AP065G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1015AP100G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1060BD060R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1072STBT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1077STBT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1081DEG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117DT50RKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117ST18T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117ST50T3",
+  "brand": "MOT",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223/REEL",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117ST50T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117ST50TS",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-22",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1117STAT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP114AMX180TCG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "UDFN-4",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1203D60R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1207ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1216AD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1219AD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1230AD65R2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1230D65R",
+  "brand": "onsemi",
+  "category": "电源开关 IC - 配电",
+  "description": "电源开关 IC - 配电 DUAL OVER CURRENT PROTECT",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1236DD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1237AD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1237BD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1238AD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1238BD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1246BD065R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1252ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1252CDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP12700BDNR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP-10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1271D65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1271D65R2G1271A",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP7",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1288BD65R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1294EDBR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1342AMDCCDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1377BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1396BDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-16150mil",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1400ASN27T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1400ASN50T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1521BSNT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1523BFCT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1611ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1654BD133R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1937B1DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP1937C61DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP2041F3A-208QP",
+  "brand": "ORION",
+  "category": "",
+  "description": "",
+  "pkg": "QFP208",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP2704FCCT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP2811AMTTXG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP2811BMTTXG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP300HSN47T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP301LSN18T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP301LSN27T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP302LSN30T1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP302LSN30T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP303LSN20T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP303LSN26T1G",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP303LSN27T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP303LSN30T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP303LSN45T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP305LSQ33T1G",
+  "brand": "onsemi",
+  "category": "监控电路",
+  "description": "监控电路 3.3V Detector w/Reset Low",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "NCP3065DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3101CMNTXG",
+  "brand": "onsemi",
+  "category": "开关稳压器",
+  "description": "开关稳压器 INTEGRATED SWITCHER",
+  "pkg": "",
+  "lifecycle": "Obsolete"
+ },
+ {
+  "pn": "NCP3163BPWR2G07+1000/",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3334DADJR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3335ADM285R2G",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "MSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3337MN180R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3337MN250R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3337MN330R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3337MN500R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3337MNADJR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3488DR2G2500/",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP367DPMUECTBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP380HMUAJAATBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3985SN28T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP3985SN30T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP43080DMNTWG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4589DSN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4620DSQ18T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4640H020T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4640H030T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4640H033T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4640H080T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4640H120T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4641H080T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4671DSN06T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4671DSN09T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4671DSN10T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4671DSN13T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP4671DSN15T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP500SN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP511SN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP511SN33TIG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP51460SN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP551SN27T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP551SN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP563SQ33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP5662DSADJR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP5663DSADJR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP571MN09TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP571MN10TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP571MN12TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP584HSN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP585DSN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP585HSN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP59302DSADJR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO263",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP606MN15T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP606MN33T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP606MN50T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP606MNADJT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694D08HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694D10HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694D12HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694D25HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694D33HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DADJHT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DSAN08T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DSAN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DSAN25T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DSAN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694DSANADJT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694H08HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694H10HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694H12HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694H25HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694H33HT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694HADJHT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694HSAN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP694HSANADJT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN15T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN18T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN25T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN28T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN30T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN31T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN33T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP699SN50T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP700MN280R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP781BMNADJTAG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP803SN160T1",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP803SN293T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCP81231MNTXG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCS2001SN2T1G",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCS2200SN2T1OSCT",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV1117DT50RKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV1117ST50T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV2931ACDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV33072DR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV33272ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV33274ADR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV3843BVDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4264-2CST33T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4264D50R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4269AD150R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4269AD250R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4269ADW50R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4269APD50R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-EP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4274ADS50R4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4274ADT50RKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4274AST33T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4274CDT33RKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4274ST33T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4276BDTADJRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4276CDSADJR4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV4279A50D2R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV571MN08TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV571MN09TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV571MN10TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV571MN12TBG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV571SN12T1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV70627DQ001R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP-EP-36",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV7321D12R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV7344D10R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV7513BFTR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP-32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV78M15BDTRKG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8402ASTT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8403ASTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8405ASTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8405ASTT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8440ASTT1G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8440ASTT3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8502DADJR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8503PWADJR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8518BPDR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8518BPWR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8537MN180R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8537MN250R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8537MN330R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8537MN500R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8537MNADJR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8605MN18T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8605MN28T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8605MNADJT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8606MN25T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8606MNADJT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV86601BD33R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8664ST50T3G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV8855BMNR2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV887101D1R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV887801D1R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOIC-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV890100MWTXG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NCV890430MW50TXG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "DFN-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "ND3050-LDFT8A4",
+  "brand": "NEDI",
+  "category": "",
+  "description": "",
+  "pkg": "LQFP-1",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NDS0605",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NDS351AN",
+  "brand": "onsemi",
+  "category": "MOSFET",
+  "description": "MOSFET SOT-23 N-CH LOGIC",
+  "pkg": "SOT-23",
+  "lifecycle": "End of Life"
+ },
+ {
+  "pn": "NDT2955",
+  "brand": "FSC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-223",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NDV8602VWATP2-LE",
+  "brand": "NATIONAI",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE3503M04-T2B",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-343",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE5234D/01512",
+  "brand": "NXP",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE5510279A-T1",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE5520379A-T1",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE5532",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555D",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555DR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555DT",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555N",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE555P",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE556",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE556DR",
+  "brand": "TI",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE556DT",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE556N",
+  "brand": "ST",
+  "category": "",
+  "description": "",
+  "pkg": "DIP-14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NE592D14R2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NESG250134-T1-AZ",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NET2272REV1A-LF",
+  "brand": "INTERSIL",
+  "category": "",
+  "description": "",
+  "pkg": "TQFP-64",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NET2282-AB33PC-F",
+  "brand": "PLXTECHN",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NF-6100-400-N-A2",
+  "brand": "NVIDIA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NF2-ULTRA-400-A1",
+  "brand": "NVIDIA",
+  "category": "",
+  "description": "",
+  "pkg": "BGA",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA18SL307V1A45L",
+  "brand": "MURATN",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA21SL207X1A45L",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA21SL207X1A48L",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA41R10C102T1M51-02",
+  "brand": "MURATN",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA62R00C470T1M51-61/T250",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA81R00C221T1M51-61/T256",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA81R00C223T1M51-61/T256",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA81R00C471T1M51-61/T256",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFA81R10C223T1M51-61/T256E256",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM21HC222R1H3D",
+  "brand": "Murata Electronics",
+  "category": "馈通电容器",
+  "description": "馈通电容器 2200 PF  50V  1A",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM39R02C101T1M00-54/T251",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM40R01C101T1M00-54/251",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM40R12C221T1M00-65E251",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM40R12C223T1M00-65/T251E251",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM41R10C222T1M00-54E255",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM41R11C222T1M00-54/T255E255",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NFM51R00P506M00-60/T251",
+  "brand": "MURATA",
+  "category": "",
+  "description": "",
+  "pkg": "SMD",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NG80386SX-16SX204",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NG80386SX-16SX306",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NG80386SX-16SX496",
+  "brand": "INTEL",
+  "category": "",
+  "description": "",
+  "pkg": "PQFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NH29EE512-120-3CF",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NH29EE512-120-4CF",
+  "brand": "SST",
+  "category": "",
+  "description": "",
+  "pkg": "PLCC",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1155UX2-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "EPFFP6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1159PHH-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "HFFP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1309VB2-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1516KC1-TE3",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1523KB2-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1535HD3TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJG1684ME2-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "QFN12",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM#2391DL1-03-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM062M-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM12904M-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SMD8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM13700M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2060V-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2072M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2073M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2125F-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2132V-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TSSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2140R-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2143R-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2171AR-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2172V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2235M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2267D",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2286V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2367TLA2050",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-220",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2370U04-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2370U05-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2370U33-TE2",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2373AU-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2391DL1-03-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2391DL1-03-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2509V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2561BF1-TE2",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2570V-TE2#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2573SE4-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2574RB1-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2575F1-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2576RB1-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2594M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2670D2",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP22",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2711F-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2729E-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2732RB1-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TVSP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2732RB1-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2737V-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2755V-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2769AM-TE2",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2770RB1-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2831F05-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2845DL1-03-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2845DL1-23-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2845DL1-33-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2846DL3-03-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2846DL3-18-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2846DL3-23-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2846DL303TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2855DL1-05-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2856DL3-05-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2860F3-33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2861F33TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2865F3-33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2865F333TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2870F33-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2870F33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2870FS05-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO223-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871AF25-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871AF25-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871AF25TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871BF05-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871BF18TE2PBA781",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2871BF33TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2872F05TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2872F25-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2880U1-25-ATE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2880U21-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2881F18-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2881F28-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2882F05-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM2882F33-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM324",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM324M",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DMP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM3414AM-TE2",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM3772D2",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP22",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4151D",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4556AL",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4558",
+  "brand": "AMS",
+  "category": "",
+  "description": "",
+  "pkg": "SOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4558D",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8DIP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4558L",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4560D",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4562DD",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4565DA",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM4580M-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "DMP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM555D",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM7815FA",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "TO220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78L05UA-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78L07UA-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT263-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78L12UA-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78LR05BU-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78M12DL1A-TE1",
+  "brand": "EPSON",
+  "category": "",
+  "description": "",
+  "pkg": "TO252",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM78M24FA",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM7906FA",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM7912FA",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "TO220F",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM79L05UA-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJM8080G-TE2",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU26901E2-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP-8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU6050F-TE2#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU6060V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU6062PB1-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU6366DF1-TE1",
+  "brand": "NEC",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-6",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU6408BFC1-01A",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7043D",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "DIP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7096R-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "VSOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7096R-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFN8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7118F3-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7201U40-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU72315WLC1-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "WLCSP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7231U30-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-89",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU72342V-TE2",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU72343V-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU72344V-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7250F33-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU72751AV-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7325R-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "VSP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7660M-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOP8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7772F15-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7773F33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7775F33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU7776F33-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SOT23-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU8711V-TE2#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP10",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU8713V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU8752V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP14",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJU8755V-TE1#",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP20",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJVMJD44H11T4G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-252-3",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW0281G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO-3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW0302G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "TO3P",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1104F02-80",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFP80",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1106FC2-80",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "QFP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1112V-TE1",
+  "brand": "NJR CORPORATION",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1163V-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1195AV-TE1",
+  "brand": "NJRC",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP32",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NJW1504V-TE1",
+  "brand": "NJR",
+  "category": "",
+  "description": "",
+  "pkg": "SSOP16",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SGU04P5T5G",
+  "brand": "onsemi",
+  "category": "变换器",
+  "description": "变换器 UNBUFFERED INVERTER",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ00DFT2G",
+  "brand": "onsemi",
+  "category": "逻辑门",
+  "description": "逻辑门 1.65-5.5V Single 2-Input NAND",
+  "pkg": "",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ00XV5T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT553",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ07DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ126DFT2",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT-5",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ14XV5T2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT553",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ16DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL17SZ17DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SOT",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL27WZ00USG",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "US8",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL27WZ04DFT2G",
+  "brand": "ON",
+  "category": "",
+  "description": "",
+  "pkg": "SC-70-6(SOT-363)",
+  "lifecycle": ""
+ },
+ {
+  "pn": "NL27WZ17DFT2G",
+  "brand": "onsemi",
+  "category": "缓冲器和线路驱动器",
+  "description": "缓冲器和线路驱动器 1.65-5.5V Dual Schmitt",
+  "pkg": "",
   "lifecycle": ""
  }
 ]
