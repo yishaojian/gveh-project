@@ -64496,6 +64496,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "0603N390J160CT",
+  "brand": "WALSIN",
+  "category": "贴片电容(MLCC)",
+  "description": "39pF ±5% 16V",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
   "pn": "0805B104K500NT",
   "brand": "FENGHUA",
   "category": "贴片电容(MLCC)",
@@ -201784,6 +201792,14 @@
   "lifecycle": ""
  },
  {
+  "pn": "LTST-C190KGKT",
+  "brand": "LITEON",
+  "category": "单色LED",
+  "description": "0603 普绿/黄绿 贴片LED",
+  "pkg": "0603",
+  "lifecycle": ""
+ },
+ {
   "pn": "LTV-217-A-G",
   "brand": "LITEON",
   "category": "",
@@ -243181,22 +243197,6 @@
   "category": "",
   "description": "",
   "pkg": "US8",
-  "lifecycle": ""
- },
- {
-  "pn": "NL27WZ04DFT2G",
-  "brand": "ON",
-  "category": "",
-  "description": "",
-  "pkg": "SC-70-6(SOT-363)",
-  "lifecycle": ""
- },
- {
-  "pn": "NL27WZ17DFT2G",
-  "brand": "onsemi",
-  "category": "缓冲器和线路驱动器",
-  "description": "缓冲器和线路驱动器 1.65-5.5V Dual Schmitt",
-  "pkg": "",
   "lifecycle": ""
  }
 ]
